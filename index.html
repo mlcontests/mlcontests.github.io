@@ -16,6 +16,7 @@
     <script src="js/dataTables.bootstrap4.min.js"></script>
     <script src="js/moment.min.js"></script>
     <script src="js/datetime-moment.js"></script>
+    <script src="js/dataTables.responsive.min.js"></script>
     <script>
         data = [{
             "name": "2019 Data Science Bowl",
@@ -188,7 +189,13 @@
                 }],
                 paging: false,
                 searching: false,
-                info: false
+                info: false,
+                responsive: {
+                    details: {
+                        type: 'column',
+                        target: 'tr'
+                    }
+                }
             });
         });
     </script>
@@ -204,14 +211,14 @@
 
         <div class="row">
             <div class="col text-center">
-                <table id="contests" class="table table-striped table-bordered" style="width:100%">
+                <table id="contests" class="table table-striped dt-responsive table-bordered nowrap" style="width:100%">
                     <thead>
-                        <th>Title</th>
-                        <th>Type</th>
-                        <th>Deadline</th>
-                        <th>Prize Pool</th>
-                        <th>Platform</th>
-                        <th>Sponsor</th>
+                        <th data-priority="1">Title</th>
+                        <th data-priority="4">Type</th>
+                        <th data-priority="2">Deadline</th>
+                        <th data-priority="3">Prize Pool</th>
+                        <th data-priority="6">Platform</th>
+                        <th data-priority="5">Sponsor</th>
                     </thead>
                 </table>
             </div>

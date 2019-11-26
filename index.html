@@ -15,88 +15,86 @@
     <script src="js/jquery.dataTables.min.js"></script>
     <script src="js/dataTables.bootstrap4.min.js"></script>
     <script>
-        data = [
-            {
-                "name": "2019 Data Science Bowl",
-                "url": "https://www.kaggle.com/c/data-science-bowl-2019",
-                "type": "Supervised Learning",
-                "deadline": "22 Jan 2020",
-                "prize": "$160,000",
-                "platform": "Kaggle",
-                "sponsor": "Booz Allen Hamilton"
-            },
-            {
-                "name": "NFL Big Data Bowl",
-                "url": "https://www.kaggle.com/c/nfl-big-data-bowl-2020",
-                "type": "Supervised Learning",
-                "deadline": "27 Nov 2019",
-                "prize": "$70,000",
-                "platform": "Kaggle",
-                "sponsor": "NFL"
-            },
-            {
-                "name": "TensorFlow 2.0 Question Answering",
-                "url": "https://www.kaggle.com/c/tensorflow2-question-answering",
-                "type": "NLP",
-                "deadline": "22 Jan 2020",
-                "prize": "$50,000",
-                "platform": "Kaggle",
-                "sponsor": "Google"
-            },
-            {
-                "name": "Google QUEST Q&A Labeling",
-                "url": "https://www.kaggle.com/c/google-quest-challenge",
-                "type": "NLP",
-                "deadline": "10 Feb 2020",
-                "prize": "$25,000",
-                "platform": "Kaggle",
-                "sponsor": "Google"
-            },
-            {
-                "name": "Mapping Carribean Disaster Risk",
-                "url": "https://www.drivendata.org/competitions/58/disaster-response-roof-type/",
-                "type": "Supervised Learning",
-                "deadline": "23 Dec 2019",
-                "prize": "$10,000",
-                "platform": "DrivenData",
-                "sponsor": "MathWorks"
-            },
-            {
-                "name": "Identify Wildlife on the Serengeti",
-                "url": "https://www.drivendata.org/competitions/59/camera-trap-serengeti/",
-                "type": "Supervised Learning",
-                "deadline": "22 Jan 2020",
-                "prize": "$20,000",
-                "platform": "DrivenData",
-                "sponsor": "Microsoft"
-            },
-            {
-                "name": "Flatland Challenge",
-                "url": "https://www.aicrowd.com/challenges/flatland-challenge",
-                "type": "Reinforcement Learning",
-                "deadline": "22 Jan 2020",
-                "prize": "$30,000",
-                "platform": "AIcrowd",
-                "sponsor": "Swiss Federal Railways (SBB)"
-            }
-        ]
-        function make_href(url, text) { return '<a href="' + url + '">' + text + '</a>'; }
-        $(document).ready(function () {
+        data = [{
+            "name": "2019 Data Science Bowl",
+            "url": "https://www.kaggle.com/c/data-science-bowl-2019",
+            "type": "Supervised Learning",
+            "deadline": "22 Jan 2020",
+            "prize": "$160,000",
+            "platform": "Kaggle",
+            "sponsor": "Booz Allen Hamilton"
+        }, {
+            "name": "NFL Big Data Bowl",
+            "url": "https://www.kaggle.com/c/nfl-big-data-bowl-2020",
+            "type": "Supervised Learning",
+            "deadline": "27 Nov 2019",
+            "prize": "$70,000",
+            "platform": "Kaggle",
+            "sponsor": "NFL"
+        }, {
+            "name": "TensorFlow 2.0 Question Answering",
+            "url": "https://www.kaggle.com/c/tensorflow2-question-answering",
+            "type": "NLP",
+            "deadline": "22 Jan 2020",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Google"
+        }, {
+            "name": "Google QUEST Q&A Labeling",
+            "url": "https://www.kaggle.com/c/google-quest-challenge",
+            "type": "NLP",
+            "deadline": "10 Feb 2020",
+            "prize": "$25,000",
+            "platform": "Kaggle",
+            "sponsor": "Google"
+        }, {
+            "name": "Mapping Carribean Disaster Risk",
+            "url": "https://www.drivendata.org/competitions/58/disaster-response-roof-type/",
+            "type": "Supervised Learning",
+            "deadline": "23 Dec 2019",
+            "prize": "$10,000",
+            "platform": "DrivenData",
+            "sponsor": "MathWorks"
+        }, {
+            "name": "Identify Wildlife on the Serengeti",
+            "url": "https://www.drivendata.org/competitions/59/camera-trap-serengeti/",
+            "type": "Supervised Learning",
+            "deadline": "22 Jan 2020",
+            "prize": "$20,000",
+            "platform": "DrivenData",
+            "sponsor": "Microsoft"
+        }, {
+            "name": "Flatland Challenge",
+            "url": "https://www.aicrowd.com/challenges/flatland-challenge",
+            "type": "Reinforcement Learning",
+            "deadline": "22 Jan 2020",
+            "prize": "$30,000",
+            "platform": "AIcrowd",
+            "sponsor": "Swiss Federal Railways (SBB)"
+        }]
+
+        function make_href(url, text) {
+            return '<a href="' + url + '">' + text + '</a>';
+        }
+        $(document).ready(function() {
             $('#contests').DataTable({
                 "data": data,
-                columns: [
-                    {
-                        data: 'name',
-                        "render": function (data, type, row, meta) {
-                            return make_href(row.url, data);
-                        }
-                    },
-                    { data: 'type' },
-                    { data: 'deadline' },
-                    { data: 'prize' },
-                    { data: 'platform' },
-                    { data: 'sponsor' }
-                ],
+                columns: [{
+                    data: 'name',
+                    "render": function(data, type, row, meta) {
+                        return make_href(row.url, data);
+                    }
+                }, {
+                    data: 'type'
+                }, {
+                    data: 'deadline'
+                }, {
+                    data: 'prize'
+                }, {
+                    data: 'platform'
+                }, {
+                    data: 'sponsor'
+                }],
                 paging: false,
                 searching: false,
                 info: false
@@ -108,9 +106,8 @@
             <div class="col text-center">
                 <h1>ML Contests</h1>
                 <p>
-                    A list of public machine learning/data science/AI contests.
+                    A list of public machine learning/data science/AI contests. Submit changes on <a href="https://github.com/mlcontests/mlcontests.github.io">GitHub</a>.
                 </p>
-
             </div>
         </div>
     </div>
@@ -128,19 +125,12 @@
 
     <!-- Begin Mailchimp Signup Form -->
     <div id="mc_embed_signup">
-        <form
-            action="https://mlcontests.us4.list-manage.com/subscribe/post?u=1cdf89b1436981ff691aa48a3&amp;id=83a9a1f1a5"
-            method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
-            target="_blank" novalidate>
+        <form action="https://mlcontests.us4.list-manage.com/subscribe/post?u=1cdf89b1436981ff691aa48a3&amp;id=83a9a1f1a5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div id="mc_embed_signup_scroll">
-                <label for="mce-EMAIL">Subscribe to find out when new contests are added!</label>
-                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address"
-                    required>
+                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
                 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
-                        name="b_1cdf89b1436981ff691aa48a3_83a9a1f1a5" tabindex="-1" value=""></div>
-                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe"
-                        class="button"></div>
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1cdf89b1436981ff691aa48a3_83a9a1f1a5" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" value="Subscribe to updates" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
             </div>
         </form>
     </div>

@@ -1,4 +1,4 @@
-# mlcontests.github.io
+# ML Contests
 
 A list of public machine learning/data science/AI contests. 
 

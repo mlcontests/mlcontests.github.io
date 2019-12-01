@@ -166,7 +166,7 @@
             "name": "Santa's Workshop Tour 2019",
             "url": "https://www.kaggle.com/c/santa-workshop-tour-2019",
             "type": "Optimisation",
-            "deadline": "8 Jan 2019",
+            "deadline": "15 Jan 2020",
             "prize": "$25,000",
             "platform": "Kaggle",
             "sponsor": "Kaggle"
@@ -177,7 +177,7 @@
         }
         $(document).ready(function() {
             $.fn.dataTable.moment('D MMM YYYY')
-            $('#contests').DataTable({
+            x = $('#contests').DataTable({
                 "data": data,
                 columns: [{
                     data: 'name',
@@ -203,7 +203,11 @@
                         type: 'column',
                         target: 'tr'
                     }
-                }
+                },
+                "order": [
+                    [2, "asc"],
+                    [3, "desc"]
+                ]
             });
         });
     </script>

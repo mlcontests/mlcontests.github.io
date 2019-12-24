@@ -4,3 +4,43 @@
     font: 14px Helvetica, Arial, sans-serif;
     width: 100%;
 }
+
+
+/*** TDS 23-12-2019 ***/
+/**table.dataTable.nowrap th, table.dataTable.nowrap td{white-space: normal !important;}**/
+table th{min-width: 80px;}
+
+ul.dtr-details li{display: block;border: 1px solid #ccc;padding:0;margin-top: -1px;}
+.dtr-details .dtr-title{font-weight: 700; border-right: 1px solid #ccc;}
+ul.dtr-details li span{display: inline-block; width:49%;padding: 4px 2px 8px;}
+
+@media only screen and (max-width: 1490px){
+table tr td{ position: relative; }
+table tr td:first-child::after{position: absolute; right: 5px; top: 19px; content: ""; height: 8px; width: 8px; border-right: 2px solid #666;border-top: 2px solid #666; -webkit-transform: rotate(133deg); transform: rotate(133deg);}
+td.child:first-child::after{ display: none; }
+}
+
+@media only screen and (max-width: 910px){
+table td:first-child{white-space: normal !important;}
+ul.dtr-details li span{ font-size: 15px;}
+}
+
+@media only screen and (max-width: 767px){
+table.dataTable.nowrap th, table.dataTable.nowrap td{white-space: normal !important;}
+table td{ display: block !important; }
+table tr td:first-child::after{ display: none; }
+.child{display: none !important;}
+h1{font-size:28px;}
+table, thead, tbody, th, td, tr {
+display: block;}
+thead tr{position: absolute;top: -9999px;left: -9999px;}
+td{border: none;border-bottom: 1px solid #eee;position: relative;}
+.table td{padding-left: 37%; text-align: left;}
+td:before {position: absolute;top: 12px;left: 10px;width: 45%;padding-right: 10px;text-align: left;font-weight: 700;font-size: 16px;}
+td:nth-of-type(1):before { content: "Title :"; }
+td:nth-of-type(2):before { content: "Type :"; }
+td:nth-of-type(3):before { content: "Deadline :"; }
+td:nth-of-type(4):before { content: "Prize Pool :"; }
+td:nth-of-type(5):before { content: "Platform :"; }
+td:nth-of-type(6):before { content: "Sponsor :"; }
+}

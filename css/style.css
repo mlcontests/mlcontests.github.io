@@ -8,6 +8,16 @@ a:visited {
     color: #4487bb;
 }
 
+.main-container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.dataTables_wrapper .col-sm-12 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
 
 /*** TDS 23-12-2019 ***/
 

@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>ML Contests - Machine Learning/Data Science/AI Competitions</title>
+    <title>ML Contests - Machine Learning Competitions, Data Science Challenges, and other coding contests. </title>
     <meta name="description" content="A list of ongoing Data Science/AI/Machine Learning Competitions across Kaggle, DrivenData, AICrowd, Zindi, Codalab and other platforms. ">
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
     <link rel="stylesheet" href="css/dataTables.bootstrap4.min.css" type="text/css">
@@ -201,13 +201,15 @@
             });
         });
     </script>
+    <nav class="navbar fixed-top navbar-dark justify-content-center" style="background-color: #4487bb;">
+        <nav class="navbar-brand" style="color:white">ML Contests</nav>
+    </nav>
     <div class="container-fluid">
-        <div class="col-md-12 text-center" style="padding-top:20px;">
-            <h1>Machine Learning Contests</h1>
-            <p>
+        <div class="col-md-12" style="padding-top:20px;">
+            <p class="text-justify">
                 Discover ongoing machine learning competitions/data science contests across Kaggle, DrivenData, AICrowd, and other platforms.
             </p>
-            <table id="contests" class="table dt-responsive nowrap" style="width:100%">
+            <table id="contests" class="table dt-responsive table-hover nowrap" style="width:100%">
                 <thead class="thead-light">
                     <th class="Title" data-priority="1">Title</th>
                     <th class="Type" data-priority="5">Type</th>
@@ -217,25 +219,32 @@
                     <th class="Sponsor" data-priority="6">Sponsor</th>
                 </thead>
             </table>
-            <p>Submit changes or requests on <a href="https://github.com/mlcontests/mlcontests.github.io">GitHub</a></p>
+            <p></p>
             <p style="font-style: italic;">
                 Use code <a href="https://paperspace.io/&R=ZKGRZB5">ZKGRZB5</a> to get $10 free credit at <a href="https://paperspace.io/&R=ZKGRZB5">Paperspace</a>, and easily deploy your training scripts to their cheap cloud GPUs.
             </p>
 
+
+        </div>
+    </div>
+
+    <nav class="navbar fixed-bottom navbar-dark" style="background-color: #4487bb;">
+        <nav style="color:white; font-style: italic;">Submit changes or requests on <a href="https://github.com/mlcontests/mlcontests.github.io" style="color:white; font-weight:bold;">GitHub</a>.</nav>
+        <nav>
             <!-- Begin Mailchimp Signup Form -->
             <div id="mc_embed_signup">
-                <form action="https://mlcontests.us4.list-manage.com/subscribe/post?u=1cdf89b1436981ff691aa48a3&amp;id=83a9a1f1a5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <form action="https://mlcontests.us4.list-manage.com/subscribe/post?u=1cdf89b1436981ff691aa48a3&amp;id=83a9a1f1a5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
                     <div id="mc_embed_signup_scroll">
-                        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                        <input type="email" value="" name="EMAIL" class="form-control mr-sm-2" placeholder="Email address" id="mce-EMAIL" required>
                         <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                         <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1cdf89b1436981ff691aa48a3_83a9a1f1a5" tabindex="-1" value=""></div>
-                        <div class="clear"><input type="submit" value="Subscribe to updates" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                        <div class="clear"><input type="submit" value="Subscribe to updates" name="subscribe" id="mc-embedded-subscribe" class="btn btn-light"></div>
                     </div>
                 </form>
             </div>
             <!--End mc_embed_signup-->
-        </div>
-    </div>
+        </nav>
+    </nav>
 
 </body>
 

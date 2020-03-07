@@ -257,6 +257,18 @@
                     [3, "desc"]
                 ]
             });
+            // Create cards
+
+            data.forEach(elt => {
+                console.log(elt);
+
+                let card = document.createElement("div");
+                card.className = 'card text-center mt-4';
+                let header = document.createElement('div');
+                header.innerHTML = elt.name;
+                card.appendChild(header);
+                document.getElementById('contests-cards').appendChild(card);
+            });
         });
     </script>
     <nav class="navbar sticky-top navbar-dark" style="background-color: transparent;">

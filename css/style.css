@@ -100,3 +100,19 @@ ul.dtr-details li span {
         display: block;
     }
 }
+
+
+/** Card Styling **/
+
+.card {
+    border-color: #e8e8e8;
+}
+
+.card .card-header,
+.card .card-footer {
+    border: none;
+}
+
+.card .card-header {
+    background: none;
+}

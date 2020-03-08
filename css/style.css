@@ -26,6 +26,10 @@ a:visited {
     border-bottom: 1px solid #dee2e6;
 }
 
+.cards {
+    display: none;
+}
+
 
 /*** TDS 23-12-2019 ***/
 
@@ -89,66 +93,26 @@ ul.dtr-details li span {
     table.dataTable.nowrap td {
         white-space: normal !important;
     }
-    table td {
-        display: block !important;
-    }
-    table tr td:first-child::after {
-        display: none;
-    }
-    .child {
+    table {
         display: none !important;
     }
-    h1 {
-        font-size: 28px;
-    }
-    table,
-    thead,
-    tbody,
-    th,
-    td,
-    tr {
+    .cards {
         display: block;
     }
-    thead tr {
-        position: absolute;
-        top: -9999px;
-        left: -9999px;
-    }
-    td {
-        border: none;
-        border-bottom: None;
-        position: relative;
-    }
-    .table td {
-        padding-left: 37%;
-        text-align: left;
-    }
-    td:before {
-        position: absolute;
-        top: 12px;
-        left: 10px;
-        width: 45%;
-        padding-right: 10px;
-        text-align: left;
-        font-weight: 700;
-        font-size: 16px;
-    }
-    td:nth-of-type(1):before {
-        content: "Title :";
-    }
-    td:nth-of-type(2):before {
-        content: "Type :";
-    }
-    td:nth-of-type(3):before {
-        content: "Deadline :";
-    }
-    td:nth-of-type(4):before {
-        content: "Prize Pool :";
-    }
-    td:nth-of-type(5):before {
-        content: "Platform :";
-    }
-    td:nth-of-type(6):before {
-        content: "Sponsor :";
-    }
+}
+
+
+/** Card Styling **/
+
+.card {
+    border-color: #e8e8e8;
+}
+
+.card .card-header,
+.card .card-footer {
+    border: none;
+}
+
+.card .card-header {
+    background: none;
 }

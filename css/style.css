@@ -30,11 +30,13 @@ a:visited {
     display: none;
 }
 
+.landing-text {
+    margin: 9em auto 5em;
+    background-color: transparent;
+}
+
 
 /*** TDS 23-12-2019 ***/
-
-
-/**table.dataTable.nowrap th, table.dataTable.nowrap td{white-space: normal !important;}**/
 
 table th {
     min-width: 80px;
@@ -98,6 +100,10 @@ ul.dtr-details li span {
     }
     .cards {
         display: block;
+    }
+    .landing-text {
+        margin: 3em auto 4em;
+        background-color: transparent;
     }
 }
 

@@ -320,6 +320,14 @@
     "prize": "$3,150",
     "platform": "TopCoder",
     "sponsor": "TopCoder"
+}, {
+    "name": "Identify Hateful Memes",
+    "url": "https://www.drivendata.org/competitions/64/hateful-memes/",
+    "type": "📈 Time Series Forecasting",
+    "deadline": "31 Oct 2020",
+    "prize": "$100,000",
+    "platform": "DrivenData",
+    "sponsor": "Facebook"
 }
 ]
 

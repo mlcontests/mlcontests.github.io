@@ -297,14 +297,6 @@
     "platform": "AIcrowd",
     "sponsor": "Seerave Foundation"
 }, {
-    "name": "Snake Species Identification Challenge",
-    "url": "https://www.aicrowd.com/challenges/snake-species-identification-challenge",
-    "type": "✅ Supervised Learning",
-    "deadline": "6 Jul 2020",
-    "prize": "Travel Grant + Co-Authorship",
-    "platform": "AIcrowd",
-    "sponsor": "Institute of Global Health"
-}, {
     "name": "Global Wheat Detection",
     "url": "https://www.kaggle.com/c/global-wheat-detection",
     "type": "📷 Computer Vision",

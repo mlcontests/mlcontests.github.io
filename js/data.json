@@ -320,6 +320,30 @@
     "prize": "$100,000",
     "platform": "DrivenData",
     "sponsor": "Facebook"
+}, {
+    "name": "Mobility-on-Demand: Dispatching and Repositioning",
+    "url": "https://biendata.com/competition/kdd_didi/",
+    "type": "🤖 Reinforcement Learning",
+    "deadline": "17 Jul 2020",
+    "prize": "$30,000",
+    "platform": "BienData",
+    "sponsor": "KDD/Didi"
+}, {
+    "name": "KDD Cup 2020 - Adversarial Graph Learning",
+    "url": "https://biendata.com/competition/kddcup_2020/",
+    "type": "☋ Graph Learning",
+    "deadline": "1 Jul 2020",
+    "prize": "$20,000",
+    "platform": "BienData",
+    "sponsor": "KDD"
+}, {
+    "name": "GigaVision: Pedestrian/Vehicle Detection",
+    "url": "https://biendata.com/competition/gigavision/",
+    "type": "📷 Computer Vision",
+    "deadline": "1 Jul 2020",
+    "prize": "$10,000",
+    "platform": "BienData",
+    "sponsor": "KDD"
 }
 ]
 

@@ -376,6 +376,14 @@
     "prize": "$3,000",
     "platform": "KnowledgePit",
     "sponsor": "EMCA/PTI"
+}, {
+    "name": "Identify Stalled Blood Vessels for Alzheimer's Research",
+    "url": "https://www.drivendata.org/competitions/65/clog-loss-alzheimers-research/",
+    "type": "📷 Computer Vision",
+    "deadline": "3 Aug 2020",
+    "prize": "$10,000",
+    "platform": "DrivenData",
+    "sponsor": "MathWorks"
 }
 ]
 

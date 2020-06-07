@@ -315,7 +315,7 @@
      }, {
          "name": "Identify Hateful Memes",
          "url": "https://www.drivendata.org/competitions/64/hateful-memes/",
-         "type": "📈 Time Series Forecasting",
+         "type": "✅ Supervised Learning",
          "deadline": "31 Oct 2020",
          "prize": "$100,000",
          "platform": "DrivenData",

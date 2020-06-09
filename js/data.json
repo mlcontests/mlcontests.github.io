@@ -433,13 +433,21 @@
          "platform": "CodaLab",
          "sponsor": "Chalearn/Nvidia/Facebook/Baidu"
      }, {
-         "name": "Image-to-3D Garment and Texture Reconstruction (NeurIPS)",
-         "url": "https://competitions.codalab.org/competitions/24769",
-         "type": "✅ Supervised Learning",
-         "deadline": "3 Oct 2020",
-         "prize": "$1,500",
-         "platform": "CodaLab",
-         "sponsor": "Chalearn/Nvidia/Facebook/Baidu"
-     }]
+        "name": "Image-to-3D Garment and Texture Reconstruction (NeurIPS)",
+        "url": "https://competitions.codalab.org/competitions/24769",
+        "type": "✅ Supervised Learning",
+        "deadline": "3 Oct 2020",
+        "prize": "$1,500",
+        "platform": "CodaLab",
+        "sponsor": "Chalearn/Nvidia/Facebook/Baidu"
+    }, {
+        "name": "Traffic Map Movie Forecasting 2020 (NeurIPS)",
+        "url": "https://www.iarai.ac.at/traffic4cast/",
+        "type": "📈 Time Series Forecasting",
+        "deadline": "15 Oct 2020",
+        "prize": "$17,000",
+        "platform": "IARAI",
+        "sponsor": "IARAI"
+    }]
 
  }

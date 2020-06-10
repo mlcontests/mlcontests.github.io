@@ -481,13 +481,45 @@
         "platform": "IEEE",
         "sponsor": "IEEE"
     }, {
-        "name": "ColorShapeLinks AI competition        ",
+        "name": "ColorShapeLinks AI competition",
         "url": "https://videojogoslusofona.github.io/color-shape-links-ai-competition/",
         "type": "🤖 Reinforcement Learning",
         "deadline": "14 Aug 2020",
         "prize": "$500",
         "platform": "IEEE",
         "sponsor": "IEEE"
+    }, {
+        "name": "Visual Localisation and Mapping (CVPR)",
+        "url": "https://www.aicrowd.com/challenges/tartanair-visual-slam-mono-track",
+        "type": "📷 Computer Vision",
+        "deadline": "15 Aug 2020",
+        "prize": "$2,500",
+        "platform": "AIcrowd",
+        "sponsor": "IEEE"
+    }, {
+        "name": "Head and Neck Tumor Segmentation (MICCAI)",
+        "url": "https://www.aicrowd.com/challenges/miccai-2020-hecktor",
+        "type": "📷 Computer Vision",
+        "deadline": "10 Sep 2020",
+        "prize": "$500",
+        "platform": "AIcrowd",
+        "sponsor": "MICCAI"
+    }, {
+        "name": "Autonomous Vehicles Challenge (ECCV)",
+        "url": "https://www.aicrowd.com/challenges/eccv-2020-commands-4-autonomous-vehicles",
+        "type": "📷 Computer Vision",
+        "deadline": "1 Aug 2020",
+        "prize": "$2,250",  
+        "platform": "AIcrowd",
+        "sponsor": "KU Leuven"
+    }, {
+        "name": "Aircraft Localisation",
+        "url": "https://www.aicrowd.com/challenges/cyd-campus-aircraft-localization-competition",
+        "type": "✅ Supervised Learning",
+        "deadline": "15 Sep 2020",
+        "prize": "$30,000",
+        "platform": "AIcrowd",
+        "sponsor": "CYC/OpenSky"
     }]
 
  }

@@ -448,6 +448,46 @@
         "prize": "$17,000",
         "platform": "IARAI",
         "sponsor": "IARAI"
+    }, {
+        "name": "Hearthstone AI Competition",
+        "url": "https://www.iarai.ac.at/traffic4cast/",
+        "type": "🤖 Reinforcement Learning",
+        "deadline": "1 Jul 2020",
+        "prize": "$1,000",
+        "platform": "IEEE",
+        "sponsor": "IEEE"
+    }, {
+        "name": "microRTS AI Competition",
+        "url": "https://sites.google.com/site/micrortsaicompetition/home",
+        "type": "🤖 Reinforcement Learning",
+        "deadline": "1 Jul 2020",
+        "prize": "$1,000",
+        "platform": "IEEE",
+        "sponsor": "IEEE"
+    }, {
+        "name": "StarCraft AI Competition",
+        "url": "https://cilab.gist.ac.kr/sc_competition/",
+        "type": "🤖 Reinforcement Learning",
+        "deadline": "31 Jul 2020",
+        "prize": "$500",
+        "platform": "IEEE",
+        "sponsor": "IEEE"
+    }, {
+        "name": "Bot Bowl II",
+        "url": "https://njustesen.github.io/ffai/bot-bowl-ii",
+        "type": "🤖 Reinforcement Learning",
+        "deadline": "1 Aug 2020",
+        "prize": "$1,000",
+        "platform": "IEEE",
+        "sponsor": "IEEE"
+    }, {
+        "name": "ColorShapeLinks AI competition        ",
+        "url": "https://videojogoslusofona.github.io/color-shape-links-ai-competition/",
+        "type": "🤖 Reinforcement Learning",
+        "deadline": "14 Aug 2020",
+        "prize": "$500",
+        "platform": "IEEE",
+        "sponsor": "IEEE"
     }]
 
  }

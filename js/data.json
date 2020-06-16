@@ -520,6 +520,46 @@
         "prize": "$30,000",
         "platform": "AIcrowd",
         "sponsor": "CYC/OpenSky"
+    }, {
+        "name": "Graph Neural Networking Challenge 2020",
+        "url": "https://bnn.upc.edu/challenge2020",
+        "type": "☋ Graph Learning",
+        "deadline": "10 Sep 2020",
+        "prize": "$0",
+        "platform": "BNN",
+        "sponsor": "ITU/Cisco"
+    }, {
+        "name": "Halite 4",
+        "url": "https://www.kaggle.com/c/halite",
+        "type": "🤖 Reinforcement Learning",
+        "deadline": "16 Sep 2020",
+        "prize": "$0",
+        "platform": "Kaggle",
+        "sponsor": "Two Sigma"
+    }, {
+        "name": "MineRL (NeurIPS)",
+        "url": "https://www.aicrowd.com/challenges/neurips-2020-minerl-competition",
+        "type": "🤖 Reinforcement Learning",
+        "deadline": "16 Sep 2020",
+        "prize": "$0",
+        "platform": "AIcrowd",
+        "sponsor": "OpenAI/DeepMind/Microsoft/CMU/Preferred Networks"
+    }, {
+        "name": "Flatland - MARL on Trains (NeurIPS)",
+        "url": "https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge",
+        "type": "🤖 Reinforcement Learning",
+        "deadline": "16 Sep 2020",
+        "prize": "$0",
+        "platform": "AIcrowd",
+        "sponsor": "SBB/DB"
+    }, {
+        "name": "Procgen - RL in Procedurally Generated Environments (NeurIPS)",
+        "url": "https://www.aicrowd.com/challenges/neurips-2020-procgen-competition",
+        "type": "🤖 Reinforcement Learning",
+        "deadline": "19 Oct 2020",
+        "prize": "$0",
+        "platform": "AIcrowd",
+        "sponsor": "OpenAI"
     }]
 
  }

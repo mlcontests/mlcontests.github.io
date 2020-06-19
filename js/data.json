@@ -560,6 +560,14 @@
         "prize": "$0",
         "platform": "AIcrowd",
         "sponsor": "OpenAI"
+    }, {
+        "name": "Cornell Birdcall Identification",
+        "url": "https://www.kaggle.com/c/birdsong-recognition",
+        "type": "🔊 Audio",
+        "deadline": "15 Sep 2020",
+        "prize": "$25,000",
+        "platform": "Kaggle",
+        "sponsor": "Cornell"
     }]
 
  }

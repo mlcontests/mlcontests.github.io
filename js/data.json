@@ -1,5 +1,13 @@
  {
      "data": [{
+         "name": "MadeWithML Data Science Incubator",
+         "url": "https://madewithml.com/programs/ds-incubator-summer-2020/",
+         "type": "🎓 Various",
+         "deadline": "15 Aug 2020",
+         "prize": "$0",
+         "platform": "madewithml",
+         "sponsor": "Made with ML, Hugging Face, W&B"
+     },{
          "name": "Auto-tag Gala Images",
          "url": "https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-auto-tag-images-gala/",
          "type": "📷 Image Tagging",

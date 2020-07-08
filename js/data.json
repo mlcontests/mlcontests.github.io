@@ -7,7 +7,7 @@
          "prize": "$0",
          "platform": "madewithml",
          "sponsor": "Made with ML, Hugging Face, W&B"
-     },{
+     }, {
          "name": "Auto-tag Gala Images",
          "url": "https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-auto-tag-images-gala/",
          "type": "📷 Image Tagging",
@@ -441,141 +441,157 @@
          "platform": "CodaLab",
          "sponsor": "Chalearn/Nvidia/Facebook/Baidu"
      }, {
-        "name": "Image-to-3D Garment and Texture Reconstruction (NeurIPS)",
-        "url": "https://competitions.codalab.org/competitions/24769",
-        "type": "✅ Supervised Learning",
-        "deadline": "3 Oct 2020",
-        "prize": "$1,500",
-        "platform": "CodaLab",
-        "sponsor": "Chalearn/Nvidia/Facebook/Baidu"
-    }, {
-        "name": "Traffic Map Movie Forecasting 2020 (NeurIPS)",
-        "url": "https://www.iarai.ac.at/traffic4cast/",
-        "type": "📈 Time Series Forecasting",
-        "deadline": "15 Oct 2020",
-        "prize": "$17,000",
-        "platform": "IARAI",
-        "sponsor": "IARAI"
-    }, {
-        "name": "Hearthstone AI Competition",
-        "url": "https://www.iarai.ac.at/traffic4cast/",
-        "type": "🤖 Reinforcement Learning",
-        "deadline": "1 Jul 2020",
-        "prize": "$1,000",
-        "platform": "IEEE",
-        "sponsor": "IEEE"
-    }, {
-        "name": "microRTS AI Competition",
-        "url": "https://sites.google.com/site/micrortsaicompetition/home",
-        "type": "🤖 Reinforcement Learning",
-        "deadline": "1 Jul 2020",
-        "prize": "$1,000",
-        "platform": "IEEE",
-        "sponsor": "IEEE"
-    }, {
-        "name": "StarCraft AI Competition",
-        "url": "https://cilab.gist.ac.kr/sc_competition/",
-        "type": "🤖 Reinforcement Learning",
-        "deadline": "31 Jul 2020",
-        "prize": "$500",
-        "platform": "IEEE",
-        "sponsor": "IEEE"
-    }, {
-        "name": "Bot Bowl II",
-        "url": "https://njustesen.github.io/ffai/bot-bowl-ii",
-        "type": "🤖 Reinforcement Learning",
-        "deadline": "1 Aug 2020",
-        "prize": "$1,000",
-        "platform": "IEEE",
-        "sponsor": "IEEE"
-    }, {
-        "name": "ColorShapeLinks AI competition",
-        "url": "https://videojogoslusofona.github.io/color-shape-links-ai-competition/",
-        "type": "🤖 Reinforcement Learning",
-        "deadline": "14 Aug 2020",
-        "prize": "$500",
-        "platform": "IEEE",
-        "sponsor": "IEEE"
-    }, {
-        "name": "Visual Localisation and Mapping (CVPR)",
-        "url": "https://www.aicrowd.com/challenges/tartanair-visual-slam-mono-track",
-        "type": "📷 Computer Vision",
-        "deadline": "15 Aug 2020",
-        "prize": "$2,500",
-        "platform": "AIcrowd",
-        "sponsor": "IEEE"
-    }, {
-        "name": "Head and Neck Tumor Segmentation (MICCAI)",
-        "url": "https://www.aicrowd.com/challenges/miccai-2020-hecktor",
-        "type": "📷 Computer Vision",
-        "deadline": "10 Sep 2020",
-        "prize": "$500",
-        "platform": "AIcrowd",
-        "sponsor": "MICCAI"
-    }, {
-        "name": "Autonomous Vehicles Challenge (ECCV)",
-        "url": "https://www.aicrowd.com/challenges/eccv-2020-commands-4-autonomous-vehicles",
-        "type": "📷 Computer Vision",
-        "deadline": "1 Aug 2020",
-        "prize": "$2,250",  
-        "platform": "AIcrowd",
-        "sponsor": "KU Leuven"
-    }, {
-        "name": "Aircraft Localisation",
-        "url": "https://www.aicrowd.com/challenges/cyd-campus-aircraft-localization-competition",
-        "type": "✅ Supervised Learning",
-        "deadline": "15 Sep 2020",
-        "prize": "$30,000",
-        "platform": "AIcrowd",
-        "sponsor": "CYC/OpenSky"
-    }, {
-        "name": "Graph Neural Networking Challenge 2020",
-        "url": "https://bnn.upc.edu/challenge2020",
-        "type": "☋ Graph Learning",
-        "deadline": "10 Sep 2020",
-        "prize": "$0",
-        "platform": "BNN",
-        "sponsor": "ITU/Cisco"
-    }, {
-        "name": "Halite 4",
-        "url": "https://www.kaggle.com/c/halite",
-        "type": "🤖 Reinforcement Learning",
-        "deadline": "16 Sep 2020",
-        "prize": "$0",
-        "platform": "Kaggle",
-        "sponsor": "Two Sigma"
-    }, {
-        "name": "MineRL (NeurIPS)",
-        "url": "https://www.aicrowd.com/challenges/neurips-2020-minerl-competition",
-        "type": "🤖 Reinforcement Learning",
-        "deadline": "16 Sep 2020",
-        "prize": "$0",
-        "platform": "AIcrowd",
-        "sponsor": "OpenAI/DeepMind/Microsoft/CMU/Preferred Networks"
-    }, {
-        "name": "Flatland - MARL on Trains (NeurIPS)",
-        "url": "https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge",
-        "type": "🤖 Reinforcement Learning",
-        "deadline": "16 Sep 2020",
-        "prize": "$0",
-        "platform": "AIcrowd",
-        "sponsor": "SBB/DB"
-    }, {
-        "name": "Procgen - RL in Procedurally Generated Environments (NeurIPS)",
-        "url": "https://www.aicrowd.com/challenges/neurips-2020-procgen-competition",
-        "type": "🤖 Reinforcement Learning",
-        "deadline": "19 Oct 2020",
-        "prize": "$0",
-        "platform": "AIcrowd",
-        "sponsor": "OpenAI"
-    }, {
-        "name": "Cornell Birdcall Identification",
-        "url": "https://www.kaggle.com/c/birdsong-recognition",
-        "type": "🔊 Audio",
-        "deadline": "15 Sep 2020",
-        "prize": "$25,000",
-        "platform": "Kaggle",
-        "sponsor": "Cornell"
-    }]
+         "name": "Image-to-3D Garment and Texture Reconstruction (NeurIPS)",
+         "url": "https://competitions.codalab.org/competitions/24769",
+         "type": "✅ Supervised Learning",
+         "deadline": "3 Oct 2020",
+         "prize": "$1,500",
+         "platform": "CodaLab",
+         "sponsor": "Chalearn/Nvidia/Facebook/Baidu"
+     }, {
+         "name": "Traffic Map Movie Forecasting 2020 (NeurIPS)",
+         "url": "https://www.iarai.ac.at/traffic4cast/",
+         "type": "📈 Time Series Forecasting",
+         "deadline": "15 Oct 2020",
+         "prize": "$17,000",
+         "platform": "IARAI",
+         "sponsor": "IARAI"
+     }, {
+         "name": "Hearthstone AI Competition",
+         "url": "https://www.iarai.ac.at/traffic4cast/",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "1 Jul 2020",
+         "prize": "$1,000",
+         "platform": "IEEE",
+         "sponsor": "IEEE"
+     }, {
+         "name": "microRTS AI Competition",
+         "url": "https://sites.google.com/site/micrortsaicompetition/home",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "1 Jul 2020",
+         "prize": "$1,000",
+         "platform": "IEEE",
+         "sponsor": "IEEE"
+     }, {
+         "name": "StarCraft AI Competition",
+         "url": "https://cilab.gist.ac.kr/sc_competition/",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "31 Jul 2020",
+         "prize": "$500",
+         "platform": "IEEE",
+         "sponsor": "IEEE"
+     }, {
+         "name": "Bot Bowl II",
+         "url": "https://njustesen.github.io/ffai/bot-bowl-ii",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "1 Aug 2020",
+         "prize": "$1,000",
+         "platform": "IEEE",
+         "sponsor": "IEEE"
+     }, {
+         "name": "ColorShapeLinks AI competition",
+         "url": "https://videojogoslusofona.github.io/color-shape-links-ai-competition/",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "14 Aug 2020",
+         "prize": "$500",
+         "platform": "IEEE",
+         "sponsor": "IEEE"
+     }, {
+         "name": "Visual Localisation and Mapping (CVPR)",
+         "url": "https://www.aicrowd.com/challenges/tartanair-visual-slam-mono-track",
+         "type": "📷 Computer Vision",
+         "deadline": "15 Aug 2020",
+         "prize": "$2,500",
+         "platform": "AIcrowd",
+         "sponsor": "IEEE"
+     }, {
+         "name": "Head and Neck Tumor Segmentation (MICCAI)",
+         "url": "https://www.aicrowd.com/challenges/miccai-2020-hecktor",
+         "type": "📷 Computer Vision",
+         "deadline": "10 Sep 2020",
+         "prize": "$500",
+         "platform": "AIcrowd",
+         "sponsor": "MICCAI"
+     }, {
+         "name": "Autonomous Vehicles Challenge (ECCV)",
+         "url": "https://www.aicrowd.com/challenges/eccv-2020-commands-4-autonomous-vehicles",
+         "type": "📷 Computer Vision",
+         "deadline": "1 Aug 2020",
+         "prize": "$2,250",
+         "platform": "AIcrowd",
+         "sponsor": "KU Leuven"
+     }, {
+         "name": "Aircraft Localisation",
+         "url": "https://www.aicrowd.com/challenges/cyd-campus-aircraft-localization-competition",
+         "type": "✅ Supervised Learning",
+         "deadline": "15 Sep 2020",
+         "prize": "$30,000",
+         "platform": "AIcrowd",
+         "sponsor": "CYC/OpenSky"
+     }, {
+         "name": "Graph Neural Networking Challenge 2020",
+         "url": "https://bnn.upc.edu/challenge2020",
+         "type": "☋ Graph Learning",
+         "deadline": "10 Sep 2020",
+         "prize": "$0",
+         "platform": "BNN",
+         "sponsor": "ITU/Cisco"
+     }, {
+         "name": "Halite 4",
+         "url": "https://www.kaggle.com/c/halite",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "16 Sep 2020",
+         "prize": "$0",
+         "platform": "Kaggle",
+         "sponsor": "Two Sigma"
+     }, {
+         "name": "MineRL (NeurIPS)",
+         "url": "https://www.aicrowd.com/challenges/neurips-2020-minerl-competition",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "16 Sep 2020",
+         "prize": "$0",
+         "platform": "AIcrowd",
+         "sponsor": "OpenAI/DeepMind/Microsoft/CMU/Preferred Networks"
+     }, {
+         "name": "Flatland - MARL on Trains (NeurIPS)",
+         "url": "https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "16 Sep 2020",
+         "prize": "$0",
+         "platform": "AIcrowd",
+         "sponsor": "SBB/DB"
+     }, {
+         "name": "Procgen - RL in Procedurally Generated Environments (NeurIPS)",
+         "url": "https://www.aicrowd.com/challenges/neurips-2020-procgen-competition",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "19 Oct 2020",
+         "prize": "$0",
+         "platform": "AIcrowd",
+         "sponsor": "OpenAI"
+     }, {
+         "name": "Cornell Birdcall Identification",
+         "url": "https://www.kaggle.com/c/birdsong-recognition",
+         "type": "🔊 Audio",
+         "deadline": "15 Sep 2020",
+         "prize": "$25,000",
+         "platform": "Kaggle",
+         "sponsor": "Cornell"
+     }, {
+         "name": "Predict Lung Function Decline",
+         "url": "https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression",
+         "type": "📷 Computer Vision",
+         "deadline": "6 Oct 2020",
+         "prize": "$55,000",
+         "platform": "Kaggle",
+         "sponsor": "OSIC"
+     }, {
+         "name": "Google Landmark Retrieval 2020",
+         "url": "https://www.kaggle.com/c/landmark-retrieval-2020/",
+         "type": "📷 Computer Vision",
+         "deadline": "17 Aug 2020",
+         "prize": "$25,000",
+         "platform": "Kaggle",
+         "sponsor": "Google"
+     }]
 
  }

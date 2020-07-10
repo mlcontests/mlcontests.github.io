@@ -592,6 +592,14 @@
          "prize": "$25,000",
          "platform": "Kaggle",
          "sponsor": "Google"
+     }, {
+         "name": "Insurance Product Recommendation",
+         "url": "https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge",
+         "type": "✅ Supervised Learning",
+         "deadline": "14 Sep 2020",
+         "prize": "$5,000",
+         "platform": "Zindi",
+         "sponsor": "Zimnat"
      }]
 
  }

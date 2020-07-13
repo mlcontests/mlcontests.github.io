@@ -16,6 +16,14 @@
          "platform": "HackerEarth",
          "sponsor": "HackerEarth"
      }, {
+        "name": "AIcrowd Blitz #2",
+        "url": "https://www.aicrowd.com/challenges/aicrowd-blitz-2",
+        "type": "✅ Supervised Learning",
+        "deadline": "25 May 2020",
+        "prize": "$185",
+        "platform": "AIcrowd",
+        "sponsor": "N/A (Educational)"
+    },  {
          "name": "Detect emotions of your favorite toons",
          "url": "https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-emotion-detection-tom-jerry-cartoon/",
          "type": "📷 Image Classification",

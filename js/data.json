@@ -624,6 +624,22 @@
          "prize": "$5,000",
          "platform": "Zindi",
          "sponsor": "Zimnat"
+     }, {
+         "name": "Identify Sources of Genetically Engineered DNA",
+         "url": "https://www.drivendata.org/competitions/63/genetic-engineering-attribution/",
+         "type": "✅ Supervised Learning",
+         "deadline": "14 Sep 2020",
+         "prize": "$60,000",
+         "platform": "DrivenData",
+         "sponsor": "altLabs"
+     }, {
+         "name": "Find the Best Black Box Optimiser for ML",
+         "url": "https://bbochallenge.com//",
+         "type": "📉 Optimisation",
+         "deadline": "15 Oct 2020",
+         "prize": "$10,000",
+         "platform": "blackbox",
+         "sponsor": "Various"
      }]
 
  }

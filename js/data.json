@@ -633,8 +633,16 @@
          "platform": "DrivenData",
          "sponsor": "altLabs"
      }, {
+         "name": "Learn to Run a Power Network (NeurIPS)",
+         "url": "https://l2rpn.chalearn.org/competitions/",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "30 Oct 2020",
+         "prize": "$15,000",
+         "platform": "ChaLearn/CodaLab",
+         "sponsor": "Various"
+     }, {
          "name": "Find the Best Black Box Optimiser for ML",
-         "url": "https://bbochallenge.com//",
+         "url": "https://bbochallenge.com/",
          "type": "📉 Optimisation",
          "deadline": "15 Oct 2020",
          "prize": "$10,000",

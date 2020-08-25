@@ -648,6 +648,14 @@
          "prize": "$10,000",
          "platform": "blackbox",
          "sponsor": "Various"
+    }, {
+         "name": "Autonomous Vehicle Motion Prediction",
+         "url": "https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles",
+         "type": "✅ Supervised Learning",
+         "deadline": "25 Nov 2020",
+         "prize": "$30,000",
+         "platform": "Kaggle",
+         "sponsor": "Lyft"
      }]
 
  }

@@ -1,5 +1,29 @@
  {
      "data": [{
+         "name": "HackerEarth Deep Learning challenge: #FriendshipGoals",
+         "url": "https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-friendship-day/",
+         "type": "🎓 Various",
+         "deadline": "08 Sep 2020",
+         "prize": "$0",
+         "platform": "HackerEarth",
+         "sponsor": "HackerEarth"
+     },{
+         "name": "HackerEarth Machine Learning Challenge—Adopt a buddy",
+         "url": "https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/",
+         "type": "✅ Supervised Learning",
+         "deadline": "19 Aug 2020",
+         "prize": "$0",
+         "platform": "HackerEarth",
+         "sponsor": "HackerEarth"
+     },{
+        "name": "AI For Good - AI Blitz #3",
+        "url": "https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3?utm_source=mlcontest&utm_medium=post&utm_campaign=blitz3",
+        "type": "✅ Supervised Learning",
+        "deadline": "11 Sept 2020",
+        "prize": "1000 CHF",
+        "platform": "AIcrowd",
+        "sponsor": "AI For Good - ITU"
+    },{
          "name": "MadeWithML Data Science Incubator",
          "url": "https://madewithml.com/programs/ds-incubator-summer-2020/",
          "type": "🎓 Various",
@@ -19,7 +43,7 @@
         "name": "AIcrowd Blitz #2",
         "url": "https://www.aicrowd.com/challenges/aicrowd-blitz-2",
         "type": "✅ Supervised Learning",
-        "deadline": "25 July 2020",
+        "deadline": "25 May 2020",
         "prize": "$185",
         "platform": "AIcrowd",
         "sponsor": "N/A (Educational)"
@@ -608,6 +632,38 @@
          "prize": "$5,000",
          "platform": "Zindi",
          "sponsor": "Zimnat"
+     }, {
+         "name": "Identify Sources of Genetically Engineered DNA",
+         "url": "https://www.drivendata.org/competitions/63/genetic-engineering-attribution/",
+         "type": "✅ Supervised Learning",
+         "deadline": "14 Sep 2020",
+         "prize": "$60,000",
+         "platform": "DrivenData",
+         "sponsor": "altLabs"
+     }, {
+         "name": "Learn to Run a Power Network (NeurIPS)",
+         "url": "https://l2rpn.chalearn.org/competitions/",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "30 Oct 2020",
+         "prize": "$15,000",
+         "platform": "ChaLearn/CodaLab",
+         "sponsor": "Various"
+     }, {
+         "name": "Find the Best Black Box Optimiser for ML",
+         "url": "https://bbochallenge.com/",
+         "type": "📉 Optimisation",
+         "deadline": "15 Oct 2020",
+         "prize": "$10,000",
+         "platform": "blackbox",
+         "sponsor": "Various"
+    }, {
+         "name": "Autonomous Vehicle Motion Prediction",
+         "url": "https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles",
+         "type": "✅ Supervised Learning",
+         "deadline": "25 Nov 2020",
+         "prize": "$30,000",
+         "platform": "Kaggle",
+         "sponsor": "Lyft"
      }]
 
  }

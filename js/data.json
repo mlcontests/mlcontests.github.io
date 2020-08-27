@@ -16,6 +16,14 @@
          "platform": "HackerEarth",
          "sponsor": "HackerEarth"
      },{
+        "name": "AI For Good - AI Blitz #3",
+        "url": "https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3?utm_source=mlcontest&utm_medium=post&utm_campaign=blitz3",
+        "type": "✅ Supervised Learning",
+        "deadline": "11 Sept 2020",
+        "prize": "$1100",
+        "platform": "AIcrowd",
+        "sponsor": "AI For Good - ITU"
+    },{
          "name": "MadeWithML Data Science Incubator",
          "url": "https://madewithml.com/programs/ds-incubator-summer-2020/",
          "type": "🎓 Various",

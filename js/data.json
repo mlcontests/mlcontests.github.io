@@ -1,5 +1,13 @@
  {
      "data": [{
+         "name": "Food Recognition Challenge",
+         "url": "https://www.aicrowd.com/challenges/food-recognition-challenge?utm_source=mlcontests&utm_medium=click&utm_campaign=food",
+         "type": "✅ Supervised Learning",
+         "deadline": "01 Dec 2020",
+         "prize": "$0",
+         "platform": "AIcrowd",
+         "sponsor": "Applied Machine Learning Days"
+     }, {
          "name": "HackerEarth Deep Learning challenge: #FriendshipGoals",
          "url": "https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-friendship-day/",
          "type": "🎓 Various",
@@ -15,6 +23,14 @@
          "prize": "$0",
          "platform": "HackerEarth",
          "sponsor": "HackerEarth"
+     }, {
+         "name": "AI For Good - AI Blitz #3",
+         "url": "https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3?utm_source=mlcontest&utm_medium=post&utm_campaign=blitz3",
+         "type": "✅ Supervised Learning",
+         "deadline": "11 Sep 2020",
+         "prize": "$1100",
+         "platform": "AIcrowd",
+         "sponsor": "AI For Good - ITU"
      }, {
          "name": "MadeWithML Data Science Incubator",
          "url": "https://madewithml.com/programs/ds-incubator-summer-2020/",
@@ -656,6 +672,14 @@
          "prize": "$30,000",
          "platform": "Kaggle",
          "sponsor": "MIT/Harvard/LISH"
+     }, {
+         "name": "Autonomous Vehicle Motion Prediction",
+         "url": "https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles",
+         "type": "✅ Supervised Learning",
+         "deadline": "25 Nov 2020",
+         "prize": "$30,000",
+         "platform": "Kaggle",
+         "sponsor": "Lyft"
      }]
 
  }

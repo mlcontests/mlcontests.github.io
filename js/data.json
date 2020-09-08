@@ -1,5 +1,13 @@
  {
      "data": [{
+         "name": "Learning to Smell Challenge",
+         "url": "https://www.aicrowd.com/challenges/learning-to-smell?utm_source=mlcontests&utm_medium=click&utm_campaign=lts",
+         "type": "✅ Supervised Learning",
+         "deadline": "15 Dec 2020",
+         "prize": "$6,500",
+         "platform": "AIcrowd",
+         "sponsor": "Firmenich"
+     }, {
          "name": "Food Recognition Challenge",
          "url": "https://www.aicrowd.com/challenges/food-recognition-challenge?utm_source=mlcontests&utm_medium=click&utm_campaign=food",
          "type": "✅ Supervised Learning",

@@ -681,13 +681,21 @@
          "platform": "Kaggle",
          "sponsor": "MIT/Harvard/LISH"
      }, {
+         "name": "Detect Lesions in Cervical Biopsies",
+         "url": "https://www.drivendata.org/competitions/67/competition-cervical-biopsy/",
+         "type": "📷 Computer Vision",
+         "deadline": "29 Oct 2020",
+         "prize": "$25,000",
+         "platform": "DrivenData",
+         "sponsor": "Lyft"
+     }, {
          "name": "Autonomous Vehicle Motion Prediction",
          "url": "https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles",
          "type": "✅ Supervised Learning",
          "deadline": "25 Nov 2020",
          "prize": "$30,000",
          "platform": "Kaggle",
-         "sponsor": "Lyft"
+         "sponsor": "FSP"
      }]
 
  }

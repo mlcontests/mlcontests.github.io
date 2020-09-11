@@ -687,7 +687,7 @@
          "deadline": "29 Oct 2020",
          "prize": "$25,000",
          "platform": "DrivenData",
-         "sponsor": "Lyft"
+         "sponsor": "FSP"
      }, {
          "name": "Autonomous Vehicle Motion Prediction",
          "url": "https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles",
@@ -695,7 +695,7 @@
          "deadline": "25 Nov 2020",
          "prize": "$30,000",
          "platform": "Kaggle",
-         "sponsor": "FSP"
+         "sponsor": "Lyft"
      }]
 
  }

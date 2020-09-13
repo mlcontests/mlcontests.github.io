@@ -696,6 +696,14 @@
          "prize": "$30,000",
          "platform": "Kaggle",
          "sponsor": "Lyft"
+     }, {
+         "name": "Pulmonary Embolism Detection",
+         "url": "https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection",
+         "type": "📷 Computer Vision",
+         "deadline": "27 Oct 2020",
+         "prize": "$30,000",
+         "platform": "Kaggle",
+         "sponsor": "RSNA"
      }]
 
  }

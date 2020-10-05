@@ -712,6 +712,30 @@
          "prize": "$25,000",
          "platform": "AIcrowd",
          "sponsor": "SEAM"
+     }, {
+         "name": "Train Agents to Play Soccer",
+         "url": "https://www.kaggle.com/c/google-footballs",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "30 Nov 2020",
+         "prize": "$25,000",
+         "platform": "Kaggle",
+         "sponsor": "Google/Manchester City F.C."
+     }, {
+         "name": "Manage Differential Privacy Tradeoffs in Temporal Map Data",
+         "url": "https://www.drivendata.org/competitions/68/competition-differential-privacy-maps-1/",
+         "type": "🕵 Privacy",
+         "deadline": "31 Jun 2021",
+         "prize": "$147,000",
+         "platform": "DrivenData",
+         "sponsor": "NIST PSCR/NASA"
+     }, {
+         "name": "Predict Student Learning Progress",
+         "url": "https://www.kaggle.com/c/riiid-test-answer-prediction",
+         "type": "✅ Supervised Learning",
+         "deadline": "7 Jan 2021",
+         "prize": "$100,000",
+         "platform": "Kaggle",
+         "sponsor": "Riiid Labs"
      }]
 
  }

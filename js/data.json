@@ -1,5 +1,13 @@
  {
      "data": [{
+         "name": "HackLive 3: Guided Hackathon - NLP",
+         "url": "https://datahack.analyticsvidhya.com/contest/hacklive-3-guided-hackathon-text-classification/?utm_source=ml-contest&utm_medium=post&utm_campaign=hack-live-3",
+         "type": "🔤 NLP",
+         "deadline": "25 Oct 2020",
+         "prize": "$0",
+         "platform": "Analytics Vidhya",
+         "sponsor": "Analytics Vidhya"
+     }, {
          "name": "Learning to Smell Challenge",
          "url": "https://www.aicrowd.com/challenges/learning-to-smell?utm_source=mlcontests&utm_medium=click&utm_campaign=lts",
          "type": "✅ Supervised Learning",

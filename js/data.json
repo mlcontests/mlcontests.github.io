@@ -737,6 +737,30 @@
          "platform": "DrivenData",
          "sponsor": "NIST PSCR/NASA"
      }, {
+         "name": "COVID-19 Grand Challenge",
+         "url": "https://c3.ai/c3-ai-covid-19-grand-challenge/",
+         "type": "📊 Analysis/Visualisation ",
+         "deadline": "18 Nov 2021",
+         "prize": "$200,000",
+         "platform": "C3.ai",
+         "sponsor": "C3.ai"
+     }, {
+         "name": "NFL Big Data Bowl 2021",
+         "url": "https://www.kaggle.com/c/nfl-big-data-bowl-2021/overview/submission-instructions",
+         "type": "📊 Analysis/Visualisation ",
+         "deadline": "7 Jan 2021",
+         "prize": "$100,000",
+         "platform": "Kaggle",
+         "sponsor": "Kaggle"
+     }, {
+         "name": "Develop Environmental and Social KPIs",
+         "url": "https://www.kaggle.com/c/cdp-unlocking-climate-solutions/overview/timeline",
+         "type": "📊 Analysis/Visualisation ",
+         "deadline": "2 Dec 2021",
+         "prize": "$91,000",
+         "platform": "Kaggle",
+         "sponsor": "CDP"
+     }, {
          "name": "Predict Student Learning Progress",
          "url": "https://www.kaggle.com/c/riiid-test-answer-prediction",
          "type": "✅ Supervised Learning",

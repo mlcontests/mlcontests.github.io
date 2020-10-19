@@ -16,4 +16,4 @@
 
 A sortable list of public machine learning/data science/AI contests, viewable on [mlcontests.com](https://mlcontests.com). 
 
-Please submit a pull request for any changes. The list of contests is in https://github.com/mlcontests/mlcontests.github.io/blob/master/js/data.json. 
+Please submit a pull request for any changes. The list of contests is in https://github.com/mlcontests/mlcontests.github.io/blob/master/js/data.json. The required date format is 'D MMM YYYY' - e.g. '5 Jan 2023'. 

@@ -768,6 +768,14 @@
          "prize": "$100,000",
          "platform": "Kaggle",
          "sponsor": "Riiid Labs"
+     }, {
+         "name": "Exun 2020 - Machine Learning",
+         "url": "https://exunclan.com",
+         "type": "🤷 Interdisciplinary (Unconventional)",
+         "deadline": "15 Nov 2020",
+         "prize": "$2000",
+         "platform": "Custom",
+         "sponsor": "Various"
      }]
 
  }

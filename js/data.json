@@ -784,6 +784,14 @@
          "prize": "$60,000",
          "platform": "Kaggle",
          "sponsor": "Various"
+     }, {
+         "name": "Identify Animal Species in Audio Fragments",
+         "url": "https://www.kaggle.com/c/rfcx-species-audio-detection",
+         "type": "🔊 Audio",
+         "deadline": "17 Feb 2021",
+         "prize": "$15,000",
+         "platform": "Kaggle",
+         "sponsor": "Rainforest Connection"
      }]
 
  }

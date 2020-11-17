@@ -776,6 +776,14 @@
          "prize": "$2,000",
          "platform": "Custom",
          "sponsor": "Various"
+     }, {
+         "name": "HuBMAP: Identify Blocks of Cells in Kidney Images",
+         "url": "https://www.kaggle.com/c/hubmap-kidney-segmentation",
+         "type": "📷 Computer Vision",
+         "deadline": "1 Feb 2021",
+         "prize": "$60,000",
+         "platform": "Kaggle",
+         "sponsor": "Various"
      }]
 
  }

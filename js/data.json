@@ -792,6 +792,14 @@
          "prize": "$15,000",
          "platform": "Kaggle",
          "sponsor": "Rainforest Connection"
+     }, {
+         "name": "Pandemic Response Challenge",
+         "url": "https://xprize.org/challenge/pandemicresponse",
+         "type": "🤷 Interdisciplinary (Unconventional)",
+         "deadline": "8 Dec 2020",
+         "prize": "$500,000",
+         "platform": "XPRIZE",
+         "sponsor": "Cognizant"
      }]
 
  }

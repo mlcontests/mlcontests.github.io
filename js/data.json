@@ -810,12 +810,20 @@
          "sponsor": "Kaggle"
      }, {
          "name": "Stock Market Prediction",
-         "url": "https://www.kaggle.com/c/cassava-leaf-disease-classification",
+         "url": "https://www.kaggle.com/c/jane-street-market-prediction/",
          "type": "📈 Time Series Forecasting",
          "deadline": "22 Feb 2021",
          "prize": "$100,000",
          "platform": "Kaggle",
          "sponsor": "Jane Street"
+     }, {
+         "name": "2020 Kaggle ML&DS Survey",
+         "url": "https://www.kaggle.com/c/kaggle-survey-2020",
+         "type": "📊 Analysis/Visualisation ",
+         "deadline": "6 Jan 2021",
+         "prize": "$30,000",
+         "platform": "Kaggle",
+         "sponsor": "Kaggle"
      }]
 
  }

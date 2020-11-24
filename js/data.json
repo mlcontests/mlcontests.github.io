@@ -808,6 +808,14 @@
          "prize": "$18,000",
          "platform": "Kaggle",
          "sponsor": "Kaggle"
+     }, {
+         "name": "Stock Market Prediction",
+         "url": "https://www.kaggle.com/c/cassava-leaf-disease-classification",
+         "type": "📈 Time Series Forecasting",
+         "deadline": "22 Feb 2021",
+         "prize": "$100,000",
+         "platform": "Kaggle",
+         "sponsor": "Jane Street"
      }]
 
  }

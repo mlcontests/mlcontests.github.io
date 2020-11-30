@@ -819,11 +819,19 @@
      }, {
          "name": "2020 Kaggle ML&DS Survey",
          "url": "https://www.kaggle.com/c/kaggle-survey-2020",
-         "type": "📊 Analysis/Visualisation ",
+         "type": "📊 Analysis/Visualisation",
          "deadline": "6 Jan 2021",
          "prize": "$30,000",
          "platform": "Kaggle",
          "sponsor": "Kaggle"
+     }, {
+         "name": "NFL Impact Detection",
+         "url": "https://www.kaggle.com/c/nfl-impact-detection",
+         "type": "📷 Computer Vision",
+         "deadline": "4 Jan 2021",
+         "prize": "$75,000",
+         "platform": "Kaggle",
+         "sponsor": "NFL/AWS"
      }]
 
  }

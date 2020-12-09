@@ -832,6 +832,14 @@
          "prize": "$75,000",
          "platform": "Kaggle",
          "sponsor": "NFL/AWS"
+     }, {
+         "name": "Predict Tropical Storm Wind Speeds",
+         "url": "https://www.drivendata.org/competitions/72/predict-wind-speeds/",
+         "type": "📷📈 Computer Vision +  Time Series Forecasting",
+         "deadline": "2 Feb 2021",
+         "prize": "$13,000",
+         "platform": "DrivenData",
+         "sponsor": "NASA/AWS/developmentSEED/..."
      }]
 
  }

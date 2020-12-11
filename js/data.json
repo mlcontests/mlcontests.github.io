@@ -848,6 +848,14 @@
          "prize": "$5,000",
          "platform": "AIcrowd",
          "sponsor": "AIcrowd"
+     }, {
+         "name": "Predict Water Levels",
+         "url": "https://www.aicrowd.com/challenges/hockey-player-localization",
+         "type": "📊 Analysis/Visualisation ",
+         "deadline": "17 Feb 2021",
+         "prize": "$25,000",
+         "platform": "Kaggle",
+         "sponsor": "Acea Group"
      }]
 
  }

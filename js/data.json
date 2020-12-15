@@ -856,6 +856,14 @@
          "prize": "$25,000",
          "platform": "Kaggle",
          "sponsor": "Acea Group"
+     }, {
+         "name": "Chest X-Ray Catheder Classification",
+         "url": "https://kaggle.com/c/ranzcr-clip-catheter-line-classification",
+         "type": "📈 Computer Vision",
+         "deadline": "15 Mar 2021",
+         "prize": "$50,000",
+         "platform": "Kaggle",
+         "sponsor": "RANZCR"
      }]
 
  }

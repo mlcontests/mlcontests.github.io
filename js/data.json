@@ -1,5 +1,14 @@
  {
-     "data": [{
+     "data": [
+      {
+         "name": "Insurance Pricing Game",
+         "url": "https://www.aicrowd.com/challenges/insurance-pricing-game/?utm_source=mlcontests&utm_medium=post&utm_campaign=insurance",
+         "type": "✅ Supervised Learning",
+         "deadline": "07 Mar 2021",
+         "prize": "$12,000",
+         "platform": "AIcrowd",
+         "sponsor": "Imperial College London, Actuary Societies"
+     },{
          "name": "HackLive 3: Guided Hackathon - NLP",
          "url": "https://datahack.analyticsvidhya.com/contest/hacklive-3-guided-hackathon-text-classification/?utm_source=ml-contest&utm_medium=post&utm_campaign=hack-live-3",
          "type": "🔤 NLP",

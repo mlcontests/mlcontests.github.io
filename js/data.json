@@ -864,6 +864,14 @@
          "prize": "$50,000",
          "platform": "Kaggle",
          "sponsor": "RANZCR"
+     }, {
+         "name": "Chest X-Ray Abnormalities Detection",
+         "url": "https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection",
+         "type": "📈 Computer Vision",
+         "deadline": "30 Mar 2021",
+         "prize": "$50,000",
+         "platform": "Kaggle",
+         "sponsor": "VinBigData"
      }]
 
  }

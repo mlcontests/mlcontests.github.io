@@ -881,6 +881,46 @@
          "prize": "$50,000",
          "platform": "Kaggle",
          "sponsor": "VinBigData"
+     }, {
+         "name": "Classify Individual Cells",
+         "url": "https://www.kaggle.com/c/hpa-single-cell-image-classification",
+         "type": "📈 Computer Vision",
+         "deadline": "27 Apr 2021",
+         "prize": "$25,000",
+         "platform": "Kaggle",
+         "sponsor": "Kaggle"
+     }, {
+         "name": "Malawi News Classification",
+         "url": "https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge",
+         "type": "🔤 NLP",
+         "deadline": "10 May 2021",
+         "prize": "$2,000",
+         "platform": "Zindi",
+         "sponsor": "tNyasa/AI4D-Africa"
+     }, {
+         "name": "French -> Ewe/Fongbe Translation",
+         "url": "https://zindi.africa/competitions/ai4d-takwimu-lab-machine-translation-challenge",
+         "type": "🔤 NLP",
+         "deadline": "26 Apr 2021",
+         "prize": "$2,000",
+         "platform": "Zindi",
+         "sponsor": "Takwimu Lab/AI4D-Africa"
+     }, {
+         "name": "Yorùbá Machine Translation",
+         "url": "https://zindi.africa/competitions/ai4d-yoruba-machine-translation-challenge",
+         "type": "🔤 NLP",
+         "deadline": "12 Apr 2021",
+         "prize": "$2,000",
+         "platform": "Zindi",
+         "sponsor": "Masakhane/AI4D-Africa"
+     }, {
+         "name": "Tunisian Arabizi Sentiment Analysis",
+         "url": "https://zindi.africa/competitions/ai4d-icompass-social-media-sentiment-analysis-for-tunisian-arabizi",
+         "type": "🔤 NLP",
+         "deadline": "29 Mar 2021",
+         "prize": "$2,000",
+         "platform": "Zindi",
+         "sponsor": "iCompass/AI4D-Africa"
      }]
 
  }

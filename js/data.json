@@ -921,6 +921,14 @@
          "prize": "$2,000",
          "platform": "Zindi",
          "sponsor": "iCompass/AI4D-Africa"
+     }, {
+         "name": "Locate Smartphones from WiFi Signals",
+         "url": "https://www.kaggle.com/c/indoor-location-navigation",
+         "type": "✅ Supervised Learning",
+         "deadline": "17 May 2021",
+         "prize": "$10,000",
+         "platform": "Kaggle",
+         "sponsor": "Microsoft"
      }]
 
  }

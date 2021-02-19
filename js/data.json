@@ -1,6 +1,14 @@
  {
      "data": [
       {
+         "name": "AI Blitz: Chess",
+         "url": "https://www.aicrowd.com/challenges/ai-blitz-6",
+         "type": "✅ Supervised Learning",
+         "deadline": "5 March 2021",
+         "prize": "$400",
+         "platform": "AIcrowd",
+         "sponsor": "AIcrowd"
+     },{
          "name": "Insurance Pricing Game",
          "url": "https://www.aicrowd.com/challenges/insurance-pricing-game/?utm_source=mlcontests&utm_medium=post&utm_campaign=insurance",
          "type": "✅ Supervised Learning",

@@ -937,6 +937,14 @@
          "prize": "$10,000",
          "platform": "Kaggle",
          "sponsor": "Microsoft"
+     }, {
+         "name": "Recognise Molecular Structures from Images",
+         "url": "https://www.kaggle.com/c/bms-molecular-translation",
+         "type": "📈 Computer Vision",
+         "deadline": "2 Jun 2021",
+         "prize": "$50,000",
+         "platform": "Kaggle",
+         "sponsor": "Bristol-Myers Squibb"
      }]
 
  }

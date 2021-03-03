@@ -1,6 +1,14 @@
  {
      "data": [
       {
+         "name": "AI Blitz: Chess",
+         "url": "https://www.aicrowd.com/challenges/ai-blitz-6",
+         "type": "✅ Supervised Learning",
+         "deadline": "5 March 2021",
+         "prize": "$400",
+         "platform": "AIcrowd",
+         "sponsor": "AIcrowd"
+     },{
          "name": "Insurance Pricing Game",
          "url": "https://www.aicrowd.com/challenges/insurance-pricing-game/?utm_source=mlcontests&utm_medium=post&utm_campaign=insurance",
          "type": "✅ Supervised Learning",
@@ -929,6 +937,14 @@
          "prize": "$10,000",
          "platform": "Kaggle",
          "sponsor": "Microsoft"
+     }, {
+         "name": "Recognise Molecular Structures from Images",
+         "url": "https://www.kaggle.com/c/bms-molecular-translation",
+         "type": "📈 Computer Vision",
+         "deadline": "2 Jun 2021",
+         "prize": "$50,000",
+         "platform": "Kaggle",
+         "sponsor": "Bristol-Myers Squibb"
      }]
 
  }

@@ -945,6 +945,14 @@
          "prize": "$50,000",
          "platform": "Kaggle",
          "sponsor": "Bristol-Myers Squibb"
+     }, {
+         "name": "Multi-Agent Behavior Challenge",
+         "url": "https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications",
+         "type": "✅ Supervised Learning",
+         "deadline": "30 Apr 2021",
+         "prize": "$19,000",
+         "platform": "AIcrowd",
+         "sponsor": "Amazon/Northwestern"
      }]
 
  }

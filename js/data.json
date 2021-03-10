@@ -945,6 +945,14 @@
          "prize": "$50,000",
          "platform": "Kaggle",
          "sponsor": "Bristol-Myers Squibb"
+     }, {
+         "name": "Recognise Identical Products",
+         "url": "https://www.kaggle.com/c/shopee-product-matching",
+         "type": "✅ Supervised Learning",
+         "deadline": "10 May 2021",
+         "prize": "$30,000",
+         "platform": "Kaggle",
+         "sponsor": "Shopee"
      }]
 
  }

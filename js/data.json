@@ -17,6 +17,14 @@
          "platform": "AIcrowd",
          "sponsor": "Imperial College London, Actuary Societies"
      },{
+         "name": "AI Blitz ⚡ Perseverance",
+         "url": "https://www.aicrowd.com/challenges/ai-blitz-7/?utm_source=mlcontests&utm_medium=post&utm_campaign=blitz7",
+         "type": "✅ Supervised Learning",
+         "deadline": "02 Apr 2021",
+         "prize": "$400",
+         "platform": "AIcrowd",
+         "sponsor": "AIcrowd"
+     },{
          "name": "HackLive 3: Guided Hackathon - NLP",
          "url": "https://datahack.analyticsvidhya.com/contest/hacklive-3-guided-hackathon-text-classification/?utm_source=ml-contest&utm_medium=post&utm_campaign=hack-live-3",
          "type": "🔤 NLP",

@@ -977,6 +977,14 @@
          "prize": "$90,000",
          "platform": "Kaggle",
          "sponsor": "Coleridge Initiative"
+     }, {
+         "name": "Build Tools for Analysing 3D Tissue Imaging Data",
+         "url": "https://nanostring.devpost.com/?utm_source=mlcontests&utm_medium=mlcontests&utm_campaign=mlcontests",
+         "type": "📊 Analysis/Visualisation ",
+         "deadline": "3 May 2021",
+         "prize": "$25,000",
+         "platform": "Devpost",
+         "sponsor": "Nanostring"
      }]
 
  }

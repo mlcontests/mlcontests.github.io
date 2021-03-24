@@ -969,6 +969,14 @@
          "prize": "$19,000",
          "platform": "AIcrowd",
          "sponsor": "Amazon/Northwestern"
+     }, {
+         "name": "Identify Datasets in Publications",
+         "url": "https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data",
+         "type": "🔤 NLP",
+         "deadline": "22 Jun 2021",
+         "prize": "$90,000",
+         "platform": "Kaggle",
+         "sponsor": "Coleridge Initiative"
      }]
 
  }

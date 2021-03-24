@@ -985,6 +985,22 @@
          "prize": "$25,000",
          "platform": "Devpost",
          "sponsor": "Nanostring"
+     }, {
+         "name": "Azure AI Hackathon",
+         "url": "https://azureai.devpost.com/?utm_source=mlcontests&utm_medium=mlcontests&utm_campaign=mlcontests",
+         "type": "💻 Hackathon",
+         "deadline": "5 Apr 2021",
+         "prize": "$25,000",
+         "platform": "Devpost",
+         "sponsor": "Microsoft"
+     }, {
+         "name": "Unbiased Fintech Hackathon",
+         "url": "https://iwd.devpost.com/?utm_source=mlcontests&utm_medium=mlcontests&utm_campaign=mlcontests",
+         "type": "💻 Hackathon",
+         "deadline": "4 Apr 2021",
+         "prize": "$86,000",
+         "platform": "Devpost",
+         "sponsor": "Various"
      }]
 
  }

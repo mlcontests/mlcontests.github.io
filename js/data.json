@@ -1001,6 +1001,14 @@
          "prize": "$86,000",
          "platform": "Devpost",
          "sponsor": "Various"
+     }, {
+         "name": "Birdcall Identification",
+         "url": "https://www.kaggle.com/c/birdclef-2021",
+         "type": "🔊 Audio",
+         "deadline": "31 May 2021",
+         "prize": "$5,000",
+         "platform": "Kaggle",
+         "sponsor": "Various"
      }]
 
  }

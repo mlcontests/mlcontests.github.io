@@ -298,7 +298,7 @@
          "platform": "Kaggle",
          "sponsor": "Kaggle"
      }, {
-         "name": "Waymo Open Dataset Challenges",
+         "name": "Waymo Open Dataset Challenges (2020)",
          "url": "https://waymo.com/open/challenges/",
          "type": "📷 Computer Vision",
          "deadline": "31 May 2020",
@@ -1009,6 +1009,14 @@
          "prize": "$5,000",
          "platform": "Kaggle",
          "sponsor": "Various"
+     }, {
+         "name": "Waymo Open Dataset Challenges (2021)",
+         "url": "https://waymo.com/open/challenges/",
+         "type": "📷 Computer Vision",
+         "deadline": "31 May 2021",
+         "prize": "$88,000",
+         "platform": "Waymo",
+         "sponsor": "Waymo"
      }]
 
  }

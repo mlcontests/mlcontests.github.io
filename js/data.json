@@ -1017,6 +1017,22 @@
          "prize": "$88,000",
          "platform": "Waymo",
          "sponsor": "Waymo"
+     }, {
+         "name": "Predict Video Popularity",
+         "url": "https://bitgrit.net/competition/11",
+         "type": "📷 Computer Vision",
+         "deadline": "31 March 2021",
+         "prize": "$3,000",
+         "platform": "bitgrit",
+         "sponsor": "DataGateway"
+     }, {
+         "name": "Steel Market Sentiment Analysis",
+         "url": "https://innocentive.wazoku.com/#/challenge/e745726c11a94f3bac37ffdb5485ab5f?searchIndex=5",
+         "type": "🔤 NLP",
+         "deadline": "3 May 2021",
+         "prize": "$20,000",
+         "platform": "innocentive",
+         "sponsor": "Anonymous"
      }]
 
  }

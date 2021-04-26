@@ -1,6 +1,14 @@
  {
      "data": [
-      {
+     {
+         "name": "ADDI Alzheimer's Detection Challenge",
+         "url": "https://www.aicrowd.com/challenges/addi-alzheimers-detection-challenge?utm_source=mlc&utm_medium=post&utm_campaign=addi",
+         "type": "✅ Supervised Learning",
+         "deadline": "8 June 2021",
+         "prize": "$60,000",
+         "platform": "AIcrowd",
+         "sponsor": "ADDI"
+     },{
          "name": "AI Blitz: Chess",
          "url": "https://www.aicrowd.com/challenges/ai-blitz-6",
          "type": "✅ Supervised Learning",

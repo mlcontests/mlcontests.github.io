@@ -9,6 +9,14 @@
          "platform": "AIcrowd",
          "sponsor": "ADDI"
      },{
+         "name": "Music Demixing Challenge by Sony",
+         "url": "https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021?utm_source=mlc&utm_medium=post&utm_campaign=sony",
+         "type": "🎧 Audio Source Separation",
+         "deadline": "31 July 2021",
+         "prize": "$11,000",
+         "platform": "AIcrowd",
+         "sponsor": "Sony"
+     },{
          "name": "AI Blitz: Chess",
          "url": "https://www.aicrowd.com/challenges/ai-blitz-6",
          "type": "✅ Supervised Learning",

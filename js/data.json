@@ -1057,6 +1057,14 @@
          "prize": "$20,000",
          "platform": "innocentive",
          "sponsor": "Anonymous"
+     }, {
+         "name": "Identify Text Reading Level",
+         "url": "https://www.kaggle.com/c/commonlitreadabilityprize",
+         "type": "🔤 NLP",
+         "deadline": "2 Aug 2021",
+         "prize": "$60,000",
+         "platform": "Kaggle",
+         "sponsor": "GSU/Schmidt Futures/CommonLit"
      }]
 
  }

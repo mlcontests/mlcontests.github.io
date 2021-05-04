@@ -10,12 +10,7 @@ function days_until_deadline(deadline) {
     return Math.ceil((deadline.getTime() - today.getTime()) / (one_day));
 }
 
-function currency_to_float(currency_string) {
-    currency_string.replace(/[$,]+/g, "");
-    return parseFloat(currency_string);
-}
-
-fetch('js/data.json')
+fetch('js/competitions.json')
     .then((response) => response.json())
     .then((res) => {
         data = res.data
@@ -57,28 +52,6 @@ fetch('js/data.json')
         });
 
         // Create cards
-
-        // sort cards
-        function compare(a, b) {
-            a_deadline = new Date(a.deadline)
-            b_deadline = new Date(b.deadline)
-            a_prize = currency_to_float(a.prize);
-            b_prize = currency_to_float(b.prize);
-            if (a_deadline < b_deadline) {
-                return -1;
-            } else if (a_deadline > b_deadline) {
-                return 1;
-            } else {
-                if (a_prize > b_prize) {
-                    return -1;
-                } else if (a_prize < b_prize) {
-                    return 1;
-                } else {
-                    return 0;
-                }
-            }
-        }
-
         data.forEach(elt => {
             let card = document.createElement("div");
             card.className = 'card text-center mt-4';

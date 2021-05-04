@@ -4,7 +4,7 @@
          "name": "ADDI Alzheimer's Detection Challenge",
          "url": "https://www.aicrowd.com/challenges/addi-alzheimers-detection-challenge?utm_source=mlc&utm_medium=post&utm_campaign=addi",
          "type": "✅ Supervised Learning",
-         "deadline": "8 June 2021",
+         "deadline": "8 Jun 2021",
          "prize": "$60,000",
          "platform": "AIcrowd",
          "sponsor": "ADDI"
@@ -12,7 +12,7 @@
          "name": "Music Demixing Challenge by Sony",
          "url": "https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021?utm_source=mlc&utm_medium=post&utm_campaign=sony",
          "type": "🎧 Audio Source Separation",
-         "deadline": "31 July 2021",
+         "deadline": "31 Jul 2021",
          "prize": "$11,000",
          "platform": "AIcrowd",
          "sponsor": "Sony"
@@ -20,7 +20,7 @@
          "name": "AI Blitz: Chess",
          "url": "https://www.aicrowd.com/challenges/ai-blitz-6",
          "type": "✅ Supervised Learning",
-         "deadline": "5 March 2021",
+         "deadline": "5 Mar 2021",
          "prize": "$400",
          "platform": "AIcrowd",
          "sponsor": "AIcrowd"
@@ -28,7 +28,7 @@
          "name": "Airborne Object Tracking Challenge",
          "url": "https://www.aicrowd.com/challenges/airborne-object-tracking-challenge?utm_source=mlc&utm_medium=click&utm_campaign=prime-air",
          "type": "🚁 Object Tracking",
-         "deadline": "8 July 2021",
+         "deadline": "8 Jul 2021",
          "prize": "$50,000",
          "platform": "AIcrowd",
          "sponsor": "Amazon Prime Air"
@@ -1045,7 +1045,7 @@
          "name": "Predict Video Popularity",
          "url": "https://bitgrit.net/competition/11",
          "type": "📷 Computer Vision",
-         "deadline": "31 March 2021",
+         "deadline": "31 Mar 2021",
          "prize": "$3,000",
          "platform": "bitgrit",
          "sponsor": "DataGateway"

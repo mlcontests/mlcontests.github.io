@@ -40,7 +40,8 @@
      }, {
          "name": "FloydHub",
          "url": "https://www.floydhub.com/pricing",
-         "cost1080": "$1.20",
+         "cost1080": "",
+         "costk80": "$1.20",
          "costv100": "$4.20",
          "images": true,
          "notebooks": true,

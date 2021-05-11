@@ -931,7 +931,7 @@
          "sponsor": "RANZCR"
      }, {
          "name": "Chest X-Ray Abnormalities Detection",
-         "url": "https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection",
+         "url": "https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection?utm_source=mlcontests&utm_campaign=mlcontests",
          "type": "📈 Computer Vision",
          "deadline": "30 Mar 2021",
          "prize": "$50,000",
@@ -979,7 +979,7 @@
          "sponsor": "iCompass/AI4D-Africa"
      }, {
          "name": "Locate Smartphones from WiFi Signals",
-         "url": "https://www.kaggle.com/c/indoor-location-navigation",
+         "url": "https://www.kaggle.com/c/indoor-location-navigation?utm_source=mlcontests&utm_campaign=mlcontests",
          "type": "✅ Supervised Learning",
          "deadline": "17 May 2021",
          "prize": "$10,000",
@@ -987,7 +987,7 @@
          "sponsor": "Microsoft"
      }, {
          "name": "Recognise Molecular Structures from Images",
-         "url": "https://www.kaggle.com/c/bms-molecular-translation",
+         "url": "https://www.kaggle.com/c/bms-molecular-translation?utm_source=mlcontests&utm_campaign=mlcontests",
          "type": "📈 Computer Vision",
          "deadline": "2 Jun 2021",
          "prize": "$50,000",
@@ -1011,7 +1011,7 @@
          "sponsor": "Amazon/Northwestern"
      }, {
          "name": "Identify Datasets in Publications",
-         "url": "https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data",
+         "url": "https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data?utm_source=mlcontests&utm_campaign=mlcontests",
          "type": "🔤 NLP",
          "deadline": "22 Jun 2021",
          "prize": "$90,000",
@@ -1043,7 +1043,7 @@
          "sponsor": "Various"
      }, {
          "name": "Birdcall Identification",
-         "url": "https://www.kaggle.com/c/birdclef-2021",
+         "url": "https://www.kaggle.com/c/birdclef-2021?utm_source=mlcontests&utm_campaign=mlcontests",
          "type": "🔊 Audio",
          "deadline": "31 May 2021",
          "prize": "$5,000",
@@ -1075,7 +1075,7 @@
          "sponsor": "Anonymous"
      }, {
          "name": "Identify Text Reading Level",
-         "url": "https://www.kaggle.com/c/commonlitreadabilityprize",
+         "url": "https://www.kaggle.com/c/commonlitreadabilityprize?utm_source=mlcontests&utm_campaign=mlcontests",
          "type": "🔤 NLP",
          "deadline": "2 Aug 2021",
          "prize": "$60,000",
@@ -1089,6 +1089,14 @@
          "prize": "$3,000",
          "platform": "bitgrit",
          "sponsor": "DataGateway"
+     }, {
+         "name": "E.T. Signal Search",
+         "url": "https://www.kaggle.com/c/seti-breakthrough-listen?utm_source=mlcontests&utm_campaign=mlcontests",
+         "type": "✅ Supervised Learning",
+         "deadline": "28 Jul 2021",
+         "prize": "$15,000",
+         "platform": "Kaggle",
+         "sponsor": "Berkeley SETI"
      }]
 
  }

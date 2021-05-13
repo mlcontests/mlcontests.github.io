@@ -1173,9 +1173,17 @@
          "name": "Adversarial Object Detection",
          "url": "https://tianchi.aliyun.com/competition/entrance/531806/introduction",
          "type": "📷 Computer Vision",
-         "deadline": "3 Sep 2020",
+         "deadline": "3 Sep 2021",
          "prize": "$10,000",
          "platform": "Tianchi",
+         "sponsor": "Various"
+     }, {
+         "name": "Visualise Geoscience Data",
+         "url": "https://xeek.ai/challenges/keep-geoscience-weird/overview",
+         "type": "📊 Analysis/Visualisation ",
+         "deadline": "4 Jun 2021",
+         "prize": "$15,000",
+         "platform": "Xeek",
          "sponsor": "Various"
      }]
 

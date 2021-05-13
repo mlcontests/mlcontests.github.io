@@ -1113,6 +1113,70 @@
          "prize": "$10,000",
          "platform": "Kaggle",
          "sponsor": "Google"
+     }, {
+         "name": "Predict Earthquakes",
+         "url": "https://dphi.tech/challenges/aeta-earthquake-prediction-ai-algorithm-competition-2021/70/overview/about",
+         "type": "✅ Supervised Learning",
+         "deadline": "31 Oct 2021",
+         "prize": "$26,000",
+         "platform": "DPhi",
+         "sponsor": "AETA/Various"
+     }, {
+         "name": "Compare Short Text Semantics",
+         "url": "https://tianchi.aliyun.com/competition/entrance/531851/introduction",
+         "type": "🔤 NLP",
+         "deadline": "14 May 2021",
+         "prize": "$77,000",
+         "platform": "Tianchi",
+         "sponsor": "Various"
+     }, {
+         "name": "Identify Anomalies in CT Scan Descriptions",
+         "url": "https://tianchi.aliyun.com/competition/entrance/531852/introduction",
+         "type": "🔤 NLP",
+         "deadline": "12 May 2021",
+         "prize": "$77,000",
+         "platform": "Tianchi",
+         "sponsor": "Various"
+     }, {
+         "name": "Multiple Object Detection",
+         "url": "https://tianchi.aliyun.com/competition/entrance/531855/introduction",
+         "type": "📷 Computer Vision",
+         "deadline": "13 May 2021",
+         "prize": "$77,000",
+         "platform": "Tianchi",
+         "sponsor": "Various"
+     }, {
+         "name": "Multimodal Product Identification",
+         "url": "https://tianchi.aliyun.com/competition/entrance/531893/introduction",
+         "type": "📷 Computer Vision",
+         "deadline": "12 Jul 2021",
+         "prize": "$10,000",
+         "platform": "Tianchi",
+         "sponsor": "Various"
+     }, {
+         "name": "Large-scale Product Recognition",
+         "url": "https://tianchi.aliyun.com/competition/entrance/531884/introduction",
+         "type": "📷 Computer Vision",
+         "deadline": "9 Jun 2021",
+         "prize": "$3,000",
+         "platform": "Tianchi",
+         "sponsor": "Various"
+     }, {
+         "name": "Logo Detection in Adversarial Scenarios",
+         "url": "https://tianchi.aliyun.com/competition/entrance/531888/introduction",
+         "type": "📷 Computer Vision",
+         "deadline": "7 Jul 2021",
+         "prize": "$46,000",
+         "platform": "Tianchi",
+         "sponsor": "Various"
+     }, {
+         "name": "Adversarial Object Detection",
+         "url": "https://tianchi.aliyun.com/competition/entrance/531806/introduction",
+         "type": "📷 Computer Vision",
+         "deadline": "3 Sep 2020",
+         "prize": "$10,000",
+         "platform": "Tianchi",
+         "sponsor": "Various"
      }]
 
  }

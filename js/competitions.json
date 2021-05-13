@@ -1105,6 +1105,14 @@
          "prize": "$10,000",
          "platform": "Zindi",
          "sponsor": "CGIAR"
+     }, {
+         "name": "Improve Mobile GPS Positioning",
+         "url": "https://www.kaggle.com/c/google-smartphone-decimeter-challenge?utm_source=mlcontests&utm_campaign=mlcontests",
+         "type": "✅ Supervised Learning",
+         "deadline": "4 Aug 2021",
+         "prize": "$10,000",
+         "platform": "Kaggle",
+         "sponsor": "Google"
      }]
 
  }

@@ -1185,6 +1185,14 @@
          "prize": "$15,000",
          "platform": "Xeek",
          "sponsor": "Various"
+     }, {
+         "name": "Identify COVID-19 Abnormalities on Chest Radiographs",
+         "url": "https://www.kaggle.com/c/siim-covid19-detection?utm_source=mlcontests&utm_campaign=mlcontests",
+         "type": "📷 Computer Vision",
+         "deadline": "9 Aug 2021",
+         "prize": "$100,000",
+         "platform": "Kaggle",
+         "sponsor": "FISABIO/RSNA"
      }]
 
  }

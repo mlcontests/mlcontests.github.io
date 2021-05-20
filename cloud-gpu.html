@@ -4,8 +4,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Machine Learning & Data Science Competitions - ML Contests</title>
-    <meta name="description" content="A list of ongoing Data Science Challenges/AI Contests/Machine Learning Competitions across Kaggle, DrivenData, AIcrowd, Zindi, Codalab and other platforms. ">
+    <title>Cloud GPU Comparison - ML Contests</title>
+    <meta name="description" content="Cloud GPU Price and Feature Comparison">
 
     <link href="https://mlcontests.com" rel="canonical" />
 
@@ -27,6 +27,13 @@
         gtag('config', 'UA-153674328-1');
     </script>
 
+    <!-- 
+        Favicon created using favicon.io
+        Text: ML🏆
+        Font: Hind Vadodara
+        Size: 45
+        Background: Circle
+    -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -41,16 +48,16 @@
     <script src="js/moment.min.js"></script>
     <script src="js/datetime-moment.js"></script>
     <script src="js/dataTables.responsive.min.js"></script>
-    <script src="js/index.js"></script>
+    <script src="js/cloud_gpu.js"></script>
 
     <nav class="navbar navbar-expand-lg navbar-light" style="background-color: white;">
         <div class="navbar-nav">
         <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
+        <li class="nav-item">
         <a href="index.html" class="nav-link">Ongoing Competitions</a>
         </li>
 
-        <li class="nav-item">
+        <li class="nav-item active">
         <a href="cloud-gpu.html" class="nav-link">Cloud GPU Comparison</a>
         </li>
         <li class="nav-item">
@@ -63,36 +70,56 @@
         <div class="col-md-12" style="padding-top:20px;">
             <div class="jumbotron jumbotron-fluid text-center landing-text">
                 <div class="container">
-                    <h1 class="display-4">Machine Learning Contests</h1>
+                    <h1 class="display-4">Cloud GPU Comparison</h1>
                     <p class="lead">
-                        Discover ongoing machine learning and data science competitions.
-                        <br />
-                        <a href="https://kaggle.com">Kaggle</a>, <a href="https://www.drivendata.org">DrivenData</a>, <a href="https://aicrowd.com">AIcrowd</a>, <a href="https://zindi.africa">Zindi</a>, and other platforms.
-                        <br />
-                        Sign up to the mailing list for updates.
+                        Find the right cloud GPU provider for your workflow.
                     </p>
-                    <!-- Begin Substack signup Form -->
-                    <iframe src="https://mlcontests.substack.com/embed" width="100%" height="120" style="border:0px; background:white;" frameborder="0" scrolling="no"></iframe>
-                    <!-- End Substack signup form -->
                 </div>
             </div>
 
             <div id="contests-cards" class="cards">
             </div>
+            <div id="column-toggle">
+                Toggle column:
+                <a class="toggle-vis" data-column="2" href="#">1080Ti</a> -
+                <a class="toggle-vis" data-column="3" href="#">K80</a> -
+                <a class="toggle-vis" data-column="4" href="#">V100</a> -
+                <a class="toggle-vis" data-column="5" href="#">P100</a> -
+                <a class="toggle-vis" data-column="6" href="#">T4</a> -
+                <a class="toggle-vis" data-column="7" href="#">P4</a> -
+                <a class="toggle-vis" data-column="8" href="#">2080</a> -
+                <a class="toggle-vis" data-column="9" href="#">3090</a> 
+            </div>
             <table id="contests" class="table dt-responsive table-hover nowrap" style="width:100%">
                 <thead>
-                    <th class="Title " data-priority="1 ">Title</th>
-                    <th class="Type " data-priority="5 ">Type</th>
-                    <th class="Deadline " data-priority="2 ">Deadline</th>
-                    <th class="Prize " data-priority="3 ">Prize Pool</th>
-                    <th class="Platform " data-priority="4 ">Platform</th>
-                    <th class="Sponsor " data-priority="6 ">Sponsor</th>
+                    <th class="Name " data-priority="1 ">Name </th>
+                    <th class="Credits " data-priority="3 ">Credits</th>
+                    <th class="Cost1080Ti " data-priority="5 ">1080Ti/h</th>
+                    <th class="CostK80 " data-priority="8 ">K80/h</th>
+                    <th class="CostV100 " data-priority="9 ">V100/h</th>
+                    <th class="CostP100 " data-priority="9 ">P100/h</th>
+                    <th class="CostT4 " data-priority="9 ">T4/h</th>
+                    <th class="CostP4 " data-priority="9 ">P4/h</th>
+                    <th class="Cost2080 " data-priority="9 ">2080/h</th>
+                    <th class="Cost3090 " data-priority="9 ">3090/h</th>
+                    <th class="Region " data-priority="2 ">Regions</th>
+                    <th class="Images " data-priority="4 ">Images</th>
+                    <th class="Notebooks " data-priority="6 ">Notebooks</th>
+                    <th class="SSH " data-priority="7 ">SSH</th>
+                    <th class="Persistence " data-priority="10 ">Persistence </th>
                 </thead>
             </table>
         </div>
     </div>
     <footer class="page-footer " style="margin-top:3em; padding-bottom:0.5em ">
         <div class="container-fluid text-center ">
+                    <p>
+                        Some spot prices are approximate or scaled, and can be region- or time-dependent. Check provider websites for real-time pricing.
+                        <br />
+                        View on desktop for full experience.  URLs are affiliate links where available.
+                        <br />
+                        To figure out which GPU is right for you, check <a href="https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/">this in-depth blog post</a> from <a href="https://twitter.com/Tim_Dettmers">Tim Dettmers</a>. 
+                    </p>
             &copy; 2021 <a href="https://twitter.com/ml_contests">ML Contests</a>. Submit changes or requests on <a href="https://github.com/mlcontests/mlcontests.github.io " target="_blank " style="color:black; font-weight:bold; ">GitHub</a>.
         </div>
     </footer>

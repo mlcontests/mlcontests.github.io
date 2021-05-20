@@ -3,15 +3,25 @@ function make_href(url, text) {
     return '<a href="' + url + '" target="_blank">' + text + '</a>';
 }
 
-fetch('js/cloud_platforms.json')
+function render_checkbox(data, type, row, meta){
+    // https://stackoverflow.com/questions/43887876/checkbox-checked-state-in-datatables
+    if (type === 'display' ) {
+        if (data == true){
+            return '<input type="checkbox" checked>';
+    }else{
+        return '<input type="checkbox">';
+    }
+}
+return data
+}
+
+fetch('js/cloud_gpu.json')
     .then((response) => response.json())
     .then((res) => {
         data = res.data
 
-        console.log(data)
-        console.log(data.length)
         $.fn.dataTable.moment('D MMM YYYY')
-        x = $('#contests').DataTable({
+        table = $('#contests').DataTable({
             "data": data,
             columns: [{
                 data: 'name',
@@ -19,21 +29,48 @@ fetch('js/cloud_platforms.json')
                     return make_href(row.url, data);
                 }
             }, {
-                data: 'cost1080'
+                data: 'credits'
+            }, {
+                data: 'cost1080',
+                visible: false
+            }, {
+                data: 'costk80',
+                visible: false
+            }, {
+                data: 'costv100'
+            }, {
+                data: 'costp100',
+                visible: false
+            }, {
+                data: 'costt4',
+                visible: false
+            }, {
+                data: 'costp4',
+                visible: false
+            }, {
+                data: 'cost2080',
+                visible: false
+            }, {
+                data: 'cost3090'
             }, {
                 data: 'region'
             }, {
-                data: 'credits'
+                data: 'images',
+                render: render_checkbox
             }, {
-                data: 'images'
+                data: 'notebooks',
+                render: render_checkbox
             }, {
-                data: 'notebooks'
+                data: 'ssh',
+                render: render_checkbox
             }, {
-                data: 'vms'
+                data: 'persistence',
+                render: render_checkbox
             }],
             paging: false,
             searching: false,
             info: false,
+            buttons: ['colvis'],
             responsive: {
                 details: {
                     type: 'column',
@@ -46,7 +83,16 @@ fetch('js/cloud_platforms.json')
             ]
         });
 
-        console.log(data)
+        $('a.toggle-vis').on('click', function(e){
+            // toggle column visibility
+            e.preventDefault();
+ 
+            // Get the column API object
+            var column = table.column( $(this).attr('data-column') );
+     
+            // Toggle the visibility
+            column.visible( ! column.visible() );
+        })
 
         // Create cards
         data.forEach(elt => {
@@ -63,11 +109,23 @@ fetch('js/cloud_platforms.json')
 
             let card_subtitle = document.createElement('h6');
             card_subtitle.className = 'card-subtitle';
-            card_subtitle.innerHTML = elt.cost + '/h (1080Ti)';
+            card_subtitle.innerHTML = elt.costv100 + '/h (v100)';
 
             let card_text = document.createElement('p');
             card_text.className = 'card-text';
             card_text.innerHTML = elt.region;
+            if(elt.ssh){ 
+                card_text.innerHTML += '<br />&#10003; SSH ' 
+            }
+            if(elt.persistence){ 
+                card_text.innerHTML += '<br />&#10003; Data Persistence ' 
+            }
+            if(elt.images){ 
+                card_text.innerHTML += '<br />&#10003; Machine Images ' 
+            }
+            if(elt.notebooks){ 
+                card_text.innerHTML += '<br />&#10003; Notebooks ' 
+            }
 
             let card_link = document.createElement('a');
             card_link.className = 'btn btn-link';

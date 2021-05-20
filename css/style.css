@@ -106,6 +106,9 @@ ul.dtr-details li span {
         margin: 3em auto 4em;
         background-color: transparent;
     }
+    #column-toggle{
+        display: none;
+    }
 }
 
 

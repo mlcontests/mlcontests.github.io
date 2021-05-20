@@ -130,7 +130,12 @@ fetch('js/cloud_gpu.json')
             let card_link = document.createElement('a');
             card_link.className = 'btn btn-link';
             card_link.href = elt.url;
-            card_link.innerHTML = elt.credits + ' free credits when you sign up!';
+
+            if (elt.credits === "$0"){
+                card_link.innerHTML = 'Sign up here';
+            } else {
+                card_link.innerHTML = elt.credits + ' free credits when you sign up!';
+            }
 
             card_body.appendChild(card_title)
             card_body.appendChild(card_subtitle)

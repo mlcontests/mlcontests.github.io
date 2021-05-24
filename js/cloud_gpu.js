@@ -7,9 +7,9 @@ function render_checkbox(data, type, row, meta){
     // https://stackoverflow.com/questions/43887876/checkbox-checked-state-in-datatables
     if (type === 'display' ) {
         if (data == true){
-            return '<input type="checkbox" checked>';
+            return '&#9989;';
     }else{
-        return '<input type="checkbox">';
+        return '&#10060;';
     }
 }
 return data

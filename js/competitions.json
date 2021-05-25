@@ -1193,6 +1193,14 @@
          "prize": "$100,000",
          "platform": "Kaggle",
          "sponsor": "FISABIO/RSNA"
+     }, {
+         "name": "Geocentric Pose Estimation",
+         "url": "https://www.drivendata.org/competitions/78/overhead-geopose-challenge/",
+         "type": "📷 Computer Vision",
+         "deadline": "19 Jul 2021",
+         "prize": "$50,000",
+         "platform": "DrivenData",
+         "sponsor": "NGA/NASA"
      }]
 
  }

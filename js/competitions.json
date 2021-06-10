@@ -1,6 +1,22 @@
  {
      "data": [
      {
+         "name": "AI Blitz ⚡ Hello NLP",
+         "url": "https://www.aicrowd.com/challenges/ai-blitz-9?utm_source=mlc&utm_medium=post&utm_campaign=blitz9",
+         "type": "🔤 NLP",
+         "deadline": "30 Jun 2021",
+         "prize": "$400",
+         "platform": "AIcrowd",
+         "sponsor": "AIcrowd"
+     },{
+         "name": "NeurIPS 2021 NetHack Challenge",
+         "url": "https://www.aicrowd.com/challenges/neurips-2021-the-nethack-challenge?utm_source=mlc&utm_medium=post&utm_campaign=nethack",
+         "type": "🔁 Reinforcement Learning",
+         "deadline": "31 Dec 2021",
+         "prize": "$TBD",
+         "platform": "AIcrowd",
+         "sponsor": "FACEBOOK AI"
+     },{
          "name": "Graph Neural Networking Challenge 2021",
          "url": "https://bnn.upc.edu/challenge/gnnet2021",
          "type": "☋ Graph Learning",

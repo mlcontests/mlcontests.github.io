@@ -1,6 +1,14 @@
  {
      "data": [
      {
+         "name": "NeurIPS 2021 MineRL Diamond Competition",
+         "url": "https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition?utm_source=mlc&utm_medium=post&utm_campaign=minerl",
+         "type": "🔁 Reinforcement Learning",
+         "deadline": "31 Dec 2021",
+         "prize": "TBD",
+         "platform": "AIcrowd",
+         "sponsor": "CMU, Microsoft, DeepMind, OpenAI"
+     },{
          "name": "AI Blitz ⚡ Hello NLP",
          "url": "https://www.aicrowd.com/challenges/ai-blitz-9?utm_source=mlc&utm_medium=post&utm_campaign=blitz9",
          "type": "🔤 NLP",

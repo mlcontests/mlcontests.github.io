@@ -1233,6 +1233,14 @@
          "prize": "$50,000",
          "platform": "DrivenData",
          "sponsor": "NGA/NASA"
+     }, {
+         "name": "Predict Baseball Player Digital Engagement",
+         "url": "https://www.kaggle.com/c/mlb-player-digital-engagement-forecasting?utm_source=mlcontests&utm_campaign=mlcontests",
+         "type": "📈 Time Series Forecasting",
+         "deadline": "31 Jul 2021",
+         "prize": "$50,000",
+         "platform": "Kaggle",
+         "sponsor": "MLB/Google Cloud"
      }]
 
  }

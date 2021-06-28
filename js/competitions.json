@@ -1241,6 +1241,14 @@
          "prize": "$50,000",
          "platform": "Kaggle",
          "sponsor": "MLB/Google Cloud"
+     }, {
+         "name": "Facebook AI Image Similarity Challenge",
+         "url": "https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/",
+         "type": "📷 Computer Vision",
+         "deadline": "27 Oct 2021",
+         "prize": "$200,000",
+         "platform": "DrivenData",
+         "sponsor": "Facebook"
      }]
 
  }

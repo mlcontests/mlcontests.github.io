@@ -1257,6 +1257,14 @@
          "prize": "$100,000",
          "platform": "Kaggle",
          "sponsor": "Optiver"
+     }, {
+         "name": "Detect Gravitational Waves",
+         "url": "https://www.kaggle.com/c/g2net-gravitational-wave-detection/overview/description?utm_source=mlcontests&utm_campaign=mlcontests",
+         "type": "✅ Supervised Learning",
+         "deadline": "29 Sep 2021",
+         "prize": "$15,000",
+         "platform": "Kaggle",
+         "sponsor": "EGO"
      }]
 
  }

@@ -1249,6 +1249,14 @@
          "prize": "$200,000",
          "platform": "DrivenData",
          "sponsor": "Facebook"
+     }, {
+         "name": "Predict Stock Market Volatility",
+         "url": "https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview/description?utm_source=mlcontests&utm_campaign=mlcontests",
+         "type": "📈 Time Series Forecasting",
+         "deadline": "27 Sep 2021",
+         "prize": "$100,000",
+         "platform": "Kaggle",
+         "sponsor": "Optiver"
      }]
 
  }

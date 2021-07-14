@@ -1265,6 +1265,14 @@
          "prize": "$15,000",
          "platform": "Kaggle",
          "sponsor": "EGO"
+     }, {
+         "name": "MRI Brain Tumor Classification",
+         "url": "kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification?utm_source=mlcontests&utm_campaign=mlcontests",
+         "type": "📷 Computer Vision",
+         "deadline": "8 Oct 2021",
+         "prize": "$30,000",
+         "platform": "Kaggle",
+         "sponsor": "RSNA/MICCAI"
      }]
 
  }

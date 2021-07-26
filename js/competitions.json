@@ -1,6 +1,14 @@
  {
      "data": [
      {
+         "name": "Weather Forecast AI Innovation Challenge",
+         "url": "https://dphi.tech/challenges/143/",
+         "type": "AI",
+         "deadline": "15 Aug 2021",
+         "prize": "$30,000",
+         "platform": "DPhi",
+         "sponsor": "Alibaba Cloud"
+     },{
          "name": "NeurIPS 2021 MineRL Diamond Competition",
          "url": "https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition?utm_source=mlc&utm_medium=post&utm_campaign=minerl",
          "type": "🔁 Reinforcement Learning",

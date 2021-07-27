@@ -1,6 +1,15 @@
  {
      "data": [
      {
+         "name": "IARAI's Weather4cast competition @2021 IEEE Big Data Cup",
+         "url": "http://weather4cast.ai/",
+         "type": "📷+📈 Computer Vision + Time Series Forecasting",
+         "deadline": "27 Oct 2021",
+         "prize": "$20,000",
+         "platform": "IARAI",
+         "sponsor": "Institute of Advanced Research in Artificial Intelligence (IARAI)"
+     },
+     {
          "name": "Weather Forecast AI Innovation Challenge",
          "url": "https://dphi.tech/challenges/143/",
          "type": "AI",

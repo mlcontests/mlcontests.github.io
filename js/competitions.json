@@ -1,6 +1,15 @@
  {
      "data": [
      {
+         "name": "AI Blitz X ⚡",
+         "url": "https://www.aicrowd.com/challenges/ai-blitz-x?utm_source=mlc&utm_medium=post&utm_campaign=blitzx",
+         "type": "💪 Beginner Friendly Computer Vision Puzzles",
+         "deadline": "11 Aug 2021",
+         "prize": "$400",
+         "platform": "AIcrowd",
+         "sponsor": "AIcrowd"
+     },
+       {
          "name": "The Neural-MMO Challenge",
          "url": "https://www.aicrowd.com/challenges/the-neural-mmo-challenge",
          "type": "🔁 Reinforcement Learning",

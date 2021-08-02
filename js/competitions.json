@@ -1,6 +1,15 @@
  {
      "data": [
      {
+         "name": "AI Blitz X ⚡",
+         "url": "https://www.aicrowd.com/challenges/ai-blitz-x?utm_source=mlc&utm_medium=post&utm_campaign=blitzx",
+         "type": "💪 Beginner Friendly Computer Vision Puzzles",
+         "deadline": "11 Aug 2021",
+         "prize": "$400",
+         "platform": "AIcrowd",
+         "sponsor": "AIcrowd"
+     },      
+     {
          "name": "IARAI's Weather4cast competition @2021 IEEE Big Data Cup",
          "url": "http://weather4cast.ai/",
          "type": "📷+📈 Computer Vision + Time Series Forecasting",

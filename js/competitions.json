@@ -8,7 +8,16 @@
          "prize": "$400",
          "platform": "AIcrowd",
          "sponsor": "AIcrowd"
-     },      
+     },
+       {
+         "name": "The Neural-MMO Challenge",
+         "url": "https://www.aicrowd.com/challenges/the-neural-mmo-challenge",
+         "type": "🔁 Reinforcement Learning",
+         "prize": "9 Co-Authorships",
+         "deadline": "14 Dec 2021",
+         "platform": "AIcrowd",
+         "sponsor": "MIT"
+     },
      {
          "name": "IARAI's Weather4cast competition @2021 IEEE Big Data Cup",
          "url": "http://weather4cast.ai/",

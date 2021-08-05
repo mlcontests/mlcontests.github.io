@@ -1,6 +1,15 @@
  {
      "data": [
      {
+         "name": "Hardware-Efficient Modulation Classification ",
+         "url": "https://challenge.aiforgood.itu.int/match/matchitem/34",
+         "type": "✅ Supervised Learning",
+         "deadline": "2 Oct 2021",
+         "prize": "$2,000",
+         "platform": "Xilinx",
+         "sponsor": "ITU/United Nations/Xilinx"
+     },
+     {
          "name": "AI Blitz X ⚡",
          "url": "https://www.aicrowd.com/challenges/ai-blitz-x?utm_source=mlc&utm_medium=post&utm_campaign=blitzx",
          "type": "💪 Beginner Friendly Computer Vision Puzzles",

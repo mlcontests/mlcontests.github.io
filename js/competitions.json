@@ -1,6 +1,15 @@
  {
      "data": [
      {
+         "name": "Lightning-Fast Modulation Classification with Hardware-Efficient Neural Networks",
+         "url": "https://bit.ly/brevitas-radioml-challenge-21",
+         "type": "✅ Supervised Learning",
+         "deadline": "31 Aug 2021",
+         "prize": "$12,000",
+         "platform": "Xilinx",
+         "sponsor": "ITU/United Nations/Xilinx"
+     },
+     {
          "name": "AI Blitz X ⚡",
          "url": "https://www.aicrowd.com/challenges/ai-blitz-x?utm_source=mlc&utm_medium=post&utm_campaign=blitzx",
          "type": "💪 Beginner Friendly Computer Vision Puzzles",

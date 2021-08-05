@@ -1,11 +1,11 @@
  {
      "data": [
      {
-         "name": "Lightning-Fast Modulation Classification with Hardware-Efficient Neural Networks",
-         "url": "https://bit.ly/brevitas-radioml-challenge-21",
+         "name": "Hardware-Efficient Modulation Classification ",
+         "url": "https://challenge.aiforgood.itu.int/match/matchitem/34",
          "type": "✅ Supervised Learning",
-         "deadline": "31 Aug 2021",
-         "prize": "$12,000",
+         "deadline": "2 Oct 2021",
+         "prize": "$2,000",
          "platform": "Xilinx",
          "sponsor": "ITU/United Nations/Xilinx"
      },

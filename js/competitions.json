@@ -1,6 +1,15 @@
  {
      "data": [
      {
+         "name": "ML5G-PHY-Reinforcement learning: scheduling and resource allocation",
+         "url": "https://ai5gchallenge.ufpa.br/",
+         "type": "🔁 Reinforcement Learning",
+         "deadline": "31 Aug 2021",
+         "prize": "$5,000",
+         "platform": "Undefined",
+         "sponsor": "ITU"
+     },
+     {
          "name": "Hardware-Efficient Modulation Classification ",
          "url": "https://challenge.aiforgood.itu.int/match/matchitem/34",
          "type": "✅ Supervised Learning",

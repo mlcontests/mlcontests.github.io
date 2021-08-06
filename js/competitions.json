@@ -1,6 +1,15 @@
  {
      "data": [
      {
+         "name": "Scheduling and Resource Allocation for UAVs",
+         "url": "https://ai5gchallenge.ufpa.br/",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "31 Aug 2021",
+         "prize": "$5,000",
+         "platform": "ITU",
+         "sponsor": "ITU"
+     },
+     {
          "name": "Hardware-Efficient Modulation Classification ",
          "url": "https://challenge.aiforgood.itu.int/match/matchitem/34",
          "type": "✅ Supervised Learning",
@@ -21,7 +30,7 @@
        {
          "name": "The Neural-MMO Challenge",
          "url": "https://www.aicrowd.com/challenges/the-neural-mmo-challenge",
-         "type": "🔁 Reinforcement Learning",
+         "type": "🤖 Reinforcement Learning",
          "prize": "9 Co-Authorships",
          "deadline": "14 Dec 2021",
          "platform": "AIcrowd",
@@ -47,7 +56,7 @@
      },{
          "name": "NeurIPS 2021 MineRL Diamond Competition",
          "url": "https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition?utm_source=mlc&utm_medium=post&utm_campaign=minerl",
-         "type": "🔁 Reinforcement Learning",
+         "type": "🤖 Reinforcement Learning",
          "deadline": "31 Dec 2021",
          "prize": "TBD",
          "platform": "AIcrowd",
@@ -63,7 +72,7 @@
      },{
          "name": "NeurIPS 2021 NetHack Challenge",
          "url": "https://www.aicrowd.com/challenges/neurips-2021-the-nethack-challenge?utm_source=mlc&utm_medium=post&utm_campaign=nethack",
-         "type": "🔁 Reinforcement Learning",
+         "type": "🤖 Reinforcement Learning",
          "deadline": "31 Dec 2021",
          "prize": "$TBD",
          "platform": "AIcrowd",

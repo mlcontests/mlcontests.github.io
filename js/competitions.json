@@ -1320,12 +1320,28 @@
          "sponsor": "EGO"
      }, {
          "name": "MRI Brain Tumor Classification",
-         "url": "kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification?utm_source=mlcontests&utm_campaign=mlcontests",
+         "url": "https://kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification?utm_source=mlcontests&utm_campaign=mlcontests",
          "type": "📷 Computer Vision",
          "deadline": "8 Oct 2021",
          "prize": "$30,000",
          "platform": "Kaggle",
          "sponsor": "RSNA/MICCAI"
+     }, {
+         "name": "Analyse COVID-19 Impact on Student Learning",
+         "url": "https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning?utm_source=mlcontests&utm_campaign=mlcontests",
+         "type": "📊 Analysis/Visualisation ",
+         "deadline": "31 Sep 2021",
+         "prize": "$20,000",
+         "platform": "Kaggle",
+         "sponsor": "LearnPlatform"
+     }, {
+         "name": "Floodwater Mapping",
+         "url": "https://www.drivendata.org/competitions/81/detect-flood-water/",
+         "type": "📷 Computer Vision",
+         "deadline": "29 Sep 2021",
+         "prize": "$20,000",
+         "platform": "DrivenData",
+         "sponsor": "Microsoft"
      }]
 
  }

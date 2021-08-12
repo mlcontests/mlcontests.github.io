@@ -216,6 +216,25 @@
          "credits": "$0",
          "persistence": true,
          "region": "US"
+        }, {
+            "name": "Jarvis Labs",
+            "url": "https://cloud.jarvislabs.ai/",
+            "cost1080": "-",
+            "costk80": "-",
+            "costv100": "-",
+            "costp100": "-",
+            "cost2080": "-",
+            "costa6000": "1.79",
+            "cost3090": "-",
+            "cost3080": "-",
+            "costp4": "-",
+            "costt4": "-",
+            "images": true,
+            "notebooks": true,
+            "ssh": true,
+            "credits": "$0",
+            "persistence": true,
+            "region": "?"
      }
     ]
 

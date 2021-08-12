@@ -39,6 +39,12 @@ fetch('js/cloud_gpu.json')
             }, {
                 data: 'costv100'
             }, {
+                data: 'costa100',
+                visible: false
+            }, {
+                data: 'costa6000',
+                visible: false
+            }, {
                 data: 'costp100',
                 visible: false
             }, {

@@ -1351,6 +1351,14 @@
          "prize": "$20,000",
          "platform": "DrivenData",
          "sponsor": "Microsoft"
+     }, {
+         "name": "Hindi/Tamil Question Answering",
+         "url": "https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=mlcontests",
+         "type": "🔤 NLP",
+         "deadline": "15 Nov 2021",
+         "prize": "$10,000",
+         "platform": "Kaggle",
+         "sponsor": "Google"
      }]
 
  }

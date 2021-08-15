@@ -1,5 +1,14 @@
  {
      "data": [
+    {
+            "name": "Visual Attention Estimation in HMD",
+            "url": "https://aidea-web.tw/topic/aa5451e1-8697-47ee-96f1-c51ccc3badcc?focus=intro",
+            "type": "✅ Supervised Learning",
+            "deadline": "31 Oct 2021",
+            "prize": "$1,500",
+            "platform": "AIDEA",
+            "sponsor": "MediaTek"
+     },
      {
          "name": "Scheduling and Resource Allocation for UAVs",
          "url": "https://ai5gchallenge.ufpa.br/",

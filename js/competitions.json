@@ -1359,6 +1359,22 @@
          "prize": "$10,000",
          "platform": "Kaggle",
          "sponsor": "Google"
+     }, {
+         "name": "NFL: Helmet Tracking",
+         "url": "https://www.kaggle.com/c/nfl-health-and-safety-helmet-assignment?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=mlcontests",
+         "type": "📷 Computer Vision",
+         "deadline": "2 Nov 2021",
+         "prize": "$100,000",
+         "platform": "Kaggle",
+         "sponsor": "NFL"
+     }, {
+         "name": "Lux AI: 1v1 Strategy Game",
+         "url": "https://www.kaggle.com/c/lux-ai-2021?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=mlcontests",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "6 Dec 2021",
+         "prize": "$10,000",
+         "platform": "Kaggle",
+         "sponsor": "QuantCo, J Ventures, QAlmera"
      }]
 
  }

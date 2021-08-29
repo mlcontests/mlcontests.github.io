@@ -1,6 +1,24 @@
  {
      "data": [
     {
+            "name": "NeurIPS 2021: MineRL BASALT Competition",
+            "url": "https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition?utm_source=mlc&utm_medium=post&utm_campaign=basalt ",
+            "type": "🔁 Reinforcement Learning(👨‍🔧 Human in the loop)",
+            "deadline": "15 Oct 2021",
+            "prize": "$11,000",
+            "platform": "AIcrowd",
+            "sponsor": "OpenAI, Google, Microsoft, Open Philanthropy"
+     },
+    {
+            "name": "Flatland 3: Multi-Agent RL on Trains",
+            "url": "https://www.aicrowd.com/challenges/flatland-3?utm_source=mlc&utm_medium=post&utm_campaign=flatland",
+            "type": "🔁 Reinforcement Learning",
+            "deadline": "31 Dec 2021",
+            "prize": "$TBA",
+            "platform": "AIcrowd",
+            "sponsor": "SBB, SNCF, DB"
+     },
+      {
             "name": "Visual Attention Estimation in HMD",
             "url": "https://aidea-web.tw/topic/aa5451e1-8697-47ee-96f1-c51ccc3badcc?focus=intro",
             "type": "✅ Supervised Learning",

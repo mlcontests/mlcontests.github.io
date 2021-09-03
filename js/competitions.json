@@ -1,6 +1,15 @@
  {
      "data": [
     {
+            "name": "AI Blitz⚡XI : Self-Driving Cars",
+            "url": "https://www.aicrowd.com/challenges/ai-blitz-xi?utm_source=mlc&utm_medium=post&utm_campaign=blitz11 ",
+            "type": "✅ Supervised Learning",
+            "deadline": "21 Sep 2021",
+            "prize": "$4,00",
+            "platform": "AIcrowd",
+            "sponsor": "AIcrowd"
+     },
+      {
             "name": "NeurIPS 2021: MineRL BASALT Competition",
             "url": "https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition?utm_source=mlc&utm_medium=post&utm_campaign=basalt ",
             "type": "🔁 Reinforcement Learning(👨‍🔧 Human in the loop)",

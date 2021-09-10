@@ -1402,6 +1402,14 @@
          "prize": "$10,000",
          "platform": "Kaggle",
          "sponsor": "QuantCo, J Ventures, QAlmera"
+     }, {
+         "name": "Depth Estimation for Wildlife Conservation",
+         "url": "https://drivendata.org/competitions/82/competition-wildlife-video-depth-estimation/",
+         "type": "📷 Computer Vision",
+         "deadline": "15 Nov 2021",
+         "prize": "$10,000",
+         "platform": "DrivenData",
+         "sponsor": "Mathworks"
      }]
 
  }

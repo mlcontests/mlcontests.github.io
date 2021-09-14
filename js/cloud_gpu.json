@@ -23,7 +23,7 @@
          "region": "Worldwide"
      }, {
          "name": "Google Cloud Platform (GCP)",
-         "url": "https://cloud.google.com/compute/gpus-pricing",
+         "url": "https://gcpsignup.page.link/8uhU",
          "cost1080": "-",
          "costv100": "$2.48",
          "costp100": "$1.46",
@@ -38,7 +38,7 @@
          "images": true,
          "notebooks": true,
          "ssh": true,
-         "credits": "$300",
+         "credits": "$350",
          "persistence": true,
          "region": "Worldwide"
      }, {

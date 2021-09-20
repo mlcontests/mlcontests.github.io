@@ -1,6 +1,15 @@
  {
      "data": [
-   {
+    {
+            "name": "Bomberland 💣",
+            "url": "https://www.gocoder.one/bomberland?s=mlc",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "31 Jan 2022",
+            "prize": "TBD",
+            "platform": "Coder One",
+            "sponsor": "Coder One"
+     },
+    {
             "name": "NeurIPS 2021 DeepRacer Challenge",
             "url": "https://www.aicrowd.com/challenges/neurips-2021-aws-deepracer-ai-driving-olympics-challenge?utm_source=mlc&utm_medium=post&utm_campaign=deepracer",
             "type": "🔁 Reinforcement Learning, Sim2Real Transfer",

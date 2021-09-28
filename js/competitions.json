@@ -1428,6 +1428,14 @@
          "prize": "$10,000",
          "platform": "DrivenData",
          "sponsor": "Mathworks"
+     }, {
+         "name": "NFL Big Data Bowl 2022",
+         "url": "https://www.kaggle.com/c/nfl-big-data-bowl-2022?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=mlcontests",
+         "type": "📊 Analysis/Visualisation ",
+         "deadline": "6 Jan 2022",
+         "prize": "$100,000",
+         "platform": "Kaggle",
+         "sponsor": "NFL"
      }]
 
  }

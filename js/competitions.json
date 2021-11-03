@@ -1436,6 +1436,14 @@
          "prize": "$100,000",
          "platform": "Kaggle",
          "sponsor": "NFL"
+     }, {
+         "name": "Crypto Price Forecasting",
+         "url": "https://www.kaggle.com/c/g-research-crypto-forecasting?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=mlcontests",
+         "type": "📈 Time Series Forecasting",
+         "deadline": "1 Feb 2022",
+         "prize": "$125,000",
+         "platform": "Kaggle",
+         "sponsor": "G-Research"
      }]
 
  }

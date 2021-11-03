@@ -1444,6 +1444,14 @@
          "prize": "$125,000",
          "platform": "Kaggle",
          "sponsor": "G-Research"
+     }, {
+         "name": "2021 Kaggle Data Science Survey",
+         "url": "https://www.kaggle.com/c/kaggle-survey-2021",
+         "type": "📊 Analysis/Visualisation",
+         "deadline": "28 Nov 2021",
+         "prize": "$30,000",
+         "platform": "Kaggle",
+         "sponsor": "Kaggle"
      }]
 
  }

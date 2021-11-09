@@ -1452,6 +1452,14 @@
          "prize": "$30,000",
          "platform": "Kaggle",
          "sponsor": "Kaggle"
+     }, {
+         "name": "Find Biomedical Entities in Research Abstracts",
+         "url": "https://bitgrit.net/competition/13?utm_source=mlcontests&utm_medium=organic&utm_campaign=litcoin",
+         "type": "🔤 NLP",
+         "deadline": "23 Dec 2021",
+         "prize": "$100,000",
+         "platform": "bigrit",
+         "sponsor": "NASA/NCBI/NCATS/NIH"
      }]
 
  }

@@ -1460,6 +1460,14 @@
          "prize": "$100,000",
          "platform": "bitgrit",
          "sponsor": "NASA/NCBI/NCATS/NIH"
+     }, {
+         "name": "Rank Toxicity of Comments",
+         "url": "https://www.kaggle.com/c/jigsaw-toxic-severity-rating?utm_medium=organic&utm_source=mlcontests&utm_campaign=comp-jigsaw-2021",
+         "type": "🔤 NLP",
+         "deadline": "31 Jan 2022",
+         "prize": "$50,000",
+         "platform": "Kaggle",
+         "sponsor": "Jigsaw/Conversation AI"
      }]
 
  }

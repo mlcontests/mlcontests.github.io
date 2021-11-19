@@ -1468,6 +1468,14 @@
          "prize": "$50,000",
          "platform": "Kaggle",
          "sponsor": "Jigsaw/Conversation AI"
+     }, {
+         "name": "Optimize Christmas TV Programming",
+         "url": "https://www.kaggle.com/c/jigsaw-toxic-severity-rating?utm_medium=organic&utm_source=mlcontests&utm_campaign=comp-jigsaw-2021",
+         "type": "📉 Optimisation",
+         "deadline": "11 Jan 2022",
+         "prize": "$25,000",
+         "platform": "Kaggle",
+         "sponsor": "Kaggle"
      }]
 
  }

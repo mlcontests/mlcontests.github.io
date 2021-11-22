@@ -1476,6 +1476,14 @@
          "prize": "$25,000",
          "platform": "Kaggle",
          "sponsor": "Kaggle"
+     }, {
+         "name": "Identify Starfish in Coral Reef Videos",
+         "url": "https://www.kaggle.com/c/tensorflow-great-barrier-reef?utm_medium=organic&utm_source=mlcontests&utm_campaign=comp-tensorflow-2021",
+         "type": "📷 Computer Vision",
+         "deadline": "14 Feb 2022",
+         "prize": "$150,000",
+         "platform": "Kaggle",
+         "sponsor": "Google/CSIRO"
      }]
 
  }

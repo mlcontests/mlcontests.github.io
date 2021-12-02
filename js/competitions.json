@@ -1484,6 +1484,14 @@
          "prize": "$150,000",
          "platform": "Kaggle",
          "sponsor": "Google/CSIRO"
+     }, {
+         "name": "Detect Cloud Cover in Satellite Images",
+         "url": "https://www.drivendata.org/competitions/83/cloud-cover/",
+         "type": "📷 Computer Vision",
+         "deadline": "2 Feb 2022",
+         "prize": "$20,000",
+         "platform": "DrivenData",
+         "sponsor": "Microsoft/Radiant Earth Foundation"
      }]
 
  }

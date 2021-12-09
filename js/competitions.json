@@ -1492,6 +1492,14 @@
          "prize": "$20,000",
          "platform": "DrivenData",
          "sponsor": "Microsoft/Radiant Earth Foundation"
+     }, {
+         "name": "Analyse Snowpacks from Satellite Data",
+         "url": "https://www.drivendata.org/competitions/86/competition-reclamation-snow-water-dev/",
+         "type": "📷 Computer Vision",
+         "deadline": "15 Feb 2022",
+         "prize": "$500,000",
+         "platform": "DrivenData",
+         "sponsor": "Bureau of Reclamation"
      }]
 
  }

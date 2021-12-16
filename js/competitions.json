@@ -1,6 +1,15 @@
  {
      "data": [
     {
+            "name": "Learn to Race - Autonomous Racing Virtual Challenge",
+            "url": "https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge?utm_campaign=l2r&utm_medium=post&utm_source=mlc",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "15 Feb 2022",
+            "prize": "$4,000, 3 DeepRacer Cars, $50,000 Training Credit Pool ",
+            "platform": "AIcrowd",
+            "sponsor": "CMU, Arrival, AWS"
+     },
+     {
             "name": "Bomberland 💣",
             "url": "https://www.gocoder.one/bomberland?s=mlc",
             "type": "🤖 Reinforcement Learning",

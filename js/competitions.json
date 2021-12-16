@@ -1509,6 +1509,14 @@
          "prize": "$500,000",
          "platform": "DrivenData",
          "sponsor": "Bureau of Reclamation"
+     }, {
+         "name": "Classify Arguments in Student Writing",
+         "url": "https://www.kaggle.com/c/feedback-prize-2021?utm_medium=organic&utm_source=mlcontests&utm_campaign=comp-feedback-2021",
+         "type": "🔤 NLP",
+         "deadline": "15 Mar 2022",
+         "prize": "$160,000",
+         "platform": "Kaggle",
+         "sponsor": "Gates Foundation/Schmidt Futures/Chan Zuckerberg Initiative"
      }]
 
  }

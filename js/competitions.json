@@ -1,6 +1,15 @@
  {
      "data": [
     {
+            "name": "Food Recognition Benchmark 2022",
+            "url": "https://www.aicrowd.com/challenges/food-recognition-benchmark-2022?utm_campaign=food22&utm_medium=post&utm_source=mlc",
+            "type": "🥣 Image Recognition",
+            "deadline": "1 May 2022",
+            "prize": "DJI FPV Drone Combo, DJI Mavic Air 2, Oculus Quest 2",
+            "platform": "AIcrowd",
+            "sponsor": "Seerave Foundation"
+     },
+    {
             "name": "Learn to Race - Autonomous Racing Virtual Challenge",
             "url": "https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge?utm_campaign=l2r&utm_medium=post&utm_source=mlc",
             "type": "🤖 Reinforcement Learning",

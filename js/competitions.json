@@ -1,6 +1,15 @@
  {
      "data": [
     {
+            "name": "AI Blitz⚡12",
+            "url": "https://www.aicrowd.com/challenges/ai-blitz-xii?utm_campaign=blitz12&utm_medium=post&utm_source=mlc",
+            "type": "🙊 Natural Language Processing",
+            "deadline": "13 Jan 2022",
+            "prize": "$400",
+            "platform": "AIcrowd",
+            "sponsor": "AIcrowd"
+     },
+     {
             "name": "Food Recognition Benchmark 2022",
             "url": "https://www.aicrowd.com/challenges/food-recognition-benchmark-2022?utm_campaign=food22&utm_medium=post&utm_source=mlc",
             "type": "🥣 Image Recognition",

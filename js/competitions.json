@@ -1543,6 +1543,14 @@
          "prize": "$30,000",
          "platform": "MIT",
          "sponsor": "Jump, Symbotic and others"
+     }, {
+         "name": "Exun 2021-2022 - Machine Learning",
+         "url": "https://exunclan.com",
+         "type": "🤷 Interdisciplinary (Unconventional)",
+         "deadline": "13 Jan 2022",
+         "prize": "$2000",
+         "platform": "Kaggle",
+         "sponsor": "Plaksha University, CodeChef"
      }]
 
  }

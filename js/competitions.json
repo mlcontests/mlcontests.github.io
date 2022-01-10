@@ -1535,6 +1535,14 @@
          "prize": "$160,000",
          "platform": "Kaggle",
          "sponsor": "Gates Foundation/Schmidt Futures/Chan Zuckerberg Initiative"
+     }, {
+         "name": "Battlecode 2022",
+         "url": "https://battlecode.org/",
+         "type": "🤖 Reinforcement Learning",
+         "deadline": "29 Jan 2022",
+         "prize": "$30,000",
+         "platform": "MIT",
+         "sponsor": "Jump, Symbotic and others"
      }]
 
  }

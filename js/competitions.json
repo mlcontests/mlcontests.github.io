@@ -1551,6 +1551,14 @@
          "prize": "$2000",
          "platform": "Kaggle",
          "sponsor": "Plaksha University, CodeChef"
+     }, {
+         "name": "Reducing employee turnover",
+         "url": "https://www.datacamp.com/data-science-competitions",
+         "type": "📊 Analysis",
+         "deadline": "21 Feb 2022",
+         "prize": "$1,600",
+         "platform": "DataCamp",
+         "sponsor": "DataCamp"
      }]
 
  }

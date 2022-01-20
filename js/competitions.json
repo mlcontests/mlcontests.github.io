@@ -1551,6 +1551,14 @@
          "prize": "$2000",
          "platform": "Kaggle",
          "sponsor": "Plaksha University, CodeChef"
+     }, {
+         "name": "Predict Air Quality from Satellite Images and Sensor Data",
+         "url": "https://www.drivendata.org/competitions/88/competition-air-quality-pm/page/423/",
+         "type": "📷 Computer Vision",
+         "deadline": "21 Mar 2022",
+         "prize": "$50,000",
+         "platform": "DrivenData",
+         "sponsor": "NASA"
      }]
 
  }

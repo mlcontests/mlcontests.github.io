@@ -1559,6 +1559,14 @@
          "prize": "$50,000",
          "platform": "DrivenData",
          "sponsor": "NASA"
+     }, {
+         "name": "Predict Investment Returns",
+         "url": "https://www.kaggle.com/c/ubiquant-market-prediction?utm_medium=organic&utm_source=mlcontests&utm_campaign=comp-ubiquant-2022",
+         "type": "📈 Time Series Forecasting",
+         "deadline": "11 Apr 2022",
+         "prize": "$100,000",
+         "platform": "Kaggle",
+         "sponsor": "Ubiquant"
      }]
 
  }

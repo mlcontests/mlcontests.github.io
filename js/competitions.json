@@ -1,6 +1,15 @@
  {
      "data": [
     {
+            "name": "Spotify Million Playlist Dataset Challenge",
+            "url": "https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge?utm_campaign=spotify&utm_medium=post&utm_source=mlc",
+            "type": "🎧 Music Recommendation",
+            "deadline": "31 Dec 2100",
+            "prize": "TBD",
+            "platform": "AIcrowd",
+            "sponsor": "Spotify"
+     },
+    {
             "name": "AI Blitz⚡12",
             "url": "https://www.aicrowd.com/challenges/ai-blitz-xii?utm_campaign=blitz12&utm_medium=post&utm_source=mlc",
             "type": "🙊 Natural Language Processing",

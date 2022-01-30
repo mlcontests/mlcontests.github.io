@@ -1,5 +1,14 @@
  {
      "data": [
+     {
+            "name": "Turtle Recall: Conservation Challenge",
+            "url": "https://zindi.africa/competitions/turtle-recall-conservation-challenge",
+            "type": "✅ Supervised Learning",
+            "deadline": "13 March 2022",
+            "prize": "$10000",
+            "platform": "Zindi",
+            "sponsor": "Google Deepmind"
+    },
     {
             "name": "AI Blitz⚡12",
             "url": "https://www.aicrowd.com/challenges/ai-blitz-xii?utm_campaign=blitz12&utm_medium=post&utm_source=mlc",

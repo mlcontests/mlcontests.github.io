@@ -1576,6 +1576,14 @@
          "prize": "$100,000",
          "platform": "Kaggle",
          "sponsor": "Ubiquant"
+     }, {
+         "name": "Predict When Cherry Trees Bloom",
+         "url": "https://competition.statistics.gmu.edu/?source=mlcontests",
+         "type": "📊 Analysis/Visualisation",
+         "deadline": "28 Feb 2022",
+         "prize": "$5,000",
+         "platform": "George Mason University",
+         "sponsor": "Various"
      }]
 
  }

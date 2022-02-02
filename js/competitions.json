@@ -1584,6 +1584,14 @@
          "prize": "$5,000",
          "platform": "George Mason University",
          "sponsor": "Various"
+     }, {
+         "name": "Predict Airport Configurations",
+         "url": "https://www.drivendata.org/competitions/89/competition-nasa-airport-configuration/?source=mlcontests",
+         "type": "✅ Supervised Learning",
+         "deadline": "25 Apr 2022",
+         "prize": "$40,000",
+         "platform": "DrivenData",
+         "sponsor": "NASA"
      }]
 
  }

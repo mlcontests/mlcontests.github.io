@@ -1,5 +1,15 @@
  {
      "data": [
+      
+      {
+            "name": "Happywhale - Whale and Dolphin Identification",
+            "url": "https://www.kaggle.com/c/happy-whale-and-dolphin",
+            "type": "📷 Computer Vision",
+            "deadline": "18 April 2022",
+            "prize": "$25,000",
+            "platform": "Kaggle",
+            "sponsor": "Happywhale"
+     },
      {
             "name": "Turtle Recall: Conservation Challenge",
             "url": "https://zindi.africa/competitions/turtle-recall-conservation-challenge",

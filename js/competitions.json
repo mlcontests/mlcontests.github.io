@@ -3,7 +3,7 @@
       
       {
             "name": "Happywhale - Whale and Dolphin Identification",
-            "url": "https://www.kaggle.com/c/happy-whale-and-dolphin",
+            "url": "https://www.kaggle.com/c/happy-whale-and-dolphin?source=mlcontests",
             "type": "📷 Computer Vision",
             "deadline": "18 Apr 2022",
             "prize": "$25,000",
@@ -1602,6 +1602,14 @@
          "prize": "$40,000",
          "platform": "DrivenData",
          "sponsor": "NASA"
+     }, {
+         "name": "Score Clinical Patient Notes",
+         "url": "https://www.kaggle.com/c/nbme-score-clinical-patient-notes?source=mlcontests",
+         "type": "🔤 NLP",
+         "deadline": "3 May 2022",
+         "prize": "$50,000",
+         "platform": "Kaggle",
+         "sponsor": "NBME"
      }]
 
  }

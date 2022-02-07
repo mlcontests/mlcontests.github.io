@@ -1,6 +1,14 @@
  {
      "data": [
       {
+            "name": "AI Blitz⚡Faces",
+            "url": "https://www.aicrowd.com/challenges/ai-blitz-xiii?utm_source=mlc&utm_medium=post&utm_campaign=blitz13",
+            "type": "📷 Computer Vision",
+            "deadline": "25 Feb 2022",
+            "prize": "$400",
+            "platform": "AIcrowd",
+            "sponsor": "AIcrowd"
+     },      
             "name": "Data Purchasing Challenge 2022",
             "url": "https://www.aicrowd.com/challenges/data-purchasing-challenge-2022?source=mlcontests",
             "type": "📷 Computer Vision",

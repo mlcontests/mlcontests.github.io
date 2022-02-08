@@ -1,5 +1,15 @@
  {
      "data": [
+
+      {
+            "name": "H&M Personalized Fashion Recommendations",
+            "url": "https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations?utm_source=mlcontests",
+            "type": "✅ Supervised Learning",
+            "deadline": "9 May 2022",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "H&M"
+      },
       {
             "name": "AI Blitz⚡Faces",
             "url": "https://www.aicrowd.com/challenges/ai-blitz-xiii?utm_source=mlc&utm_medium=post&utm_campaign=blitz13",

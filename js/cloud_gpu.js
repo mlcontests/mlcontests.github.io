@@ -15,7 +15,7 @@ function render_checkbox(data, type, row, meta){
 return data
 }
 
-fetch('js/cloud_gpu.json')
+fetch('https://cloud-gpus.com/js/cloud_gpu.json')
     .then((response) => response.json())
     .then((res) => {
         data = res.data

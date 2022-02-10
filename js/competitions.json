@@ -2,6 +2,15 @@
      "data": [
 
       {
+            "name": "Multi Agent Behaviour Challenge 2022",
+            "url": "https://www.aicrowd.com/challenges/multi-agent-behavior-challenge-2022?source=mlcontests",
+            "type": "🪰🐀 Representation Learning",
+            "deadline": "10 May 2022",
+            "prize": "$12,000",
+            "platform": "AIcrowd",
+            "sponsor": "Google"
+      },
+      {
             "name": "H&M Personalized Fashion Recommendations",
             "url": "https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations?utm_source=mlcontests",
             "type": "✅ Supervised Learning",

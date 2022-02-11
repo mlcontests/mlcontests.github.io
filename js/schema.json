@@ -1,0 +1,45 @@
+{
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            },
+            "type": {
+              "type": "string"
+            },
+            "deadline": {
+              "type": "string"
+            },
+            "prize": {
+              "type": "string"
+            },
+            "platform": {
+              "type": "string"
+            },
+            "sponsor": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "name",
+            "url",
+            "type",
+            "deadline",
+            "prize",
+            "platform",
+            "sponsor"
+          ]
+        }
+      ]
+    }
+  }
+}

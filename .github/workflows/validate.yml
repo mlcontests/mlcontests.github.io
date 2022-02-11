@@ -1,0 +1,14 @@
+name: Validate Competitions JSONs
+
+on: [pull_request]
+
+jobs:
+  verify-json-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./js/schema.json
+          INPUT_JSONS: ./js/competitions.json

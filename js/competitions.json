@@ -1646,6 +1646,14 @@
          "prize": "$50,000",
          "platform": "Kaggle",
          "sponsor": "NBME"
+     }, {
+         "name": "AI Progress Essay Contest",
+         "url": "https://www.metaculus.com/project/ai-fortified-essay-contest/?source=mlcontests",
+         "type": "✍️ Writing",
+         "deadline": "16 April 2022",
+         "prize": "$6,500",
+         "platform": "Metaculus",
+         "sponsor": "Metaculus"
      }]
 
  }

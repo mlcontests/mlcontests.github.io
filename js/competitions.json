@@ -2,6 +2,15 @@
      "data": [
 
       {
+            "name": "ORBIT Few-Shot Object Recognition Challenge 2022",
+            "url": "https://eval.ai/web/challenges/challenge-page/1438/overview",
+            "type": "📷 Computer Vision",
+            "deadline": "6 May 2022",
+            "prize": "$2,500x2, invitation to CVPR and Microsoft",
+            "platform": "EvalAI",
+            "sponsor": "Microsoft"
+      },
+      {
             "name": "Multi Agent Behaviour Challenge 2022",
             "url": "https://www.aicrowd.com/challenges/multi-agent-behavior-challenge-2022?source=mlcontests",
             "type": "🪰🐀 Representation Learning",

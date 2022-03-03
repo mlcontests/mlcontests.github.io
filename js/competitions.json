@@ -6,7 +6,7 @@
             "url": "https://eval.ai/web/challenges/challenge-page/1438/overview",
             "type": "📷 Computer Vision",
             "deadline": "6 May 2022",
-            "prize": "$2,500x2, invitation to CVPR and Microsoft",
+            "prize": "$5,000",
             "platform": "EvalAI",
             "sponsor": "Microsoft"
       },
@@ -78,7 +78,7 @@
             "url": "https://www.aicrowd.com/challenges/food-recognition-benchmark-2022?utm_campaign=food22&utm_medium=post&utm_source=mlc",
             "type": "🥣 Image Recognition",
             "deadline": "1 May 2022",
-            "prize": "DJI FPV Drone Combo, DJI Mavic Air 2, Oculus Quest 2",
+            "prize": "$1,000",
             "platform": "AIcrowd",
             "sponsor": "Seerave Foundation"
      },
@@ -96,7 +96,7 @@
             "url": "https://www.gocoder.one/bomberland?s=mlc",
             "type": "🤖 Reinforcement Learning",
             "deadline": "20 Mar 2022",
-            "prize": "$1,000 and custom merchandise",
+            "prize": "$1,000",
             "platform": "Coder One",
             "sponsor": "Coder One"
      },

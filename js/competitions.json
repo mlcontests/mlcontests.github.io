@@ -1663,6 +1663,14 @@
          "prize": "$6,500",
          "platform": "Metaculus",
          "sponsor": "Metaculus"
+     }, {
+         "name": "UltraMNIST: Extract Sum of Digits from Images",
+         "url": "https://www.kaggle.com/c/ultra-mnist?source=mlcontests",
+         "type": "📷 Computer Vision",
+         "deadline": "10 Apr 2022",
+         "prize": "$5,500",
+         "platform": "Kaggle",
+         "sponsor": "NVidia"
      }]
 
  }

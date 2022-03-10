@@ -1671,6 +1671,14 @@
          "prize": "$5,500",
          "platform": "Kaggle",
          "sponsor": "NVidia"
+     }, {
+         "name": "Waymo Open Dataset Challenges (2022)",
+         "url": "https://waymo.com/open/challenges?source=mlcontests",
+         "type": "📷 Computer Vision",
+         "deadline": "23 May 2022",
+         "prize": "$88,000",
+         "platform": "Waymo",
+         "sponsor": "Waymo"
      }]
 
  }

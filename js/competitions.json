@@ -2,6 +2,15 @@
      "data": [
 
       {
+            "name": "BirdCLEF 2022",
+            "url": "https://www.kaggle.com/c/birdclef-2022/overview",
+            "type": "🔊 Audio",
+            "deadline": "24 May 2022",
+            "prize": "$10,000",
+            "platform": "Kaggle",
+            "sponsor": "Cornell Lab of Ornithology"
+      },
+      {
             "name": "ORBIT Few-Shot Object Recognition Challenge 2022",
             "url": "https://eval.ai/web/challenges/challenge-page/1438/overview",
             "type": "📷 Computer Vision",

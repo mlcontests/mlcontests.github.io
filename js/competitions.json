@@ -1,6 +1,14 @@
  {
      "data": [
-
+      {
+            "name": "Analyse Martian Mass Spectrometry Data",
+            "url": "https://www.drivendata.org/competitions/93/nasa-mars-spectrometry?source=mlcontests",
+            "type": "✅ Supervised Learning",
+            "deadline": "18 Apr 2022",
+            "prize": "$30,000",
+            "platform": "DrivenData",
+            "sponsor": "NASA"
+      },
       {
             "name": "BirdCLEF 2022",
             "url": "https://www.kaggle.com/c/birdclef-2022/overview",
@@ -13,7 +21,6 @@
       {
             "name": "ORBIT Few-Shot Object Recognition Challenge 2022",
             "url": "https://eval.ai/web/challenges/challenge-page/1438/overview",
-            "type": "📷 Computer Vision",
             "deadline": "6 May 2022",
             "prize": "$5,000",
             "platform": "EvalAI",

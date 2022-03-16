@@ -21,6 +21,7 @@
       {
             "name": "ORBIT Few-Shot Object Recognition Challenge 2022",
             "url": "https://eval.ai/web/challenges/challenge-page/1438/overview",
+            "type": "📷 Computer Vision",
             "deadline": "6 May 2022",
             "prize": "$5,000",
             "platform": "EvalAI",

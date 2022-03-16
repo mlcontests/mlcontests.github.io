@@ -5,10 +5,19 @@
             "name": "Amazon KDD Cup 2022: Improving Product Search",
             "url": "https://www.aicrowd.com/challenges/esci-challenge-for-improving-product-search?source=mlcontests",
             "type": "🔤 NLP",
-            "deadline": "15 July 2022",
+            "deadline": "15 Jul 2022",
             "prize": "$31,500",
             "platform": "AIcrowd",
             "sponsor": "Amazon"
+      },
+      {
+            "name": "BirdCLEF 2022",
+            "url": "https://www.kaggle.com/c/birdclef-2022/overview?source=mlcontests",
+            "type": "🔊 Audio",
+            "deadline": "24 May 2022",
+            "prize": "$10,000",
+            "platform": "Kaggle",
+            "sponsor": "Cornell Lab of Ornithology"
       },
       {
             "name": "ORBIT Few-Shot Object Recognition Challenge 2022",

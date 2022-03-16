@@ -2,6 +2,15 @@
      "data": [
 
       {
+            "name": "Amazon KDD Cup 2022: Improving Product Search",
+            "url": "https://www.aicrowd.com/challenges/esci-challenge-for-improving-product-search?source=mlcontests",
+            "type": "🔤 NLP",
+            "deadline": "15 July 2022",
+            "prize": "$31,500",
+            "platform": "AIcrowd",
+            "sponsor": "Amazon"
+      },
+      {
             "name": "ORBIT Few-Shot Object Recognition Challenge 2022",
             "url": "https://eval.ai/web/challenges/challenge-page/1438/overview",
             "type": "📷 Computer Vision",

@@ -22,4 +22,4 @@ The list of contests is in https://github.com/mlcontests/mlcontests.github.io/bl
 
 The required date format is 'D MMM YYYY' - e.g. '5 Jan 2023'. 
 
-The list of cloud GPU providers is in https://github.com/mlcontests/mlcontests.github.io/blob/master/js/cloud_gpu.json. 
+The list of cloud GPU providers is in a separate repository: https://github.com/cloud-gpus/cloud-gpus.github.io/blob/master/js/cloud_gpu.json. 

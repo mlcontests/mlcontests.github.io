@@ -1,6 +1,17 @@
  {
      "data": [
       {
+            "name": "Patent Phrase Similarity Matching",
+            "url": "https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching?source=mlcontests",
+            "type": "🔤 NLP",
+            "deadline": "20 Jun 2022",
+            "prize": "$25,000",
+            "platform": "Kaggle",
+            "sponsor": "Satsyil",
+            "start": "21 Mar 2022",
+            "conference": null
+      },
+      {
             "name": "Analyse Martian Mass Spectrometry Data",
             "url": "https://www.drivendata.org/competitions/93/nasa-mars-spectrometry?source=mlcontests",
             "type": "✅ Supervised Learning",
@@ -14,6 +25,7 @@
             "url": "https://www.aicrowd.com/challenges/esci-challenge-for-improving-product-search?source=mlcontests",
             "type": "🔤 NLP",
             "deadline": "15 Jul 2022",
+            "start": "22 Mar 2021",
             "prize": "$31,500",
             "platform": "AIcrowd",
             "sponsor": "Amazon"

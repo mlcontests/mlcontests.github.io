@@ -1,6 +1,15 @@
  {
      "data": [
       {
+            "name": "IJCAI 2022 Neural MMO Challenge",
+            "url": "https://www.aicrowd.com/challenges/ijcai-2022-the-neural-mmo-challenge?utm_source=mlc&utm_medium=post&utm_campaign=neural-mmo-22",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "15 Jul 2022",
+            "prize": "$20,000",
+            "platform": "AIcrowd",
+            "sponsor": "Parametrix AI, MIT, Tsinghua SIGS"
+      },
+      {
             "name": "Patent Phrase Similarity Matching",
             "url": "https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching?source=mlcontests",
             "type": "🔤 NLP",

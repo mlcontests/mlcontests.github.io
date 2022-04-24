@@ -1,6 +1,15 @@
  {
      "data": [
       {
+            "name": "MAFAT Challenge - WiFi Sensing: Non Invasive Human Presence Detection",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/3498",
+            "type": "✅ Supervised Learning",
+            "deadline": "28 Jun 2022",
+            "prize": "$50,000",
+            "platform": "CodaLab",
+            "sponsor": "MAFAT"
+      },
+      {
             "name": "IJCAI 2022 Neural MMO Challenge",
             "url": "https://www.aicrowd.com/challenges/ijcai-2022-the-neural-mmo-challenge?utm_source=mlc&utm_medium=post&utm_campaign=neural-mmo-22",
             "type": "🤖 Reinforcement Learning",

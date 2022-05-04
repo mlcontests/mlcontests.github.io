@@ -1,6 +1,15 @@
  {
      "data": [
       {
+            "name": "HTREC 2022 - Improving the HTR output of Greek papyri and Byzantine manuscripts",
+            "url": "https://www.aicrowd.com/challenges/htrec-2022?utm_source=mlc&utm_medium=post&utm_campaign=htrec",
+            "type": "🔤 NLP",
+            "deadline": "8 Jun 2022",
+            "prize": "$5,000",
+            "platform": "AIcrowd",
+            "sponsor": "Ca' Foscari University of Venice, Italy"
+      },
+      {
             "name": "MAFAT Challenge - WiFi Sensing: Non Invasive Human Presence Detection",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/3498",
             "type": "✅ Supervised Learning",

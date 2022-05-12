@@ -1,6 +1,15 @@
  {
      "data": [
       {
+            "name": "AI4Code: Match Code with Comments",
+            "url": "https://www.kaggle.com/competitions/AI4Code",
+            "type": "🔤 NLP",
+            "deadline": "4 Aug 2022",
+            "prize": "$150,000",
+            "platform": "Kaggle",
+            "sponsor": "Google"
+      },
+      {
             "name": "Foursquare Location Matching",
             "url": "https://www.kaggle.com/competitions/foursquare-location-matching",
             "type": "✅ Supervised Learning",

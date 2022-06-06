@@ -1,6 +1,15 @@
  {
      "data": [
       {
+            "name": "Credit Card Default Prediction",
+            "url": "https://www.kaggle.com/competitions/amex-default-prediction",
+            "type": "✅ Supervised Learning",
+            "deadline": "24 Aug 2022",
+            "prize": "$100,000",
+            "platform": "Kaggle",
+            "sponsor": "American Express"
+      },
+      {
             "name": "High Precision Smartphone Localisation",
             "url": "https://www.kaggle.com/competitions/smartphone-decimeter-2022",
             "type": "✅ Supervised Learning",

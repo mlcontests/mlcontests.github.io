@@ -1,6 +1,15 @@
  {
      "data": [
       {
+            "name": "High Precision Smartphone Localisation",
+            "url": "https://www.kaggle.com/competitions/smartphone-decimeter-2022",
+            "type": "✅ Supervised Learning",
+            "deadline": "29 Jul 2022",
+            "prize": "$10,000",
+            "platform": "Kaggle",
+            "sponsor": "Google"
+      },
+      {
             "name": "AI4Code: Match Code with Comments",
             "url": "https://www.kaggle.com/competitions/AI4Code",
             "type": "🔤 NLP",

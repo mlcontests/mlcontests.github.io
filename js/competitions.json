@@ -1,6 +1,15 @@
  {
      "data": [
       {
+            "name": "Identify beluga Whales from Images",
+            "url": "https://www.drivendata.org/competitions/96/beluga-whales/",
+            "type": "📷 Computer Vision",
+            "deadline": "30 Jun 2022",
+            "prize": "$35,000",
+            "platform": "DrivenData",
+            "sponsor": "BOEM"
+      },
+      {
             "name": "Credit Card Default Prediction",
             "url": "https://www.kaggle.com/competitions/amex-default-prediction",
             "type": "✅ Supervised Learning",

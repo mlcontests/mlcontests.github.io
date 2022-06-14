@@ -1846,6 +1846,14 @@
         "prize": "$2,000",
         "platform": "Zindi",
         "sponsor": "Laduma Analytics"
+     }, {
+        "name": "Predict Effective Arguments",
+        "url": "https://www.kaggle.com/competitions/feedback-prize-effectiveness",
+        "type": "🔤 NLP",
+        "deadline": "23 Aug 2022",
+        "prize": "$55,000",
+        "platform": "Kaggle",
+        "sponsor": "Georgia State University"
      }]
 
  }

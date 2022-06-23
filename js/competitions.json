@@ -1854,6 +1854,14 @@
         "prize": "$55,000",
         "platform": "Kaggle",
         "sponsor": "Georgia State University"
+     }, {
+        "name": "Determine Camera Poses from Images",
+        "url": "https://codalab.lisn.upsaclay.fr/competitions/5481",
+        "type": "📷 Computer Vision",
+        "deadline": "21 Dec 2022",
+        "prize": "$10,000",
+        "platform": "CodaLab",
+        "sponsor": "CodaLab"
      }]
 
  }

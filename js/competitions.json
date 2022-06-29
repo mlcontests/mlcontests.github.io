@@ -1,5 +1,41 @@
  {
      "data": [
+        {
+
+            "name": "2022 ITU AI/ML in 5G Challenge",
+   
+            "url": "https://challenge.aiforgood.itu.int/",
+   
+            "type": "🎓 Various",
+   
+            "deadline": "21 October 2022",
+   
+            "prize": "CHF20,000",
+   
+            "platform": "ITU",
+   
+            "sponsor": "ITU and Partners"
+   
+        },    
+        {
+   
+            "name": "ITU GeoAI Challenge",
+   
+            "url": "https://geoaichallenge.aiforgood.itu.int/",
+   
+            "type": "📷+📊 Computer Vision + Analysis ",
+   
+            "deadline": "October 2022",
+   
+            "prize": "CHF5,000",
+   
+            "platform": "ITU",
+   
+            "sponsor": "ITU and Partners"
+   
+        },
+
+
       {
             "name": "Identify beluga Whales from Images",
             "url": "https://www.drivendata.org/competitions/96/beluga-whales/",

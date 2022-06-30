@@ -1,5 +1,14 @@
  {
      "data": [
+        {
+            "name": "Coder One",
+            "url": "https://www.gocoder.one/?s=mlc",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "14 Sep 2022",
+            "prize": "$5,000",
+            "platform": "Coder One",
+            "sponsor": "SitePoint, General Assembly, Hackathons Australia"
+        },
       {
             "name": "Identify beluga Whales from Images",
             "url": "https://www.drivendata.org/competitions/96/beluga-whales/",

@@ -1,5 +1,14 @@
  {
      "data": [
+        {
+            "name": "Coder One",
+            "url": "https://www.gocoder.one/?s=mlc",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "14 Sep 2022",
+            "prize": "$5,000",
+            "platform": "Coder One",
+            "sponsor": "SitePoint, General Assembly, Hackathons Australia"
+        },
       {
          "name": "GNN Challenge 2022 (ITU AI/ML in 5G)",
          "url": "https://bnn.upc.edu/challenge/gnnet2022",

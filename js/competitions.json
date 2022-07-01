@@ -1,6 +1,14 @@
  {
      "data": [
       {
+         "name": "GNN Challenge 2022 (ITU AI/ML in 5G)",
+         "url": "https://bnn.upc.edu/challenge/gnnet2022",
+         "type": "☋ Graph Learning",
+         "deadline": "31 Sep 2022",
+         "prize": "$1,000",
+         "platform": "BNN-UPC",
+         "sponsor": "ITU/ United Nations/ ZTE/ MSIT Korea"
+     },{
             "name": "Identify beluga Whales from Images",
             "url": "https://www.drivendata.org/competitions/96/beluga-whales/",
             "type": "📷 Computer Vision",

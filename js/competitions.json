@@ -16,8 +16,9 @@
             "deadline": "31 Oct 2022",
             "prize": "$5,000",
             "platform": "ITU",
-            "sponsor": "ITU and Partners
+            "sponsor": "ITU and Partners"
         },
+        {
             "name": "Coder One",
             "url": "https://www.gocoder.one/?s=mlc",
             "type": "🤖 Reinforcement Learning",

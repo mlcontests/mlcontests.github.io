@@ -1,23 +1,6 @@
  {
      "data": [
         {
-            "name": "2022 ITU AI/ML in 5G Challenge",
-            "url": "https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/",
-            "type": "🎓 Various",
-            "deadline": "21 Oct 2022",   
-            "prize": "$20,000",
-            "platform": "ITU",
-            "sponsor": "ITU and Partners"
-        },    
-        {
-            "name": "2022 GeoAI Challenge",
-            "url": "https://aiforgood.itu.int/about-ai-for-good/geoai-challenge/",
-            "type": "📷+📊 Computer Vision + Analysis",
-            "deadline": "31 Oct 2022",
-            "prize": "$5,000",
-            "platform": "ITU",
-            "sponsor": "ITU and Partners
-        },
             "name": "Coder One",
             "url": "https://www.gocoder.one/?s=mlc",
             "type": "🤖 Reinforcement Learning",

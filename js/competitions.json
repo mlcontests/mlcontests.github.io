@@ -1,42 +1,40 @@
  {
      "data": [
         {
-
             "name": "2022 ITU AI/ML in 5G Challenge",
-   
-            "url": "https://challenge.aiforgood.itu.int/",
-   
+            "url": "https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/",
             "type": "🎓 Various",
-   
-            "deadline": "21 October 2022",
-   
-            "prize": "CHF20,000",
-   
+            "deadline": "21 Oct 2022",   
+            "prize": "$20,000",
             "platform": "ITU",
-   
             "sponsor": "ITU and Partners"
-   
         },    
         {
-   
-            "name": "ITU GeoAI Challenge",
-   
-            "url": "https://geoaichallenge.aiforgood.itu.int/",
-   
-            "type": "📷+📊 Computer Vision + Analysis ",
-   
-            "deadline": "October 2022",
-   
-            "prize": "CHF5,000",
-   
+            "name": "2022 GeoAI Challenge",
+            "url": "https://aiforgood.itu.int/about-ai-for-good/geoai-challenge/",
+            "type": "📷+📊 Computer Vision + Analysis",
+            "deadline": "31 Oct 2022",
+            "prize": "$5,000",
             "platform": "ITU",
-   
-            "sponsor": "ITU and Partners"
-   
+            "sponsor": "ITU and Partners
         },
-
-
+            "name": "Coder One",
+            "url": "https://www.gocoder.one/?s=mlc",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "14 Sep 2022",
+            "prize": "$5,000",
+            "platform": "Coder One",
+            "sponsor": "SitePoint, General Assembly, Hackathons Australia"
+        },
       {
+         "name": "GNN Challenge 2022 (ITU AI/ML in 5G)",
+         "url": "https://bnn.upc.edu/challenge/gnnet2022",
+         "type": "☋ Graph Learning",
+         "deadline": "31 Sep 2022",
+         "prize": "$1,000",
+         "platform": "BNN-UPC",
+         "sponsor": "ITU/ United Nations/ ZTE/ MSIT Korea"
+     },{
             "name": "Identify beluga Whales from Images",
             "url": "https://www.drivendata.org/competitions/96/beluga-whales/",
             "type": "📷 Computer Vision",

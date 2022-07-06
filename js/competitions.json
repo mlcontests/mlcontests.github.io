@@ -1,6 +1,15 @@
  {
      "data": [
         {
+            "name": "Find Tasks Where Larger Language Models Do Worse",
+            "url": "http://inversescaling.com",
+            "type": "🔤 NLP",
+            "deadline": "27 Aug 2022",   
+            "prize": "$250,000",
+            "platform": "GitHub/Google Forms",
+            "sponsor": "FTX Future Fund"
+        },    
+        {
             "name": "2022 ITU AI/ML in 5G Challenge",
             "url": "https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/",
             "type": "🎓 Various",

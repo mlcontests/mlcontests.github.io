@@ -1906,6 +1906,14 @@
         "prize": "$10,000",
         "platform": "CodaLab",
         "sponsor": "CodaLab"
+     }, {
+        "name": "Classify Blood Clots in Stroke Images",
+        "url": "https://www.kaggle.com/c/mayo-clinic-strip-ai",
+        "type": "📷 Computer Vision",
+        "deadline": "5 Oct 2022",
+        "prize": "$10,000",
+        "platform": "Kaggle",
+        "sponsor": "Kaggle"
      }]
 
  }

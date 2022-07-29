@@ -1,6 +1,15 @@
  {
      "data": [
         {
+            "name": "Device Operating Region Classification Match",
+            "url": "https://www.topcoder.com/challenges/2ae3b08a-aabc-4345-87bd-7edfff837e8c",
+            "type": "📈 Time Series Forecasting",
+            "deadline": "28 Aug 2022",   
+            "prize": "$34,700",
+            "platform": "Topcoder",
+            "sponsor": "Topcoder, Undisclosed"
+        },  
+        {
             "name": "Find Tasks Where Larger Language Models Do Worse",
             "url": "http://inversescaling.com",
             "type": "🔤 NLP",

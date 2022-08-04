@@ -1,6 +1,15 @@
  {
      "data": [
         {
+            "name": "Device Operating Region Classification Match",
+            "url": "https://www.topcoder.com/challenges/2ae3b08a-aabc-4345-87bd-7edfff837e8c",
+            "type": "📈 Time Series Forecasting",
+            "deadline": "28 Aug 2022",   
+            "prize": "$34,700",
+            "platform": "Topcoder",
+            "sponsor": "Topcoder, Undisclosed"
+        },  
+        {
             "name": "Find Tasks Where Larger Language Models Do Worse",
             "url": "http://inversescaling.com",
             "type": "🔤 NLP",
@@ -1914,6 +1923,14 @@
         "prize": "$71,000",
         "platform": "Stanford",
         "sponsor": "Stanford"
+     }, {
+        "name": "Classify Blood Clots in Stroke Images",
+        "url": "https://www.kaggle.com/c/mayo-clinic-strip-ai",
+        "type": "📷 Computer Vision",
+        "deadline": "5 Oct 2022",
+        "prize": "$10,000",
+        "platform": "Kaggle",
+        "sponsor": "Mayo Clinic"
      }]
 
  }

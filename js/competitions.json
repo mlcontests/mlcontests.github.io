@@ -1931,6 +1931,14 @@
         "prize": "$10,000",
         "platform": "Kaggle",
         "sponsor": "Mayo Clinic"
+     }, {
+        "name": "Enhance Privacy Protections in Federated Learning",
+        "url": "https://www.drivendata.org/competitions/98/nist-federated-learning-1?source=mlcontests",
+        "type": "🕵 Privacy",
+        "deadline": "19 Sep 2022",
+        "prize": "$800,000",
+        "platform": "DrivenData",
+        "sponsor": "NIST/NSF"
      }]
 
  }

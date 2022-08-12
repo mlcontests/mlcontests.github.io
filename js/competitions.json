@@ -1,6 +1,15 @@
  {
      "data": [
         {
+            "name": "Identify Cervical Fractures from Scans",
+            "url": "https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection?utm_medium=mlcontests&utm_source=mlcontests",
+            "type": "📷 Computer Vision",
+            "deadline": "18 Oct 2022",   
+            "prize": "$30,000",
+            "platform": "Kaggle",
+            "sponsor": "RSNA"
+        },  
+        {
             "name": "Hydropower Operations Optimization (H2Os) Prize - Phase 2",
             "url": "https://www.topcoder.com/challenges/794177c5-3bb6-4fb8-91bd-7e2fd646fa2d?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=0903",
             "type": "📉 Optimisation",

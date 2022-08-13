@@ -1,10 +1,55 @@
  {
      "data": [
         {
+            "name": "Analyse Horse Racing Performance",
+            "url": "https://www.kaggle.com/c/dfl-bundesliga-data-shootout?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=comp-dfl-2022",
+            "type": "📊 Analysis/Visualisation ",
+            "deadline": "10 Nov 2022",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "NYTHA/NYRA"
+        },  
+        {
+            "name": "Segment Functional Tissue Units in Organ Biopsies",
+            "url": "https://www.kaggle.com/competitions/hubmap-organ-segmentation?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=comp-dfl-2022",
+            "type": "📷 Computer Vision",
+            "deadline": "12 Sep 2022",
+            "prize": "$60,000",
+            "platform": "Kaggle",
+            "sponsor": "HuBMAP, HPA"
+        },  
+        {
+            "name": "DEFCON30 Capture the Flag Challenges",
+            "url": "https://www.kaggle.com/competitions/ai-village-ctf?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=comp-dfl-2022",
+            "type": "🎓 Various",
+            "deadline": "12 Sep 2022",
+            "prize": "$25,000",
+            "platform": "Kaggle",
+            "sponsor": "AI Village"
+        },  
+        {
+            "name": "Create Universal Image Representations",
+            "url": "https://www.kaggle.com/competitions/google-universal-image-embedding?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=comp-dfl-2022",
+            "type": "📷 Computer Vision",
+            "deadline": "10 Oct 2022",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Google"
+        },  
+        {
+            "name": "Identify Soccer Plays from Video Footage",
+            "url": "https://www.kaggle.com/c/dfl-bundesliga-data-shootout?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=comp-dfl-2022",
+            "type": "📷 Computer Vision",
+            "deadline": "13 Oct 2022",
+            "prize": "$25,000",
+            "platform": "Kaggle",
+            "sponsor": "DFL"
+        },  
+        {
             "name": "Identify Cervical Fractures from Scans",
             "url": "https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection?utm_medium=mlcontests&utm_source=mlcontests",
             "type": "📷 Computer Vision",
-            "deadline": "27 Oct 2022",   
+            "deadline": "27 Oct 2022",
             "prize": "$30,000",
             "platform": "Kaggle",
             "sponsor": "RSNA"
@@ -13,7 +58,7 @@
             "name": "Hydropower Operations Optimization (H2Os) Prize - Phase 2",
             "url": "https://www.topcoder.com/challenges/794177c5-3bb6-4fb8-91bd-7e2fd646fa2d?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=0903",
             "type": "📉 Optimisation",
-            "deadline": "19 Aug 2022",   
+            "deadline": "19 Aug 2022",
             "prize": "$15,000",
             "platform": "Topcoder",
             "sponsor": "Topcoder, U.S. DOE WPTO"
@@ -22,7 +67,7 @@
             "name": "The SpaceNet 8 Challenge, Flood Detection Using Multiclass Segmentation",
             "url": "https://www.topcoder.com/challenges/a6c49990-e4a9-4e90-a731-4cc6502e6beb?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=0902",
             "type": "📷 Computer Vision",
-            "deadline": "23 Aug 2022",   
+            "deadline": "23 Aug 2022",
             "prize": "$45,000",
             "platform": "Topcoder",
             "sponsor": "Topcoder, Maxar Technologies"
@@ -31,7 +76,7 @@
             "name": "Device Operating Region Classification Match",
             "url": "https://www.topcoder.com/challenges/2ae3b08a-aabc-4345-87bd-7edfff837e8c?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=0901",
             "type": "📈 Time Series Forecasting",
-            "deadline": "28 Aug 2022",   
+            "deadline": "28 Aug 2022",
             "prize": "$34,700",
             "platform": "Topcoder",
             "sponsor": "Topcoder, Undisclosed"
@@ -40,7 +85,7 @@
             "name": "Find Tasks Where Larger Language Models Do Worse",
             "url": "http://inversescaling.com",
             "type": "🔤 NLP",
-            "deadline": "27 Aug 2022",   
+            "deadline": "27 Aug 2022",
             "prize": "$250,000",
             "platform": "GitHub/Google Forms",
             "sponsor": "FTX Future Fund"
@@ -49,7 +94,7 @@
             "name": "2022 ITU AI/ML in 5G Challenge",
             "url": "https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/",
             "type": "🎓 Various",
-            "deadline": "21 Oct 2022",   
+            "deadline": "21 Oct 2022",
             "prize": "$20,000",
             "platform": "ITU",
             "sponsor": "ITU and Partners"

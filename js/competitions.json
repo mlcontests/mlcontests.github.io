@@ -1,6 +1,17 @@
  {
      "data": [
         {
+            "name": "NeurIPS 2022: Causal Insights for Learning Paths in Education",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/5626",
+            "type": "➡️ Causal ML",
+            "deadline": "9 Sep 2022",
+            "prize": "$5,000",
+            "platform": "CodaLab",
+            "sponsor": "Eedi",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
             "name": "NeurIPS 2022: Trojan Detection Challenge",
             "url": "https://trojandetection.ai/",
             "type": "🕵 Security",

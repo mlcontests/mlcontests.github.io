@@ -1,6 +1,17 @@
  {
      "data": [
         {
+            "name": "NeurIPS 2022: Trojan Detection Challenge",
+            "url": "https://trojandetection.ai/",
+            "type": "🕵 Security",
+            "deadline": "31 Oct 2022",
+            "prize": "$50,000",
+            "platform": "Independent",
+            "sponsor": "FTX Future Fund",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
             "name": "NeurIPS 2022: AutoML Decathlon",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/6325",
             "type": "⚙️ Auto ML",

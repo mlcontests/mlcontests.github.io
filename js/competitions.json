@@ -1,6 +1,28 @@
  {
      "data": [
         {
+            "name": "NeurIPS 2022: IGLU - Building Structures",
+            "url": "https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge/problems/neurips-2022-iglu-challenge-rl-task",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "1 Oct 2022",
+            "prize": "$7,500",
+            "platform": "AIcrowd",
+            "sponsor": "Microsoft, Amazon, Google",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "NeurIPS 2022: IGLU - Asking Clarifying Questions",
+            "url": "https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge/problems/neurips-2022-iglu-challenge-nlp-task",
+            "type": "🔤 NLP",
+            "deadline": "1 Oct 2022",
+            "prize": "$7,500",
+            "platform": "AIcrowd",
+            "sponsor": "Microsoft, Amazon, Google",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
             "name": "NeurIPS 2022: NLP for Optimisation Modelling",
             "url": "https://nl4opt.github.io",
             "type": "🔤 NLP",

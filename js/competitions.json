@@ -1,6 +1,42 @@
  {
      "data": [
         {
+            "name": "NeurIPS 2022: MineRL BASALT Competition",
+            "url": "https://aicrowd.com/challenges/neurips-2022-minerl-basalt-competition?utm_source=mlc&utm_medium=post&utm_campaign=basalt",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "28 Oct 2022",
+            "prize": "$120,000",
+            "platform": "AIcrowd",
+            "sponsor": "MineRL Labs"
+        },  
+        {
+            "name": "NeurIPS 2022: CityLearn Challenge",
+            "url": "https://aicrowd.com/challenges/neurips-2022-citylearn-challenge?utm_source=mlc&utm_medium=post&utm_campaign=citylearn",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "31 Oct 2022",
+            "prize": "$15,000",
+            "platform": "AIcrowd",
+            "sponsor": "EPRI / SIGEnergy / Amazon"
+        },  
+        {
+            "name": "ICRA 2022: City-scale 3D Localisation",
+            "url": "https://aicrowd.com/challenges/neurips-2022-citylearn-challenge?utm_source=mlc&utm_medium=post",
+            "type": "📷 Computer Vision",
+            "deadline": "1 Sep 2022",
+            "prize": "$5,000",
+            "platform": "AIcrowd",
+            "sponsor": "Microsoft / Intel / AirLab"
+        },  
+        {
+            "name": "ICRA 2022: Visual Terain Relative Navigation",
+            "url": "https://www.aicrowd.com/challenges/icra2022-general-place-recognition-visual-terrain-relative-navigation?utm_source=mlc&utm_medium=post",
+            "type": "📷 Computer Vision",
+            "deadline": "1 Sep 2022",
+            "prize": "$5,000",
+            "platform": "AIcrowd",
+            "sponsor": "Microsoft / Intel / AirLab"
+        },  
+        {
             "name": "Analyse Horse Racing Performance",
             "url": "https://www.kaggle.com/competitions/big-data-derby-2022?utm_medium=mlcontests&utm_source=mlcontests",
             "type": "📊 Analysis/Visualisation ",

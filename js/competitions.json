@@ -2,7 +2,7 @@
      "data": [
         {
             "name": "Analyse Horse Racing Performance",
-            "url": "https://www.kaggle.com/c/dfl-bundesliga-data-shootout?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=comp-dfl-2022",
+            "url": "https://www.kaggle.com/competitions/big-data-derby-2022?utm_medium=mlcontests&utm_source=mlcontests",
             "type": "📊 Analysis/Visualisation ",
             "deadline": "10 Nov 2022",
             "prize": "$50,000",
@@ -11,7 +11,7 @@
         },  
         {
             "name": "Segment Functional Tissue Units in Organ Biopsies",
-            "url": "https://www.kaggle.com/competitions/hubmap-organ-segmentation?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=comp-dfl-2022",
+            "url": "https://www.kaggle.com/competitions/hubmap-organ-segmentation?utm_medium=mlcontests&utm_source=mlcontests",
             "type": "📷 Computer Vision",
             "deadline": "12 Sep 2022",
             "prize": "$60,000",
@@ -20,7 +20,7 @@
         },  
         {
             "name": "DEFCON30 Capture the Flag Challenges",
-            "url": "https://www.kaggle.com/competitions/ai-village-ctf?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=comp-dfl-2022",
+            "url": "https://www.kaggle.com/competitions/ai-village-ctf?utm_medium=mlcontests&utm_source=mlcontests",
             "type": "🎓 Various",
             "deadline": "12 Sep 2022",
             "prize": "$25,000",
@@ -29,7 +29,7 @@
         },  
         {
             "name": "Create Universal Image Representations",
-            "url": "https://www.kaggle.com/competitions/google-universal-image-embedding?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=comp-dfl-2022",
+            "url": "https://www.kaggle.com/competitions/google-universal-image-embedding?utm_medium=mlcontests&utm_source=mlcontests",
             "type": "📷 Computer Vision",
             "deadline": "10 Oct 2022",
             "prize": "$50,000",

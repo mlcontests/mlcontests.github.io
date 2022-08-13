@@ -1,6 +1,17 @@
  {
      "data": [
         {
+            "name": "NeurIPS 2022: AutoML Decathlon",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/6325",
+            "type": "⚙️ Auto ML",
+            "deadline": "11 Nov 2022",
+            "prize": "$15,000",
+            "platform": "CodaLab",
+            "sponsor": "Various",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
             "name": "Meta-learning from Learning Curves",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/4894",
             "type": "🧠 Meta Learning",

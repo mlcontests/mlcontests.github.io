@@ -1,6 +1,28 @@
  {
      "data": [
         {
+            "name": "Meta-learning from Learning Curves",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/4894",
+            "type": "🧠 Meta Learning",
+            "deadline": "11 Jul 2022",
+            "prize": "$1,000",
+            "platform": "CodaLab",
+            "sponsor": "Various",
+            "conference": "AutoML-Conf",
+            "conference-year": 2022
+        },  
+        {
+            "name": "NeurIPS 2022: Cross-Domain MetaDL",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/3627",
+            "type": "🧠 Meta Learning",
+            "deadline": "15 Oct 2022",
+            "prize": "$4,000",
+            "platform": "CodaLab",
+            "sponsor": "Various",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
             "name": "NeurIPS 2022: OGB-LSC Large-Scale Graph ML",
             "url": "https://ogb.stanford.edu/neurips2022/",
             "type": "☋ Graph Learning",
@@ -8,8 +30,8 @@
             "prize": null,
             "platform": "Stanford",
             "sponsor": null,
-            "conference": null,
-            "conference-year": null
+            "conference": "NeurIPS",
+            "conference-year": 2022
         },  
         {
             "name": "OGB-LSC Large-Scale Graph ML 2021",

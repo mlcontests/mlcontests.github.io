@@ -1,6 +1,28 @@
  {
      "data": [
         {
+            "name": "NeurIPS 2022: Vehicle Routing Competition",
+            "url": "https://euro-neurips-vrp-2022.challenges.ortec.com/",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "31 Oct 2022",
+            "prize": "$5,000",
+            "platform": "Independent",
+            "sponsor": "Johns Hopkins University Applied Physics Lab",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "NeurIPS 2022: Traffic4cast",
+            "url": "https://www.iarai.ac.at/traffic4cast/",
+            "type": "📈 Time Series Forecasting",
+            "deadline": "15 Oct 2022",
+            "prize": "$10,000",
+            "platform": "IARAI",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
             "name": "NeurIPS 2022: Reconnaisance Blind Chess",
             "url": "https://rbc.jhuapl.edu/tournament",
             "type": "🤖 Reinforcement Learning",
@@ -94,7 +116,7 @@
             "type": "📈 Time Series Forecasting",
             "deadline": "28 Oct 2022",
             "prize": null,
-            "platform": "Independent",
+            "platform": "IARAI",
             "sponsor": null,
             "conference": "NeurIPS",
             "conference-year": 2022

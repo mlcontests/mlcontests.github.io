@@ -1,6 +1,17 @@
  {
      "data": [
         {
+            "name": "The M6 Financial Forecasting Competition",
+            "url": "https://mofc.unic.ac.cy/the-m6-competition/",
+            "type": "📈 Time Series Forecasting",
+            "deadline": "8 Jan 2023",
+            "prize": "$300,000",
+            "platform": "MOFC",
+            "sponsor": "Google, Meta, JP Morgan, Others",
+            "conference": null,
+            "conference-year": null
+        },  
+        {
             "name": "NeurIPS 2022: IGLU - Building Structures",
             "url": "https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge/problems/neurips-2022-iglu-challenge-rl-task",
             "type": "🤖 Reinforcement Learning",

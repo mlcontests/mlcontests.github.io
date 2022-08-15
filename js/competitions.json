@@ -1,6 +1,39 @@
  {
      "data": [
         {
+            "name": "NeurIPS 2022: Reconnaisance Blind Chess",
+            "url": "https://rbc.jhuapl.edu/tournament",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "19 Oct 2022",
+            "prize": "$1,500",
+            "platform": "Independent",
+            "sponsor": "Johns Hopkins University Applied Physics Lab",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "NeurIPS 2022: Neural MMO Challenge",
+            "url": "https://www.aicrowd.com/challenges/neurips-2022-the-neural-mmo-challenge",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "30 Oct 2022",
+            "prize": "$20,000",
+            "platform": "AIcrowd",
+            "sponsor": "MIT, Parametrix, THU_SIGS",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "NeurIPS 2022: Sensorium Visual Cortex Prediction",
+            "url": "https://openproblems.bio/neurips_2022/",
+            "type": "✅ Supervised Learning",
+            "deadline": "15 Oct 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Tuebingen AI Center, others",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
             "name": "NeurIPS 2022: Weakly Supervised Cell Segmentation",
             "url": "https://openproblems.bio/neurips_2022/",
             "type": "✅ Supervised Learning",
@@ -443,7 +476,9 @@
             "deadline": "15 Jul 2022",
             "prize": "$20,000",
             "platform": "AIcrowd",
-            "sponsor": "Parametrix AI, MIT, Tsinghua SIGS"
+            "sponsor": "Parametrix AI, MIT, Tsinghua SIGS",
+            "conference": "IJCAI",
+            "conference-year": 2022
       },
       {
             "name": "Patent Phrase Similarity Matching",

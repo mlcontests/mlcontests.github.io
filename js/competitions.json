@@ -1,6 +1,50 @@
  {
      "data": [
         {
+            "name": "NeurIPS 2022: Weakly Supervised Cell Segmentation",
+            "url": "https://openproblems.bio/neurips_2022/",
+            "type": "✅ Supervised Learning",
+            "deadline": "1 Nov 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Cellarity, CZI, others",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "NeurIPS 2022: Weakly Supervised Cell Segmentation",
+            "url": "https://neurips22-cellseg.grand-challenge.org/",
+            "type": "📷 Computer Vision",
+            "deadline": "15 Aug 2022",
+            "prize": "$6,000",
+            "platform": "Independent",
+            "sponsor": "AWS",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "NeurIPS 2022: Open Catalyst Challenge",
+            "url": "https://opencatalystproject.org/challenge.html",
+            "type": "✅ Supervised Learning",
+            "deadline": "7 Oct 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Facebook, CMU",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "NeurIPS 2021: Open Catalyst Challenge",
+            "url": "https://opencatalystproject.org/challenge.html",
+            "type": "✅ Supervised Learning",
+            "deadline": "6 Oct 2021",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Facebook, CMU",
+            "conference": "NeurIPS",
+            "conference-year": 2021
+        },  
+        {
             "name": "NeurIPS 2022: Speech-to-text for Indigenous Languages of the Americas",
             "url": "http://turing.iimas.unam.mx/americasnlp/st.html",
             "type": "🔤 NLP",

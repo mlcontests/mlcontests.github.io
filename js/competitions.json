@@ -1,6 +1,39 @@
  {
      "data": [
         {
+            "name": "NeurIPS 2022: Habitat Rearrangement Challenge",
+            "url": "https://aihabitat.org/challenge/rearrange_2022/",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "20 Oct 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Facebook AI Research",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "NeurIPS 2022: Driving SMARTS Competition",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/6618",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "1 Nov 2022",
+            "prize": "$14,000",
+            "platform": "CodaLab",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "NeurIPS 2022: Visual Domain Adaptation Challenge",
+            "url": "https://ai.bu.edu/visda-2022/",
+            "type": "📷 Computer Vision",
+            "deadline": "10 Oct 2022",
+            "prize": "$3,000",
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
             "name": "NeurIPS 2022: Vehicle Routing Competition",
             "url": "https://euro-neurips-vrp-2022.challenges.ortec.com/",
             "type": "🤖 Reinforcement Learning",

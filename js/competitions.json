@@ -1,6 +1,28 @@
  {
      "data": [
         {
+            "name": "NeurIPS 2022: MyoChallenge",
+            "url": "https://sites.google.com/view/myochallenge",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "20 Oct 2022",
+            "prize": "$75,000",
+            "platform": "Independent",
+            "sponsor": "University of Twente, Google Cloud",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "NeurIPS 2022: Real Robot Challenge",
+            "url": "https://real-robot-challenge.com/",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "30 Sep 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Max Planck Institute",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
             "name": "NeurIPS 2022: Habitat Rearrangement Challenge",
             "url": "https://aihabitat.org/challenge/rearrange_2022/",
             "type": "🤖 Reinforcement Learning",

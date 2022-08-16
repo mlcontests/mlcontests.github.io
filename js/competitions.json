@@ -1,6 +1,50 @@
  {
      "data": [
         {
+            "name": "ICRA 2022: F1tenth Autonomous Grand Prix",
+            "url": "https://icra2022-race.f1tenth.org/",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "23 May 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Locomotion, Sick Sensor Intelligence",
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "ICRA 2022: Robomaster University AI Challenge",
+            "url": "https://www.robomaster.com/en-US/robo/icra?djifrom=nav",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "20 May 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "ICRA 2022: Robomaster University Sim2Real Challenge",
+            "url": "https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "20 May 2022",
+            "prize": "$10,000",
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "ICRA 2022: BARN Challenge",
+            "url": "https://www.cs.utexas.edu/~xiao/BARN_Challenge/BARN_Challenge.html",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "2 May 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Clearpath Robotics",
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
             "name": "NeurIPS 2022: MyoChallenge",
             "url": "https://sites.google.com/view/myochallenge",
             "type": "🤖 Reinforcement Learning",

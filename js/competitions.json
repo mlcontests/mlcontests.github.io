@@ -1,10 +1,54 @@
  {
      "data": [
         {
+            "name": "ICRA 2022: Roboethics Challenge",
+            "url": "https://competition.raiselab.ca",
+            "type": "📊 Analysis/Visualisation ",
+            "deadline": "25 May 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "McGill RAISE Lab, Others",
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "ICRA 2022: SeasonDepth Prediction",
+            "url": "http://seasondepth-challenge.org/ICRA2022.html",
+            "type": "📷 Computer Vision",
+            "deadline": "20 May 2022",
+            "prize": "$2,000",
+            "platform": "Independent",
+            "sponsor": "AgileX Robotics",
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "ICRA 2022: Robotic Grasping and Manipulation",
+            "url": "https://rpal.cse.usf.edu/rgmc_icra2022/",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "1 May 2022",
+            "prize": "$16,000",
+            "platform": "Independent",
+            "sponsor": "Alibaba",
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "ICRA 2022: DodgeDrone Challenge",
+            "url": "https://uzh-rpg.github.io/icra2022-dodgedrone/",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "15 May 2022",
+            "prize": "$1,000",
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
             "name": "ICRA 2022: F1tenth Autonomous Grand Prix",
             "url": "https://icra2022-race.f1tenth.org/",
             "type": "🤖 Reinforcement Learning",
-            "deadline": "23 May 2022",
+            "deadline": "25 May 2022",
             "prize": null,
             "platform": "Independent",
             "sponsor": "Locomotion, Sick Sensor Intelligence",

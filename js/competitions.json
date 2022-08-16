@@ -1,7 +1,7 @@
  {
      "data": [
         {
-            "name": "ICRA 2022: Roboethics Challenge",
+            "name": "Roboethics Challenge",
             "url": "https://competition.raiselab.ca",
             "type": "📊 Analysis/Visualisation ",
             "deadline": "25 May 2022",
@@ -12,7 +12,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "ICRA 2022: SeasonDepth Prediction",
+            "name": "SeasonDepth Prediction",
             "url": "http://seasondepth-challenge.org/ICRA2022.html",
             "type": "📷 Computer Vision",
             "deadline": "20 May 2022",
@@ -23,7 +23,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "ICRA 2022: Robotic Grasping and Manipulation",
+            "name": "Robotic Grasping and Manipulation",
             "url": "https://rpal.cse.usf.edu/rgmc_icra2022/",
             "type": "🤖 Reinforcement Learning",
             "deadline": "1 May 2022",
@@ -34,7 +34,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "ICRA 2022: DodgeDrone Challenge",
+            "name": "DodgeDrone Challenge",
             "url": "https://uzh-rpg.github.io/icra2022-dodgedrone/",
             "type": "🤖 Reinforcement Learning",
             "deadline": "15 May 2022",
@@ -45,7 +45,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "ICRA 2022: F1tenth Autonomous Grand Prix",
+            "name": "F1tenth Autonomous Grand Prix",
             "url": "https://icra2022-race.f1tenth.org/",
             "type": "🤖 Reinforcement Learning",
             "deadline": "25 May 2022",
@@ -56,7 +56,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "ICRA 2022: Robomaster University AI Challenge",
+            "name": "Robomaster University AI Challenge",
             "url": "https://www.robomaster.com/en-US/robo/icra?djifrom=nav",
             "type": "🤖 Reinforcement Learning",
             "deadline": "20 May 2022",
@@ -67,7 +67,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "ICRA 2022: Robomaster University Sim2Real Challenge",
+            "name": "Robomaster University Sim2Real Challenge",
             "url": "https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html",
             "type": "🤖 Reinforcement Learning",
             "deadline": "20 May 2022",
@@ -78,7 +78,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "ICRA 2022: BARN Challenge",
+            "name": "BARN Challenge",
             "url": "https://www.cs.utexas.edu/~xiao/BARN_Challenge/BARN_Challenge.html",
             "type": "🤖 Reinforcement Learning",
             "deadline": "2 May 2022",
@@ -89,7 +89,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: MyoChallenge",
+            "name": "MyoChallenge",
             "url": "https://sites.google.com/view/myochallenge",
             "type": "🤖 Reinforcement Learning",
             "deadline": "20 Oct 2022",
@@ -100,7 +100,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Real Robot Challenge",
+            "name": "Real Robot Challenge",
             "url": "https://real-robot-challenge.com/",
             "type": "🤖 Reinforcement Learning",
             "deadline": "30 Sep 2022",
@@ -111,7 +111,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Habitat Rearrangement Challenge",
+            "name": "Habitat Rearrangement Challenge",
             "url": "https://aihabitat.org/challenge/rearrange_2022/",
             "type": "🤖 Reinforcement Learning",
             "deadline": "20 Oct 2022",
@@ -122,7 +122,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Driving SMARTS Competition",
+            "name": "Driving SMARTS Competition",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/6618",
             "type": "🤖 Reinforcement Learning",
             "deadline": "1 Nov 2022",
@@ -133,7 +133,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Visual Domain Adaptation Challenge",
+            "name": "Visual Domain Adaptation Challenge",
             "url": "https://ai.bu.edu/visda-2022/",
             "type": "📷 Computer Vision",
             "deadline": "10 Oct 2022",
@@ -144,7 +144,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Vehicle Routing Competition",
+            "name": "Vehicle Routing Competition",
             "url": "https://euro-neurips-vrp-2022.challenges.ortec.com/",
             "type": "🤖 Reinforcement Learning",
             "deadline": "31 Oct 2022",
@@ -155,7 +155,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Traffic4cast",
+            "name": "Traffic4cast",
             "url": "https://www.iarai.ac.at/traffic4cast/",
             "type": "📈 Time Series Forecasting",
             "deadline": "15 Oct 2022",
@@ -166,7 +166,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Reconnaisance Blind Chess",
+            "name": "Reconnaisance Blind Chess",
             "url": "https://rbc.jhuapl.edu/tournament",
             "type": "🤖 Reinforcement Learning",
             "deadline": "19 Oct 2022",
@@ -177,7 +177,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Neural MMO Challenge",
+            "name": "Neural MMO Challenge",
             "url": "https://www.aicrowd.com/challenges/neurips-2022-the-neural-mmo-challenge",
             "type": "🤖 Reinforcement Learning",
             "deadline": "30 Oct 2022",
@@ -188,7 +188,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Sensorium Visual Cortex Prediction",
+            "name": "Sensorium Visual Cortex Prediction",
             "url": "https://openproblems.bio/neurips_2022/",
             "type": "✅ Supervised Learning",
             "deadline": "15 Oct 2022",
@@ -199,7 +199,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Weakly Supervised Cell Segmentation",
+            "name": "Weakly Supervised Cell Segmentation",
             "url": "https://openproblems.bio/neurips_2022/",
             "type": "✅ Supervised Learning",
             "deadline": "1 Nov 2022",
@@ -210,7 +210,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Weakly Supervised Cell Segmentation",
+            "name": "Weakly Supervised Cell Segmentation",
             "url": "https://neurips22-cellseg.grand-challenge.org/",
             "type": "📷 Computer Vision",
             "deadline": "15 Aug 2022",
@@ -221,7 +221,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Open Catalyst Challenge",
+            "name": "Open Catalyst Challenge",
             "url": "https://opencatalystproject.org/challenge.html",
             "type": "✅ Supervised Learning",
             "deadline": "7 Oct 2022",
@@ -232,7 +232,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2021: Open Catalyst Challenge",
+            "name": "Open Catalyst Challenge",
             "url": "https://opencatalystproject.org/challenge.html",
             "type": "✅ Supervised Learning",
             "deadline": "6 Oct 2021",
@@ -243,7 +243,7 @@
             "conference-year": 2021
         },  
         {
-            "name": "NeurIPS 2022: Speech-to-text for Indigenous Languages of the Americas",
+            "name": "Speech-to-text for Indigenous Languages of the Americas",
             "url": "http://turing.iimas.unam.mx/americasnlp/st.html",
             "type": "🔤 NLP",
             "deadline": "30 Sep 2022",
@@ -254,7 +254,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Weather4cast",
+            "name": "Weather4cast",
             "url": "https://www.iarai.ac.at/weather4cast",
             "type": "📈 Time Series Forecasting",
             "deadline": "28 Oct 2022",
@@ -265,7 +265,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Ariel Space Data Challenge",
+            "name": "Ariel Space Data Challenge",
             "url": "https://www.ariel-datachallenge.space/",
             "type": "✅ Supervised Learning",
             "deadline": "21 Oct 2022",
@@ -276,7 +276,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "The M6 Financial Forecasting Competition",
+            "name": "M6 Financial Forecasting Competition",
             "url": "https://mofc.unic.ac.cy/the-m6-competition/",
             "type": "📈 Time Series Forecasting",
             "deadline": "8 Jan 2023",
@@ -287,7 +287,7 @@
             "conference-year": null
         },  
         {
-            "name": "NeurIPS 2022: IGLU - Building Structures",
+            "name": "IGLU - Building Structures",
             "url": "https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge/problems/neurips-2022-iglu-challenge-rl-task",
             "type": "🤖 Reinforcement Learning",
             "deadline": "1 Oct 2022",
@@ -298,7 +298,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: IGLU - Asking Clarifying Questions",
+            "name": "IGLU - Asking Clarifying Questions",
             "url": "https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge/problems/neurips-2022-iglu-challenge-nlp-task",
             "type": "🔤 NLP",
             "deadline": "1 Oct 2022",
@@ -309,7 +309,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: NLP for Optimisation Modelling",
+            "name": "NLP for Optimisation Modelling",
             "url": "https://nl4opt.github.io",
             "type": "🔤 NLP",
             "deadline": "15 Oct 2022",
@@ -320,7 +320,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Causal Insights for Learning Paths in Education",
+            "name": "Causal Insights for Learning Paths in Education",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/5626",
             "type": "➡️ Causal ML",
             "deadline": "9 Sep 2022",
@@ -331,7 +331,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Trojan Detection Challenge",
+            "name": "Trojan Detection Challenge",
             "url": "https://trojandetection.ai/",
             "type": "🕵 Security",
             "deadline": "31 Oct 2022",
@@ -342,7 +342,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: AutoML Decathlon",
+            "name": "AutoML Decathlon",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/6325",
             "type": "⚙️ Auto ML",
             "deadline": "11 Nov 2022",
@@ -364,7 +364,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: Cross-Domain MetaDL",
+            "name": "Cross-Domain MetaDL",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/3627",
             "type": "🧠 Meta Learning",
             "deadline": "15 Oct 2022",
@@ -375,7 +375,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: OGB-LSC Large-Scale Graph ML",
+            "name": "OGB-LSC Large-Scale Graph ML",
             "url": "https://ogb.stanford.edu/neurips2022/",
             "type": "☋ Graph Learning",
             "deadline": "1 Nov 2022",
@@ -397,7 +397,7 @@
             "conference-year": null
         },  
         {
-            "name": "NeurIPS 2022: MineRL BASALT Competition",
+            "name": "MineRL BASALT Competition",
             "url": "https://aicrowd.com/challenges/neurips-2022-minerl-basalt-competition?utm_source=mlc&utm_medium=post&utm_campaign=basalt",
             "type": "🤖 Reinforcement Learning",
             "deadline": "28 Oct 2022",
@@ -408,7 +408,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "NeurIPS 2022: CityLearn Challenge",
+            "name": "CityLearn Challenge",
             "url": "https://aicrowd.com/challenges/neurips-2022-citylearn-challenge?utm_source=mlc&utm_medium=post&utm_campaign=citylearn",
             "type": "🤖 Reinforcement Learning",
             "deadline": "31 Oct 2022",
@@ -419,8 +419,8 @@
             "conference-year": 2022
         },  
         {
-            "name": "ICRA 2022: City-scale 3D Localisation",
-            "url": "https://aicrowd.com/challenges/neurips-2022-citylearn-challenge?utm_source=mlc&utm_medium=post",
+            "name": "City-scale 3D Localisation",
+            "url": "https://www.aicrowd.com/challenges/icra2022-general-place-recognition-city-scale-ugv-localization",
             "type": "📷 Computer Vision",
             "deadline": "1 Sep 2022",
             "prize": "$5,000",
@@ -430,7 +430,7 @@
             "conference-year": 2022
         },  
         {
-            "name": "ICRA 2022: Visual Terrain Relative Navigation",
+            "name": "Visual Terrain Relative Navigation",
             "url": "https://www.aicrowd.com/challenges/icra2022-general-place-recognition-visual-terrain-relative-navigation?utm_source=mlc&utm_medium=post",
             "type": "📷 Computer Vision",
             "deadline": "1 Sep 2022",
@@ -510,7 +510,7 @@
             "launched": null
         },  
         {
-            "name": "Hydropower Operations Optimization (H2Os) Prize - Phase 2",
+            "name": "Hydropower Operations Optimization",
             "url": "https://www.topcoder.com/challenges/794177c5-3bb6-4fb8-91bd-7e2fd646fa2d?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=0903",
             "type": "📉 Optimisation",
             "deadline": "19 Aug 2022",
@@ -522,7 +522,7 @@
             "launched": null
         },  
         {
-            "name": "The SpaceNet 8 Challenge, Flood Detection Using Multiclass Segmentation",
+            "name": "SpaceNet 8: Flood Detection Using Multiclass Segmentation",
             "url": "https://www.topcoder.com/challenges/a6c49990-e4a9-4e90-a731-4cc6502e6beb?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=0902",
             "type": "📷 Computer Vision",
             "deadline": "23 Aug 2022",
@@ -551,7 +551,7 @@
             "type": "🔤 NLP",
             "deadline": "27 Aug 2022",
             "prize": "$250,000",
-            "platform": "GitHub/Google Forms",
+            "platform": "Independent",
             "sponsor": "FTX Future Fund"
         },    
         {
@@ -569,7 +569,7 @@
         {
             "name": "2022 GeoAI Challenge",
             "url": "https://aiforgood.itu.int/about-ai-for-good/geoai-challenge/",
-            "type": "📷+📊 Computer Vision + Analysis",
+            "type": "📊 Analysis/Visualisation ",
             "deadline": "31 Oct 2022",
             "prize": "$5,000",
             "platform": "ITU",
@@ -916,7 +916,7 @@
             "launched": null
      },
       {
-            "name": "NeurIPS 2021: MineRL BASALT Competition",
+            "name": "MineRL BASALT Competition",
             "url": "https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition?utm_source=mlc&utm_medium=post&utm_campaign=basalt ",
             "type": "🔁 Reinforcement Learning(👨‍🔧 Human in the loop)",
             "deadline": "15 Oct 2021",

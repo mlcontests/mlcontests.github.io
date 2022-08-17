@@ -1,6 +1,16 @@
  {
      "data": [
         {
+            "name": "Jupyter Notebook Competition",
+            "url": "https://notebook.wekeo.eu/",
+            "type": "📊 Analysis/Visualisation ",
+            "deadline": "4 Sep 2022",
+            "prize": "$5,000",
+            "platform": "Independent",
+            "sponsor": "Copernicus Programme",
+            "launched": "25 Apr 2022"
+        },  
+        {
             "name": "Roboethics Challenge",
             "url": "https://competition.raiselab.ca",
             "type": "📊 Analysis/Visualisation ",

@@ -1,6 +1,24 @@
  {
      "data": [
         {
+            "name": "Slick in a Haystack - a Localization Challenge",
+            "url": "https://xeek.ai/challenges/slick-in-a-haystack-a-localization-challenges",
+            "type": "📷 Computer Vision",
+            "deadline": "16 Sep 2022",
+            "prize": "$30,000",
+            "platform": "Xeek",
+            "sponsor": "Various"
+        },
+        {
+             "name": "Identify and Extract Axes Values",
+             "url": "https://xeek.ai/challenges/identify-and-extract-axes-values",
+             "type": "✅ Supervised Learning",
+             "deadline": "7 Sep 2022",
+             "prize": "$5,000",
+             "platform": "Xeek",
+             "sponsor": "Various"
+        },
+        {
             "name": "Jupyter Notebook Competition",
             "url": "https://notebook.wekeo.eu/",
             "type": "📊 Analysis/Visualisation ",

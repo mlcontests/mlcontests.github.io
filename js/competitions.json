@@ -1,6 +1,17 @@
  {
      "data": [
         {
+            "name": "Air Quality Forecasting in Uganda",
+            "url": "https://zindi.africa/competitions/layerai-air-quality-prediction-challenge",
+            "type": "📈 Time Series Forecasting",
+            "deadline": "2 Oct 2022",
+            "prize": "$3,000",
+            "platform": "Zindi",
+            "sponsor": null,
+            "conference": null,
+            "conference-year": null
+        },  
+        {
             "name": "Approximate Inference in Bayesian Deep Learning",
             "url": "https://competitions.codalab.org/competitions/35838",
             "url_2": "https://izmailovpavel.github.io/neurips_bdl_competition/",

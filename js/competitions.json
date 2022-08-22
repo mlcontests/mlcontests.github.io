@@ -1588,8 +1588,8 @@
          "type": "📈 Time Series Forecasting",
          "deadline": "15 May 2020",
          "prize": "$3,150",
-         "platform": "TopCoder",
-         "sponsor": "TopCoder"
+         "platform": "Topcoder",
+         "sponsor": "Topcoder"
      }, {
          "name": "Identify Hateful Memes",
          "url": "https://www.drivendata.org/competitions/64/hateful-memes/",
@@ -1676,8 +1676,8 @@
          "type": "📈 Time Series Forecasting",
          "deadline": "9 Jun 2020",
          "prize": "$32,000",
-         "platform": "TopCoder",
-         "sponsor": "TopCoder"
+         "platform": "Topcoder",
+         "sponsor": "Topcoder"
      }, {
          "name": "Melanoma Classification",
          "url": "https://www.kaggle.com/c/siim-isic-melanoma-classification",

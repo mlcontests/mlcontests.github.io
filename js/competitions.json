@@ -1,6 +1,40 @@
  {
      "data": [
         {
+            "name": "Approximate Inference in Bayesian Deep Learning",
+            "url": "https://competitions.codalab.org/competitions/35838",
+            "url_2": "https://izmailovpavel.github.io/neurips_bdl_competition/",
+            "type": "🎲 Probabilistic ML",
+            "deadline": "26 Nov 2021",
+            "prize": "$4,500",
+            "platform": "CodaLab",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2021
+        },  
+        {
+            "name": "ZeroSpeech: Spoken Language Modelling",
+            "url": "https://zerospeech.com/2021/",
+            "type": "🔤 NLP",
+            "deadline": "19 Nov 2021",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2021
+        },  
+        {
+            "name": "Billion-Scale Approximate Nearest Neighbour Search",
+            "url": "https://big-ann-benchmarks.com/",
+            "type": "🔍 Search",
+            "deadline": "30 Jul 2021",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Microsoft Research",
+            "conference": "NeurIPS",
+            "conference-year": 2021
+        },  
+        {
             "name": "Slick in a Haystack - a Localization Challenge",
             "url": "https://xeek.ai/challenges/slick-in-a-haystack-a-localization-challenges",
             "type": "📷 Computer Vision",
@@ -1055,12 +1089,13 @@
          "url": "https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition?utm_source=mlc&utm_medium=post&utm_campaign=minerl",
          "type": "🤖 Reinforcement Learning",
          "deadline": "31 Dec 2021",
-         "prize": "TBD",
+         "prize": null,
          "platform": "AIcrowd",
          "sponsor": "CMU, Microsoft, DeepMind, OpenAI",
          "conference":  "NeurIPS",
          "conference-year": 2021,
-         "launched": null
+         "launched": null,
+         "winner": "https://arxiv.org/abs/2112.04907"
      },{
          "name": "AI Blitz ⚡ Hello NLP",
          "url": "https://www.aicrowd.com/challenges/ai-blitz-9?utm_source=mlc&utm_medium=post&utm_campaign=blitz9",

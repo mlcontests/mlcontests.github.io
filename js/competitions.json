@@ -273,11 +273,12 @@
         },  
         {
             "name": "Weakly Supervised Cell Segmentation",
-            "url": "https://openproblems.bio/neurips_2022/",
+            "url": "https://www.kaggle.com/competitions/open-problems-multimodal?utm_source=mlcontests&utm_campaign=comp-openproblems-2022",
+            "url_2": "https://openproblems.bio/neurips_2022/",
             "type": "✅ Supervised Learning",
-            "deadline": "1 Nov 2022",
+            "deadline": "8 Nov 2022",
             "prize": null,
-            "platform": "Independent",
+            "platform": "Kaggle",
             "sponsor": "Cellarity, CZI, others",
             "conference": "NeurIPS",
             "conference-year": 2022

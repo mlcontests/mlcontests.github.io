@@ -12,6 +12,17 @@
             "conference-year": null
         },  
         {
+            "name": "Juniper Networks Global AI Challenge",
+            "url": "https://dphi.tech/challenges/juniper-networks-global-ai-challenge/286/overview/about",
+            "type": "✅ Supervised Learning",
+            "deadline": "9 Sep 2022",
+            "prize": "$5,000",
+            "platform": "DPhi",
+            "sponsor": "Juniper Networks",
+            "conference": null,
+            "conference-year": null
+        },  
+        {
             "name": "Approximate Inference in Bayesian Deep Learning",
             "url": "https://competitions.codalab.org/competitions/35838",
             "url_2": "https://izmailovpavel.github.io/neurips_bdl_competition/",

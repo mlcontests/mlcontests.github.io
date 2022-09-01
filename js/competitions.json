@@ -339,13 +339,13 @@
             "conference-year": 2022
         },  
         {
-            "name": "Weather4cast",
+            "name": "Weather4cast - Rain Movie Prediction",
             "url": "https://www.iarai.ac.at/weather4cast",
-            "type": "📈 Time Series Forecasting",
-            "deadline": "28 Oct 2022",
-            "prize": null,
+            "type": "📷+📈 Computer Vision + Time Series Forecasting",
+            "deadline": "20 Oct 2022",
+            "prize": "$16,000",
             "platform": "IARAI",
-            "sponsor": null,
+            "sponsor": "IARAI",
             "conference": "NeurIPS",
             "conference-year": 2022
         },  
@@ -2722,15 +2722,6 @@
         "prize": "$800,000",
         "platform": "DrivenData",
         "sponsor": "NIST/NSF"
-      }, {
-        "name": "Weather4cast - Super-Resolution Rain Movie Prediction under Spatio-temporal Shifts",
-        "url": "weather4cast.ai",
-        "type":  "📷+📈 Computer Vision + Time Series Forecasting",
-        "deadline": "20 Oct 2022",
-        "prize": "€16,000",
-        "platform": "IARAI",
-        "conference": "NeurIPS",
-        "sponsor": "Institute of Advanced Research in Artificial Intelligence (IARAI)" 
-     }]
+      }]
 
  }

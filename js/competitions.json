@@ -2722,6 +2722,14 @@
         "prize": "$800,000",
         "platform": "DrivenData",
         "sponsor": "NIST/NSF"
+      }, {
+        "name": "ZenML's Month of MLOps Competition",
+        "url": "https://zenml.io/competition/",
+        "type": "🛠 MLOps",
+        "deadline": "11 Nov 2022",
+        "prize": "$1,500",
+        "platform": "ZenML",
+        "sponsor": "ZenML"
       }]
 
  }

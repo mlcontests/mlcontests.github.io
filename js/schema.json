@@ -18,7 +18,7 @@
             },
             "deadline": {
               "type": "string",
-              "pattern": "\d{1,2} [a-zA-Z]{3} \d{4}"
+              "pattern": "\\d{1,2} [a-zA-Z]{3} \\d{4}"
             },
             "prize": {
               "type": "string",

@@ -10,12 +10,27 @@ function days_until_deadline(deadline) {
     return Math.ceil((deadline.getTime() - today.getTime()) / (one_day));
 }
 
+function add_missing_fields(item) {
+    // add nulls for any fields which aren't present
+
+    item['conference'] = item['conference'] || null;
+    item['conference-year'] = item['conference-year'] || null;
+    item['launched'] = item['launched'] || null;
+    item['test'] = item['test'] || null;
+
+    return item
+}
+
 fetch('js/competitions.json')
     .then((response) => response.json())
     .then((res) => {
         data = res.data
 
         data = data.filter(contest => new Date(contest.deadline) >= (new Date().setHours(0, 0, 0, 0)))
+
+        // add null values when certain fields are missing
+        data.forEach(add_missing_fields)
+
         console.log(data.length)
         $.fn.dataTable.moment('D MMM YYYY')
         x = $('#contests').DataTable({
@@ -34,7 +49,11 @@ fetch('js/competitions.json')
             }, {
                 data: 'platform'
             }, {
+                data: 'conference'
+            }, {
                 data: 'sponsor'
+            }, {
+                data: 'launched'
             }],
             paging: false,
             searching: false,

@@ -1,13 +1,702 @@
  {
      "data": [
+        {
+            "name": "Air Quality Forecasting in Uganda",
+            "url": "https://zindi.africa/competitions/layerai-air-quality-prediction-challenge",
+            "type": "📈 Time Series Forecasting",
+            "deadline": "2 Oct 2022",
+            "prize": "$3,000",
+            "platform": "Zindi",
+            "sponsor": null,
+            "conference": null,
+            "conference-year": null
+        },  
+        {
+            "name": "Juniper Networks Global AI Challenge",
+            "url": "https://dphi.tech/challenges/juniper-networks-global-ai-challenge/286/overview/about",
+            "type": "✅ Supervised Learning",
+            "deadline": "9 Sep 2022",
+            "prize": "$5,000",
+            "platform": "DPhi",
+            "sponsor": "Juniper Networks",
+            "conference": null,
+            "conference-year": null
+        },  
+        {
+            "name": "Approximate Inference in Bayesian Deep Learning",
+            "url": "https://competitions.codalab.org/competitions/35838",
+            "url_2": "https://izmailovpavel.github.io/neurips_bdl_competition/",
+            "type": "🎲 Probabilistic ML",
+            "deadline": "26 Nov 2021",
+            "prize": "$4,500",
+            "platform": "CodaLab",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2021
+        },  
+        {
+            "name": "ZeroSpeech: Spoken Language Modelling",
+            "url": "https://zerospeech.com/2021/",
+            "type": "🔤 NLP",
+            "deadline": "19 Nov 2021",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2021
+        },  
+        {
+            "name": "Billion-Scale Approximate Nearest Neighbour Search",
+            "url": "https://big-ann-benchmarks.com/",
+            "type": "🔍 Search",
+            "deadline": "30 Jul 2021",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Microsoft Research",
+            "conference": "NeurIPS",
+            "conference-year": 2021
+        },  
+        {
+            "name": "Slick in a Haystack - a Localization Challenge",
+            "url": "https://xeek.ai/challenges/slick-in-a-haystack-a-localization-challenges",
+            "type": "📷 Computer Vision",
+            "deadline": "16 Sep 2022",
+            "prize": "$30,000",
+            "platform": "Xeek",
+            "sponsor": "Various"
+        },
+        {
+             "name": "Identify and Extract Axes Values",
+             "url": "https://xeek.ai/challenges/identify-and-extract-axes-values",
+             "type": "✅ Supervised Learning",
+             "deadline": "7 Sep 2022",
+             "prize": "$5,000",
+             "platform": "Xeek",
+             "sponsor": "Various"
+        },
+        {
+            "name": "Jupyter Notebook Competition",
+            "url": "https://notebook.wekeo.eu/",
+            "type": "📊 Analysis/Visualisation ",
+            "deadline": "4 Sep 2022",
+            "prize": "$5,000",
+            "platform": "Independent",
+            "sponsor": "Copernicus Programme",
+            "launched": "25 Apr 2022"
+        },  
+        {
+            "name": "Roboethics Challenge",
+            "url": "https://competition.raiselab.ca",
+            "type": "📊 Analysis/Visualisation ",
+            "deadline": "25 May 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "McGill RAISE Lab, Others",
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "SeasonDepth Prediction",
+            "url": "http://seasondepth-challenge.org/ICRA2022.html",
+            "type": "📷 Computer Vision",
+            "deadline": "20 May 2022",
+            "prize": "$2,000",
+            "platform": "Independent",
+            "sponsor": "AgileX Robotics",
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Robotic Grasping and Manipulation",
+            "url": "https://rpal.cse.usf.edu/rgmc_icra2022/",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "1 May 2022",
+            "prize": "$16,000",
+            "platform": "Independent",
+            "sponsor": "Alibaba",
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "DodgeDrone Challenge",
+            "url": "https://uzh-rpg.github.io/icra2022-dodgedrone/",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "15 May 2022",
+            "prize": "$1,000",
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "F1tenth Autonomous Grand Prix",
+            "url": "https://icra2022-race.f1tenth.org/",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "25 May 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Locomotion, Sick Sensor Intelligence",
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Robomaster University AI Challenge",
+            "url": "https://www.robomaster.com/en-US/robo/icra?djifrom=nav",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "20 May 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Robomaster University Sim2Real Challenge",
+            "url": "https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "20 May 2022",
+            "prize": "$10,000",
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "BARN Challenge",
+            "url": "https://www.cs.utexas.edu/~xiao/BARN_Challenge/BARN_Challenge.html",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "2 May 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Clearpath Robotics",
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "MyoChallenge",
+            "url": "https://sites.google.com/view/myochallenge",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "20 Oct 2022",
+            "prize": "$75,000",
+            "platform": "Independent",
+            "sponsor": "University of Twente, Google Cloud",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Real Robot Challenge",
+            "url": "https://real-robot-challenge.com/",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "30 Sep 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Max Planck Institute",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Habitat Rearrangement Challenge",
+            "url": "https://aihabitat.org/challenge/rearrange_2022/",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "20 Oct 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Facebook AI Research",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Driving SMARTS Competition",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/6618",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "1 Nov 2022",
+            "prize": "$14,000",
+            "platform": "CodaLab",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Visual Domain Adaptation Challenge",
+            "url": "https://ai.bu.edu/visda-2022/",
+            "type": "📷 Computer Vision",
+            "deadline": "10 Oct 2022",
+            "prize": "$3,000",
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Vehicle Routing Competition",
+            "url": "https://euro-neurips-vrp-2022.challenges.ortec.com/",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "31 Oct 2022",
+            "prize": "$5,000",
+            "platform": "Independent",
+            "sponsor": "Johns Hopkins University Applied Physics Lab",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Traffic4cast",
+            "url": "https://www.iarai.ac.at/traffic4cast/",
+            "type": "📈 Time Series Forecasting",
+            "deadline": "15 Oct 2022",
+            "prize": "$10,000",
+            "platform": "IARAI",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Reconnaisance Blind Chess",
+            "url": "https://rbc.jhuapl.edu/tournament",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "19 Oct 2022",
+            "prize": "$1,500",
+            "platform": "Independent",
+            "sponsor": "Johns Hopkins University Applied Physics Lab",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Neural MMO Challenge",
+            "url": "https://www.aicrowd.com/challenges/neurips-2022-the-neural-mmo-challenge",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "30 Oct 2022",
+            "prize": "$20,000",
+            "platform": "AIcrowd",
+            "sponsor": "MIT, Parametrix, THU_SIGS",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Sensorium Visual Cortex Prediction",
+            "url": "https://openproblems.bio/neurips_2022/",
+            "type": "✅ Supervised Learning",
+            "deadline": "15 Oct 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Tuebingen AI Center, others",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Weakly Supervised Cell Segmentation",
+            "url": "https://www.kaggle.com/competitions/open-problems-multimodal?utm_source=mlcontests&utm_campaign=comp-openproblems-2022",
+            "url_2": "https://openproblems.bio/neurips_2022/",
+            "type": "✅ Supervised Learning",
+            "deadline": "8 Nov 2022",
+            "prize": null,
+            "platform": "Kaggle",
+            "sponsor": "Cellarity, CZI, others",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Weakly Supervised Cell Segmentation",
+            "url": "https://neurips22-cellseg.grand-challenge.org/",
+            "type": "📷 Computer Vision",
+            "deadline": "15 Aug 2022",
+            "prize": "$6,000",
+            "platform": "Independent",
+            "sponsor": "AWS",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Open Catalyst Challenge",
+            "url": "https://opencatalystproject.org/challenge.html",
+            "type": "✅ Supervised Learning",
+            "deadline": "7 Oct 2022",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Facebook, CMU",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Open Catalyst Challenge",
+            "url": "https://opencatalystproject.org/challenge.html",
+            "type": "✅ Supervised Learning",
+            "deadline": "6 Oct 2021",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": "Facebook, CMU",
+            "conference": "NeurIPS",
+            "conference-year": 2021
+        },  
+        {
+            "name": "Speech-to-text for Indigenous Languages of the Americas",
+            "url": "http://turing.iimas.unam.mx/americasnlp/st.html",
+            "type": "🔤 NLP",
+            "deadline": "30 Sep 2022",
+            "prize": "$2,800",
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Weather4cast - Rain Movie Prediction",
+            "url": "https://www.iarai.ac.at/weather4cast",
+            "type": "📷+📈 Computer Vision + Time Series Forecasting",
+            "deadline": "20 Oct 2022",
+            "prize": "$16,000",
+            "platform": "IARAI",
+            "sponsor": "IARAI",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Ariel Space Data Challenge",
+            "url": "https://www.ariel-datachallenge.space/",
+            "type": "✅ Supervised Learning",
+            "deadline": "21 Oct 2022",
+            "prize": "$4,000",
+            "platform": "Independent",
+            "sponsor": "UK SA/ ERC / ESA",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "M6 Financial Forecasting Competition",
+            "url": "https://mofc.unic.ac.cy/the-m6-competition/",
+            "type": "📈 Time Series Forecasting",
+            "deadline": "8 Jan 2023",
+            "prize": "$300,000",
+            "platform": "MOFC",
+            "sponsor": "Google, Meta, JP Morgan, Others",
+            "conference": null,
+            "conference-year": null
+        },  
+        {
+            "name": "IGLU - Building Structures",
+            "url": "https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge/problems/neurips-2022-iglu-challenge-rl-task",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "1 Oct 2022",
+            "prize": "$7,500",
+            "platform": "AIcrowd",
+            "sponsor": "Microsoft, Amazon, Google",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "IGLU - Asking Clarifying Questions",
+            "url": "https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge/problems/neurips-2022-iglu-challenge-nlp-task",
+            "type": "🔤 NLP",
+            "deadline": "1 Oct 2022",
+            "prize": "$7,500",
+            "platform": "AIcrowd",
+            "sponsor": "Microsoft, Amazon, Google",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "NLP for Optimisation Modelling",
+            "url": "https://nl4opt.github.io",
+            "type": "🔤 NLP",
+            "deadline": "15 Oct 2022",
+            "prize": "$22,000",
+            "platform": "Independent",
+            "sponsor": "Huawei",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Causal Insights for Learning Paths in Education",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/5626",
+            "type": "➡️ Causal ML",
+            "deadline": "9 Sep 2022",
+            "prize": "$5,000",
+            "platform": "CodaLab",
+            "sponsor": "Eedi",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Trojan Detection Challenge",
+            "url": "https://trojandetection.ai/",
+            "type": "🕵 Security",
+            "deadline": "31 Oct 2022",
+            "prize": "$50,000",
+            "platform": "Independent",
+            "sponsor": "FTX Future Fund",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "AutoML Decathlon",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/6325",
+            "type": "⚙️ Auto ML",
+            "deadline": "11 Nov 2022",
+            "prize": "$15,000",
+            "platform": "CodaLab",
+            "sponsor": "Various",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Meta-learning from Learning Curves",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/4894",
+            "type": "🧠 Meta Learning",
+            "deadline": "11 Jul 2022",
+            "prize": "$1,000",
+            "platform": "CodaLab",
+            "sponsor": "Various",
+            "conference": "AutoML-Conf",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Cross-Domain MetaDL",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/3627",
+            "type": "🧠 Meta Learning",
+            "deadline": "15 Oct 2022",
+            "prize": "$4,000",
+            "platform": "CodaLab",
+            "sponsor": "Various",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "OGB-LSC Large-Scale Graph ML",
+            "url": "https://ogb.stanford.edu/neurips2022/",
+            "type": "☋ Graph Learning",
+            "deadline": "1 Nov 2022",
+            "prize": null,
+            "platform": "Stanford",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "OGB-LSC Large-Scale Graph ML 2021",
+            "url": "https://ogb.stanford.edu/kddcup2021/",
+            "type": "☋ Graph Learning",
+            "deadline": "8 Jun 2021",
+            "prize": null,
+            "platform": "Stanford",
+            "sponsor": null,
+            "conference": null,
+            "conference-year": null
+        },  
+        {
+            "name": "MineRL BASALT Competition",
+            "url": "https://aicrowd.com/challenges/neurips-2022-minerl-basalt-competition?utm_source=mlc&utm_medium=post&utm_campaign=basalt",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "28 Oct 2022",
+            "prize": "$120,000",
+            "platform": "AIcrowd",
+            "sponsor": "MineRL Labs",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "CityLearn Challenge",
+            "url": "https://aicrowd.com/challenges/neurips-2022-citylearn-challenge?utm_source=mlc&utm_medium=post&utm_campaign=citylearn",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "31 Oct 2022",
+            "prize": "$15,000",
+            "platform": "AIcrowd",
+            "sponsor": "EPRI / SIGEnergy / Amazon",
+            "conference": "NeurIPS",
+            "conference-year": 2022
+        },  
+        {
+            "name": "City-scale 3D Localisation",
+            "url": "https://www.aicrowd.com/challenges/icra2022-general-place-recognition-city-scale-ugv-localization",
+            "type": "📷 Computer Vision",
+            "deadline": "1 Sep 2022",
+            "prize": "$5,000",
+            "platform": "AIcrowd",
+            "sponsor": "Microsoft / Intel / AirLab",
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Visual Terrain Relative Navigation",
+            "url": "https://www.aicrowd.com/challenges/icra2022-general-place-recognition-visual-terrain-relative-navigation?utm_source=mlc&utm_medium=post",
+            "type": "📷 Computer Vision",
+            "deadline": "1 Sep 2022",
+            "prize": "$5,000",
+            "platform": "AIcrowd",
+            "sponsor": "Microsoft / Intel / AirLab",
+            "conference": "ICRA",
+            "conference-year": 2022
+        },  
+        {
+            "name": "Analyse Horse Racing Performance",
+            "url": "https://www.kaggle.com/competitions/big-data-derby-2022?utm_medium=mlcontests&utm_source=mlcontests",
+            "type": "📊 Analysis/Visualisation ",
+            "deadline": "10 Nov 2022",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "NYTHA/NYRA",
+            "conference": null,
+            "conference-year": null
+        },  
+        {
+            "name": "Segment Functional Tissue Units in Organ Biopsies",
+            "url": "https://www.kaggle.com/competitions/hubmap-organ-segmentation?utm_medium=mlcontests&utm_source=mlcontests",
+            "type": "📷 Computer Vision",
+            "deadline": "12 Sep 2022",
+            "prize": "$60,000",
+            "platform": "Kaggle",
+            "sponsor": "HuBMAP, HPA",
+            "conference": null,
+            "conference-year": null
+        },  
+        {
+            "name": "DEFCON30 Capture the Flag Challenges",
+            "url": "https://www.kaggle.com/competitions/ai-village-ctf?utm_medium=mlcontests&utm_source=mlcontests",
+            "type": "🎓 Various",
+            "deadline": "12 Sep 2022",
+            "prize": "$25,000",
+            "platform": "Kaggle",
+            "sponsor": "AI Village",
+            "conference": null,
+            "conference-year": null
+        },  
+        {
+            "name": "Create Universal Image Representations",
+            "url": "https://www.kaggle.com/competitions/google-universal-image-embedding?utm_medium=mlcontests&utm_source=mlcontests",
+            "type": "📷 Computer Vision",
+            "deadline": "10 Oct 2022",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Google",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
+        },  
+        {
+            "name": "Identify Soccer Plays from Video Footage",
+            "url": "https://www.kaggle.com/c/dfl-bundesliga-data-shootout?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=comp-dfl-2022",
+            "type": "📷 Computer Vision",
+            "deadline": "13 Oct 2022",
+            "prize": "$25,000",
+            "platform": "Kaggle",
+            "sponsor": "DFL",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
+        },  
+        {
+            "name": "Identify Cervical Fractures from Scans",
+            "url": "https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection?utm_medium=mlcontests&utm_source=mlcontests",
+            "type": "📷 Computer Vision",
+            "deadline": "27 Oct 2022",
+            "prize": "$30,000",
+            "platform": "Kaggle",
+            "sponsor": "RSNA",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
+        },  
+        {
+            "name": "Hydropower Operations Optimization",
+            "url": "https://www.topcoder.com/challenges/794177c5-3bb6-4fb8-91bd-7e2fd646fa2d?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=0903",
+            "type": "📉 Optimisation",
+            "deadline": "19 Aug 2022",
+            "prize": "$15,000",
+            "platform": "Topcoder",
+            "sponsor": "Topcoder, U.S. DOE WPTO",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
+        },  
+        {
+            "name": "SpaceNet 8: Flood Detection Using Multiclass Segmentation",
+            "url": "https://www.topcoder.com/challenges/a6c49990-e4a9-4e90-a731-4cc6502e6beb?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=0902",
+            "type": "📷 Computer Vision",
+            "deadline": "23 Aug 2022",
+            "prize": "$45,000",
+            "platform": "Topcoder",
+            "sponsor": "Topcoder, Maxar Technologies",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
+        },  
+        {
+            "name": "Device Operating Region Classification Match",
+            "url": "https://www.topcoder.com/challenges/2ae3b08a-aabc-4345-87bd-7edfff837e8c?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=0901",
+            "type": "📈 Time Series Forecasting",
+            "deadline": "28 Aug 2022",
+            "prize": "$34,700",
+            "platform": "Topcoder",
+            "sponsor": "Topcoder, Undisclosed",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
+        },  
+        {
+            "name": "Find Tasks Where Larger Language Models Do Worse",
+            "url": "http://inversescaling.com",
+            "type": "🔤 NLP",
+            "deadline": "27 Aug 2022",
+            "prize": "$250,000",
+            "platform": "Independent",
+            "sponsor": "FTX Future Fund"
+        },    
+        {
+            "name": "2022 ITU AI/ML in 5G Challenge",
+            "url": "https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/",
+            "type": "🎓 Various",
+            "deadline": "21 Oct 2022",
+            "prize": "$20,000",
+            "platform": "ITU",
+            "sponsor": "ITU and Partners",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
+        },    
+        {
+            "name": "2022 GeoAI Challenge",
+            "url": "https://aiforgood.itu.int/about-ai-for-good/geoai-challenge/",
+            "type": "📊 Analysis/Visualisation ",
+            "deadline": "31 Oct 2022",
+            "prize": "$5,000",
+            "platform": "ITU",
+            "sponsor": "ITU and Partners",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
+        },
+        {
+            "name": "Coder One",
+            "url": "https://www.gocoder.one/?s=mlc",
+            "type": "🤖 Reinforcement Learning",
+            "deadline": "14 Sep 2022",
+            "prize": "$5,000",
+            "platform": "Coder One",
+            "sponsor": "SitePoint, General Assembly, Hackathons Australia",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
+        },
       {
+         "name": "GNN Challenge 2022 (ITU AI/ML in 5G)",
+         "url": "https://bnn.upc.edu/challenge/gnnet2022",
+         "type": "☋ Graph Learning",
+         "deadline": "30 Sep 2022",
+         "prize": "$1,000",
+         "platform": "BNN-UPC",
+         "sponsor": "ITU/ United Nations/ ZTE/ MSIT Korea",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
+     },{
             "name": "Identify beluga Whales from Images",
             "url": "https://www.drivendata.org/competitions/96/beluga-whales/",
             "type": "📷 Computer Vision",
             "deadline": "30 Jun 2022",
             "prize": "$35,000",
             "platform": "DrivenData",
-            "sponsor": "BOEM"
+            "sponsor": "BOEM",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "Credit Card Default Prediction",
@@ -16,7 +705,10 @@
             "deadline": "24 Aug 2022",
             "prize": "$100,000",
             "platform": "Kaggle",
-            "sponsor": "American Express"
+            "sponsor": "American Express",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "High Precision Smartphone Localisation",
@@ -25,7 +717,10 @@
             "deadline": "29 Jul 2022",
             "prize": "$10,000",
             "platform": "Kaggle",
-            "sponsor": "Google"
+            "sponsor": "Google",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "AI4Code: Match Code with Comments",
@@ -34,7 +729,10 @@
             "deadline": "4 Aug 2022",
             "prize": "$150,000",
             "platform": "Kaggle",
-            "sponsor": "Google"
+            "sponsor": "Google",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "Foursquare Location Matching",
@@ -43,7 +741,10 @@
             "deadline": "7 Jul 2022",
             "prize": "$25,000",
             "platform": "Kaggle",
-            "sponsor": "Foursquare"
+            "sponsor": "Foursquare",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "Predict Tokyo Stock Market Prices",
@@ -52,7 +753,10 @@
             "deadline": "28 Jun 2022",
             "prize": "$63,000",
             "platform": "Kaggle",
-            "sponsor": "Japanese Exchange Group"
+            "sponsor": "Japanese Exchange Group",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "HTREC 2022 - Improving the HTR output of Greek papyri and Byzantine manuscripts",
@@ -61,7 +765,10 @@
             "deadline": "8 Jun 2022",
             "prize": "$0",
             "platform": "AIcrowd",
-            "sponsor": "Ca' Foscari University of Venice, Italy"
+            "sponsor": "Ca' Foscari University of Venice, Italy",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "MAFAT Challenge - WiFi Sensing: Non Invasive Human Presence Detection",
@@ -70,7 +777,10 @@
             "deadline": "28 Jun 2022",
             "prize": "$50,000",
             "platform": "CodaLab",
-            "sponsor": "MAFAT"
+            "sponsor": "MAFAT",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "IJCAI 2022 Neural MMO Challenge",
@@ -79,7 +789,10 @@
             "deadline": "15 Jul 2022",
             "prize": "$20,000",
             "platform": "AIcrowd",
-            "sponsor": "Parametrix AI, MIT, Tsinghua SIGS"
+            "sponsor": "Parametrix AI, MIT, Tsinghua SIGS",
+            "conference": "IJCAI",
+            "conference-year": 2022,
+            "launched": null
       },
       {
             "name": "Patent Phrase Similarity Matching",
@@ -90,7 +803,9 @@
             "platform": "Kaggle",
             "sponsor": "Satsyil",
             "start": "21 Mar 2022",
-            "conference": null
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "Analyse Martian Mass Spectrometry Data",
@@ -99,7 +814,10 @@
             "deadline": "18 Apr 2022",
             "prize": "$30,000",
             "platform": "DrivenData",
-            "sponsor": "NASA"
+            "sponsor": "NASA",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "Amazon KDD Cup 2022: Improving Product Search",
@@ -109,7 +827,10 @@
             "start": "22 Mar 2021",
             "prize": "$31,500",
             "platform": "AIcrowd",
-            "sponsor": "Amazon"
+            "sponsor": "Amazon",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "BirdCLEF 2022",
@@ -118,7 +839,10 @@
             "deadline": "24 May 2022",
             "prize": "$10,000",
             "platform": "Kaggle",
-            "sponsor": "Cornell Lab of Ornithology"
+            "sponsor": "Cornell Lab of Ornithology",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "ORBIT Few-Shot Object Recognition Challenge 2022",
@@ -127,7 +851,10 @@
             "deadline": "6 May 2022",
             "prize": "$5,000",
             "platform": "EvalAI",
-            "sponsor": "Microsoft"
+            "sponsor": "Microsoft",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "Multi Agent Behaviour Challenge 2022",
@@ -136,7 +863,10 @@
             "deadline": "10 May 2022",
             "prize": "$12,000",
             "platform": "AIcrowd",
-            "sponsor": "Google"
+            "sponsor": "Google",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "H&M Personalized Fashion Recommendations",
@@ -145,7 +875,10 @@
             "deadline": "9 May 2022",
             "prize": "$50,000",
             "platform": "Kaggle",
-            "sponsor": "H&M"
+            "sponsor": "H&M",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "AI Blitz⚡Faces",
@@ -154,7 +887,10 @@
             "deadline": "25 Feb 2022",
             "prize": "$400",
             "platform": "AIcrowd",
-            "sponsor": "AIcrowd"
+            "sponsor": "AIcrowd",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "Data Purchasing Challenge 2022",
@@ -163,7 +899,10 @@
             "deadline": "7 Apr 2022",
             "prize": "$20,000, Macbook, Oculus and Drones",
             "platform": "AIcrowd",
-            "sponsor": "ZEW"
+            "sponsor": "ZEW",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
       },
       {
             "name": "Happywhale - Whale and Dolphin Identification",
@@ -172,7 +911,10 @@
             "deadline": "18 Apr 2022",
             "prize": "$25,000",
             "platform": "Kaggle",
-            "sponsor": "Happywhale"
+            "sponsor": "Happywhale",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
      },
      {
             "name": "Turtle Recall: Conservation Challenge",
@@ -181,7 +923,10 @@
             "deadline": "13 Mar 2022",
             "prize": "$10,000",
             "platform": "Zindi",
-            "sponsor": "DeepMind"
+            "sponsor": "DeepMind",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
     },
     {
             "name": "AI Blitz⚡12",
@@ -190,7 +935,10 @@
             "deadline": "13 Jan 2022",
             "prize": "$400",
             "platform": "AIcrowd",
-            "sponsor": "AIcrowd"
+            "sponsor": "AIcrowd",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
      },
      {
             "name": "Food Recognition Benchmark 2022",
@@ -199,7 +947,10 @@
             "deadline": "1 May 2022",
             "prize": "$3,000",
             "platform": "AIcrowd",
-            "sponsor": "Seerave Foundation"
+            "sponsor": "Seerave Foundation",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
      },
     {
             "name": "Learn to Race - Autonomous Racing Virtual Challenge",
@@ -208,7 +959,10 @@
             "deadline": "15 Feb 2022",
             "prize": "$4,000, 3 DeepRacer Cars, $50,000 Training Credit Pool ",
             "platform": "AIcrowd",
-            "sponsor": "CMU, Arrival, AWS"
+            "sponsor": "CMU, Arrival, AWS",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
      },
      {
             "name": "Bomberland 💣",
@@ -217,7 +971,10 @@
             "deadline": "20 Mar 2022",
             "prize": "$1,000",
             "platform": "Coder One",
-            "sponsor": "Coder One"
+            "sponsor": "Coder One",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
      },
     {
             "name": "NeurIPS 2021 DeepRacer Challenge",
@@ -226,7 +983,10 @@
             "deadline": "30 Nov 2021",
             "prize": "$10,000 AWS Credits, 3 DeepRacer Cars",
             "platform": "AIcrowd",
-            "sponsor": "AWS"
+            "sponsor": "AWS",
+            "conference": "NeurIPS",
+            "conference-year": 2021,
+            "launched": null
      },
       {
             "name": "AI Blitz⚡XI : Self-Driving Cars",
@@ -235,16 +995,22 @@
             "deadline": "21 Sep 2021",
             "prize": "$400",
             "platform": "AIcrowd",
-            "sponsor": "AIcrowd"
+            "sponsor": "AIcrowd",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
      },
       {
-            "name": "NeurIPS 2021: MineRL BASALT Competition",
+            "name": "MineRL BASALT Competition",
             "url": "https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition?utm_source=mlc&utm_medium=post&utm_campaign=basalt ",
             "type": "🔁 Reinforcement Learning(👨‍🔧 Human in the loop)",
             "deadline": "15 Oct 2021",
             "prize": "$11,000",
             "platform": "AIcrowd",
-            "sponsor": "OpenAI, Google, Microsoft, Open Philanthropy"
+            "sponsor": "OpenAI, Google, Microsoft, Open Philanthropy",
+            "conference": "NeurIPS",
+            "conference-year": 2021,
+            "launched": null
      },
     {
             "name": "Flatland 3: Multi-Agent RL on Trains",
@@ -253,7 +1019,10 @@
             "deadline": "31 Dec 2021",
             "prize": "$TBA",
             "platform": "AIcrowd",
-            "sponsor": "SBB, SNCF, DB"
+            "sponsor": "SBB, SNCF, DB",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
      },
       {
             "name": "Visual Attention Estimation in HMD",
@@ -262,7 +1031,10 @@
             "deadline": "30 Sep 2021",
             "prize": "$3,250",
             "platform": "AIDEA",
-            "sponsor": "MediaTek"
+            "sponsor": "MediaTek",
+            "conference": null,
+            "conference-year": null,
+            "launched": null
      },
      {
          "name": "Scheduling and Resource Allocation for UAVs",
@@ -271,7 +1043,10 @@
          "deadline": "31 Aug 2021",
          "prize": "$5,000",
          "platform": "ITU",
-         "sponsor": "ITU"
+         "sponsor": "ITU",
+         "conference": null,
+         "conference-year": null,
+         "launched": null
      },
      {
          "name": "Hardware-Efficient Modulation Classification ",
@@ -280,7 +1055,10 @@
          "deadline": "2 Oct 2021",
          "prize": "$2,000",
          "platform": "Xilinx",
-         "sponsor": "ITU/United Nations/Xilinx"
+         "sponsor": "ITU/United Nations/Xilinx",
+         "conference": null,
+         "conference-year": null,
+         "launched": null
      },
      {
          "name": "AI Blitz X ⚡",
@@ -289,7 +1067,10 @@
          "deadline": "11 Aug 2021",
          "prize": "$400",
          "platform": "AIcrowd",
-         "sponsor": "AIcrowd"
+         "sponsor": "AIcrowd",
+         "conference": null,
+         "conference-year": null,
+         "launched": null
      },
        {
          "name": "The Neural-MMO Challenge",
@@ -298,7 +1079,10 @@
          "prize": "9 Co-Authorships",
          "deadline": "14 Dec 2021",
          "platform": "AIcrowd",
-         "sponsor": "MIT"
+         "sponsor": "MIT",
+         "conference": null,
+         "conference-year": null,
+         "launched": null
      },
      {
          "name": "IARAI's Weather4cast competition @2021 IEEE Big Data Cup",
@@ -307,7 +1091,10 @@
          "deadline": "27 Oct 2021",
          "prize": "$20,000",
          "platform": "IARAI",
-         "sponsor": "Institute of Advanced Research in Artificial Intelligence (IARAI)"
+         "sponsor": "Institute of Advanced Research in Artificial Intelligence (IARAI)",
+         "conference": null,
+         "conference-year": null,
+         "launched": null
      },
      {
          "name": "Weather Forecast AI Innovation Challenge",
@@ -316,15 +1103,22 @@
          "deadline": "15 Aug 2021",
          "prize": "$30,000",
          "platform": "DPhi",
-         "sponsor": "Alibaba Cloud"
+         "sponsor": "Alibaba Cloud",
+         "conference": null,
+         "conference-year": null,
+         "launched": null
      },{
          "name": "NeurIPS 2021 MineRL Diamond Competition",
          "url": "https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition?utm_source=mlc&utm_medium=post&utm_campaign=minerl",
          "type": "🤖 Reinforcement Learning",
          "deadline": "31 Dec 2021",
-         "prize": "TBD",
+         "prize": null,
          "platform": "AIcrowd",
-         "sponsor": "CMU, Microsoft, DeepMind, OpenAI"
+         "sponsor": "CMU, Microsoft, DeepMind, OpenAI",
+         "conference":  "NeurIPS",
+         "conference-year": 2021,
+         "launched": null,
+         "winner": "https://arxiv.org/abs/2112.04907"
      },{
          "name": "AI Blitz ⚡ Hello NLP",
          "url": "https://www.aicrowd.com/challenges/ai-blitz-9?utm_source=mlc&utm_medium=post&utm_campaign=blitz9",
@@ -332,7 +1126,10 @@
          "deadline": "30 Jun 2021",
          "prize": "$400",
          "platform": "AIcrowd",
-         "sponsor": "AIcrowd"
+         "sponsor": "AIcrowd",
+         "conference": "NeurIPS",
+         "conference-year": 2021,
+         "launched": null
      },{
          "name": "NeurIPS 2021 NetHack Challenge",
          "url": "https://www.aicrowd.com/challenges/neurips-2021-the-nethack-challenge?utm_source=mlc&utm_medium=post&utm_campaign=nethack",
@@ -340,7 +1137,10 @@
          "deadline": "31 Dec 2021",
          "prize": "$TBD",
          "platform": "AIcrowd",
-         "sponsor": "FACEBOOK AI"
+         "sponsor": "FACEBOOK AI",
+         "conference": "NeurIPS",
+         "conference-year": 2021,
+         "launched": null
      },{
          "name": "Graph Neural Networking Challenge 2021",
          "url": "https://bnn.upc.edu/challenge/gnnet2021",
@@ -348,7 +1148,10 @@
          "deadline": "14 Sep 2021",
          "prize": "$5,500",
          "platform": "BNN-UPC",
-         "sponsor": "ITU/United Nations/Xilinx"
+         "sponsor": "ITU/United Nations/Xilinx",
+         "conference": null,
+         "conference-year": null,
+         "launched": null
      },{
          "name": "ADDI Alzheimer's Detection Challenge",
          "url": "https://www.aicrowd.com/challenges/addi-alzheimers-detection-challenge?utm_source=mlc&utm_medium=post&utm_campaign=addi",
@@ -356,7 +1159,10 @@
          "deadline": "8 Jun 2021",
          "prize": "$60,000",
          "platform": "AIcrowd",
-         "sponsor": "ADDI"
+         "sponsor": "ADDI",
+         "conference": null,
+         "conference-year": null,
+         "launched": null
      },{
          "name": "AI Blitz 8: F1",
          "url": "https://www.aicrowd.com/challenges/ai-blitz-8?utm_source=mlc&utm_medium=post&utm_campaign=blitz8",
@@ -364,7 +1170,10 @@
          "deadline": "23 May 2021",
          "prize": "$400",
          "platform": "AIcrowd",
-         "sponsor": "AIcrowd"
+         "sponsor": "AIcrowd",
+         "conference": null,
+         "conference-year": null,
+         "launched": null
      },{
          "name": "Global Wheat Challenge",
          "url": "https://www.aicrowd.com/challenges/global-wheat-challenge-2021?utm_source=mlc&utm_medium=post&utm_campaign=wheat",
@@ -372,7 +1181,10 @@
          "deadline": "4 Jul 2021",
          "prize": "$4,000",
          "platform": "AIcrowd",
-         "sponsor": "University of Saskatchewan, University of Tokyo, CAPTE"
+         "sponsor": "University of Saskatchewan, University of Tokyo, CAPTE",
+         "conference": null,
+         "conference-year": null,
+         "launched": null
      },{
          "name": "Music Demixing Challenge by Sony",
          "url": "https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021?utm_source=mlc&utm_medium=post&utm_campaign=sony",
@@ -788,8 +1600,8 @@
          "type": "📈 Time Series Forecasting",
          "deadline": "15 May 2020",
          "prize": "$3,150",
-         "platform": "TopCoder",
-         "sponsor": "TopCoder"
+         "platform": "Topcoder",
+         "sponsor": "Topcoder"
      }, {
          "name": "Identify Hateful Memes",
          "url": "https://www.drivendata.org/competitions/64/hateful-memes/",
@@ -876,8 +1688,8 @@
          "type": "📈 Time Series Forecasting",
          "deadline": "9 Jun 2020",
          "prize": "$32,000",
-         "platform": "TopCoder",
-         "sponsor": "TopCoder"
+         "platform": "Topcoder",
+         "sponsor": "Topcoder"
      }, {
          "name": "Melanoma Classification",
          "url": "https://www.kaggle.com/c/siim-isic-melanoma-classification",
@@ -901,7 +1713,10 @@
          "deadline": "3 Oct 2020",
          "prize": "$1,500",
          "platform": "CodaLab",
-         "sponsor": "Chalearn/Nvidia/Facebook/Baidu"
+         "sponsor": "Chalearn/Nvidia/Facebook/Baidu",
+         "conference": "NeurIPS",
+         "conference-year": 2020,
+         "launched": null
      }, {
          "name": "Image-to-3D Garment Reconstruction (NeurIPS)",
          "url": "https://competitions.codalab.org/competitions/24768",
@@ -909,7 +1724,10 @@
          "deadline": "3 Oct 2020",
          "prize": "$1,500",
          "platform": "CodaLab",
-         "sponsor": "Chalearn/Nvidia/Facebook/Baidu"
+         "sponsor": "Chalearn/Nvidia/Facebook/Baidu",
+         "conference": "NeurIPS",
+         "conference-year": 2020,
+         "launched": null
      }, {
          "name": "Image-to-3D Garment and Texture Reconstruction (NeurIPS)",
          "url": "https://competitions.codalab.org/competitions/24769",
@@ -917,7 +1735,10 @@
          "deadline": "3 Oct 2020",
          "prize": "$1,500",
          "platform": "CodaLab",
-         "sponsor": "Chalearn/Nvidia/Facebook/Baidu"
+         "sponsor": "Chalearn/Nvidia/Facebook/Baidu",
+         "conference": "NeurIPS",
+         "conference-year": 2020,
+         "launched": null
      }, {
          "name": "Traffic Map Movie Forecasting 2020 (NeurIPS)",
          "url": "https://www.iarai.ac.at/traffic4cast/",
@@ -925,7 +1746,10 @@
          "deadline": "15 Oct 2020",
          "prize": "$17,000",
          "platform": "IARAI",
-         "sponsor": "IARAI"
+         "sponsor": "IARAI",
+         "conference": "NeurIPS",
+         "conference-year": 2020,
+         "launched": null
      }, {
          "name": "Hearthstone AI Competition",
          "url": "https://www.iarai.ac.at/traffic4cast/",
@@ -1021,7 +1845,10 @@
          "deadline": "16 Sep 2020",
          "prize": "$0",
          "platform": "AIcrowd",
-         "sponsor": "OpenAI/DeepMind/Microsoft/CMU/Preferred Networks"
+         "sponsor": "OpenAI/DeepMind/Microsoft/CMU/Preferred Networks",
+         "conference": "NeurIPS",
+         "conference-year": 2020,
+         "launched": null
      }, {
          "name": "Flatland - MARL on Trains (NeurIPS)",
          "url": "https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge",
@@ -1029,7 +1856,10 @@
          "deadline": "16 Sep 2020",
          "prize": "$0",
          "platform": "AIcrowd",
-         "sponsor": "SBB/DB"
+         "sponsor": "SBB/DB",
+         "conference": "NeurIPS",
+         "conference-year": 2020,
+         "launched": null
      }, {
          "name": "Procgen - RL in Procedurally Generated Environments (NeurIPS)",
          "url": "https://www.aicrowd.com/challenges/neurips-2020-procgen-competition",
@@ -1037,7 +1867,10 @@
          "deadline": "19 Oct 2020",
          "prize": "$0",
          "platform": "AIcrowd",
-         "sponsor": "OpenAI"
+         "sponsor": "OpenAI",
+         "conference": "NeurIPS",
+         "conference-year": 2020,
+         "launched": null
      }, {
          "name": "Cornell Birdcall Identification",
          "url": "https://www.kaggle.com/c/birdsong-recognition",
@@ -1085,7 +1918,10 @@
          "deadline": "30 Oct 2020",
          "prize": "$15,000",
          "platform": "ChaLearn/CodaLab",
-         "sponsor": "Various"
+         "sponsor": "Various",
+         "conference": "NeurIPS",
+         "conference-year": 2020,
+         "launched": null
      }, {
          "name": "Find the Best Black Box Optimiser for ML",
          "url": "https://bbochallenge.com/",
@@ -1594,7 +2430,7 @@
          "name": "Analyse COVID-19 Impact on Student Learning",
          "url": "https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning?utm_source=mlcontests&utm_campaign=mlcontests",
          "type": "📊 Analysis/Visualisation ",
-         "deadline": "31 Sep 2021",
+         "deadline": "30 Sep 2021",
          "prize": "$20,000",
          "platform": "Kaggle",
          "sponsor": "LearnPlatform"
@@ -1806,6 +2642,102 @@
          "prize": "$10,000",
          "platform": "Zindi",
          "sponsor": "Radiant Earth Foundation"
-     }]
+     }, {
+        "name": "AI4D Africa’s Anglophone Research Lab Tanzania Tourism",
+        "url": "https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-challenge?utm_source=mailchimp&utm_medium=post&utm_campaign=mlplatformexp&utm_id=mlcontest",
+        "type": "✅ Supervised Learning",
+        "deadline": "1 Jul 2022",
+        "prize": "$1,000",
+        "platform": "Zindi",
+        "sponsor": "AI4D Africa"
+     }, {
+        "name": "Makerere Fall Armyworm Crop Challenge",
+        "url": "https://zindi.africa/competitions/makerere-fall-armyworm-crop-challenge?utm_source=mailchimp&utm_medium=post&utm_campaign=mlplatformexp&utm_id=mlcontest",
+        "type": "📷 Computer Vision",
+        "deadline": "23 Jul 2022",
+        "prize": "$1,000",
+        "platform": "Zindi",
+        "sponsor": "Makerere"
+     }, {
+        "name": "DataFest Africa Noise Pollution",
+        "url": "https://zindi.africa/competitions/datafest-africa-2022?utm_source=mailchimp&utm_medium=post&utm_campaign=mlplatformexp&utm_id=mlcontest",
+        "type": "📷 Computer Vision",
+        "deadline": "26 Jul 2022",
+        "prize": "$1,000",
+        "platform": "Zindi",
+        "sponsor": "Datafest Africa"
+     }, {
+        "name": "Microsoft Rice Disease",
+        "url": "https://zindi.africa/competitions/microsoft-rice-disease-classification-challenge?utm_source=mlcontest&utm_medium=post&utm_campaign=mlplatformexp&utm_id=mlcontest",
+        "type": "📷 Computer Vision",
+        "deadline": "14 Aug 2022",
+        "prize": "$3,000",
+        "platform": "Zindi",
+        "sponsor": "Microsoft"
+     }, {
+        "name": "Fossil Demand Forecasting",
+        "url": "https://zindi.africa/competitions/fossil-stock-forecasting-challenge?utm_source=mailchimp&utm_medium=post&utm_campaign=mlplatformexp&utm_id=mlcontest",
+        "type": "📈 Time Series Forecasting",
+        "deadline": "28 Aug 2022",
+        "prize": "$5,000",
+        "platform": "Zindi",
+        "sponsor": "Fossil"
+     }, {
+        "name": "Laduma Analytics Football League Winners",
+        "url": "https://zindi.africa/competitions/laduma-analytics-football-league-winners-prediction-challenge?utm_source=mailchimp&utm_medium=post&utm_campaign=mlplatformexp&utm_id=mlcontest",
+        "type": "✅ Supervised Learning",
+        "deadline": "4 Sep 2022",
+        "prize": "$2,000",
+        "platform": "Zindi",
+        "sponsor": "Laduma Analytics"
+     }, {
+        "name": "Predict Effective Arguments",
+        "url": "https://www.kaggle.com/competitions/feedback-prize-effectiveness",
+        "type": "🔤 NLP",
+        "deadline": "23 Aug 2022",
+        "prize": "$55,000",
+        "platform": "Kaggle",
+        "sponsor": "Georgia State University"
+     }, {
+        "name": "Determine Camera Poses from Images",
+        "url": "https://codalab.lisn.upsaclay.fr/competitions/5481",
+        "type": "📷 Computer Vision",
+        "deadline": "21 Dec 2022",
+        "prize": "$10,000",
+        "platform": "CodaLab",
+        "sponsor": "CodaLab"
+     }, {
+        "name": "AI Audit Challenge",
+        "url": "https://hai.stanford.edu/policy/ai-audit-challenge",
+        "type": "📊 Analysis/Visualisation",
+        "deadline": "10 Oct 2022",
+        "prize": "$71,000",
+        "platform": "Stanford",
+        "sponsor": "Stanford"
+     }, {
+        "name": "Classify Blood Clots in Stroke Images",
+        "url": "https://www.kaggle.com/c/mayo-clinic-strip-ai",
+        "type": "📷 Computer Vision",
+        "deadline": "5 Oct 2022",
+        "prize": "$10,000",
+        "platform": "Kaggle",
+        "sponsor": "Mayo Clinic"
+     }, {
+        "name": "Enhance Privacy Protections in Federated Learning",
+        "url": "https://www.drivendata.org/competitions/98/nist-federated-learning-1?source=mlcontests",
+        "type": "🕵 Privacy",
+        "deadline": "19 Sep 2022",
+        "prize": "$800,000",
+        "platform": "DrivenData",
+        "sponsor": "NIST/NSF"
+      }, {
+        "name": "ZenML's Month of MLOps Competition",
+        "url": "https://zenml.io/competition/",
+        "type": "🛠 MLOps",
+        "deadline": "11 Nov 2022",
+        "prize": "$1,500",
+        "platform": "ZenML",
+        "sponsor": "ZenML"
+      }]
 
  }

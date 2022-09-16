@@ -21,23 +21,19 @@
               "pattern": "\\d{1,2} [a-zA-Z]{3} \\d{4}"
             },
             "prize": {
-              "type": "string",
-              "nullable": true
+              "type": ["string", "null"]
             },
             "platform": {
               "type": "string"
             },
             "sponsor": {
-              "type": "string",
-              "nullable": true
+              "type": ["string", "null"]
             },
             "conference": {
-              "type": "string",
-              "nullable": true
+              "type": ["string", "null"]
             },
             "conference-year": {
-              "type": "integer",
-              "nullable": true
+              "type": ["integer", "null"]
             }
           },
           "required": [

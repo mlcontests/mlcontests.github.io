@@ -1798,6 +1798,14 @@
          "prize": "$88,000",
          "platform": "Waymo",
          "sponsor": "Waymo"
+     }, {
+         "name": "AgriFieldNet India Challenge",
+         "url": "https://zindi.africa/competitions/agrifieldnet-india-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=agrifieldindia",
+         "type": "✅ Supervised Learning",
+         "deadline": "31 Oct 2022",
+         "prize": "$10,000",
+         "platform": "Zindi",
+         "sponsor": "Radiant Earth Foundation"
      }]
 
  }

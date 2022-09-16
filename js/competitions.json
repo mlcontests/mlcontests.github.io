@@ -2635,6 +2635,14 @@
          "platform": "Waymo",
          "sponsor": "Waymo"
      }, {
+         "name": "AgriFieldNet India Challenge",
+         "url": "https://zindi.africa/competitions/agrifieldnet-india-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=agrifieldindia",
+         "type": "📷 Computer Vision",
+         "deadline": "31 Oct 2022",
+         "prize": "$10,000",
+         "platform": "Zindi",
+         "sponsor": "Radiant Earth Foundation"
+     }, {
         "name": "AI4D Africa’s Anglophone Research Lab Tanzania Tourism",
         "url": "https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-challenge?utm_source=mailchimp&utm_medium=post&utm_campaign=mlplatformexp&utm_id=mlcontest",
         "type": "✅ Supervised Learning",

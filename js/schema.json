@@ -20,13 +20,23 @@
               "type": "string"
             },
             "prize": {
-              "type": "string"
+              "type": "string",
+              "nullable": true
             },
             "platform": {
               "type": "string"
             },
             "sponsor": {
-              "type": "string"
+              "type": "string",
+              "nullable": true
+            },
+            "conference": {
+              "type": "string",
+              "nullable": true
+            },
+            "conference-year": {
+              "type": "integer",
+              "nullable": true
             }
           },
           "required": [

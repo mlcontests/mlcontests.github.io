@@ -1,6 +1,17 @@
  {
      "data": [
         {
+            "name": "Future Fund AI Worldview Prize",
+            "url": "https://ftxfuturefund.org/announcing-the-future-funds-ai-worldview-prize/?utm_source=mlcontests",
+            "type": "✍️ Writing",
+            "deadline": "23 Dec 2022",
+            "prize": "$5,000,000",
+            "platform": "Independent",
+            "sponsor": "FTX Future Fund",
+            "conference": null,
+            "conference-year": null
+        },  
+        {
             "name": "Air Quality Forecasting in Uganda",
             "url": "https://zindi.africa/competitions/layerai-air-quality-prediction-challenge",
             "type": "📈 Time Series Forecasting",

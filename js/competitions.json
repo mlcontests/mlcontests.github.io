@@ -1,6 +1,17 @@
  {
      "data": [
         {
+            "name": "2022 Kaggle ML&DS Survey",
+            "url": "https://www.kaggle.com/c/kaggle-survey-2022?utm_medium=mlcontests&utm_source=mlcontests",
+            "type": "📊 Analysis/Visualisation ",
+            "deadline": "27 Nov 2022",
+            "prize": "$30,000",
+            "platform": "Kaggle",
+            "sponsor": "Kaggle",
+            "conference": null,
+            "conference-year": null
+        },  
+        {
             "name": "Future Fund AI Worldview Prize",
             "url": "https://ftxfuturefund.org/announcing-the-future-funds-ai-worldview-prize/?utm_source=mlcontests",
             "type": "✍️ Writing",

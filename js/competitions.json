@@ -1,6 +1,28 @@
  {
      "data": [
         {
+            "name": "Topcoder Skill Builder Competition",
+            "url": "https://www.topcoder.com/challenges/c149568d-b8d3-45c2-b224-bbe02498e1c0?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=911",
+            "type": "✅ Supervised Learning",
+            "deadline": "11 Nov 2022",
+            "prize": "$1,800",
+            "platform": "Topcoder",
+            "sponsor": "Topcoder",
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Hydropower Operations Optimization (H2Os) Prize - Phase 3",
+            "url": "https://www.topcoder.com/challenges/443fd497-e1cb-4c6e-97ce-46de9aeb0382?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=912",
+            "type": "📉 Optimisation",
+            "deadline": "15 Dec 2022",
+            "prize": "$50,000",
+            "platform": "Topcoder",
+            "sponsor": "Topcoder",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "2022 Kaggle ML&DS Survey",
             "url": "https://www.kaggle.com/c/kaggle-survey-2022?utm_medium=mlcontests&utm_source=mlcontests",
             "type": "📊 Analysis/Visualisation ",

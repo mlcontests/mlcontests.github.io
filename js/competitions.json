@@ -1,6 +1,28 @@
  {
      "data": [
         {
+            "name": "Causal Inference and Transfer Learning",
+            "url": "https://competition.huaweicloud.com/information/1000041792/introduction",
+            "type": "➡️ Causal ML",
+            "deadline": "15 Nov 2022",
+            "prize": "$5,000",
+            "platform": "Independent",
+            "sponsor": "Huawei",
+            "conference": "PCIC",
+            "conference-year": 2022
+        },
+        {
+            "name": "Causal Inference and Recommendation",
+            "url": "https://competition.huaweicloud.com/information/1000041793/introduction",
+            "type": "➡️ Causal ML",
+            "deadline": "15 Nov 2022",
+            "prize": "$5,000",
+            "platform": "Independent",
+            "sponsor": "Huawei",
+            "conference": "PCIC",
+            "conference-year": 2022
+        },
+        {
             "name": "Topcoder Skill Builder Competition",
             "url": "https://www.topcoder.com/challenges/c149568d-b8d3-45c2-b224-bbe02498e1c0?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=911",
             "type": "✅ Supervised Learning",

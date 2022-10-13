@@ -2821,11 +2821,27 @@
         "name": "Detect Text on Crossplots",
         "url": "https://xeek.ai/challenges/text-on-crossplots",
         "type": "📷 Computer Vision",
-        "deadline": "02 Nov 2022",
+        "deadline": "2 Nov 2022",
         "prize": "$10,000",
         "platform": "Xeek",
-        "sponsor": ""
+        "sponsor": "Various"
       }, {
+        "name": "Future in Charges: Modeling Battery Properties",
+        "url": "https://xeek.ai/challenges/future-in-charges",
+        "type": "✅ Supervised Learning",
+        "deadline": "6 Jan 2023",
+        "prize": "$50,000",
+        "platform": "Xeek",
+        "sponsor": "Various"
+      }, {
+        "name": "Find the Legend in a Graph",
+        "url": "https://xeek.ai/challenges/extract-crossplot-markers",
+        "type": "📷 Computer Vision",
+        "deadline": "30 Nov 2022",
+        "prize": "$10,000",
+        "platform": "Xeek",
+        "sponsor": "Various"
+      },{
         "name": "Wadhwani AI Bollworm Counting Challenge",
         "url": "https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=wadhwanibollworm",
         "type": "📷 Computer Vision",

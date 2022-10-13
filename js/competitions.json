@@ -2756,16 +2756,24 @@
         "deadline": "02 Nov 2022",
         "prize": "$10,000",
         "platform": "Xeek",
-        "sponsor": ""
+        "sponsor": "Various"
       }, {
         "name": "Future in Charges",
         "url": "https://xeek.ai/challenges/future-in-charges",
         "type": "📊 Analysis/Visualisation",
-        "deadline": "TBD",
+        "deadline": "06 January 2023",
         "prize": "$50,000",
         "platform": "Xeek",
-        "sponsor": ""
+        "sponsor": "Various"
       }, {
+        "name": "Find a Legend",
+        "url": "https://xeek.ai/challenges/extract-crossplot-markers",
+        "type": "📷 Computer Vision",
+        "deadline": "30 Nov 2022",
+        "prize": "$10,000",
+        "platform": "Xeek",
+        "sponsor": "Various"
+      },{
         "name": "Wadhwani AI Bollworm Counting Challenge",
         "url": "https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=wadhwanibollworm",
         "type": "📷 Computer Vision",

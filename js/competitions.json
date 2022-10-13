@@ -1,6 +1,19 @@
  {
      "data": [
         {
+            "name": "Evaluate English-Language-Learner Essays",
+            "url": "https://www.kaggle.com/competitions/feedback-prize-english-language-learning?utm_medium=mlcontests&utm_source=mlcontests",
+            "type": "🔤 NLP",
+            "start": "30 Aug 2022",
+            "entry-deadline": "22 Nov 2022",
+            "deadline": "29 Nov 2022",
+            "prize": "$55,000",
+            "platform": "Kaggle",
+            "sponsor": "Vanderbilt University & Others",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Causal Inference and Transfer Learning",
             "url": "https://competition.huaweicloud.com/information/1000041792/introduction",
             "type": "➡️ Causal ML",

@@ -2850,13 +2850,14 @@
         "platform": "Zindi",
         "sponsor": "GIZ"
       },{
-        "name": "The Autocast Competition",
+        "name": "The Autocast Competition - Warm-Up Round",
         "url": "https://forecasting.mlsafety.org/",
-        "type": "🔤 NLP",
+        "type": "📈 Time Series Forecasting",
+        "start": "14 Sep 2022",
         "deadline": "10 Feb 2023",
-        "prize": "$625,000",
+        "prize": "$125,000",
         "platform": "CodaLab",
-        "sponsor": ""
+        "sponsor": "FTX Future Fund"
       }
      ]
 

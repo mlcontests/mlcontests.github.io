@@ -2849,6 +2849,14 @@
         "prize": "€15,000",
         "platform": "Zindi",
         "sponsor": "GIZ"
+      },{
+        "name": "The Autocast Competition",
+        "url": "https://forecasting.mlsafety.org/",
+        "type": "🔤 NLP",
+        "deadline": "10 Feb 2023",
+        "prize": "$625,000",
+        "platform": "CodaLab",
+        "sponsor": ""
       }
      ]
 

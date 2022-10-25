@@ -1,6 +1,45 @@
  {
      "data": [
         {
+            "name": "Detect Continuous Gravitational Waves",
+            "url": "https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves?utm_medium=mlcontests&utm_source=mlcontests",
+            "type": "✅ Supervised Learning",
+            "start": "4 Oct 2022",
+            "entry-deadline": "27 Dec 2022",
+            "deadline": "3 Jan 2023",
+            "prize": "$25,000",
+            "platform": "Kaggle",
+            "sponsor": "EGO",
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "NFL Big Data Bowl 2023",
+            "url": "https://kaggle.com/competitions/nfl-big-data-bowl-2023?utm_medium=mlcontests&utm_source=mlcontests",
+            "type": "📊 Analysis/Visualisation ",
+            "start": "10 Oct 2022",
+            "entry-deadline": "9 Jan 2023",
+            "deadline": "9 Jan 2023",
+            "prize": "$100,000",
+            "platform": "Kaggle",
+            "sponsor": "NFL",
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Predict Enzyme Stability",
+            "url": "https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction?utm_medium=mlcontests&utm_source=mlcontests",
+            "type": "✅ Supervised Learning",
+            "start": "21 Sep 2022",
+            "entry-deadline": "27 Dec 2022",
+            "deadline": "3 Jan 2023",
+            "prize": "$25,000",
+            "platform": "Kaggle",
+            "sponsor": "Novozymes",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Evaluate English-Language-Learner Essays",
             "url": "https://www.kaggle.com/competitions/feedback-prize-english-language-learning?utm_medium=mlcontests&utm_source=mlcontests",
             "type": "🔤 NLP",

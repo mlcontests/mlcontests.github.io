@@ -18,6 +18,26 @@ A sortable list of public machine learning/data science/AI contests, viewable on
 
 Please submit a pull request for any changes. 
 
-The list of contests is in https://github.com/mlcontests/mlcontests.github.io/blob/master/competitions.json.
+Additions or changes to the competitions list can be made by editing https://github.com/mlcontests/mlcontests.github.io/blob/master/competitions.json.
 
-The required date format is 'D MMM YYYY' - e.g. '5 Jan 2023'. 
+## Schema
+Mandatory fields
+```
+"name": A description of the competition. 
+"url": Link to the competition. Feel free to insert codes so you can track the source. 
+"type": The type of ML that most closely matches the competition. See other competitions for examples. E.g. "✅ Supervised Learning"
+"deadline": final day for submissions. Format is "D MMM YYYY".
+"prize": Monetary prizes only, converted to USD, or leave blank. 
+"platform": which platform is running the competition? E.g. "Kaggle"/"DrivenData"
+"sponsor": Who's providing sponsorship? E.g. "Google"
+```
+
+Optional fields:
+```
+"conference": Any conference affiliation, e.g. "NeurIPS"
+"conference-year": Which year of the conference is this competition affiliated with? E.g. 2022 
+"launched": day the competition starts. Format is "D MMM YYYY".
+"registration-deadline": final day new competitors are able to register. Format is "D MMM YYYY".
+```
+
+The required date format in all cases is `D MMM YYYY` - e.g. `5 Jan 2023`. 

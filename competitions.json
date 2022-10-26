@@ -4,7 +4,7 @@
             "name": "Detect Continuous Gravitational Waves",
             "url": "https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves?utm_medium=mlcontests&utm_source=mlcontests",
             "type": "✅ Supervised Learning",
-            "start": "4 Oct 2022",
+            "launched": "4 Oct 2022",
             "entry-deadline": "27 Dec 2022",
             "deadline": "3 Jan 2023",
             "prize": "$25,000",
@@ -17,7 +17,7 @@
             "name": "NFL Big Data Bowl 2023",
             "url": "https://kaggle.com/competitions/nfl-big-data-bowl-2023?utm_medium=mlcontests&utm_source=mlcontests",
             "type": "📊 Analysis/Visualisation ",
-            "start": "10 Oct 2022",
+            "launched": "10 Oct 2022",
             "entry-deadline": "9 Jan 2023",
             "deadline": "9 Jan 2023",
             "prize": "$100,000",
@@ -30,7 +30,7 @@
             "name": "Predict Enzyme Stability",
             "url": "https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction?utm_medium=mlcontests&utm_source=mlcontests",
             "type": "✅ Supervised Learning",
-            "start": "21 Sep 2022",
+            "launched": "21 Sep 2022",
             "entry-deadline": "27 Dec 2022",
             "deadline": "3 Jan 2023",
             "prize": "$25,000",
@@ -43,7 +43,7 @@
             "name": "Evaluate English-Language-Learner Essays",
             "url": "https://www.kaggle.com/competitions/feedback-prize-english-language-learning?utm_medium=mlcontests&utm_source=mlcontests",
             "type": "🔤 NLP",
-            "start": "30 Aug 2022",
+            "launched": "30 Aug 2022",
             "entry-deadline": "22 Nov 2022",
             "deadline": "29 Nov 2022",
             "prize": "$55,000",
@@ -920,10 +920,9 @@
             "prize": "$25,000",
             "platform": "Kaggle",
             "sponsor": "Satsyil",
-            "start": "21 Mar 2022",
+            "launched": "21 Mar 2022",
             "conference": null,
-            "conference-year": null,
-            "launched": null
+            "conference-year": null
       },
       {
             "name": "Analyse Martian Mass Spectrometry Data",
@@ -942,13 +941,12 @@
             "url": "https://www.aicrowd.com/challenges/esci-challenge-for-improving-product-search?source=mlcontests",
             "type": "🔤 NLP",
             "deadline": "15 Jul 2022",
-            "start": "22 Mar 2021",
+            "launched": "22 Mar 2021",
             "prize": "$31,500",
             "platform": "AIcrowd",
             "sponsor": "Amazon",
             "conference": null,
-            "conference-year": null,
-            "launched": null
+            "conference-year": null
       },
       {
             "name": "BirdCLEF 2022",
@@ -2873,7 +2871,23 @@
         "platform": "Xeek",
         "sponsor": "Various"
       }, {
-        "name": "Find the Legend in a Graph",
+        "name": "Find the Crossplot Markers in a Graph",
+        "url": "https://xeek.ai/challenges/extract-crossplot-markers",
+        "type": "📷 Computer Vision",
+        "deadline": "30 Nov 2022",
+        "prize": "$10,000",
+        "platform": "Xeek",
+        "sponsor": "Various"
+      }, {
+        "name": "Extract Legends from old Crossplots",
+        "url": "https://xeek.ai/challenges/extract-legends",
+        "type": "📷 Computer Vision",
+        "deadline": "30 Nov 2022",
+        "prize": "$10,000",
+        "platform": "Xeek",
+        "sponsor": "Various"
+      }, {
+        "name": "Find the Crossplot Markers in a Graph",
         "url": "https://xeek.ai/challenges/extract-crossplot-markers",
         "type": "📷 Computer Vision",
         "deadline": "30 Nov 2022",
@@ -2892,7 +2906,7 @@
         "name": "The Autocast Competition - Warm-Up Round",
         "url": "https://forecasting.mlsafety.org/",
         "type": "📈 Time Series Forecasting",
-        "start": "14 Sep 2022",
+        "launched": "14 Sep 2022",
         "deadline": "10 Feb 2023",
         "prize": "$125,000",
         "platform": "CodaLab",

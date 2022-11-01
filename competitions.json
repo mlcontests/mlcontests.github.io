@@ -1,6 +1,30 @@
  {
      "data": [
         {
+            "name": "ARCathon: Abstraction & Reasoning Corpus",
+            "url": "https://lab42.global/arcathon/",
+            "type": "✅ Supervised Learning",
+            "registration-deadline": "30 Nov 2022",
+            "deadline": "31 Dec 2022",
+            "prize": "$5,000",
+            "platform": "Lab42",
+            "sponsor": "Lab42",
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Lab42 Essay Competition",
+            "url": "https://lab42.global/essay/",
+            "type": "✍️ Writing",
+            "registration-deadline": "31 Dec 2022",
+            "deadline": "31 Dec 2022",
+            "prize": "$3,500",
+            "platform": "Lab42",
+            "sponsor": "Lab42",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Detect Continuous Gravitational Waves",
             "url": "https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves?utm_medium=mlcontests&utm_source=mlcontests",
             "type": "✅ Supervised Learning",

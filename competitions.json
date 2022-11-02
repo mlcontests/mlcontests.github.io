@@ -3054,7 +3054,15 @@
         "prize": "$10,000",
         "platform": "Xeek",
         "sponsor": "Various"
-      },{
+      }, {
+        "name": "Finders Seekers - Help Find Data in Satellite Images",
+        "url": "https://xeek.ai/challenges/finders-seekers-job1",
+        "type": "📷 Computer Vision",
+        "deadline": "07 Dec 2022",
+        "prize": "500",
+        "platform": "Xeek",
+        "sponsor": "Various"
+      }, {
         "name": "Wadhwani AI Bollworm Counting Challenge",
         "url": "https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=wadhwanibollworm",
         "type": "📷 Computer Vision",

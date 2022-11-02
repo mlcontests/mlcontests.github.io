@@ -616,6 +616,7 @@
             "prize": "$7,500",
             "platform": "AIcrowd",
             "sponsor": "Microsoft, Amazon, Google",
+            "additional_urls": ["https://www.iglu-contest.net/", "https://twitter.com/IgluContest"],
             "conference": "NeurIPS",
             "conference-year": 2022
         },  
@@ -627,6 +628,7 @@
             "prize": "$7,500",
             "platform": "AIcrowd",
             "sponsor": "Microsoft, Amazon, Google",
+            "additional_urls": ["https://www.iglu-contest.net/", "https://twitter.com/IgluContest"],
             "conference": "NeurIPS",
             "conference-year": 2022
         },  
@@ -641,6 +643,19 @@
             "conference": "NeurIPS",
             "conference-year": 2022
         },  
+        {
+            "name": "NLP for Optimisation Modelling",
+            "url": "https://www.ecole.ai/2021/ml4co-competition/",
+            "type": "📉 Optimisation",
+            "deadline": "28 Oct 2021",
+            "prize": null,
+            "additional_urls": ["https://neurips.cc/virtual/2021/competition/22444#bookmark-here-21988"],
+            "tracks": 3,
+            "platform": "Independent",
+            "sponsor": "Various",
+            "conference": "NeurIPS",
+            "conference-year": 2021
+        },
         {
             "name": "Causal Insights for Learning Paths in Education",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/5626",

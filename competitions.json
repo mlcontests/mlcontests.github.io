@@ -3031,7 +3031,15 @@
         "platform": "Xeek",
         "sponsor": "Various"
       }, {
-        "name": "Find the Crossplot Markers in a Graph",
+        "name": "Detect Text on Crossplots",
+        "url": "https://xeek.ai/challenges/text-on-crossplots",
+        "type": "📷 Computer Vision",
+        "deadline": "2 Nov 2022",
+        "prize": "$10,000",
+        "platform": "Xeek",
+        "sponsor": "Various"
+      },{
+        "name": "Find the Legend in a Graph",
         "url": "https://xeek.ai/challenges/extract-crossplot-markers",
         "type": "📷 Computer Vision",
         "deadline": "30 Nov 2022",
@@ -3039,16 +3047,8 @@
         "platform": "Xeek",
         "sponsor": "Various"
       }, {
-        "name": "Extract Legends from old Crossplots",
+        "name": "Locate Plot Markers on old Crossplots",
         "url": "https://xeek.ai/challenges/extract-legends",
-        "type": "📷 Computer Vision",
-        "deadline": "30 Nov 2022",
-        "prize": "$10,000",
-        "platform": "Xeek",
-        "sponsor": "Various"
-      }, {
-        "name": "Find the Crossplot Markers in a Graph",
-        "url": "https://xeek.ai/challenges/extract-crossplot-markers",
         "type": "📷 Computer Vision",
         "deadline": "30 Nov 2022",
         "prize": "$10,000",

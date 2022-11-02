@@ -262,7 +262,7 @@
         {
             "name": "Approximate Inference in Bayesian Deep Learning",
             "url": "https://competitions.codalab.org/competitions/35838",
-            "url_2": "https://izmailovpavel.github.io/neurips_bdl_competition/",
+            "additional_urls": ["https://izmailovpavel.github.io/neurips_bdl_competition/"],
             "type": "🎲 Probabilistic ML",
             "deadline": "26 Nov 2021",
             "prize": "$4,500",
@@ -2668,7 +2668,8 @@
          "deadline": "27 Oct 2021",
          "prize": "$200,000",
          "platform": "DrivenData",
-         "sponsor": "Facebook"
+         "sponsor": "Facebook",
+         "additional_urls": ["https://sites.google.com/view/isc2021"]
      }, {
          "name": "Predict Stock Market Volatility",
          "url": "https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview/description?utm_source=mlcontests&utm_campaign=mlcontests",

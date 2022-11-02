@@ -653,6 +653,23 @@
             "tracks": 3,
             "platform": "Independent",
             "sponsor": "Various",
+            "tags": ["optimisation"],
+            "conference": "NeurIPS",
+            "conference-year": 2021
+        },
+        {
+            "name": "Learning By Doing",
+            "url": "https://learningbydoingcompetition.github.io/",
+            "type": "🤖 Reinforcement Learning",
+            "launched": "15 Jul 2021",
+            "registration-deadline": "20 Aug 2021",
+            "deadline": "26 Sep 2021",
+            "prize": "$6,000",
+            "additional_urls": ["https://competitions.codalab.org/competitions/33378", "https://competitions.codalab.org/competitions/33622", "https://github.com/LearningByDoingCompetition/learningbydoing-comp", "https://neurips.cc/virtual/2021/competition/22444#bookmark-here-21988"],
+            "tracks": 2,
+            "platform": "CodaLab",
+            "tags": ["control"],
+            "sponsor": "Various",
             "conference": "NeurIPS",
             "conference-year": 2021
         },

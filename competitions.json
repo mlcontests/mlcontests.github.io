@@ -3042,15 +3042,6 @@
         "platform": "Xeek",
         "sponsor": "Various"
       }, {
-        "name": "Locate Plot Markers on old Crossplots",
-        "url": "https://xeek.ai/challenges/extract-legends",
-        "tags": ["measurable", "segmentation", "vision"],
-        "type": "📷 Computer Vision",
-        "deadline": "30 Nov 2022",
-        "prize": "$10,000",
-        "platform": "Xeek",
-        "sponsor": "Various"
-      }, {
         "name": "Finders Seekers - Help Find Data in Satellite Images",
         "url": "https://xeek.ai/challenges/finders-seekers-job1",
         "type": "📷 Computer Vision",

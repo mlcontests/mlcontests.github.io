@@ -3115,6 +3115,22 @@
         "prize": "$125,000",
         "platform": "CodaLab",
         "sponsor": "FTX Future Fund"
+      },{
+        "name": "Zindi New User Engagement Prediction Challenge",
+        "url": "https://zindi.africa/competitions/zindi-new-user-engagement-prediction-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=newuserengagement",
+        "type": "📈 Time Series Forecasting",
+        "deadline": "12 Feb 2023",
+        "prize": "$5,000 ",
+        "platform": "Zindi",
+        "sponsor": "Zindi"
+      },{
+        "name": "Absa Corporate Client Activity Forecasting Challenge",
+        "url": "https://zindi.africa/competitions/absa-corporate-client-activity-forecasting-challenge/leaderboard?utm_medium=referral&utm_source=mlcontest&utm_campaign=absacafc",
+        "type": "📈 Time Series Forecasting",
+        "deadline": "27 Nov 2022",
+        "prize": "$5,000 ",
+        "platform": "Zindi",
+        "sponsor": "Absa Corporate and Investment Bank (CIB)"
       }
      ]
 

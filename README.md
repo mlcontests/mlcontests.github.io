@@ -60,6 +60,7 @@ Until the transition is complete, please also assign both a type and tags.
 | `"control"`  | [Control problems](https://en.wikipedia.org/wiki/Optimal_control) (controlling a dynamical system) |
 | `"classification"`  | [Classification](https://en.wikipedia.org/wiki/Statistical_classification) (class labels) |
 | `"regression"`  | [Regression](https://en.wikipedia.org/wiki/Regression_analysis) (numerical labels) |
+| `"ranking"`  | [Ranking](https://en.wikipedia.org/wiki/Learning_to_rank) (ranking sets of items) |
 | `"segmentation"`  | Segmentation [(1)](https://en.wikipedia.org/wiki/Image_segmentation) [(2)](https://en.wikipedia.org/wiki/Time-series_segmentation)  (dividing something into parts with labels) |
 | `"vision"`  | [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) (images/video) |
 | `"audio"`  | [Audio processing](https://en.wikipedia.org/wiki/Audio_signal_processing) (sound) |
@@ -83,3 +84,11 @@ Until the transition is complete, please also assign both a type and tags.
 | `"measurable"`  | Any competition with an objectively measurable goal/benchmark|
 | `"subjective"`  | Any competition with a subjective determination of winners, such as through a judging panel|
 | `"science"`  | Any challenge analysing scientific data (physics/biology/chemistry/...)|
+| `"sport"`  | Any challenge analysing sports data (horse racing, NFL, NBA, soccer,...)|
+| `"business"`  | Any challenge analysing business data (customer behaviour, credit card defaults,...)|
+| `"finance"`  | Any challenge analysing financial markets data (crypto price prediction,...)|
+| `"education"`  | Any challenge analysing education-related data (analysing students' essays, etc)|
+| `"geo"`  | Any challenge analysing geographical data (localisation, mapping, etc)|
+| `"data"`  | Any challenge where the core component is preparing or cleaning data, or creating new benchmark data sets |
+| `"open"`  | Any data can be used, not just data that was given |
+| `"pvp"`  | 'player-vs-player', i.e. evaluation is done by having competitors battle |

@@ -3304,44 +3304,40 @@
         "prize": "$1,500",
         "platform": "ZenML",
         "sponsor": "ZenML"
-      }, {
-        "name": "Detect Text on Crossplots",
-        "url": "https://xeek.ai/challenges/text-on-crossplots",
-        "type": "📷 Computer Vision",
-        "deadline": "2 Nov 2022",
-        "prize": "$10,000",
-        "platform": "Xeek",
-        "sponsor": "Various"
-      }, {
+      },{
         "name": "Future in Charges: Modeling Battery Properties",
         "url": "https://xeek.ai/challenges/future-in-charges",
         "type": "✅ Supervised Learning",
+        "tags": ["science", "measurable"],
         "deadline": "6 Jan 2023",
         "prize": "$50,000",
         "platform": "Xeek",
         "sponsor": "Various"
       }, {
-        "name": "Find the Crossplot Markers in a Graph",
+        "name": "Detect Text on Crossplots",
+        "url": "https://xeek.ai/challenges/text-on-crossplots",
+        "type": "📷 Computer Vision",
+        "tags": ["measurable", "segmentation","vision"],
+        "deadline": "2 Nov 2022",
+        "prize": "$10,000",
+        "platform": "Xeek",
+        "sponsor": "Various"
+      },{
+        "name": "Find the Legend in a Graph",
         "url": "https://xeek.ai/challenges/extract-crossplot-markers",
         "type": "📷 Computer Vision",
+        "tags": ["measurable", "segmentation", "vision"],
         "deadline": "30 Nov 2022",
         "prize": "$10,000",
         "platform": "Xeek",
         "sponsor": "Various"
       }, {
-        "name": "Extract Legends from old Crossplots",
-        "url": "https://xeek.ai/challenges/extract-legends",
+        "name": "Finders Seekers - Help Find Data in Satellite Images",
+        "url": "https://xeek.ai/challenges/finders-seekers-job1",
         "type": "📷 Computer Vision",
-        "deadline": "30 Nov 2022",
-        "prize": "$10,000",
-        "platform": "Xeek",
-        "sponsor": "Various"
-      }, {
-        "name": "Find the Crossplot Markers in a Graph",
-        "url": "https://xeek.ai/challenges/extract-crossplot-markers",
-        "type": "📷 Computer Vision",
-        "deadline": "30 Nov 2022",
-        "prize": "$10,000",
+        "tags": ["subjective", "vision"],
+        "deadline": "07 Dec 2022",
+        "prize": "500",
         "platform": "Xeek",
         "sponsor": "Various"
       },{

@@ -2,7 +2,7 @@
      "data": [
         {
             "name": "Mine Space Resources and Battle Opponents",
-            "url": "https://www.kaggle.com/competitions/kore-2022",
+            "url": "https://www.kaggle.com/competitions/kore-2022?utm_source=mlcontests",
             "type": "🤖 Reinforcement Learning",
             "tags": ["pvp", "rl", "control", "measurable"],
             "launched": "12 Apr 2021",

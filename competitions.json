@@ -126,7 +126,7 @@
             "deadline": "27 Nov 2022",
             "prize": "$5,000",
             "platform": "Zindi",
-            "sponsor": "Absa",
+            "sponsor": "Absa CIB",
             "restrictions": {"country": "ZA"},
             "additional_urls": [],
             "conference": null,
@@ -3268,7 +3268,7 @@
         "deadline": "27 Nov 2022",
         "prize": "$5,000 ",
         "platform": "Zindi",
-        "sponsor": "Absa CI",
+        "sponsor": "Absa CIB",
         "restrictions": {"country": "ZA"}
       }
      ]

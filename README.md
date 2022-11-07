@@ -94,3 +94,4 @@ Until the transition is complete, please also assign both a type and tags.
 | `"pvp"`  | 'player-vs-player', i.e. evaluation is done by having competitors battle |
 | `"robotics"`  | Any challenge involving teaching robots skills |
 | `"driving"`  | Any challenge involving self-driving cars |
+| `"multiple"`  | A competition composed of multiple mini-challenges |

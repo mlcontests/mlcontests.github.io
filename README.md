@@ -95,3 +95,4 @@ Until the transition is complete, please also assign both a type and tags.
 | `"robotics"`  | Any challenge involving teaching robots skills |
 | `"driving"`  | Any challenge involving self-driving cars |
 | `"multiple"`  | A competition composed of multiple mini-challenges |
+| `"mlops"`  | A competition focused on MLOps - the operational aspects of ML in production - rather than modelling |

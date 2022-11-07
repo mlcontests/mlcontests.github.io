@@ -1463,7 +1463,7 @@
             "sponsor": "Amazon",
             "conference": null,
             "conference-year": null
-      },
+      }
       {
             "name": "BirdCLEF 2022",
             "url": "https://www.kaggle.com/c/birdclef-2022/overview?source=mlcontests",
@@ -3267,7 +3267,7 @@
          "name": "Waymo 2022: Motion Prediction",
          "url": "https://waymo.com/open/challenges/2022/motion-prediction/?source=mlcontests",
          "type": "📷 Computer Vision",
-         "tags": ["measurable", "supervised", "timeseries", "forecasting", "vision", "driving"], "regression",
+         "tags": ["measurable", "supervised", "timeseries", "forecasting", "vision", "driving", "regression"],
          "deadline": "23 May 2022",
          "prize": "$22,000",
          "platform": "Waymo",

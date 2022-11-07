@@ -92,3 +92,5 @@ Until the transition is complete, please also assign both a type and tags.
 | `"data"`  | Any challenge where the core component is preparing or cleaning data, or creating new benchmark data sets |
 | `"open"`  | Any data can be used, not just data that was given |
 | `"pvp"`  | 'player-vs-player', i.e. evaluation is done by having competitors battle |
+| `"robotics"`  | Any challenge involving teaching robots skills |
+| `"driving"`  | Any challenge involving self-driving cars |

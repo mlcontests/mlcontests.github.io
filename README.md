@@ -18,7 +18,7 @@ A sortable list of public machine learning/data science/AI contests, viewable on
 
 Please submit a pull request for any changes. 
 
-Additions or changes to the competitions list can be made by editing https://github.com/mlcontests/mlcontests.github.io/blob/master/competitions.json.
+Additions or changes to the competitions list can be made by editing https://github.com/mlcontests/mlcontests.github.io/blob/master/competitions.json. Please check the [submission criteria](https://mlcontests.com/submit/) first to ensure your competition qualifies.
 
 ## Schema
 Mandatory fields

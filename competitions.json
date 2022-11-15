@@ -493,18 +493,6 @@
             "conference-year": null
         },  
         {
-            "name": "Future Fund AI Worldview Prize",
-            "url": "https://ftxfuturefund.org/announcing-the-future-funds-ai-worldview-prize/?utm_source=mlcontests",
-            "type": "✍️ Writing",
-            "tags": ["writing", "subjective", "safety"],
-            "deadline": "23 Dec 2022",
-            "prize": "$5,000,000",
-            "platform": "Independent",
-            "sponsor": "FTX Future Fund",
-            "conference": null,
-            "conference-year": null
-        },  
-        {
             "name": "Air Quality Forecasting in Uganda",
             "url": "https://zindi.africa/competitions/layerai-air-quality-prediction-challenge",
             "type": "📈 Time Series Forecasting",
@@ -3473,15 +3461,6 @@
         "prize": "$15,000",
         "platform": "Zindi",
         "sponsor": "Wadhwani, FAIR Forward"
-      },{
-        "name": "The Autocast Competition - Warm-Up Round",
-        "url": "https://forecasting.mlsafety.org/",
-        "type": "📈 Time Series Forecasting",
-        "launched": "14 Sep 2022",
-        "deadline": "10 Feb 2023",
-        "prize": "$125,000",
-        "platform": "CodaLab",
-        "sponsor": "FTX Future Fund"
       },{
         "name": "Zindi New User Engagement Prediction Challenge",
         "url": "https://zindi.africa/competitions/zindi-new-user-engagement-prediction-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=newuserengagement",

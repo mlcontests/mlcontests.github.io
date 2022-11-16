@@ -1,7 +1,7 @@
  {
      "data": [
         {
-            "name": "AfriSenti SemEval Task 12: Sentiment Analysis for African Languages",
+            "name": "AfriSenti SemEval Task 12: Sentiment Analysis for Low-resource African Languages",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/7320",
             "type": "🤖 Classification",
             "tags": ["sentiment", "ml", "semeval", "africa"],

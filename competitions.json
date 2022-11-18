@@ -1,6 +1,16 @@
  {
      "data": [
         {
+            "name": "The Autocast Competition - Warm-Up Round",
+            "url": "https://forecasting.mlsafety.org/",
+            "type": "📈 Time Series Forecasting",
+            "launched": "14 Sep 2022",
+            "deadline": "10 Feb 2023",
+            "prize": "$125,000",
+            "platform": "CodaLab",
+            "sponsor": "Center for AI Safety"
+        },
+        {
             "name": "Mine Space Resources and Battle Opponents",
             "url": "https://www.kaggle.com/competitions/kore-2022?utm_source=mlcontests",
             "type": "🤖 Reinforcement Learning",
@@ -552,6 +562,7 @@
             "name": "Slick in a Haystack - a Localization Challenge",
             "url": "https://xeek.ai/challenges/slick-in-a-haystack-a-localization-challenges",
             "type": "📷 Computer Vision",
+            "tags": ["vision", "segmentation", "supervised", "measurable"],
             "deadline": "16 Sep 2022",
             "prize": "$30,000",
             "platform": "Xeek",
@@ -561,6 +572,7 @@
              "name": "Identify and Extract Axes Values",
              "url": "https://xeek.ai/challenges/identify-and-extract-axes-values",
              "type": "✅ Supervised Learning",
+             "tags": ["vision", "nlp", "regression", "supervised", "measurable"],
              "deadline": "7 Sep 2022",
              "prize": "$5,000",
              "platform": "Xeek",
@@ -3424,19 +3436,19 @@
         "platform": "Xeek",
         "sponsor": "Various"
       }, {
-        "name": "Detect Text on Crossplots",
+        "name": "Extract Axis Text from Chart Images",
         "url": "https://xeek.ai/challenges/text-on-crossplots",
         "type": "📷 Computer Vision",
-        "tags": ["measurable", "segmentation","vision"],
+        "tags": ["vision", "nlp", "supervised", "measurable"],
         "deadline": "2 Nov 2022",
         "prize": "$10,000",
         "platform": "Xeek",
         "sponsor": "Various"
       },{
-        "name": "Find the Legend in a Graph",
+        "name": "Extract Legend Text from Chart Images",
         "url": "https://xeek.ai/challenges/extract-crossplot-markers",
         "type": "📷 Computer Vision",
-        "tags": ["measurable", "segmentation", "vision"],
+        "tags": ["vision", "nlp", "supervised", "measurable"],
         "deadline": "30 Nov 2022",
         "prize": "$10,000",
         "platform": "Xeek",

@@ -11,6 +11,21 @@
             "sponsor": "Center for AI Safety"
         },
         {
+            "name": "AfriSenti SemEval Task 12: Sentiment Analysis for Low-resource African Languages",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/7320",
+            "type": "🤖 Classification",
+            "tags": ["sentiment", "ml", "semeval", "africa"],
+            "launched": "1 Oct 2022",
+            "registration-deadline": "31 Jan 2023",
+            "deadline": "31 Jan 2023",
+            "prize": "$5,000",
+            "platform": "CodaLab",
+            "sponsor": "HausaNLP",
+            "additional_urls": ["https://afrisenti-semeval.github.io/", "https://github.com/afrisenti-semeval/afrisent-semeval-2023"],
+            "conference": "EMNLP",
+            "conference-year": 2023
+        },
+        {
             "name": "Mine Space Resources and Battle Opponents",
             "url": "https://www.kaggle.com/competitions/kore-2022?utm_source=mlcontests",
             "type": "🤖 Reinforcement Learning",

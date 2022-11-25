@@ -1,6 +1,36 @@
  {
      "data": [
         {
+            "name": "DeepFake Game Competition",
+            "url": "https://dfgc2021.iapr-tc4.org/",
+            "type": "📷 Computer Vision",
+            "tags": ["supervised", "vision", "classification", "measurable"],
+            "launched": "15 Mar 2022",
+            "registration-deadline": "15 Mar 2022",
+            "deadline": "25 Apr 2022",
+            "prize": "$80,000",
+            "platform": "CodaLab",
+            "sponsor": null,
+            "additional_urls": ["https://codalab.lisn.upsaclay.fr/competitions/3523", "https://codalab.lisn.upsaclay.fr/competitions/2149"],
+            "conference": "IJCB",
+            "conference-year": 2022
+        },
+        {
+            "name": "Self-Supervised Learning for Autonomous Driving",
+            "url": "https://sslad2022.github.io/pages/challenge.html",
+            "type": "📷 Computer Vision",
+            "tags": ["supervised", "vision", "segmentation", "measurable", "driving"],
+            "launched": "1 Aug 2022",
+            "registration-deadline": "31 Sep 2022",
+            "deadline": "31 Sep 2022",
+            "prize": "$50,000",
+            "platform": "CodaLab",
+            "sponsor": null,
+            "additional_urls": [],
+            "conference": "ECCV",
+            "conference-year": 2022
+        },
+        {
             "name": "Panoptic Scene Graph Generation",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/6734",
             "type": "📷 Computer Vision",

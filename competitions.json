@@ -1,6 +1,36 @@
  {
      "data": [
         {
+            "name": "Predict Earthquakes in Sichuan-Yunnan",
+            "url": "https://tianchi.aliyun.com/competition/entrance/531972/introduction?spm=5176.12281949.0.0.2014539dxbI4GJ",
+            "type": "📈 Time Series Forecasting",
+            "tags": ["supervised", "timeseries", "forecasting", "classification", "measurable"],
+            "launched": "1 Jun 2022",
+            "registration-deadline": "31 Dec 2022",
+            "deadline": "15 Jan 2023",
+            "prize": "$15,000",
+            "platform": "Tianchi",
+            "sponsor": "Various",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": 2022
+        },
+        {
+            "name": "Detect Algae in Microscopy Images",
+            "url": "https://tianchi.aliyun.com/competition/entrance/532036/introduction?spm=5176.12281949.0.0.2014539dxbI4GJ",
+            "type": "📷 Computer Vision",
+            "tags": ["supervised", "vision", "classification", "measurable"],
+            "launched": "30 Sep 2022",
+            "registration-deadline": "1 Nov 2022",
+            "deadline": "30 Nov 2022",
+            "prize": "$5,500",
+            "platform": "Tianchi",
+            "sponsor": "Various",
+            "additional_urls": [],
+            "conference": "IEEE UV",
+            "conference-year": 2022
+        },
+        {
             "name": "DeepFake Game Competition",
             "url": "https://dfgc2021.iapr-tc4.org/",
             "type": "📷 Computer Vision",

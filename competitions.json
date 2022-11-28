@@ -3627,6 +3627,17 @@
         "platform": "Zindi",
         "sponsor": "Absa CIB",
         "restrictions": {"country": "ZA"}
+      },{
+        "name": "NASA Harvest Field Boundary Detection Challenge",
+        "url": "https://zindi.africa/competitions/nasa-harvest-field-boundary-detection-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=nasaharvest",
+        "type": "✅ Supervised Learning",
+        "tags": ["supervised", "classification", "timeseries", "measurable", "vision", "geo"],
+        "launched": "28 Nov 2022",
+        "registration-deadline": "26 Feb 2023",
+        "deadline": "26 Feb 2023",
+        "prize": "$5,000 ",
+        "platform": "Zindi",
+        "sponsor": "NASA Harvest"
       }
      ]
 

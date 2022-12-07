@@ -1,6 +1,36 @@
  {
      "data": [
         {
+            "name": "Video Similarity Challenge: Descriptor Track",
+            "url": "https://www.drivendata.org/competitions/101/meta-video-similarity-descriptor/",
+            "type": "📷 Computer Vision",
+            "tags": ["supervised", "vision", "representation", "measurable"],
+            "launched": "6 Dec 2022",
+            "registration-deadline": "24 Mar 2023",
+            "deadline": "9 Apr 2023",
+            "prize": "$50,000",
+            "platform": "DrivenData",
+            "sponsor": "Meta AI",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Video Similarity Challenge: Matching Track",
+            "url": "https://www.drivendata.org/competitions/101/meta-video-similarity-descriptor/",
+            "type": "📷 Computer Vision",
+            "tags": ["supervised", "vision", "representation", "measurable"],
+            "launched": "6 Dec 2022",
+            "registration-deadline": "24 Mar 2023",
+            "deadline": "9 Apr 2023",
+            "prize": "$50,000",
+            "platform": "DrivenData",
+            "sponsor": "Meta AI",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Predict Earthquakes in Sichuan-Yunnan",
             "url": "https://tianchi.aliyun.com/competition/entrance/531972/introduction?spm=5176.12281949.0.0.2014539dxbI4GJ",
             "type": "📈 Time Series Forecasting",
@@ -13,7 +43,7 @@
             "sponsor": "Various",
             "additional_urls": [],
             "conference": null,
-            "conference-year": 2022
+            "conference-year": null
         },
         {
             "name": "Detect Algae in Microscopy Images",

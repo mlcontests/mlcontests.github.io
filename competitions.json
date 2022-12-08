@@ -1,6 +1,51 @@
  {
      "data": [
         {
+            "name": "Santa 2022 - Christmas Card Optimisation",
+            "url": "https://www.kaggle.com/competitions/santa-2022",
+            "type": "📉 Optimisation",
+            "tags": ["optimisation", "measurable"],
+            "launched": "30 Nov 2022",
+            "registration-deadline": "10 Jan 2023",
+            "deadline": "17 Jan 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Kaggle",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Mammography Breast Cancer Detection",
+            "url": "https://www.kaggle.com/competitions/rsna-breast-cancer-detection",
+            "type": "📷 Computer Vision",
+            "tags": ["supervised", "vision", "medical", "measurable", "classification"],
+            "launched": "28 Nov 2022",
+            "registration-deadline": "20 Feb 2023",
+            "deadline": "27 Feb 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "RSNA",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "NFL Player Contact Detection",
+            "url": "https://www.kaggle.com/competitions/nfl-player-contact-detection",
+            "type": "📷 Computer Vision",
+            "tags": ["supervised", "vision", "timeseries", "measurable", "classification"],
+            "launched": "5 Dec 2022",
+            "registration-deadline": "22 Feb 2023",
+            "deadline": "1 Mar 2023",
+            "prize": "$100,000",
+            "platform": "Kaggle",
+            "sponsor": "NFL",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Music Demixing",
             "url": "https://www.aicrowd.com/challenges/sound-demixing-challenge-2023/problems/music-demixing-track-mdx-23",
             "type": "🔊 Audio",

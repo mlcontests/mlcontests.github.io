@@ -1,6 +1,36 @@
  {
      "data": [
         {
+            "name": "Music Demixing",
+            "url": "https://www.aicrowd.com/challenges/sound-demixing-challenge-2023/problems/music-demixing-track-mdx-23",
+            "type": "🔊 Audio",
+            "tags": ["supervised", "audio", "segmentation", "measurable"],
+            "launched": "8 Dec 2022",
+            "registration-deadline": "23 Jan 2023",
+            "deadline": "6 Mar 2023",
+            "prize": "$32,000",
+            "platform": "AIcrowd",
+            "sponsor": "Sony/Moises/Mitsubishi",
+            "additional_urls": ["https://www.aicrowd.com/challenges/sound-demixing-challenge-2023"],
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Cinematic Sound Demixing",
+            "url": "https://www.aicrowd.com/challenges/sound-demixing-challenge-2023/problems/cinematic-sound-demixing-track-cdx-23",
+            "type": "🔊 Audio",
+            "tags": ["supervised", "audio", "segmentation", "measurable"],
+            "launched": "8 Dec 2022",
+            "registration-deadline": "23 Jan 2023",
+            "deadline": "6 Mar 2023",
+            "prize": "$10,000",
+            "platform": "AIcrowd",
+            "sponsor": "Sony/Moises/Mitsubishi",
+            "additional_urls": ["https://www.aicrowd.com/challenges/sound-demixing-challenge-2023"],
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Video Similarity Challenge: Descriptor Track",
             "url": "https://www.drivendata.org/competitions/101/meta-video-similarity-descriptor/",
             "type": "📷 Computer Vision",

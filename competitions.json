@@ -922,8 +922,8 @@
             "type": "🤖 Reinforcement Learning",
             "tags": ["science", "rl", "robotics", "measurable"],
             "deadline": "20 Oct 2022",
-            "prize": "$75,000",
-            "platform": "Independent",
+            "prize": "$10,000",
+            "platform": "EvalAI",
             "sponsor": "University of Twente, Google Cloud",
             "conference": "NeurIPS",
             "conference-year": 2022

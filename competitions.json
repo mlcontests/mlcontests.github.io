@@ -1,6 +1,36 @@
  {
      "data": [
         {
+            "name": "Drone Images: Semantic Segmentation",
+            "url": "https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23/problems/semantic-segmentation",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "supervised", "segmentation", "measurable"],
+            "launched": "22 Dec 2022",
+            "registration-deadline": "28 Apr 2023",
+            "deadline": "28 Apr 2023",
+            "prize": "$23,750",
+            "platform": "AIcrowd",
+            "sponsor": "Amazon",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Drone Images: Depth Perception",
+            "url": "https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23/problems/mono-depth-perception",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "supervised", "regression", "measurable"],
+            "launched": "22 Dec 2022",
+            "registration-deadline": "28 Apr 2023",
+            "deadline": "28 Apr 2023",
+            "prize": "$23,750",
+            "platform": "AIcrowd",
+            "sponsor": "Amazon",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Santa 2022 - Christmas Card Optimisation",
             "url": "https://www.kaggle.com/competitions/santa-2022",
             "type": "📉 Optimisation",

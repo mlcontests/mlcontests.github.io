@@ -1,6 +1,36 @@
  {
      "data": [
         {
+            "name": "NFT Price Prediction",
+            "url": "https://bitgrit.net/competition/17?utm_source=mlcontests&utm_medium=organic&utm_campaign=NFT",
+            "type": "✅ Supervised Learning",
+            "tags": ["business", "measurable", "supervised", "tabular"],
+            "launched": "19 Dec 2022",
+            "registration-deadline": "19 Feb 2023",
+            "deadline": "19 Feb 2023",
+            "prize": "$3,000",
+            "platform": "bitgrit",
+            "sponsor": "GASHO 2.0",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "GoDaddy Microbusiness Density Forecasting",
+            "url": "https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting",
+            "type": "📈 Time Series Forecasting",
+            "tags": ["business", "measurable", "supervised", "timeseries", "forecasting"],
+            "launched": "15 Dec 2022",
+            "registration-deadline": "7 Mar 2023",
+            "deadline": "14 Mar 2023",
+            "prize": "$60,000",
+            "platform": "Kaggle",
+            "sponsor": "GoDaddy",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Match Learning Content to Target Topics",
             "url": "https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations",
             "type": "✅ Supervised Learning",

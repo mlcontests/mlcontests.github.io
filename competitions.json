@@ -1,6 +1,21 @@
  {
      "data": [
         {
+            "name": "Battlecode 2023",
+            "url": "https://battlecode.org/",
+            "type": "🤖 Reinforcement Learning",
+            "tags": ["rl", "game", "pvp", "measurable"],
+            "launched": "9 Jan 2023",
+            "registration-deadline": "17 Jan 2023",
+            "deadline": "5 Feb 2023",
+            "prize": "$20,000",
+            "platform": "MIT",
+            "sponsor": "Regression Games, Argus Labs, Others",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "NFT Price Prediction",
             "url": "https://bitgrit.net/competition/17?utm_source=mlcontests&utm_medium=organic&utm_campaign=NFT",
             "type": "✅ Supervised Learning",

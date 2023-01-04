@@ -1,6 +1,36 @@
  {
      "data": [
         {
+            "name": "Match Learning Content to Target Topics",
+            "url": "https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations",
+            "type": "✅ Supervised Learning",
+            "tags": ["education", "measurable", "supervised", "recommendation"],
+            "launched": "15 Dec 2022",
+            "registration-deadline": "7 Mar 2023",
+            "deadline": "14 Mar 2023",
+            "prize": "$55,000",
+            "platform": "Kaggle",
+            "sponsor": "Learning Equality, Learning Agency Lab, Schmidt Futures, UNHCR",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Detect Harmful Algae in Satellite Imagery",
+            "url": "https://www.drivendata.org/competitions/143",
+            "type": "📷 Computer Vision",
+            "tags": ["supervised", "vision", "science", "geo", "classification", "measurable"],
+            "launched": "15 Dec 2022",
+            "registration-deadline": "17 Feb 2023",
+            "deadline": "17 Feb 2023",
+            "prize": "$30,000",
+            "platform": "DrivenData",
+            "sponsor": "NASA and others",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Drone Images: Semantic Segmentation",
             "url": "https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23/problems/semantic-segmentation",
             "type": "📷 Computer Vision",

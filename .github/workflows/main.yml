@@ -16,5 +16,8 @@ jobs:
     name: Trigger build
     runs-on: ubuntu-20.04
     steps:
+      - name: sleep for 30 seconds
+        run: sleep 30s
+        shell: bash
       - name: hit endpoint  
         run: curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/d0e7b3d3-94fc-4381-a203-5ee188498f1d"

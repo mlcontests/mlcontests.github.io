@@ -1,6 +1,21 @@
  {
      "data": [
         {
+            "name": "VizWiz ORBIT Few-Shot Challenge 2023",
+            "url": "https://eval.ai/web/challenges/challenge-page/1896",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "supervised", "classification", "measurable"],
+            "launched": "12 Jan 2023",
+            "registration-deadline": null,
+            "deadline": "12 May 2023",
+            "prize": null,
+            "platform": "EvalAI",
+            "sponsor": "",
+            "additional_urls": [],
+            "conference": "CVPR",
+            "conference-year": 2023
+        },
+        {
             "name": "Spot Birds in Drone Images",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/9594",
             "type": "📷 Computer Vision",

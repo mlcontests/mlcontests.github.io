@@ -1,6 +1,21 @@
  {
      "data": [
         {
+            "name": "Visual Product Recognition Challenge",
+            "url": "https://www.aicrowd.com/challenges/visual-product-recognition-challenge-2023",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "supervised", "search", "measurable"],
+            "launched": "16 Jan 2023",
+            "registration-deadline": "9 Mar 2023",
+            "deadline": "16 Mar 2023",
+            "prize": "$15,000",
+            "platform": "AIcrowd, VisionLabs",
+            "sponsor": "Amazon",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Battlecode 2023",
             "url": "https://battlecode.org/",
             "type": "🤖 Reinforcement Learning",

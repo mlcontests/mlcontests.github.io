@@ -1,6 +1,21 @@
  {
      "data": [
         {
+            "name": "Spot Birds in Drone Images",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/9594",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "supervised", "classification", "measurable"],
+            "launched": "8 Dec 2022",
+            "registration-deadline": "14 Apr 2023",
+            "deadline": "21 Apr 2023",
+            "prize": "$8,000",
+            "platform": "CodaLab",
+            "sponsor": "",
+            "additional_urls": ["https://www.mva-org.jp/mva2023/index.php?id=challenge"],
+            "conference": "MVA",
+            "conference-year": 2023
+        },
+        {
             "name": "Visual Product Recognition Challenge",
             "url": "https://www.aicrowd.com/challenges/visual-product-recognition-challenge-2023",
             "type": "📷 Computer Vision",
@@ -9,8 +24,8 @@
             "registration-deadline": "9 Mar 2023",
             "deadline": "16 Mar 2023",
             "prize": "$15,000",
-            "platform": "AIcrowd, VisionLabs",
-            "sponsor": "Amazon",
+            "platform": "AIcrowd",
+            "sponsor": "AIcrowd",
             "additional_urls": [],
             "conference": null,
             "conference-year": null

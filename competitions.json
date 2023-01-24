@@ -3893,6 +3893,16 @@
         "prize": "$5,000 ",
         "platform": "Zindi",
         "sponsor": "NASA Harvest"
+      },{
+        "name": "Africa Biomass Challenge",
+        "url": "https://zindi.africa/competitions/africa-biomass-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=biomass",
+        "type": "✅ Supervised Learning",
+        "tags": ["supervised", "regression", "measurable", "science", "geo"],
+        "launched": "27 Jan 2023",
+        "deadline": "21 May 2023",
+        "prize": "$10,000 ",
+        "platform": "Zindi",
+        "sponsor": "GIZ"
       }
      ]
 

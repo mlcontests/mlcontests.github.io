@@ -1,6 +1,21 @@
  {
      "data": [
         {
+            "name": "Lux AI: 1v1 Strategy Game",
+            "url": "https://kaggle.com/competitions/lux-ai-season-2?utm_source=mlcontests&utm_campaign=comp-icecube-2023",
+            "type": "🤖 Reinforcement Learning",
+            "tags": ["rl", "game", "pvp", "measurable"],
+            "launched": "25 Jan 2023",
+            "registration-deadline": "25 Apr 2023",
+            "deadline": "25 Apr 2023",
+            "prize": "$55,000",
+            "platform": "Kaggle",
+            "sponsor": "quantco/ Regression Games/ TSVC",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Reconstruct Neutrino Source Directions",
             "url": "https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice?utm_source=mlcontests&utm_campaign=comp-icecube-2023",
             "type": "✅ Supervised Learning",

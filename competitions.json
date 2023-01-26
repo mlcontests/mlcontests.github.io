@@ -1,6 +1,22 @@
  {
      "data": [
         {
+            "name": "Reconstruct Neutrino Source Directions",
+            "url": "https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice?utm_source=mlcontests&utm_campaign=comp-icecube-2023",
+            "type": "✅ Supervised Learning",
+            "tags": ["science", "measurable", "supervised", "timeseries", "forecasting"],
+            "launched": "19 Jan 2023",
+            "registration-deadline": "13 Apr 2023",
+            "deadline": "20 Apr 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "IceCube Neutrino Observatory",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null,
+            "data-size": 117.18
+        },
+        {
             "name": "VizWiz ORBIT Few-Shot Challenge 2023",
             "url": "https://eval.ai/web/challenges/challenge-page/1896",
             "type": "📷 Computer Vision",
@@ -77,7 +93,7 @@
         },
         {
             "name": "GoDaddy Microbusiness Density Forecasting",
-            "url": "https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting",
+            "url": "https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting?utm_source=mlcontests",
             "type": "📈 Time Series Forecasting",
             "tags": ["business", "measurable", "supervised", "timeseries", "forecasting"],
             "launched": "15 Dec 2022",
@@ -92,7 +108,7 @@
         },
         {
             "name": "Match Learning Content to Target Topics",
-            "url": "https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations",
+            "url": "https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations?utm_source=mlcontests",
             "type": "✅ Supervised Learning",
             "tags": ["education", "measurable", "supervised", "recommendation"],
             "launched": "15 Dec 2022",
@@ -152,7 +168,7 @@
         },
         {
             "name": "Santa 2022 - Christmas Card Optimisation",
-            "url": "https://www.kaggle.com/competitions/santa-2022",
+            "url": "https://www.kaggle.com/competitions/santa-2022?utm_source=mlcontests",
             "type": "📉 Optimisation",
             "tags": ["optimisation", "measurable"],
             "launched": "30 Nov 2022",
@@ -167,7 +183,7 @@
         },
         {
             "name": "Mammography Breast Cancer Detection",
-            "url": "https://www.kaggle.com/competitions/rsna-breast-cancer-detection",
+            "url": "https://www.kaggle.com/competitions/rsna-breast-cancer-detection?utm_source=mlcontests",
             "type": "📷 Computer Vision",
             "tags": ["supervised", "vision", "medical", "measurable", "classification"],
             "launched": "28 Nov 2022",
@@ -182,7 +198,7 @@
         },
         {
             "name": "NFL Player Contact Detection",
-            "url": "https://www.kaggle.com/competitions/nfl-player-contact-detection",
+            "url": "https://www.kaggle.com/competitions/nfl-player-contact-detection?utm_source=mlcontests",
             "type": "📷 Computer Vision",
             "tags": ["supervised", "vision", "timeseries", "measurable", "classification"],
             "launched": "5 Dec 2022",

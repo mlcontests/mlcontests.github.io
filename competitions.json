@@ -3071,6 +3071,16 @@
         "prize": "$125,000",
         "platform": "CodaLab",
         "sponsor": "FTX Future Fund"
+      }, {
+        "name": "Origina of an Image - Tracing how Complex Images are Built",
+        "url": "https://xeek.ai/challenges/seismic-shot-selection-altair",
+        "type": "📷 Computer Vision",
+        "tags": ["vision", "optics", "geophysics"],
+        "registration-deadline": "",
+        "deadline": "",
+        "prize": "$40,000",
+        "platform": "Xeek",
+        "sponsor": "iImage, XDigi"
       }
      ]
 

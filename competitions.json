@@ -3,7 +3,7 @@
                 {
             "name": "MAFAT Satellite Vision Challenge",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/9603",
-            "type": "vision",
+            "type": "📷 Computer Vision",
             "tags": ["vision", "geo", "satellite", "object detection", "supervised", "self-supervised", "detection"],
             "launched": "1 Feb 2023",
             "registration-deadline": "20 Apr 2023",

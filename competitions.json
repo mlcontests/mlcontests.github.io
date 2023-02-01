@@ -1,5 +1,20 @@
  {
      "data": [
+                {
+            "name": "MAFAT Satellite Vision Challenge",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/9603",
+            "type": "vision",
+            "tags": ["vision", "geo", "satellite", "object detection", "supervised", "self-supervised", "detection"],
+            "launched": "1 Feb 2023",
+            "registration-deadline": "20 Apr 2023",
+            "deadline": "27 Apr 2023",
+            "prize": "$45,000",
+            "platform": "CodaLab",
+            "sponsor": "MAFAT",
+            "additional_urls": null,
+            "conference": null,
+            "conference-year": null
+        },
         {
             "name": "Lux AI: 1v1 Strategy Game",
             "url": "https://kaggle.com/competitions/lux-ai-season-2?utm_source=mlcontests&utm_campaign=comp-icecube-2023",

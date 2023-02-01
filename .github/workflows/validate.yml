@@ -1,6 +1,6 @@
 name: Validate Competitions JSONs
 
-on: [pull_request]
+on: [pull_request, push]
 
 jobs:
   verify-json-validation:

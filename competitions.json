@@ -3638,6 +3638,17 @@
         "prize": "$5,000 ",
         "platform": "Zindi",
         "sponsor": "NASA Harvest"
+      },{
+        "name": "DataDrive2030 Early Learning Predictors Challenge",
+        "url": "https://zindi.africa/competitions/datadrive2030-early-learning-predictors-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=ecd",
+        "type": "✅ Supervised Learning",
+        "tags": ["supervised", "regression", "timeseries", "measurable"],
+        "launched": "2 Feb 2023",
+        "registration-deadline": "25 April 2023",
+        "deadline": "30 April 2023",
+        "prize": "$3,000 ",
+        "platform": "Zindi",
+        "sponsor": "DataDrive2030"
       }
      ]
 

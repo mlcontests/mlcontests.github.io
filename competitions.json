@@ -1,6 +1,21 @@
  {
      "data": [
                 {
+            "name": "Visual Queries 2D Localisation",
+            "url": "https://eval.ai/web/challenges/challenge-page/1843/overview",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "nlp", "supervised", "video", "query-answering", "measurable"],
+            "launched": "25 Oct 2022",
+            "registration-deadline": "15 May 2023",
+            "deadline": "15 May 2023",
+            "prize": "$6,000",
+            "platform": "EvalAI",
+            "sponsor": "Ego4D",
+            "additional_urls": null,
+            "conference": null,
+            "conference-year": null
+        },
+                {
             "name": "MAFAT Satellite Vision Challenge",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/9603",
             "type": "📷 Computer Vision",

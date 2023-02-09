@@ -1,6 +1,21 @@
  {
      "data": [
         {
+            "name": "Reconstruction of Human-Object Interactions",
+            "url": "https://rhobin-challenge.github.io/",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "supervised", "video", "measurable"],
+            "launched": "1 Feb 2023",
+            "registration-deadline": "15 May 2023",
+            "deadline": "15 May 2023",
+            "prize": null,
+            "platform": "CodaLab",
+            "sponsor": null,
+            "additional_urls": ["https://codalab.lisn.upsaclay.fr/competitions/9280", "https://codalab.lisn.upsaclay.fr/competitions/9336", "https://codalab.lisn.upsaclay.fr/competitions/9337"],
+            "conference": "CVPR",
+            "conference-year": 2023
+        },
+        {
             "name": "NTIRE2023 Image Restoration/Enhancement Challenges",
             "url": "https://cvlai.net/ntire/2023/#challenge",
             "type": "📷 Computer Vision",

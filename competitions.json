@@ -1,6 +1,51 @@
  {
      "data": [
-                {
+        {
+            "name": "NTIRE2023 Image Restoration/Enhancement Challenges",
+            "url": "https://cvlai.net/ntire/2023/#challenge",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "supervised", "video", "measurable"],
+            "launched": "10 Jan 2023",
+            "registration-deadline": "7 Mar 2023",
+            "deadline": "14 Mar 2023",
+            "prize": null,
+            "platform": "CodaLab",
+            "sponsor": "Various",
+            "additional_urls": null,
+            "conference": "CVPR",
+            "conference-year": 2023
+        },
+        {
+            "name": "NTIRE2023 Video Colorization Challenge (CDC)",
+            "url": "https://tianchi.aliyun.com/competition/entrance/532056/introduction",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "supervised", "video", "measurable"],
+            "launched": "7 Feb 2023",
+            "registration-deadline": "7 Mar 2023",
+            "deadline": "14 Mar 2023",
+            "prize": "$2,000",
+            "platform": "Tianchi",
+            "sponsor": "ModelScope",
+            "additional_urls": ["https://cvlai.net/ntire/2023/#challenge"],
+            "conference": "CVPR",
+            "conference-year": 2023
+        },
+        {
+            "name": "NTIRE2023 Video Colorization Challenge (FID)",
+            "url": "https://tianchi.aliyun.com/competition/entrance/532054/introduction",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "supervised", "video", "measurable"],
+            "launched": "7 Feb 2023",
+            "registration-deadline": "7 Mar 2023",
+            "deadline": "14 Mar 2023",
+            "prize": "$2,000",
+            "platform": "Tianchi",
+            "sponsor": "ModelScope",
+            "additional_urls": ["https://cvlai.net/ntire/2023/#challenge"],
+            "conference": "CVPR",
+            "conference-year": 2023
+        },
+        {
             "name": "Visual Queries 2D Localisation",
             "url": "https://eval.ai/web/challenges/challenge-page/1843/overview",
             "type": "📷 Computer Vision",

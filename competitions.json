@@ -4035,6 +4035,16 @@
         "prize": "$3,000 ",
         "platform": "Zindi",
         "sponsor": "DataDrive2030"
+      }, {
+        "name": "Neural Audio Plugin Competition",
+        "url": "https://www.theaudioprogrammer.com/neural-audio",
+        "type": "🔊 Audio",
+        "tags": ["audio", "subjective", "timeseries", "open"],
+        "launched": "14 Feb 2023",
+        "deadline": "17 Mar 2023",
+        "prize": "$5,000",
+        "platform": "TAP",
+        "sponsor": "TikTok, Qosmo, TAP, JUCE, RNBO, GPU Audio, MathWorks"
       }
      ]
 

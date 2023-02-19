@@ -4036,6 +4036,17 @@
         "platform": "Zindi",
         "sponsor": "DataDrive2030"
       }, {
+        "name": "Intron AfriSpeech-200 Automatic Speech Recognition Challenge",
+        "url": "https://zindi.africa/competitions/intron-afrispeech-200-automatic-speech-recognition-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=asr",
+        "type": "✅ Supervised Learning",
+        "tags": ["supervised", "audio", "science"],
+        "launched": "17 Feb 2023",
+        "registration-deadline": "18 May 2023",
+        "deadline": "28 May 2023",
+        "prize": "$5,000 ",
+        "platform": "Zindi",
+        "sponsor": "Intron, Huggingface, DSN, lanfrica, Masakhane"
+      }, {
         "name": "Neural Audio Plugin Competition",
         "url": "https://www.theaudioprogrammer.com/neural-audio",
         "type": "🔊 Audio",

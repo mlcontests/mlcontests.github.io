@@ -1,6 +1,22 @@
  {
      "data": [
         {
+            "name": "On-Device Sign Language Recognition with TF Lite",
+            "url": "https://www.kaggle.com/competitions/asl-signs/?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "supervised", "measurable"],
+            "launched": "23 Feb 2023",
+            "registration-deadline": "25 Apr 2023",
+            "deadline": "2 May 2023",
+            "prize": "$100,000",
+            "platform": "Kaggle",
+            "sponsor": null,
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null,
+            "data-size": 56.43
+        },
+        {
             "name": "Reconstruction of Human-Object Interactions",
             "url": "https://rhobin-challenge.github.io/",
             "type": "📷 Computer Vision",

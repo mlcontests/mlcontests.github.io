@@ -1,6 +1,22 @@
  {
      "data": [
         {
+            "name": "Reverse Engineer Stable Diffusion Prompts",
+            "url": "https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "supervised", "measurable", "nlp", "generative"],
+            "launched": "13 Feb 2023",
+            "registration-deadline": "9 May 2023",
+            "deadline": "16 May 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Kaggle",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null,
+            "data-size": 0.00324
+        },
+        {
             "name": "On-Device Sign Language Recognition with TF Lite",
             "url": "https://www.kaggle.com/competitions/asl-signs/?ref=mlcontests",
             "type": "📷 Computer Vision",

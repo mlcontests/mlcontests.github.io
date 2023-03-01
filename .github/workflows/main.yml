@@ -13,7 +13,7 @@ defaults:
     shell: bash
 jobs:
   trigger-build:
-    name: Trigger build
+    name: Trigger build (Cloudflare)
     runs-on: ubuntu-20.04
     steps:
       - name: sleep for 30 seconds
@@ -21,3 +21,12 @@ jobs:
         shell: bash
       - name: hit endpoint  
         run: curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/d0e7b3d3-94fc-4381-a203-5ee188498f1d"
+  trigger-build-netlify:
+      name: Trigger build (Netlify)
+      runs-on: ubuntu-20.04
+      steps:
+        - name: sleep for 5 seconds
+          run: sleep 5s
+          shell: bash
+        - name: hit endpoint  
+          run: curl -X POST -d {} https://api.netlify.com/build_hooks/63ff284fb01c046c071c3a09

@@ -1,6 +1,21 @@
  {
      "data": [
         {
+            "name": "ARCathon 2023 - Abstraction & Reasoning",
+            "url": "https://lab42.global/arcathon/?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": ["reasoning", "supervised", "measurable"],
+            "launched": "31 Jan 2023",
+            "registration-deadline": "1 Dec 2023",
+            "deadline": "1 Dec 2023",
+            "prize": "$74,000",
+            "platform": "Lab 42",
+            "sponsor": "Kaggle",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Reverse Engineer Stable Diffusion Prompts",
             "url": "https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts?ref=mlcontests",
             "type": "📷 Computer Vision",

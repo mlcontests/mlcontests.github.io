@@ -1,6 +1,22 @@
  {
      "data": [
          {
+            "name": "Benchmark Autonomous Robot Navigation",
+            "url": "https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge23.html",
+            "type": "🤖 Robotics",
+            "tags": ["robotics", "navigation", "measurable"],
+            "launched": "1 Jan 2023",
+            "registration-deadline": "22 May 2023",
+            "deadline": "22 May 2023",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": null,
+            "additional_urls": [],
+            "conference": "ICRA",
+            "conference-year": 2023,
+            "data-size": null
+        },
+         {
             "name": "BirdCLEF 2023: Identify Bird Calls in Soundscapes",
             "url": "https://www.kaggle.com/competitions/birdclef-2023",
             "type": "🔊 Audio",

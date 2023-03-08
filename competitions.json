@@ -1,5 +1,21 @@
  {
      "data": [
+         {
+            "name": "BirdCLEF 2023: Identify Bird Calls in Soundscapes",
+            "url": "https://www.kaggle.com/competitions/birdclef-2023",
+            "type": "🔊 Audio",
+            "tags": ["audio", "supervised", "measurable", "classification"],
+            "launched": "7 Mar 2023",
+            "registration-deadline": "17 May 2023",
+            "deadline": "24 May 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Cornell Lab of Ornithology",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null,
+            "data-size": 5.29
+        },
         {
             "name": "ARCathon 2023 - Abstraction & Reasoning",
             "url": "https://lab42.global/arcathon/?ref=mlcontests",

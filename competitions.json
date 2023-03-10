@@ -1,6 +1,22 @@
  {
      "data": [
          {
+            "name": "Detect Freezing-of-Gait in Parkinson's Patients",
+            "url": "https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": ["classification", "measurable", "supervised"],
+            "launched": "9 Mar 2023",
+            "registration-deadline": "1 Jun 2023",
+            "deadline": "8 Jun 2023",
+            "prize": "$100,000",
+            "platform": "Kaggle",
+            "sponsor": "Michael J Fox Foundation",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null,
+            "data-size": null
+        },
+         {
             "name": "ADAPT Human-Robot Collaborative Assembly",
             "url": "https://metricsproject.eu/agile-production/adapt-challenge-icra-2023/?ref=mlcontests",
             "type": "🤖 Robotics",

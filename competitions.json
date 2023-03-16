@@ -4035,6 +4035,17 @@
         "prize": "$3,000 ",
         "platform": "Zindi",
         "sponsor": "DataDrive2030"
+      }, {
+        "name": "RMB Monthly Mini Challenge #1: Nowcast April",
+        "url": "https://zindi.africa/competitions/rmb-monthly-mini-challenge-1-nowcast-april?utm_medium=referral&utm_source=mlcontest&utm_campaign=nca",
+        "type": "✅ Supervised Learning",
+        "tags": ["supervised", "regression", "timeseries", "measurable"],
+        "launched": "21 March 2023",
+        "registration-deadline": "21 Apr 2023",
+        "deadline": "01 May 2023",
+        "prize": "$600 ",
+        "platform": "Zindi",
+        "sponsor": "RMB"
       }
      ]
 

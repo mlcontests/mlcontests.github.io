@@ -18,7 +18,7 @@
         },
          {
             "name": "Predict Student Performance from Game Play",
-            "url": "https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction?ref=mlcontests",
+            "url": "https://www.kaggle.com/competitions/predict-student-performance-from-game-play?ref=mlcontests",
             "type": "📈 Time Series Forecasting",
             "tags": ["timeseries","forecasting", "classification", "measurable", "supervised", "education"],
             "launched": "6 Feb 2023",

@@ -1,5 +1,35 @@
  {
      "data": [
+        {
+            "name": "Essay Competition - Abstraction & Reasoning",
+            "url": "https://lab42.global/essay-arc?ref=mlcontests",
+            "type": "✍️ Writing",
+            "tags": ["writing", "subjective"],
+            "launched": "9 Mar 2023",
+            "registration-deadline": "31 Mar 2023",
+            "deadline": "7 May 2023",
+            "prize": "$3,500",
+            "platform": "Lab42",
+            "sponsor": "Lab42",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Essay Competition - Virtual Worlds",
+            "url": "https://lab42.global/essay-virtualworlds?ref=mlcontests",
+            "type": "✍️ Writing",
+            "tags": ["writing", "subjective"],
+            "launched": "6 Feb 2023",
+            "registration-deadline": "31 Mar 2023",
+            "deadline": "31 Mar 2023",
+            "prize": "$1,750",
+            "platform": "Lab42",
+            "sponsor": "Lab42",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
          {
             "name": "March Machine Learning Mania 2023",
             "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2023?ref=mlcontests",

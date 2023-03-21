@@ -1,5 +1,37 @@
  {
      "data": [
+     {
+            "name": "Vesuvius Challenge - Grand Prize",
+            "url": "https://scrollprize.org/overview#grand-prize-700000?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "detection", "science", "3d"],
+            "launched": "15 Mar 2023",
+            "registration-deadline": "31 Dec 2023",
+            "deadline": "31 Dec 2023",
+            "prize": "$700,000",
+            "platform": "Independent",
+            "sponsor": "Individuals",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null,
+            "data-size": 4700
+        },
+     {
+            "name": "Vesuvius Challenge - Ink Detection",
+            "url": "https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "nlp", "detection", "science", "3d"],
+            "launched": "15 Mar 2023",
+            "registration-deadline": "27 Jun 2023",
+            "deadline": "14 Jun 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Individuals",
+            "additional_urls": ["https://scrollprize.org/"],
+            "conference": null,
+            "conference-year": null,
+            "data-size": 1637
+        },
         {
             "name": "Essay Competition - Abstraction & Reasoning",
             "url": "https://lab42.global/essay-arc?ref=mlcontests",

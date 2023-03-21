@@ -1,6 +1,54 @@
  {
      "data": [
      {
+         "name": "Waymo 2023: Pose Estimation",
+         "url": "?ref=mlcontests",
+         "type": "📷 Computer Vision",
+         "tags": ["measurable", "supervised", "vision", "driving"],
+         "deadline": "23 May 2023",
+         "prize": null,
+         "platform": "Waymo",
+         "sponsor": "Waymo",
+        "conference": "CVPR",
+        "conference-year": 2023
+     },
+     {
+         "name": "Waymo 2023: Motion Prediction",
+         "url": "?ref=mlcontests",
+         "type": "📷 Computer Vision",
+         "tags": ["measurable", "supervised", "forecasting", "timeseries", "vision", "driving"],
+         "deadline": "23 May 2023",
+         "prize": null,
+         "platform": "Waymo",
+         "sponsor": "Waymo",
+        "conference": "CVPR",
+        "conference-year": 2023
+     },
+     {
+         "name": "Waymo 2023: Sim Agents",
+         "url": "?ref=mlcontests",
+         "type": "📷 Computer Vision",
+         "tags": ["measurable", "supervised", "forecasting", "timeseries", "vision", "driving"],
+         "deadline": "23 May 2023",
+         "prize": null,
+         "platform": "Waymo",
+         "sponsor": "Waymo",
+        "conference": "CVPR",
+        "conference-year": 2023
+     },
+     {
+         "name": "Waymo 2023: 2D Panoptic Segmentation",
+         "url": "?ref=mlcontests",
+         "type": "📷 Computer Vision",
+         "tags": ["measurable", "supervised", "segmentation", "vision", "driving"],
+         "deadline": "23 May 2023",
+         "prize": null,
+         "platform": "Waymo",
+         "sponsor": "Waymo",
+        "conference": "CVPR",
+        "conference-year": 2023
+     },
+     {
             "name": "Vesuvius Challenge - Grand Prize",
             "url": "https://scrollprize.org/overview#grand-prize-700000?ref=mlcontests",
             "type": "📷 Computer Vision",

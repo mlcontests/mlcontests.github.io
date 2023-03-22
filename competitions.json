@@ -2,7 +2,7 @@
      "data": [
      {
          "name": "Waymo 2023: Pose Estimation",
-         "url": "?ref=mlcontests",
+         "url": "https://waymo.com/intl/en_us/open/challenges/2023/pose-estimation/?ref=mlcontests",
          "type": "📷 Computer Vision",
          "tags": ["measurable", "supervised", "vision", "driving"],
          "deadline": "23 May 2023",
@@ -14,7 +14,7 @@
      },
      {
          "name": "Waymo 2023: Motion Prediction",
-         "url": "?ref=mlcontests",
+         "url": "https://waymo.com/intl/en_us/open/challenges/2023/motion-prediction/?ref=mlcontests",
          "type": "📷 Computer Vision",
          "tags": ["measurable", "supervised", "forecasting", "timeseries", "vision", "driving"],
          "deadline": "23 May 2023",
@@ -26,7 +26,7 @@
      },
      {
          "name": "Waymo 2023: Sim Agents",
-         "url": "?ref=mlcontests",
+         "url": "https://waymo.com/intl/en_us/open/challenges/2023/sim-agents/?ref=mlcontests",
          "type": "📷 Computer Vision",
          "tags": ["measurable", "supervised", "forecasting", "timeseries", "vision", "driving"],
          "deadline": "23 May 2023",
@@ -38,7 +38,7 @@
      },
      {
          "name": "Waymo 2023: 2D Panoptic Segmentation",
-         "url": "?ref=mlcontests",
+         "url": "https://waymo.com/intl/en_us/open/challenges/2023/2d-video-panoptic-segmentation/?ref=mlcontests",
          "type": "📷 Computer Vision",
          "tags": ["measurable", "supervised", "segmentation", "vision", "driving"],
          "deadline": "23 May 2023",

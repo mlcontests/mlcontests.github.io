@@ -15,7 +15,7 @@
             "data-size": 0.83
       },
       {
-            "name": "KDD Cup 2023: Next Product Recommendation (Underrepresented Langauages)",
+            "name": "KDD Cup 2023: Next Product Recommendation (Underrepresented Languages)",
             "url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge/problems/task-2-next-product-recommendation-for-underrepresented-languages?source=mlcontests",
             "type": "🔤 NLP",
             "tags": ["supervised", "classification", "measurable", "business", "nlp", "tabular"],

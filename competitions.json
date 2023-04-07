@@ -1,6 +1,26 @@
  {
      "data": [
         {
+            "name": "Unlocking City Air Quality: Decode AQI with Us!",
+            "url": "https://machinehack.com/hackathons/unlocking_city_air_quality_decode_aqi_with_us/overview",
+            "type": "📈 Time Series Forecasting",
+            "tags": [
+                "supervised",
+                "timeseries",
+                "measurable",
+                "tabular",
+                "forecasting"
+            ],
+            "launched": "05 April 2023",
+            "deadline": "21 April 2023",
+            "prize": "Passes for DES 2023",
+            "platform": "MachineHack",
+            "sponsor": "Analytics India Magazine",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 0.80
+        },
+        {
             "name": "KDD Cup 2023: Next Product Recommendation",
             "url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge/problems/task-1-next-product-recommendation?source=mlcontests",
             "type": "🔤 NLP",

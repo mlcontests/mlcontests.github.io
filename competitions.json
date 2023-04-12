@@ -1,6 +1,22 @@
  {
      "data": [
      {
+            "name": "Detect AI-generated Images",
+            "url": "https://bitgrit.net/competition/18?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "supervised", "measurable", "classification"],
+            "launched": "11 Apr 2023",
+            "registration-deadline": "2 Jul 2023",
+            "deadline": "2 Jul 2023",
+            "prize": "$3,000",
+            "platform": "bitgrit",
+            "sponsor": null,
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null,
+            "data-size": null
+     },
+     {
             "name": "3D Scene Image Pose Estimation",
             "url": "https://www.kaggle.com/competitions/image-matching-challenge-2023?ref=mlcontests",
             "type": "📷 Computer Vision",

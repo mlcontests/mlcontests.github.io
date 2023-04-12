@@ -1,5 +1,21 @@
  {
      "data": [
+     {
+            "name": "3D Scene Image Pose Estimation",
+            "url": "https://www.kaggle.com/competitions/image-matching-challenge-2023?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "supervised", "measurable", "regression"],
+            "launched": "11 Apr 2023",
+            "registration-deadline": "6 Jun 2023",
+            "deadline": "13 Jun 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Google Research",
+            "additional_urls": [],
+            "conference": "CVPR",
+            "conference-year": 2023,
+            "data-size": 12.64
+        },
         {
             "name": "KDD Cup 2023: Next Product Recommendation",
             "url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge/problems/task-1-next-product-recommendation?source=mlcontests",

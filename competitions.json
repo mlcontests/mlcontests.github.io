@@ -32,6 +32,20 @@
             "conference-year": 2023,
             "data-size": 12.64
         },
+       {
+            "name": "Human Activity Segmentation Challenge",
+            "url": "https://ecml-aaltd.github.io/aaltd2023/challenge.html",
+            "type": "Time Series Segmentation",
+            "tags": ["timeseries", "segmentation"],
+            "launched": "11 Apr 2023",
+            "registration-deadline": "12 May 2023",
+            "deadline": "11 Jun 2023",
+            "prize": null,
+            "platform": "Kaggle",
+            "sponsor": "aeon, tslearn",
+            "conference": "ECML/PKDD",
+            "conference-year": 2023,
+        },
         {
             "name": "KDD Cup 2023: Next Product Recommendation",
             "url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge/problems/task-1-next-product-recommendation?source=mlcontests",

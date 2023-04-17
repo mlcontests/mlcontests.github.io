@@ -35,7 +35,7 @@
        {
             "name": "Human Activity Segmentation Challenge",
             "url": "https://ecml-aaltd.github.io/aaltd2023/challenge.html",
-            "type": "Time Series Segmentation",
+            "type": "📈 Time Series Segmentation",
             "tags": ["timeseries", "segmentation"],
             "launched": "11 Apr 2023",
             "registration-deadline": "12 May 2023",
@@ -44,7 +44,7 @@
             "platform": "Kaggle",
             "sponsor": "aeon, tslearn",
             "conference": "ECML/PKDD",
-            "conference-year": 2023,
+            "conference-year": 2023
         },
         {
             "name": "KDD Cup 2023: Next Product Recommendation",

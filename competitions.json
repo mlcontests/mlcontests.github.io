@@ -44,7 +44,8 @@
             "platform": "Kaggle",
             "sponsor": "aeon, tslearn",
             "conference": "ECML/PKDD",
-            "conference-year": 2023
+            "conference-year": 2023,
+            "data-size": 0.195
         },
         {
             "name": "KDD Cup 2023: Next Product Recommendation",

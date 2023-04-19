@@ -1,5 +1,19 @@
  {
      "data": [
+        {
+            "name": "Predict Melanoma Relapse",
+            "url": "https://www.drivendata.org/competitions/148?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": ["supervised", "vision", "medical", "classification", "measurable"],
+            "registration-deadline": "11 May 2023",
+            "deadline": "11 May 2023",
+            "prize": "$25,000",
+            "platform": "DrivenData",
+            "sponsor": "VisioMel, French Ministerial Delegation for Digital Health",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
      {
             "name": "Detect AI-generated Images",
             "url": "https://bitgrit.net/competition/18?ref=mlcontests",

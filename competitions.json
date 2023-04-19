@@ -988,10 +988,11 @@
             "url": "https://forecasting.mlsafety.org/",
             "type": "📈 Time Series Forecasting",
             "launched": "14 Sep 2022",
-            "deadline": "16 Jun 2023",
+            "deadline": "17 Apr 2023",
             "prize": "$125,000",
             "platform": "CodaLab",
-            "sponsor": "Center for AI Safety"
+            "sponsor": "Center for AI Safety",
+            "note": "April 2023 Competition Update: The Autocast competition will soon be closed. Due to the Collapse of the FTX Future Fund, we are unable to continue with the competition as initially planned. As such, we will be ending the Autocast competition by next Monday (4/17th). In case this notice is missed, late submissions can be sent to forecasting@mlsafety.org until the 27th. We will distribute a reduced prize and will reach out to the top three participants with further details on the prize distribution process.  "
         },
         {
             "name": "Sentiment Analysis for Low-resource African Languages",

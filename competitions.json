@@ -17,6 +17,38 @@
             "data-size": null
      },
      {
+            "name": "Responsible AI Challenge",
+            "url": "https://future.mozilla.org/builders-challenge/?ref=mlcontests",
+            "type": "✍️ Writing",
+            "tags": ["writing", "subjective"],
+            "launched": "30 Mar 2023",
+            "registration-deadline": "20 Apr 2023",
+            "deadline": "20 Apr 2023",
+            "prize": "$100,000",
+            "platform": "Mozilla",
+            "sponsor": "Mozilla",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null,
+            "data-size": null
+     },
+     {
+            "name": "Predict Protein Function",
+            "url": "https://www.kaggle.com/competitions/cafa-5-protein-function-prediction?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": ["science", "biology", "supervised", "measurable", "classification"],
+            "launched": "18 Apr 2023",
+            "registration-deadline": "14 Aug 2023",
+            "deadline": "21 Aug 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Function-COSI / CAFA",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null,
+            "data-size": 0.33
+    },
+     {
             "name": "3D Scene Image Pose Estimation",
             "url": "https://www.kaggle.com/competitions/image-matching-challenge-2023?ref=mlcontests",
             "type": "📷 Computer Vision",

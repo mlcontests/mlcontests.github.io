@@ -1,5 +1,19 @@
  {
      "data": [
+      {
+            "name": "CXR-LT: Multi-Label Long-Tailed Classification on Chest X-Rays",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/12599",
+            "type": "📷 Computer Vision",
+            "tags": ["supervised", "vision", "medical", "classification", "measurable"],
+            "launched": "1 May 2023",
+            "deadline": "7 July 2023",
+            "prize": null,
+            "platform": "CodaLab",
+            "sponsor": "Artifical Intelligence Journal",
+            "additional_urls": ["https://bionlplab.github.io/2023_ICCV_CVAMD/", "https://cvamd2023.github.io/"],
+            "conference": "ICCV",
+            "conference-year": 2023
+      },
         {
             "name": "Predict Melanoma Relapse",
             "url": "https://www.drivendata.org/competitions/148?ref=mlcontests",

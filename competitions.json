@@ -110,15 +110,16 @@
         },
        {
             "name": "Human Activity Segmentation Challenge",
-            "url": "https://ecml-aaltd.github.io/aaltd2023/challenge.html",
+            "url": "https://ecml-aaltd.github.io/aaltd2023/challenge.html?ref=mlcontests",
             "type": "📈 Time Series Segmentation",
             "tags": ["timeseries", "segmentation"],
             "launched": "11 Apr 2023",
             "registration-deadline": "12 May 2023",
             "deadline": "11 Jun 2023",
             "prize": null,
-            "platform": "Ariel ML",
+            "platform": "Kaggle",
             "sponsor": "aeon, tslearn",
+            "additional_urls": ["https://www.kaggle.com/competitions/human-activity-segmentation-challenge"],
             "conference": "ECML/PKDD",
             "conference-year": 2023,
             "data-size": 0.195

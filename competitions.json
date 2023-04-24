@@ -1,5 +1,26 @@
  {
      "data": [
+
+        {
+            "name": "Ariel Data Challenge 2023: Predicting Key Properties of Exoplanets",
+            "url": "https://www.ariel-datachallenge.space/",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "science",
+                "regression",
+                "measurable"
+            ],
+            "launched": "14 Apr 2023",
+            "registration-deadline": "18 Jun 2023",
+            "deadline": "18 Jun 2023",
+            "prize": "$2000",
+            "platform": "Independent",
+            "sponsor": "UK STFC DiRAC, UK STFC Scientific Computing, CNES, ESA, UKSA",
+            "additional_urls": [],
+            "conference": "ECML-PKDD",
+            "conference-year": "2023"
+        },
       {
             "name": "CXR-LT: Multi-Label Long-Tailed Classification on Chest X-Rays",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/12599",

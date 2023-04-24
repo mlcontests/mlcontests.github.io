@@ -6,10 +6,10 @@
             "type": "📷 Computer Vision",
             "tags": ["supervised", "vision", "medical", "classification", "measurable"],
             "launched": "1 May 2023",
-            "deadline": "7 July 2023",
+            "deadline": "7 Jul 2023",
             "prize": null,
             "platform": "CodaLab",
-            "sponsor": "Artifical Intelligence Journal",
+            "sponsor": "Artificial Intelligence Journal",
             "additional_urls": ["https://bionlplab.github.io/2023_ICCV_CVAMD/", "https://cvamd2023.github.io/"],
             "conference": "ICCV",
             "conference-year": 2023

@@ -1,6 +1,19 @@
  {
      "data": [
-
+        {
+            "name": "Center for Artificial Intelligence Challenge on Conversational AI Correctness",
+            "url": "https://fedcsis.org/sessions/aaia/cnlps/caiccaic",
+            "type": "🙊 Natural Language Processing",
+            "tags": ["supervised", "nlp", "audio"],
+            "launched": "13 Feb 2023",
+            "deadline": "31 May 2023",
+            "prize": "",
+            "platform": "Gonito",
+            "sponsor": "",
+            "additional_urls": ["https://fedcsis.org/sessions/aaia/cnlps"],
+            "conference": "CNLPS@FedCSIS",
+            "conference-year": 2023
+        },
         {
             "name": "Ariel Data Challenge 2023: Predicting Key Properties of Exoplanets",
             "url": "https://www.ariel-datachallenge.space/",

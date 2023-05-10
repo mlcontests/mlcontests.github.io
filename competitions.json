@@ -727,6 +727,21 @@
             "conference-year": 2023
         },
         {
+            "name": "3DCoMPaT GCR Challenge 2023",
+            "url": "https://eval.ai/web/challenges/challenge-page/2031/overview",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "3D", "compositional", "learning"],
+            "launched": "18 Apr 2023",
+            "registration-deadline": null,
+            "deadline": "2 Jun 2023",
+            "prize": "$3,000",
+            "platform": "EvalAI",
+            "sponsor": "KAUST",
+            "additional_urls": ["https://3dcompat-dataset.org/workshop/", "https://github.com/Vision-CAIR/3DCoMPaT-v2"],
+            "conference": "CVPR",
+            "conference-year": 2023
+        },
+        {
             "name": "Spot Birds in Drone Images",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/9594?ref=mlcontests",
             "type": "📷 Computer Vision",

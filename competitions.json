@@ -1,6 +1,17 @@
  {
      "data": [
-
+        {
+            "name": "ADIA Lab Market Prediction Competition",
+            "url": "https://crunchdao.com/live/adialab",
+            "type": "✅ Supervised Learning",
+            "tags": ["finance", "science", "supervised", "measurable", "rl"],
+            "launched": "16 May 2023",
+            "registration-deadline": "10 Aug 2023",
+            "deadline": "16 Aug 2023",
+            "prize": "$100,000",
+            "platform": "CrunchDAO",
+            "sponsor": "ADIA Lab",
+        },
         {
             "name": "Ariel Data Challenge 2023: Predicting Key Properties of Exoplanets",
             "url": "https://www.ariel-datachallenge.space/",

@@ -10,7 +10,8 @@
          "platform": "Kaggle",
          "sponsor": null,
          "conference": null,
-         "conference-year": null
+         "conference-year": null,
+         "data-size": 189.26
      },
      {
          "name": "Google Research - Identify Contrails to Reduce Global Warming",
@@ -22,7 +23,8 @@
          "platform": "Kaggle",
          "sponsor": null,
          "conference": null,
-         "conference-year": null
+         "conference-year": null,
+         "data-size": 450.91 
      },
      
      {

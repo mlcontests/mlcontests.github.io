@@ -1,6 +1,31 @@
  {
      "data": [
      {
+         "name": "Google - American Sign Language Fingerspelling Recognition",
+         "url": "https://www.kaggle.com/competitions/asl-fingerspelling/?ref=mlcontests",
+         "type": "📷 Computer Vision",
+         "tags": ["supervised", "vision"],
+         "deadline": "10 August 2023",
+         "prize": "$200000",
+         "platform": "Kaggle",
+         "sponsor": "Google",
+         "conference": null,
+         "conference-year": null
+     },
+     {
+         "name": "Google Research - Identify Contrails to Reduce Global Warming",
+         "url": "https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/?ref=mlcontests",
+         "type": "Supervised",
+         "tags": ["research", "segmentation"],
+         "deadline": "9 August 2023",
+         "prize": "$50,000",
+         "platform": "Kaggle",
+         "sponsor": "Google",
+         "conference": null,
+         "conference-year": null
+     },
+     
+     {
          "name": "Waymo 2023: Pose Estimation",
          "url": "https://waymo.com/intl/en_us/open/challenges/2023/pose-estimation/?ref=mlcontests",
          "type": "📷 Computer Vision",

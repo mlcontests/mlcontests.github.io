@@ -3383,11 +3383,11 @@
          "platform": "BienData",
          "sponsor": "KDD"
      }, {
-         "name": "AWS DeepRacer Beginners Community Race",
-         "url": "https://blog.deepracing.io/2020/04/02/get-started-with-aws-deepracer-beginners-community-race-3-april-31-may-2020/",
+         "name": "AWS DeepRacer League",
+         "url": "https://aws.amazon.com/deepracer/league/",
          "type": "🤖 Reinforcement Learning",
-         "deadline": "31 May 2020",
-         "prize": "$3,500",
+         "deadline": "30 September 2023",
+         "prize": "$20,000",
          "platform": "AWS",
          "sponsor": "Amazon"
      }, {

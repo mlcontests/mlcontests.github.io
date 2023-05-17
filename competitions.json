@@ -1603,7 +1603,7 @@
             "sponsor": "Kaggle",
             "conference": null,
             "conference-year": null
-        },  
+        },
         {
             "name": "Air Quality Forecasting in Uganda",
             "url": "https://zindi.africa/competitions/layerai-air-quality-prediction-challenge",
@@ -1614,7 +1614,7 @@
             "sponsor": null,
             "conference": null,
             "conference-year": null
-        },  
+        },
         {
             "name": "Juniper Networks Global AI Challenge",
             "url": "https://dphi.tech/challenges/juniper-networks-global-ai-challenge/286/overview/about",
@@ -1625,7 +1625,7 @@
             "sponsor": "Juniper Networks",
             "conference": null,
             "conference-year": null
-        },  
+        },
         {
             "name": "Approximate Inference in Bayesian Deep Learning",
             "url": "https://competitions.codalab.org/competitions/35838",
@@ -1637,7 +1637,7 @@
             "sponsor": null,
             "conference": "NeurIPS",
             "conference-year": 2021
-        },  
+        },
         {
             "name": "ZeroSpeech: Spoken Language Modelling",
             "url": "https://zerospeech.com/2021/",
@@ -1648,7 +1648,7 @@
             "sponsor": null,
             "conference": "NeurIPS",
             "conference-year": 2021
-        },  
+        },
         {
             "name": "Billion-Scale Approximate Nearest Neighbour Search",
             "url": "https://big-ann-benchmarks.com/",
@@ -1659,7 +1659,7 @@
             "sponsor": "Microsoft Research",
             "conference": "NeurIPS",
             "conference-year": 2021
-        },  
+        },
         {
             "name": "Slick in a Haystack - a Localization Challenge",
             "url": "https://xeek.ai/challenges/slick-in-a-haystack-a-localization-challenges",
@@ -1689,7 +1689,7 @@
             "platform": "Independent",
             "sponsor": "Copernicus Programme",
             "launched": "25 Apr 2022"
-        },  
+        },
         {
             "name": "Roboethics Challenge",
             "url": "https://competition.raiselab.ca",
@@ -1700,7 +1700,7 @@
             "sponsor": "McGill RAISE Lab, Others",
             "conference": "ICRA",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "SeasonDepth Prediction",
             "url": "http://seasondepth-challenge.org/ICRA2022.html",
@@ -1711,7 +1711,7 @@
             "sponsor": "AgileX Robotics",
             "conference": "ICRA",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Robotic Grasping and Manipulation",
             "url": "https://rpal.cse.usf.edu/rgmc_icra2022/",
@@ -1722,7 +1722,7 @@
             "sponsor": "Alibaba",
             "conference": "ICRA",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "DodgeDrone Challenge",
             "url": "https://uzh-rpg.github.io/icra2022-dodgedrone/",
@@ -1733,7 +1733,7 @@
             "sponsor": null,
             "conference": "ICRA",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "F1tenth Autonomous Grand Prix",
             "url": "https://icra2022-race.f1tenth.org/",
@@ -1744,7 +1744,7 @@
             "sponsor": "Locomotion, Sick Sensor Intelligence",
             "conference": "ICRA",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Robomaster University AI Challenge",
             "url": "https://www.robomaster.com/en-US/robo/icra?djifrom=nav",
@@ -1755,7 +1755,7 @@
             "sponsor": null,
             "conference": "ICRA",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Robomaster University Sim2Real Challenge",
             "url": "https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html",
@@ -1766,7 +1766,7 @@
             "sponsor": null,
             "conference": "ICRA",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "BARN Challenge",
             "url": "https://www.cs.utexas.edu/~xiao/BARN_Challenge/BARN_Challenge.html",
@@ -1777,7 +1777,7 @@
             "sponsor": "Clearpath Robotics",
             "conference": "ICRA",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "MyoChallenge",
             "url": "https://sites.google.com/view/myochallenge",
@@ -1789,7 +1789,7 @@
             "sponsor": "University of Twente, Google Cloud",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Real Robot Challenge",
             "url": "https://real-robot-challenge.com/",
@@ -1800,7 +1800,7 @@
             "sponsor": "Max Planck Institute",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Habitat Rearrangement Challenge",
             "url": "https://aihabitat.org/challenge/rearrange_2022/",
@@ -1811,7 +1811,7 @@
             "sponsor": "Facebook AI Research",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Driving SMARTS Competition",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/6618",
@@ -1822,7 +1822,7 @@
             "sponsor": null,
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Visual Domain Adaptation Challenge",
             "url": "https://ai.bu.edu/visda-2022/",
@@ -1833,7 +1833,7 @@
             "sponsor": null,
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Vehicle Routing Competition",
             "url": "https://euro-neurips-vrp-2022.challenges.ortec.com/",
@@ -1844,7 +1844,7 @@
             "sponsor": "Johns Hopkins University Applied Physics Lab",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Traffic4cast",
             "url": "https://www.iarai.ac.at/traffic4cast/",
@@ -1855,7 +1855,7 @@
             "sponsor": null,
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Reconnaisance Blind Chess",
             "url": "https://rbc.jhuapl.edu/tournament",
@@ -1866,7 +1866,7 @@
             "sponsor": "Johns Hopkins University Applied Physics Lab",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Neural MMO Challenge",
             "url": "https://www.aicrowd.com/challenges/neurips-2022-the-neural-mmo-challenge",
@@ -1877,7 +1877,7 @@
             "sponsor": "MIT, Parametrix, THU_SIGS",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Sensorium Visual Cortex Prediction",
             "url": "https://sensorium2022.net/home",
@@ -1888,7 +1888,7 @@
             "sponsor": "Tuebingen AI Center, others",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Weakly Supervised Cell Segmentation",
             "url": "https://www.kaggle.com/competitions/open-problems-multimodal?utm_source=mlcontests&utm_campaign=comp-openproblems-2022",
@@ -1901,7 +1901,7 @@
             "sponsor": "Cellarity, CZI, others",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Weakly Supervised Cell Segmentation",
             "url": "https://neurips22-cellseg.grand-challenge.org/",
@@ -1912,7 +1912,7 @@
             "sponsor": "AWS",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Open Catalyst Challenge",
             "url": "https://opencatalystproject.org/challenge.html",
@@ -1923,7 +1923,7 @@
             "sponsor": "Facebook, CMU",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Open Catalyst Challenge",
             "url": "https://opencatalystproject.org/challenge.html",
@@ -1934,7 +1934,7 @@
             "sponsor": "Facebook, CMU",
             "conference": "NeurIPS",
             "conference-year": 2021
-        },  
+        },
         {
             "name": "Speech-to-text for Indigenous Languages of the Americas",
             "url": "http://turing.iimas.unam.mx/americasnlp/st.html",
@@ -1945,7 +1945,7 @@
             "sponsor": null,
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Weather4cast - Rain Movie Prediction",
             "url": "https://www.iarai.ac.at/weather4cast",
@@ -1956,7 +1956,7 @@
             "sponsor": "IARAI",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Ariel Space Data Challenge",
             "url": "https://www.ariel-datachallenge.space/",
@@ -1967,7 +1967,7 @@
             "sponsor": "UK SA/ ERC / ESA",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "M6 Financial Forecasting Competition",
             "url": "https://mofc.unic.ac.cy/the-m6-competition/",
@@ -1978,7 +1978,7 @@
             "sponsor": "Google, Meta, JP Morgan, Others",
             "conference": null,
             "conference-year": null
-        },  
+        },
         {
             "name": "IGLU - Building Structures",
             "url": "https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge/problems/neurips-2022-iglu-challenge-rl-task",
@@ -1990,7 +1990,7 @@
             "additional_urls": ["https://www.iglu-contest.net/", "https://twitter.com/IgluContest"],
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "IGLU - Asking Clarifying Questions",
             "url": "https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge/problems/neurips-2022-iglu-challenge-nlp-task",
@@ -2002,7 +2002,7 @@
             "additional_urls": ["https://www.iglu-contest.net/", "https://twitter.com/IgluContest"],
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "NLP for Optimisation Modelling",
             "url": "https://nl4opt.github.io",
@@ -2013,7 +2013,7 @@
             "sponsor": "Huawei",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "NLP for Optimisation Modelling",
             "url": "https://www.ecole.ai/2021/ml4co-competition/",
@@ -2055,7 +2055,7 @@
             "sponsor": "Eedi",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Detect Neural Net Trojans",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/5951",
@@ -2068,7 +2068,7 @@
             "sponsor": "FTX Future Fund",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Analyse Trojans: Target Label Prediction",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/5952",
@@ -2081,7 +2081,7 @@
             "sponsor": "FTX Future Fund",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Analyse Trojans: Trigger Synthesis",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/5953",
@@ -2094,7 +2094,7 @@
             "sponsor": "FTX Future Fund",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Design Evasive Neural Net Trojans",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/5954",
@@ -2107,7 +2107,7 @@
             "sponsor": "FTX Future Fund",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "AutoML Decathlon",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/6325",
@@ -2120,7 +2120,7 @@
             "sponsor": "Various",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Meta-learning from Learning Curves",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/4894",
@@ -2131,7 +2131,7 @@
             "sponsor": "Various",
             "conference": "AutoML-Conf",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Cross-Domain MetaDL",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/3627",
@@ -2142,7 +2142,7 @@
             "sponsor": "Various",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "OGB-LSC Large-Scale Graph ML",
             "url": "https://ogb.stanford.edu/neurips2022/",
@@ -2153,7 +2153,7 @@
             "sponsor": null,
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "OGB-LSC Large-Scale Graph ML 2021",
             "url": "https://ogb.stanford.edu/kddcup2021/",
@@ -2164,7 +2164,7 @@
             "sponsor": null,
             "conference": null,
             "conference-year": null
-        },  
+        },
         {
             "name": "MineRL BASALT Competition",
             "url": "https://aicrowd.com/challenges/neurips-2022-minerl-basalt-competition?utm_source=mlc&utm_medium=post&utm_campaign=basalt",
@@ -2176,7 +2176,7 @@
             "sponsor": "MineRL Labs",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "CityLearn Challenge",
             "url": "https://aicrowd.com/challenges/neurips-2022-citylearn-challenge?utm_source=mlc&utm_medium=post&utm_campaign=citylearn",
@@ -2187,7 +2187,7 @@
             "sponsor": "EPRI / SIGEnergy / Amazon",
             "conference": "NeurIPS",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "City-scale 3D Localisation",
             "url": "https://www.aicrowd.com/challenges/icra2022-general-place-recognition-city-scale-ugv-localization",
@@ -2198,7 +2198,7 @@
             "sponsor": "Microsoft / Intel / AirLab",
             "conference": "ICRA",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Visual Terrain Relative Navigation",
             "url": "https://www.aicrowd.com/challenges/icra2022-general-place-recognition-visual-terrain-relative-navigation?utm_source=mlc&utm_medium=post",
@@ -2209,7 +2209,7 @@
             "sponsor": "Microsoft / Intel / AirLab",
             "conference": "ICRA",
             "conference-year": 2022
-        },  
+        },
         {
             "name": "Analyse Horse Racing Performance",
             "url": "https://www.kaggle.com/competitions/big-data-derby-2022?utm_medium=mlcontests&utm_source=mlcontests",
@@ -2221,7 +2221,7 @@
             "sponsor": "NYTHA/NYRA",
             "conference": null,
             "conference-year": null
-        },  
+        },
         {
             "name": "Segment Functional Tissue Units in Organ Biopsies",
             "url": "https://www.kaggle.com/competitions/hubmap-organ-segmentation?utm_medium=mlcontests&utm_source=mlcontests",
@@ -2233,7 +2233,7 @@
             "sponsor": "HuBMAP, HPA",
             "conference": null,
             "conference-year": null
-        },  
+        },
         {
             "name": "DEFCON30 Capture the Flag Challenges",
             "url": "https://www.kaggle.com/competitions/ai-village-ctf?utm_medium=mlcontests&utm_source=mlcontests",
@@ -2245,7 +2245,7 @@
             "sponsor": "AI Village",
             "conference": null,
             "conference-year": null
-        },  
+        },
         {
             "name": "Create Universal Image Representations",
             "url": "https://www.kaggle.com/competitions/google-universal-image-embedding?utm_medium=mlcontests&utm_source=mlcontests",
@@ -2258,7 +2258,7 @@
             "conference": null,
             "conference-year": null,
             "launched": null
-        },  
+        },
         {
             "name": "Identify Soccer Plays from Video Footage",
             "url": "https://www.kaggle.com/c/dfl-bundesliga-data-shootout?utm_medium=mlcontests&utm_source=mlcontests&utm_campaign=comp-dfl-2022",
@@ -2271,7 +2271,7 @@
             "conference": null,
             "conference-year": null,
             "launched": null
-        },  
+        },
         {
             "name": "Identify Cervical Fractures from Scans",
             "url": "https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection?utm_medium=mlcontests&utm_source=mlcontests",
@@ -2284,7 +2284,7 @@
             "conference": null,
             "conference-year": null,
             "launched": null
-        },  
+        },
         {
             "name": "Hydropower Operations Optimization",
             "url": "https://www.topcoder.com/challenges/794177c5-3bb6-4fb8-91bd-7e2fd646fa2d?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=0903",
@@ -2298,7 +2298,7 @@
             "conference": null,
             "conference-year": null,
             "launched": null
-        },  
+        },
         {
             "name": "SpaceNet 8: Flood Detection Using Multiclass Segmentation",
             "url": "https://www.topcoder.com/challenges/a6c49990-e4a9-4e90-a731-4cc6502e6beb?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=0902",
@@ -2311,7 +2311,7 @@
             "conference": null,
             "conference-year": null,
             "launched": null
-        },  
+        },
         {
             "name": "Device Operating Region Classification Match",
             "url": "https://www.topcoder.com/challenges/2ae3b08a-aabc-4345-87bd-7edfff837e8c?utm_source=mlcontests&utm_medium=website&utm_campaign=ds_external&utm_id=0901",
@@ -2323,7 +2323,7 @@
             "conference": null,
             "conference-year": null,
             "launched": null
-        },  
+        },
         {
             "name": "Find Tasks Where Larger Language Models Do Worse",
             "url": "http://inversescaling.com",
@@ -2333,7 +2333,7 @@
             "prize": "$250,000",
             "platform": "Independent",
             "sponsor": "FTX Future Fund"
-        },    
+        },
         {
             "name": "2022 ITU AI/ML in 5G Challenge",
             "url": "https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/",
@@ -2345,7 +2345,7 @@
             "conference": null,
             "conference-year": null,
             "launched": null
-        },    
+        },
         {
             "name": "2022 GeoAI Challenge",
             "url": "https://aiforgood.itu.int/about-ai-for-good/geoai-challenge/",
@@ -4647,6 +4647,18 @@
         "prize": "$5,000",
         "platform": "TAP",
         "sponsor": "TikTok, Qosmo, TAP, JUCE, RNBO, GPU Audio, MathWorks"
+      }, {
+        "name": "Text Guided Video Editing (Generative AI)",
+        "url": "https://sites.google.com/view/loveucvpr23/track4",
+        "type": "📷 Computer Vision",
+        "tags": ["vision", "subjective", "open"],
+        "launched": "5 May 2023",
+        "deadline": "5 June 2023",
+        "prize": "$5,000",
+        "platform": "Independent",
+        "sponsor": "",
+        "conference": "CVPR",
+        "conference-year": 2023
       }
      ]
 

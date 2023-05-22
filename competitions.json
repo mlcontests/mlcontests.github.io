@@ -223,6 +223,36 @@
             "data-size": 1.47
         },
      {
+         "name": "Recognise ASL Fingerspelling",
+         "url": "https://www.kaggle.com/competitions/asl-fingerspelling/?ref=mlcontests",
+         "type": "📷 Computer Vision",
+         "tags": ["supervised", "vision", "measurable", "classification"],
+         "launched": "10 May 2023",
+         "registration-deadline": "3 Aug 2023",
+         "deadline": "10 Aug 2023",
+         "prize": "$200,000",
+         "platform": "Kaggle",
+         "sponsor": "Google",
+         "conference": null,
+         "conference-year": null,
+         "data-size": 189.26
+     },
+     {
+         "name": "Identify Aircraft Contrails in Images",
+         "url": "https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/?ref=mlcontests",
+         "type": "📷 Computer Vision",
+         "tags": ["research", "vision", "measurable", "segmentation"],
+         "launched": "10 May 2023",
+         "registration-deadline": "2 Aug 2023",
+         "deadline": "9 Aug 2023",
+         "prize": "$50,000",
+         "platform": "Kaggle",
+         "sponsor": "Google Research",
+         "conference": null,
+         "conference-year": null,
+         "data-size": 450.91 
+     },
+     {
          "name": "Waymo 2023: Pose Estimation",
          "url": "https://waymo.com/intl/en_us/open/challenges/2023/pose-estimation/?ref=mlcontests",
          "type": "📷 Computer Vision",

@@ -1,6 +1,16 @@
  {
      "data": [
         {
+            "name": "AWS DeepRacer League",
+            "url": "https://aws.amazon.com/deepracer/league/?ref=mlcontests",
+            "type": "🤖 Reinforcement Learning",
+            "tags": ["robotics", "live-evaluation", "driving", "supervised", "measurable", "rl"],
+            "deadline": "30 Sep 2023",
+            "prize": "$20,000",
+            "platform": "Independent",
+            "sponsor": "AWS"
+        },
+        {
             "name": "ADIA Lab Market Prediction Competition",
             "url": "https://crunchdao.com/live/adialab",
             "type": "✅ Supervised Learning",
@@ -3383,11 +3393,11 @@
          "platform": "BienData",
          "sponsor": "KDD"
      }, {
-         "name": "AWS DeepRacer League",
-         "url": "https://aws.amazon.com/deepracer/league/",
+         "name": "AWS DeepRacer Beginners Community Race",
+         "url": "https://blog.deepracing.io/2020/04/02/get-started-with-aws-deepracer-beginners-community-race-3-april-31-may-2020/",
          "type": "🤖 Reinforcement Learning",
-         "deadline": "30 September 2023",
-         "prize": "$20,000",
+         "deadline": "31 May 2020",
+         "prize": "$3,500",
          "platform": "AWS",
          "sponsor": "Amazon"
      }, {

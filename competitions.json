@@ -4653,10 +4653,10 @@
         "type": "📷 Computer Vision",
         "tags": ["vision", "subjective", "open"],
         "launched": "5 May 2023",
-        "deadline": "5 June 2023",
+        "deadline": "5 Jun 2023",
         "prize": "$5,000",
         "platform": "Independent",
-        "sponsor": "",
+        "sponsor": null,
         "conference": "CVPR",
         "conference-year": 2023
       }

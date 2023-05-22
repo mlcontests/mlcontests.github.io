@@ -1,9 +1,8 @@
  {
      "data": [
-      
         {
             "name": "Diagnose Rare Diseases From Oral Images",
-            "url": "https://www.trustii.io/post/diagnodent",
+            "url": "https://www.trustii.io/post/diagnodent?ref=mlcontests",
             "type": "✅ Supervised Learning",
             "tags": ["supervised", "vision", "medical", "classification"],
             "launched": "1 Apr 2023",
@@ -18,7 +17,7 @@
         },
       {
             "name": "Detect Allergens",
-            "url": "https://www.trustii.io/post/allergen-chip",
+            "url": "https://www.trustii.io/post/allergen-chip?ref=mlcontests",
             "type": "✅ Supervised Learning",
             "tags": ["supervised", "vision", "medical", "classification"],
             "launched": "17 Apr 2023",
@@ -30,6 +29,18 @@
             "conference": null,
             "conference-year": null
       },
+        {
+            "name": "ADIA Lab Market Prediction Competition",
+            "url": "https://crunchdao.com/live/adialab?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": ["finance", "science", "supervised", "measurable", "rl"],
+            "launched": "16 May 2023",
+            "registration-deadline": "10 Aug 2023",
+            "deadline": "16 Aug 2023",
+            "prize": "$100,000",
+            "platform": "CrunchDAO",
+            "sponsor": "ADIA Lab"
+        },
         {
             "name": "Ariel Data Challenge 2023: Predicting Key Properties of Exoplanets",
             "url": "https://www.ariel-datachallenge.space/",

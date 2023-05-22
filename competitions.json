@@ -10,6 +10,7 @@
             "platform": "Independent",
             "sponsor": "AWS"
         },
+      {
             "name": "Diagnose Rare Diseases From Oral Images",
             "url": "https://www.trustii.io/post/diagnodent?ref=mlcontests",
             "type": "✅ Supervised Learning",

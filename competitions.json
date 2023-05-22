@@ -727,7 +727,7 @@
             "conference-year": 2023
         },
         {
-            "name": "3DCoMPaT GCR Challenge 2023",
+            "name": "Recognise Materials on 3D Objects",
             "url": "https://eval.ai/web/challenges/challenge-page/2031/overview",
             "type": "📷 Computer Vision",
             "tags": ["vision", "3D", "compositional", "learning"],

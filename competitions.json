@@ -1,8 +1,37 @@
  {
      "data": [
         {
+            "name": "Diagnose Rare Diseases From Oral Images",
+            "url": "https://www.trustii.io/post/diagnodent?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": ["supervised", "vision", "medical", "classification"],
+            "launched": "1 Apr 2023",
+            "deadline": "9 Jul 2023",
+            "prize": "$30,000",
+            "platform": "Trustii.io",
+            "sponsor": "Various",
+            "additional_urls": ["https://app.trustii.io", "https://www.health-data-hub.fr/actualites/data-challenges-en-sante-lancement-du-data-challenge-d-ia-gno-dent", "https://savoirs.unistra.fr/eclairage/un-challenge-pour-mettre-lia-au-service-du-diagnostic-des-maladies-rares-a-expressions-buccodentaires"],
+            "conference": null,
+            "conference-year": null,
+            "note": "Full sponsors include Strasbourg University Hospital, Reference center for rare oral and dental diseases and associated network, IGBMC, Université de Strasbourg, CNRS UMR7104, INSERM U1258"
+        },
+      {
+            "name": "Detect Allergens",
+            "url": "https://www.trustii.io/post/allergen-chip?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": ["supervised", "vision", "medical", "classification"],
+            "launched": "17 Apr 2023",
+            "deadline": "18 Jun 2023",
+            "prize": "$25,000",
+            "platform": "Trustii.io",
+            "sponsor": "French Society of Allergology (SFA), Health Data Hub",
+            "additional_urls": ["https://app.trustii.io", "https://sfa.lesallergies.fr/blog/data-challenges-en-sante-lancement-de-lallergen-chip-challenge/", "https://www.health-data-hub.fr/actualites/data-challenges-en-sante-lancement-de-lallergen-chip-challenge"],
+            "conference": null,
+            "conference-year": null
+      },
+        {
             "name": "ADIA Lab Market Prediction Competition",
-            "url": "https://crunchdao.com/live/adialab",
+            "url": "https://crunchdao.com/live/adialab?ref=mlcontests",
             "type": "✅ Supervised Learning",
             "tags": ["finance", "science", "supervised", "measurable", "rl"],
             "launched": "16 May 2023",
@@ -10,7 +39,7 @@
             "deadline": "16 Aug 2023",
             "prize": "$100,000",
             "platform": "CrunchDAO",
-            "sponsor": "ADIA Lab",
+            "sponsor": "ADIA Lab"
         },
         {
             "name": "Ariel Data Challenge 2023: Predicting Key Properties of Exoplanets",

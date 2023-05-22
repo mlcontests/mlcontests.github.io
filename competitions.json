@@ -1,6 +1,16 @@
  {
      "data": [
         {
+            "name": "AWS DeepRacer League",
+            "url": "https://aws.amazon.com/deepracer/league/?ref=mlcontests",
+            "type": "🤖 Reinforcement Learning",
+            "tags": ["robotics", "live-evaluation", "driving", "supervised", "measurable", "rl"],
+            "deadline": "30 Sep 2023",
+            "prize": "$20,000",
+            "platform": "Independent",
+            "sponsor": "AWS"
+        },
+      {
             "name": "Diagnose Rare Diseases From Oral Images",
             "url": "https://www.trustii.io/post/diagnodent?ref=mlcontests",
             "type": "✅ Supervised Learning",

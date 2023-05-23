@@ -4743,6 +4743,16 @@
         "sponsor": null,
         "conference": "CVPR",
         "conference-year": 2023
+      }, {
+        "name": "Flowcaster",
+        "url": "https://app.humyn.ai/challenges/6f833dd5-f9f1-40c1-8c76-249f98988a08?ref=mlc",
+        "type": "✅ Supervised Learning",
+        "tags": ["tabular", "measurable", "science"],
+        "launched": "23 May 2023",
+        "deadline": "4 Jul 2023",
+        "prize": "$6,600",
+        "platform": "Humyn.ai",
+        "sponsor": null
       }
      ]
 

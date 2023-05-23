@@ -1,5 +1,53 @@
  {
      "data": [
+      {
+            "name": "HackAPrompt: Trick Large Language Models",
+            "url": "https://www.aicrowd.com/challenges/hackaprompt-2023?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": ["nlp", "measurable", "llm", "safety", "security"],
+            "launched": "5 May 2023",
+            "registration-deadline": "26 May 2023",
+            "deadline": "26 May 2023",
+            "prize": "$16,500",
+            "platform": "AIcrowd",
+            "sponsor": "Various",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null,
+            "data-size": null
+      },
+      {
+            "name": "Identify Age-Related Health Issues",
+            "url": "https://www.kaggle.com/competitions/icr-identify-age-related-conditions?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": ["measurable", "classification", "medical", "supervised", "tabular"],
+            "launched": "11 May 2023",
+            "registration-deadline": "3 Aug 2023",
+            "deadline": "10 Aug 2023",
+            "prize": "$60,000",
+            "platform": "Kaggle",
+            "sponsor": "InVitro Cell Research",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null,
+            "data-size": 0.00035688
+      },
+      {
+            "name": "Write About the State of ML",
+            "url": "https://www.kaggle.com/competitions/2023-kaggle-ai-report?ref=mlcontests",
+            "type": "📊 Analysis/Visualisation ",
+            "tags": ["subjective", "analysis"],
+            "launched": "11 May 2023",
+            "registration-deadline": "5 Jul 2023",
+            "deadline": "16 Jul 2023",
+            "prize": "$70,000",
+            "platform": "Kaggle",
+            "sponsor": "Kaggle",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null,
+            "data-size": 3.75
+      },
         {
             "name": "AWS DeepRacer League",
             "url": "https://aws.amazon.com/deepracer/league/?ref=mlcontests",

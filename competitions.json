@@ -1,6 +1,20 @@
  {
      "data": [
       {
+            "name": "Multi-Source Prim-Dijkstra Contest",
+            "url": "https://github.com/TILOS-AI-Institute/Multi-Source-Prim-Dijkstra/tree/main/contest",
+            "type": "📉 Optimisation",
+            "tags": ["optimisation", "measurable"],
+            "launched": "22 Jun 2023",
+            "registration-deadline": "15 Jun 2023",
+            "deadline": "10 Nov 2023",
+            "prize": "$7,600",
+            "platform": "Independent",
+            "sponsor": "TILOS AI Institute",
+            "conference": "ISQED",
+            "conference-year": 2023
+      },
+      {
             "name": "Kidney Tissue Slide Segmentation",
             "url": "https://www.kaggle.com/competitions/hubmap-hacking-the-human-vasculature?ref=mlcontests",
             "type": "📷 Computer Vision",

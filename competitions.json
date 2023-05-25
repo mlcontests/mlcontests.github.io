@@ -15,6 +15,22 @@
             "conference-year": 2023
       },
       {
+            "name": "Kidney Tissue Slide Segmentation",
+            "url": "https://www.kaggle.com/competitions/hubmap-hacking-the-human-vasculature?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": ["measurable", "medical", "supervised", "vision", "segmentation"],
+            "launched": "22 May 2023",
+            "registration-deadline": "24 Jul 2023",
+            "deadline": "31 Jul 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "HuBMAP",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null,
+            "data-size": 4.37
+      },
+      {
             "name": "HackAPrompt: Trick Large Language Models",
             "url": "https://www.aicrowd.com/challenges/hackaprompt-2023?ref=mlcontests",
             "type": "🔤 NLP",

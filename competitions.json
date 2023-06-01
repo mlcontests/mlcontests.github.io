@@ -4831,7 +4831,15 @@
         "prize": "$6,600",
         "platform": "Humyn.ai",
         "sponsor": null
+      }, {
+        "name": "From One to Many: A Generative AI Challenge",
+        "url": "https://xeek.ai/challenges/from-one-to-many",
+        "type": "Generative Neural Network",
+        "tags": ["ann", "dl", "gan", "cvae"],
+        "deadline": "15 July 2023",
+        "prize": "$25,000",
+        "platform": "Xeek",
+        "sponsor": null
       }
      ]
-
  }

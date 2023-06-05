@@ -1,6 +1,20 @@
  {
      "data": [
       {
+            "name": "AISG-SLA Visual Localisation Challenge",
+            "url": "https://aisingapore.org/technology/prize-based-challenges/aisg-sla-visual-localisation-challenge/",
+            "type": "📷 Computer Vision",
+            "tags": ["supervised", "vision"],
+            "launched": "26 May 2023",
+            "registration-deadline": "26 Jul 2023",
+            "deadline": "26 Jul 2023",
+            "prize": "$35,000",
+            "platform": "DrivenData",
+            "sponsor": "AI Singapore",
+            "conference": "IJCAI",
+            "conference-year": 2023
+      },
+      {
             "name": "Multi-Source Prim-Dijkstra Contest",
             "url": "https://github.com/TILOS-AI-Institute/Multi-Source-Prim-Dijkstra/tree/main/contest",
             "type": "📉 Optimisation",

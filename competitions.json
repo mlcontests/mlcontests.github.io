@@ -4831,7 +4831,17 @@
         "prize": "$6,600",
         "platform": "Humyn.ai",
         "sponsor": null
+      }, {
+        "name": "Train a Conditional VAE to Produce Inputs to Mathematical Functions",
+        "url": "https://xeek.ai/challenges/from-one-to-many?ref=mlcontests",
+        "type": "💭 Generative Models",
+        "tags": ["deeplearning", "generative", "measurable"],
+        "launched": "2 Jun 2023",
+        "registration-deadline": "15 Jul 2023",
+        "deadline": "15 Jul 2023",
+        "prize": "$25,000",
+        "platform": "Xeek",
+        "sponsor": null
       }
      ]
-
  }

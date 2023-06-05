@@ -96,3 +96,5 @@ Until the transition is complete, please also assign both a type and tags.
 | `"driving"`  | Any challenge involving self-driving cars |
 | `"multiple"`  | A competition composed of multiple mini-challenges |
 | `"mlops"`  | A competition focused on MLOps - the operational aspects of ML in production - rather than modelling |
+| `"generative"`  | A competition that focuses on generative models |
+| `"deeplearning"`  | A competition that requires the use of deep learning |

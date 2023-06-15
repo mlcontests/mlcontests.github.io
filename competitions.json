@@ -1,6 +1,20 @@
  {
      "data": [
         {
+            "name": "NeurIPS 2023 Machine Unlearning Challenge",
+            "url": "https://unlearning-challenge.github.io/?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": ["nlp","legal","unlearning"],
+            "launched": "28 Jun 2023",
+            "registration-deadline": "01 July 2023",
+            "deadline": "30 Sep 2023",
+            "prize": null,
+            "platform": "Codalab",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": "2023"
+      },
+        {
             "name": "Part-of-speech tagging for diverse African languages",
             "url": "https://zindi.africa/competitions/lacuna-masakhane-parts-of-speech-classification-challenge?ref=mlcontests",
             "type": "🔤 NLP",

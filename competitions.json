@@ -1,5 +1,19 @@
  {
      "data": [
+        {
+            "name": "Part-of-speech tagging for diverse African languages",
+            "url": "https://zindi.africa/competitions/lacuna-masakhane-parts-of-speech-classification-challenge?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": ["nlp", "measurable", "classification", "supervised"],
+            "launched": "15 Jun 2023",
+            "registration-deadline": "17 Sep 2023",
+            "deadline": "17 Sep 2023",
+            "prize": "$7,000",
+            "platform": "Zindi",
+            "sponsor": "Masakhane/Lacuna Fund",
+            "conference": null,
+            "conference-year": null
+      },
       {
             "name": "AISG-SLA Visual Localisation Challenge",
             "url": "https://aisingapore.org/technology/prize-based-challenges/aisg-sla-visual-localisation-challenge/",

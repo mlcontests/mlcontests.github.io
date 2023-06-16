@@ -1,7 +1,7 @@
  {
      "data": [
         {
-            "name": "2023 Machine Unlearning Challenge",
+            "name": "Unlearning in Image Classification",
             "url": "https://unlearning-challenge.github.io/?ref=mlcontests",
             "type": "📷 Computer Vision",
             "tags": ["vision","legal","unlearning", "measurable", "privacy"],

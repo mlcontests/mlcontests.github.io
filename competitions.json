@@ -28,9 +28,9 @@
             "platform": "CodaLab",
             "sponsor": "Huawei",
             "conference": “NeurIPS“,
-            "conference-year": 2023
-            “data-size” : 0.043
-            “Evaluation”: “g-score (<Huawei)”
+            "conference-year": 2023,
+            “data-size” : 0.043,
+            “Evaluation”: “g-score (Huawei internal)”
 
       },
 

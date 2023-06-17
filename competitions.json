@@ -12,7 +12,7 @@
             "platform": "Independnet",
             "sponsor": "elsa - European Union ",
             "conference": "NeurIPS",
-            "conference-year": 2023
+            "conference-year": 2023,
             "evaluation": "ANLS"
       },
 {           "name": "Learn Causal Graphs For Telecommunication Networks",

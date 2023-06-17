@@ -1,39 +1,36 @@
  {
      "data": [
-
-      "name": "develop privacy-preserving solutions for fine-tuning multi-modal language models for document understanding on distributed data",
-            "url": "https://benchmarks.elsa-ai.eu/? ch=2 ",
-            "additional_urls":"https://benchmarks.elsa-ai.eu/? ch=2 ",
-            "type": "🔤 NLP",
-            "tags": ["nlp", "measurable"],
-            "launched": "03 Mar 2023",
-            "registration-deadline": "TBD",
+      {
+            "name": "Privacy-Preserving Fine-Tuning for Language Models",
+            "url": "https://benchmarks.elsa-ai.eu/?ch=2 ",
+            "type": "🕵 Privacy",
+            "tags": ["nlp", "measurable", "privacy"],
+            "launched": "3 Mar 2023",
+            "registration-deadline": null,
             "deadline": "9 Sep 2023",
-            "prize":null,
-            "platform": "elsa",
+            "prize": null,
+            "platform": "Independnet",
             "sponsor": "elsa - European Union ",
-            "conference": “NeurIPS“,
+            "conference": "NeurIPS",
             "conference-year": 2024
-            “Evaluation”: “ANLS”
+            "evaluation": "ANLS"
       },
-{           "name": "Causal Structure Learning from Event Sequences and Prior Knowledge",
-            "url": “https://codalab.lisn.upsaclay.fr/competitions/13902?ref=mlcontests” 
+{           "name": "Learn Causal Graphs For Telecommunication Networks",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/13902?ref=mlcontests", 
             "additional_urls": "https://gcastle-hub.github.io/csl-competition?ref=mlcontests",  
-            "type": " ➡️ Causal ML ",
-            "tags": ["causal”, "measurable", “telecom”, “operations”],
-            "launched": "01 Aug 2023",
+            "type": "➡️ Causal ML",
+            "tags": ["causal", "measurable", "telecom", "operations", "graph"],
+            "launched": "1 Aug 2023",
             "registration-deadline": "30 Sep 2023",
-            "deadline": "01 Oct 2023",
+            "deadline": "22 Oct 2023",
             "prize": "$10,000”,
             "platform": "CodaLab",
             "sponsor": "Huawei",
-            "conference": “NeurIPS“,
+            "conference": "NeurIPS",
             "conference-year": 2023,
-            “data-size” : 0.043,
-            “Evaluation”: “g-score (Huawei internal)”
-
+            "data-size": 0.043,
+            "evaluation":"g-score (Huawei internal)"
       },
-
       {
             "name": "Unlearning in Image Classification",
             "url": "https://unlearning-challenge.github.io/?ref=mlcontests",
@@ -49,7 +46,7 @@
             "conference-year": 2023
       },
         {
-            "name": "Part-of-speech tagging for diverse African languages",
+            "name": "Part-of-speech tagging for Diverse African Languages",
             "url": "https://zindi.africa/competitions/lacuna-masakhane-parts-of-speech-classification-challenge?ref=mlcontests",
             "type": "🔤 NLP",
             "tags": ["nlp", "measurable", "classification", "supervised"],

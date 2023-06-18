@@ -4915,6 +4915,17 @@
         "prize": "$25,000",
         "platform": "Xeek",
         "sponsor": null
+      }, {
+        "name": "Optimise Strategies for Deploying Workers Across Graphs",
+        "url": "https://xeek.ai/challenges/off-the-beaten-path?ref=mlcontests",
+        "type": "📉 Optimisation",
+        "tags": ["search", "optimisation", "graph", "measurable", "subjective"],
+        "launched": "15 Jun 2023",
+        "registration-deadline": "16 Sep 2023",
+        "deadline": "16 Sep 2023",
+        "prize": "$60,000",
+        "platform": "Xeek",
+        "sponsor": null
       }
      ]
  }

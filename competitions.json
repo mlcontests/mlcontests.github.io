@@ -1,6 +1,21 @@
  {
      "data": [
       {
+           "name": "Sensorium Visual Cortex Prediction - 2023",
+            "url": "https://codalab.sensorium-competition.net/competitions/9?ref=mlcontests",
+          "additional_urls": ["https://www.sensorium-competition.net?ref=mlcontests",  "https://github.com/ecker-lab/sensorium_2023"],
+            "type": "✅ Supervised Learning",
+            "tags": ["Medical","neuroscience","measurable"],
+            "launched": "01 Jun  2023",
+            "registration-deadline": null,
+            "deadline":  "22 Sep 2023",
+            "prize": null,
+            "platform": "Codalab",
+            "sponsor": "Universities of Göttingen, Tübingen and others",
+            "conference": "NeurIPS",
+            "conference-year": 2023
+},
+      {
             "name": "Privacy-Preserving Fine-Tuning for Language Models",
             "url": "https://benchmarks.elsa-ai.eu/?ch=2 ",
             "type": "🕵 Privacy",

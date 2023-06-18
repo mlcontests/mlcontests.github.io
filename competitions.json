@@ -906,14 +906,14 @@
             "type": "🤖 Reinforcement Learning",
             "tags": ["rl", "game", "pvp", "measurable"],
             "launched": "25 Jan 2023",
-            "registration-deadline": "25 Apr 2023",
-            "deadline": "25 Apr 2023",
+            "registration-deadline": "08 May 2023",
+            "deadline": "08 May 2023",
             "prize": "$55,000",
             "platform": "Kaggle",
             "sponsor": "quantco/ Regression Games/ TSVC",
-            "additional_urls": [],
-            "conference": null,
-            "conference-year": null
+            "additional_urls": "https://www.lux-ai.org?ref=mlcontests",
+            "conference": "NeurIPS",
+            "conference-year": 2023
         },
         {
             "name": "Reconstruct Neutrino Source Directions",

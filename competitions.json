@@ -1,6 +1,21 @@
  {
      "data": [
       {
+            "name": "Neural MMO challenge ",
+            "url": "https://www.aicrowd.com/challenges/neurips-2023-the-neural-mmo-challenge",
+            "type": "🤖 Reinforcement Learning",
+            "tags": ["MMO","Multiagent"],
+            "launched": null,
+            "registration-deadline": null,
+            "deadline": null,
+            "prize": null,
+            "platform": "AIcrowd",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2023
+}
+
+      {
             "name": "Privacy-Preserving Fine-Tuning for Language Models",
             "url": "https://benchmarks.elsa-ai.eu/?ch=2 ",
             "type": "🕵 Privacy",
@@ -9,7 +24,7 @@
             "registration-deadline": null,
             "deadline": "9 Sep 2023",
             "prize": null,
-            "platform": "Independnet",
+            "platform": "Independent",
             "sponsor": "elsa - European Union ",
             "conference": "NeurIPS",
             "conference-year": 2023,

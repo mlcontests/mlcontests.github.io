@@ -1,5 +1,19 @@
  {
      "data": [
+    {
+	          "name": "Foundation Model – Medical Image Classification ",
+	          "url": "https://medfm2023.grand-challenge.org?ref=mlcontests",
+	          "type": "📷 Computer Vision",
+	          "tags": ["Medical", "imaging", "measurable"],
+	          "launched": "26 May 2023",
+	          "registration-deadline": null,
+	          "deadline": "30 Aug 2023",
+	          "prize": "$2,000",
+	          "platform": "",
+	          "sponsor": "Shanghai Jiao Ton University",
+	          "conference": "NeurIPS",
+	           "conference-year": 2023
+     },
       {
             "name": "Privacy-Preserving Fine-Tuning for Language Models",
             "url": "https://benchmarks.elsa-ai.eu/?ch=2 ",

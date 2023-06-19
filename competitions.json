@@ -1,6 +1,21 @@
  {
      "data": [
-    {
+{
+	"name": "Robot Air Hockey Challenge ",
+	"url": "https://air-hockey-challenge.robot-learning.net/challenge-details?ref=mlcontests",
+	"additional_urls": ["https://github.com/AirHockeyChallenge/air_hockey_challenge?ref=mlcontests", "https://air-hockey-challenges-docs.readthedocs.io/en/latest?ref=mlcontests"],
+	"type": "🤖 Robotics",
+	"tags": ["robotics", "computer vision", "tournement"],
+	"launched": "20 Feb 2023",
+	"registration-deadline": null,
+	"deadline": "05 Ju 2023",
+	"prize": "$6,000",
+	"platform": "Huawei",
+	"sponsor": "",
+	"conference": "NeurIPS",
+	"conference-year": 2023
+},
+	     {
 	  "name": "Foundation Models for Medical Image Classification ",
 	  "url": "https://medfm2023.grand-challenge.org?ref=mlcontests",
 	  "type": "📷 Computer Vision",

@@ -1,17 +1,17 @@
  {
      "data": [
       {
-           "name": "Sensorium Visual Cortex Prediction - 2023",
+           "name": "Sensorium Visual Cortex Prediction",
             "url": "https://codalab.sensorium-competition.net/competitions/9?ref=mlcontests",
-          "additional_urls": ["https://www.sensorium-competition.net?ref=mlcontests",  "https://github.com/ecker-lab/sensorium_2023"],
             "type": "✅ Supervised Learning",
-            "tags": ["Medical","neuroscience","measurable"],
-            "launched": "01 Jun  2023",
-            "registration-deadline": null,
+            "tags": ["medical", "neuroscience", "measurable", "supervised"],
+            "launched": "1 Jun 2023",
+            "registration-deadline": "22 Sep 2023",
             "deadline":  "22 Sep 2023",
             "prize": null,
             "platform": "Codalab",
             "sponsor": "Universities of Göttingen, Tübingen and others",
+          "additional_urls": ["https://www.sensorium-competition.net?ref=mlcontests",  "https://github.com/ecker-lab/sensorium_2023"],
             "conference": "NeurIPS",
             "conference-year": 2023
 },

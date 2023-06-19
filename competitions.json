@@ -1,6 +1,21 @@
  {
      "data": [
-    {
+{
+	"name": "Road Event Detection ",
+	"url": "https://sites.google.com/view/road-r/home?ref=mlcontests",
+	"additional_urls": ["https://github.com/gurkirt/road-dataset?ref=mlcontests", "https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/papers/paper_10.pdf"],
+	"type": "🤖 Robotics",
+	"tags": ["robotics", "computer vision", "autonomous driving", "measurable"],
+	"launched": "13 Jun 2023",
+	"registration-deadline": null,
+	"deadline": "30 Sep 2023",
+	"prize": "",
+	"platform": "Independent",
+	"sponsor": "G Research, KI Wissen ",
+	"conference": "NeurIPS",
+	"conference-year": 2023
+}   , 
+{
 	  "name": "Foundation Models for Medical Image Classification ",
 	  "url": "https://medfm2023.grand-challenge.org?ref=mlcontests",
 	  "type": "📷 Computer Vision",

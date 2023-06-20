@@ -14,7 +14,22 @@
 	"sponsor": "G-Research, KI Wissen ",
 	"conference": "NeurIPS",
 	"conference-year": 2023
-}   , 
+}, 
+   {
+	"name": "HomeRobot Open Vocab Mobile Manipulation Challenge",
+	"url": "https://aihabitat.org/challenge/2023_homerobot_ovmm?ref=mlcontests",
+	"additional_urls": "https://github.com/facebookresearch/home-robot?ref=mlcontests",
+	"type": "🤖 Robotics",
+	"tags": ["robotics", "computer vision", "nlp", "measurable"],
+	"launched": "19 Jun 2023",
+	"registration-deadline": "10 Oct 2023",
+	"deadline": "10 Oct 2023",
+	"prize": "$0",
+	"platform": "EvalAI",
+	"sponsor": "Hello-Robot",
+	"conference": "NeurIPS",
+	"conference-year": 2023
+},   
 {
 	  "name": "Foundation Models for Medical Image Classification ",
 	  "url": "https://medfm2023.grand-challenge.org?ref=mlcontests",

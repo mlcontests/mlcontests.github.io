@@ -121,11 +121,11 @@
       },
         {
             "name": "Part-of-speech tagging for Diverse African Languages",
-            "url": "https://zindi.africa/competitions/lacuna-masakhane-parts-of-speech-classification-challenge?ref=mlcontests",
+            "url": "https://zindi.africa/competitions/lacuna-masakhane-parts-of-speech-classification-challenge?ref=mlcontests&utm_medium=referral&utm_source=mlcontest&utm_campaign=paulkennedy",
             "type": "🔤 NLP",
             "tags": ["nlp", "measurable", "classification", "supervised"],
-            "launched": "15 Jun 2023",
-            "registration-deadline": "17 Sep 2023",
+            "launched": "8 Jun 2023",
+            "registration-deadline": "7 Sep 2023",
             "deadline": "17 Sep 2023",
             "prize": "$7,000",
             "platform": "Zindi",
@@ -5000,17 +5000,6 @@
         "prize": "$60,000",
         "platform": "Xeek",
         "sponsor": null
-      }, {
-        "name": "Lacuna Masakhane Parts of Speech Classification Challenge",
-        "url": "https://zindi.africa/competitions/lacuna-masakhane-parts-of-speech-classification-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=paulkennedy",
-        "type": "✅ Supervised Learning",
-        "tags": ["supervised", "nlp", "deeplearning", "classification"],
-        "launched": "08 Jun 2023",
-        "registration-deadline": "07 Sep 2023",
-        "deadline": "17 Sep 2023",
-        "prize": "$7,000",
-        "platform": "Zindi",
-        "sponsor": "Masakhane, Lacuna Fund"
       }
      ]
  }

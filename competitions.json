@@ -1,5 +1,20 @@
  {
      "data": [
+{
+	"name": "Road Event Detection",
+	"url": "https://sites.google.com/view/road-r/home?ref=mlcontests",
+	"additional_urls": ["https://github.com/gurkirt/road-dataset?ref=mlcontests", "https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/papers/paper_10.pdf", "https://eval.ai/web/challenges/challenge-page/2081/?ref=mlcontests"],
+	"type": "🤖 Robotics",
+	"tags": ["vision", "driving", "measurable", "segmentation"],
+	"launched": "13 Jun 2023",
+	"registration-deadline": "30 Sep 2023",
+	"deadline": "30 Sep 2023",
+	"prize": null,
+	"platform": "EvalAI",
+	"sponsor": "G-Research, KI Wissen ",
+	"conference": "NeurIPS",
+	"conference-year": 2023
+}, 
    {
 	"name": "HomeRobot Open Vocab Mobile Manipulation Challenge",
 	"url": "https://aihabitat.org/challenge/2023_homerobot_ovmm?ref=mlcontests",

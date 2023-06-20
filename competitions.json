@@ -1,5 +1,20 @@
  {
      "data": [
+        {
+            "name": "Identify Mosquitoes in Images",
+            "url": "https://www.aicrowd.com/challenges/mosquitoalert-challenge-2023?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": ["vision", "segmentation", "measurable", "classification", "supervised"],
+            "additional_urls": [],
+            "launched": "20 Jun 2023",
+            "registration-deadline": "20 Aug 2023",
+            "deadline": "20 Oct 2023",
+            "prize": "$7,500",
+            "platform": "AIcrowd",
+            "sponsor": "Mosquito Alert Team",
+            "conference": "AMLD",
+            "conference-year": 2024
+        },
 {
 	"name": "Robot Air Hockey Challenge",
 	"url": "https://air-hockey-challenge.robot-learning.net/challenge-details?ref=mlcontests",

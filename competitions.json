@@ -1,6 +1,21 @@
  {
      "data": [
 {
+	"name": "Robot Air Hockey Challenge",
+	"url": "https://air-hockey-challenge.robot-learning.net/challenge-details?ref=mlcontests",
+	"additional_urls": ["https://github.com/AirHockeyChallenge/air_hockey_challenge?ref=mlcontests", "https://air-hockey-challenges-docs.readthedocs.io/en/latest?ref=mlcontests"],
+	"type": "🤖 Robotics",
+	"tags": ["control", "robotics", "vision", "pvp"],
+	"launched": "20 Feb 2023",
+	"registration-deadline": "5 Jun 2023",
+	"deadline": "5 Jun 2023",
+	"prize": "$6,000",
+	"platform": "Independent",
+	"sponsor": "Huawei",
+	"conference": "NeurIPS",
+	"conference-year": 2023
+},
+	     {
 	"name": "Road Event Detection",
 	"url": "https://sites.google.com/view/road-r/home?ref=mlcontests",
 	"additional_urls": ["https://github.com/gurkirt/road-dataset?ref=mlcontests", "https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/papers/paper_10.pdf", "https://eval.ai/web/challenges/challenge-page/2081/?ref=mlcontests"],

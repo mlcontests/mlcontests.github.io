@@ -1,6 +1,70 @@
 {
     "data": [
         {
+            "name": "F1Tenth Autonomous Grand Prix",
+            "url": "https://iros2023-race.f1tenth.org?ref=mlcontests",
+            "type": "🤖 Robotics",
+            "tags": [
+                "robotics",
+                "hardware",
+                "measurable",
+                "pvp",
+                "driving"
+            ],
+            "additional_urls": [
+                "https://ieee-iros.org/competitions/"
+            ],
+            "launched": "14 Jun 2023",
+            "registration-deadline": "22 Sep 2023",
+            "deadline": "4 Oct 2023",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "IROS",
+            "conference-year": 2023
+        },
+        {
+            "name": "Humanoid Robot Wrestling",
+            "url": "https://webots.cloud/run?version=R2023a&url=https://github.com/cyberbotics/wrestling/blob/competition/worlds/wrestling.wbt&type=competition",
+            "type": "🤖 Robotics",
+            "tags": [
+                "robotics",
+                "simulation",
+                "measurable",
+                "pvp"
+            ],
+            "additional_urls": [
+                "https://ieee-iros.org/competitions/",
+                "https://github.com/cyberbotics/wrestling"],
+            "launched": "23 Jun 2023",
+            "registration-deadline": "19 Sep 2023",
+            "deadline": "4 Oct 2023",
+            "prize": "$1,900",
+            "platform": "Independent",
+            "sponsor": "Cyberbotics",
+            "conference": "IROS",
+            "conference-year": 2023
+        },
+        {
+            "name": "Design Functional Robotic Clothing",
+            "url": "https://www.ff-iros2023.com/?ref=mlcontests",
+            "type": "🤖 Robotics",
+            "tags": [
+                "robotics",
+                "hardware",
+                "subjective"
+            ],
+            "additional_urls": ["https://ieee-iros.org/competitions/"],
+            "launched": "25 Mar 2023",
+            "registration-deadline": "24 Apr 2023",
+            "deadline": "2 Oct 2023",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "IROS",
+            "conference-year": 2023
+        },
+        {
             "name": "Identify Mosquitoes in Images",
             "url": "https://www.aicrowd.com/challenges/mosquitoalert-challenge-2023?ref=mlcontests",
             "type": "📷 Computer Vision",
@@ -82,7 +146,7 @@
             "launched": "19 Jun 2023",
             "registration-deadline": "10 Oct 2023",
             "deadline": "10 Oct 2023",
-            "prize": "$0",
+            "prize": null,
             "platform": "EvalAI",
             "sponsor": "Hello-Robot",
             "conference": "NeurIPS",
@@ -1000,14 +1064,15 @@
             "tags": [
                 "robotics",
                 "simulation",
-                "measurable"
+                "measurable",
+                "pvp"
             ],
             "launched": "16 Jan 2023",
             "registration-deadline": "23 May 2023",
             "deadline": "23 May 2023",
             "prize": "$1,500",
             "platform": "Independent",
-            "sponsor": null,
+            "sponsor": "Cyberbotics",
             "additional_urls": [
                 "https://www.icra2023.org/competitions"
             ],

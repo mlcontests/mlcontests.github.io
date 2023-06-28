@@ -6485,6 +6485,22 @@
             "prize": "$60,000",
             "platform": "Xeek",
             "sponsor": null
+        },
+        {
+            "name": "AI-supported Venture Bootstrapping",
+            "url": "https://soonami.io/hackathon",
+            "type": "🤷 Interdisciplinary (Unconventional)",
+            "tags": [
+                "writing",
+                "business",
+                "generative",
+                "nlp"
+            ],
+            "launched": "14 Jul 2023",
+            "deadline": "18 Jul 2023",
+            "prize": "$15,000",
+            "platform": "Foundance",
+            "sponsor": "soonami.io"
         }
     ]
 }

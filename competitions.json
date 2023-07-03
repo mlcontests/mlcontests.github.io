@@ -249,11 +249,12 @@
                 "privacy"
             ],
             "launched": "14 Jun 2023",
-            "registration-deadline": "1 Jul 2023",
+            "registration-deadline": "30 Sep 2023",
             "deadline": "30 Sep 2023",
             "prize": null,
             "platform": "Codalab",
             "sponsor": null,
+            "additional_urls": ["https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html"],
             "conference": "NeurIPS",
             "conference-year": 2023
         },

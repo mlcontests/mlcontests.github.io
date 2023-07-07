@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "name": "Explore patterns of project schedule and cost overruns",
+            "url": "https://app.humyn.ai/challenges/31d88b43-7089-4ba4-98e4-d672fd5d02d6?ref=mlcontests",
+            "type": "📊 Analysis/Visualisation",
+            "tags": [
+                "tabular",
+                "analysis"
+            ],
+            "additional_urls": [ ],
+            "launched": "7 Jul 2023",
+            "registration-deadline": "11 Aug 2023",
+            "deadline": "11 Aug 2023",
+            "prize": "$9,950",
+            "platform": "Humyn.ai",
+            "sponsor": null,
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Forest Fire Image Segmentation",
             "url": "https://huggingface.co/spaces/competitions/ChaBuD-ECML-PKDD2023?ref=mlcontests",
             "type": "📷 Computer Vision",

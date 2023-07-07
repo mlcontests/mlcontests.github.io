@@ -1,6 +1,23 @@
 {
     "data": [
         {
+            "name": "Project Puzzle",
+            "url": "https://app.humyn.ai/challenges/31d88b43-7089-4ba4-98e4-d672fd5d02d6?ref=mlcontests",
+            "type": "Classification",
+            "tags": [
+                "classification",
+                "segmentation",
+                "measurable",
+                "multimodal"
+            ],
+            "additional_urls": [ ],
+            "launched": "7 Jul 2023",
+            "registration-deadline": "11 Aug 2023",
+            "deadline": "11 Aug 2023",
+            "prize": "$15,000 AUD",
+            "platform": "Humyn",
+        },
+        {
             "name": "Forest Fire Image Segmentation",
             "url": "https://huggingface.co/spaces/competitions/ChaBuD-ECML-PKDD2023?ref=mlcontests",
             "type": "📷 Computer Vision",

@@ -1,6 +1,78 @@
 {
     "data": [
         {
+            "name": "Bengali.Ai Speech Recognition",
+            "url": "https://www.kaggle.com/competitions/bengaliai-speech/?ref=mlcontests",
+            "type": "speech recognition",
+            "tags": [
+                "supervised"
+             ],
+            "additional_urls": [ ],
+            "launched": "17 Jul 2023",
+            "registration-deadline": "10 Oct 2023",
+            "deadline": "17 Oct 2023",
+            "prize": "$53,000",
+            "platform": "Kaggle",
+            "sponsor": null,
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Kaggle LLM Science Exam",
+            "url": "https://www.kaggle.com/competitions/kaggle-llm-science-exam?ref=mlcontests",
+            "type": "LLM",
+            "tags": [
+                "generative",
+                "supervised",
+                "reasoning"
+             ],
+            "additional_urls": [ ],
+            "launched": "11 Jul 2023",
+            "registration-deadline": "3 Oct 2023",
+            "deadline": "10 Oct 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": null,
+            "conference": null,
+            "conference-year": null
+        },
+         {
+            "name": "CommonLit - Evaluate Student Summaries",
+            "url": "https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries?ref=mlcontests",
+            "type": "Unsupervised learning",
+            "tags": [
+                "supervised",
+                "regression"
+             ],
+            "additional_urls": [ ],
+            "launched": "12 Jul 2023",
+            "registration-deadline": "4 Oct 2023",
+            "deadline": "11 Oct 2023",
+            "prize": "$60,000",
+            "platform": "Kaggle",
+            "sponsor": "CommonLit","Schmidt Futures",
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls",
+            "url": "https://www.drivendata.org/competitions/217/cdc-fall-narratives/?ref=mlcontests",
+            "type": "Unsupervised learning",
+            "tags": [
+                "unsupervised",
+                "medical    "
+             ],
+            "additional_urls": [ ],
+            "launched": "16 Jul 2023",
+            "registration-deadline": "23 Aug 2023",
+            "deadline": "6 Oct 2023",
+            "prize": "$70,000",
+            "platform": "DrivenData",
+            "sponsor": "Centers for Disease Control and Prevention - National Center for Injury Prevention and Control",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Understand What Influences Rail Delays",
             "url": "https://app.humyn.ai/challenges/b304cb64-c8c7-4f7c-af4e-5e4b7dd13871?ref=mlcontests",
             "type": "📊 Analysis/Visualisation",

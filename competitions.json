@@ -4,9 +4,7 @@
             "name": "Bengali.Ai Speech Recognition",
             "url": "https://www.kaggle.com/competitions/bengaliai-speech/?ref=mlcontests",
             "type": "speech recognition",
-            "tags": [
-                "supervised"
-             ],
+            "tags": ["supervised"],
             "additional_urls": [ ],
             "launched": "17 Jul 2023",
             "registration-deadline": "10 Oct 2023",
@@ -21,7 +19,8 @@
             "name": "Kaggle LLM Science Exam",
             "url": "https://www.kaggle.com/competitions/kaggle-llm-science-exam?ref=mlcontests",
             "type": "LLM",
-            "tags": [
+            "tags":
+             [
                 "generative",
                 "supervised",
                 "reasoning"
@@ -36,12 +35,12 @@
             "conference": null,
             "conference-year": null
         },
-         {
+        {
             "name": "CommonLit - Evaluate Student Summaries",
             "url": "https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries?ref=mlcontests",
             "type": "Unsupervised learning",
             "tags": [
-                "supervised",
+                "unsupervised",
                 "regression"
              ],
             "additional_urls": [ ],

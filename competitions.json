@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "name": "Understand patterns or trends influence rail delays",
+            "url": "https://app.humyn.ai/challenges/b304cb64-c8c7-4f7c-af4e-5e4b7dd13871?ref=mlcontests",
+            "type": "📊 Analysis/Visualisation",
+            "tags": [
+                "tabular",
+                "analysis"
+            ],
+            "additional_urls": [ ],
+            "launched": "21 Jul 2023",
+            "registration-deadline": "18 Aug 2023",
+            "deadline": "18 Aug 2023",
+            "prize": "$8,000",
+            "platform": "Humyn.ai",
+            "sponsor": null,
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Forest Fire Image Segmentation",
             "url": "https://huggingface.co/spaces/competitions/ChaBuD-ECML-PKDD2023?ref=mlcontests",
             "type": "📷 Computer Vision",

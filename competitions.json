@@ -1,6 +1,25 @@
 {
     "data": [
         {
+            "name": "Explore Project Schedule and Cost Overruns",
+            "url": "https://app.humyn.ai/challenges/31d88b43-7089-4ba4-98e4-d672fd5d02d6?ref=mlcontests",
+            "type": "📊 Analysis/Visualisation",
+            "tags": [
+                "tabular",
+                "analysis",
+                "subjective"
+            ],
+            "additional_urls": [ ],
+            "launched": "7 Jul 2023",
+            "registration-deadline": "11 Aug 2023",
+            "deadline": "11 Aug 2023",
+            "prize": "$10,000",
+            "platform": "Humyn.ai",
+            "sponsor": null,
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Detect Trojans in LLMs (Base Model)",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/14656?ref=mlcontests",
             "type": "🕵 Security",

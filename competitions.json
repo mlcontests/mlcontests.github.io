@@ -1,6 +1,179 @@
 {
     "data": [
         {
+            "name": "Detect Trojans in LLMs (Base Model Track)",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/14656?ref=mlcontests",
+            "type": "🕵 Security",
+            "tags": [
+                "security",
+                "nlp",
+                "generative"
+                    ],
+            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack", "https://trojandetection.ai"],
+            "launched": "25 Jul 2023",
+            "registration-deadline": "24 Oct 2023",
+            "deadline": "24 Oct 2023",
+            "prize": "$4,500",
+            "platform": "CodaLab",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2023
+        },
+        {
+            "name": "Detect Trojans in LLMs (Large Model Track)",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/14653?ref=mlcontests",
+            "type": "🕵 Security",
+            "tags": [
+                "security",
+                "nlp",
+                "generative"
+                    ],
+            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack", "https://trojandetection.ai"],
+            "launched": "25 Jul 2023",
+            "registration-deadline": "24 Oct 2023",
+            "deadline": "24 Oct 2023",
+            "prize": "$30,000",
+            "platform": "CodaLab",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2023
+        },
+        {
+            "name": "Elicit Undesirable Behaviours from LLMs (Base Modal Track)",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/14656?ref=mlcontests",
+            "type": "🕵 Security",
+            "tags": [
+                "security",
+                "nlp",
+                "generative"
+                    ],
+            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack", "https://trojandetection.ai"],
+            "launched": "25 Jul 2023",
+            "registration-deadline": "24 Oct 2023",
+            "deadline": "24 Oct 2023",
+            "prize": "$8,500",
+            "platform": "CodaLab",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2023
+        },
+        {
+            "name": "Elicit Undesirable Behaviours from LLMs (Large Modal Track)",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/14657?ref=mlcontests",
+            "type": "🕵 Security",
+            "tags": [
+                "security",
+                "nlp",
+                "generative"
+                    ],
+            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack", "https://trojandetection.ai"],
+            "launched": "25 Jul 2023",
+            "registration-deadline": "24 Oct 2023",
+            "deadline": "24 Oct 2023",
+            "prize": "$8,500",
+            "platform": "CodaLab",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2023
+        },
+        {
+            "name": "Predict Drought Damage From Crop Images",
+            "url": "https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "supervised",
+                "regression",
+                "vision",
+                "measurable"
+                    ],
+            "additional_urls": [ ],
+            "launched": "21 Jul 2023",
+            "registration-deadline": "3 Nov 2023",
+            "deadline": "3 Nov 2023",
+            "prize": "$10,000",
+            "platform": "Zindi",
+            "sponsor": "IFPRI, ACRE Africa, CGIAR",
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Bengali.Ai Speech Recognition",
+            "url": "https://www.kaggle.com/competitions/bengaliai-speech/?ref=mlcontests",
+            "type": "🔊 Audio",
+            "tags": ["supervised", "audio", "nlp", "generative", "measurable"],
+            "additional_urls": [ ],
+            "launched": "17 Jul 2023",
+            "registration-deadline": "10 Oct 2023",
+            "deadline": "17 Oct 2023",
+            "prize": "$53,000",
+            "platform": "Kaggle",
+            "sponsor": null,
+            "conference": null,
+            "conference-year": null,
+            "data-size": 25.81
+        },
+        {
+            "name": "Use LLMs to Answer Science Questions",
+            "url": "https://www.kaggle.com/competitions/kaggle-llm-science-exam?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags":[
+                "supervised",
+                "reasoning",
+                "classification",
+                "nlp"
+             ],
+            "additional_urls": [ ],
+            "launched": "11 Jul 2023",
+            "registration-deadline": "3 Oct 2023",
+            "deadline": "10 Oct 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": null,
+            "conference": null,
+            "conference-year": null,
+            "data-size": 0.000364
+        },
+        {
+            "name": "CommonLit - Evaluate Student Summaries",
+            "url": "https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "supervised",
+                "regression",
+                "nlp",
+                "measurable"
+             ],
+            "additional_urls": [ ],
+            "launched": "12 Jul 2023",
+            "registration-deadline": "4 Oct 2023",
+            "deadline": "11 Oct 2023",
+            "prize": "$60,000",
+            "platform": "Kaggle",
+            "sponsor": "CommonLit, Walton Family Foundation, Schmidt Futures",
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Understand Falls in Older Adults",
+            "url": "https://www.drivendata.org/competitions/217/cdc-fall-narratives/?ref=mlcontests",
+            "type": "📊 Analysis/Visualisation",
+            "tags": [
+                "unsupervised",
+                "medical",
+                "subjective",
+                "analysis"
+             ],
+            "additional_urls": [ ],
+            "launched": "16 Jul 2023",
+            "registration-deadline": "23 Aug 2023",
+            "deadline": "6 Oct 2023",
+            "prize": "$70,000",
+            "platform": "DrivenData",
+            "sponsor": "Centers for Disease Control and Prevention - National Center for Injury Prevention and Control",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Understand What Influences Rail Delays",
             "url": "https://app.humyn.ai/challenges/b304cb64-c8c7-4f7c-af4e-5e4b7dd13871?ref=mlcontests",
             "type": "📊 Analysis/Visualisation",

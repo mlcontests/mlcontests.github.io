@@ -1,6 +1,78 @@
 {
     "data": [
         {
+            "name": "Trojan Detection Challenge 2023 - Trojan Detection Challenge (Base Modal Subtrack)",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/14656?ref=mlcontests",
+            "type": "LLM",
+            "tags": [
+                "classification",
+                "security"
+                    ],
+            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack"],
+            "launched": "25 Jul 2023",
+            "registration-deadline": "24 Oct 2023",
+            "deadline": "24 Oct 2023",
+            "prize": "$30,000",
+            "platform": "CodaLab",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": "2023"
+        },
+        {
+            "name": "Trojan Detection Challenge 2023 - Trojan Detection Challenge (Large Modal Subtrack)",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/14653?ref=mlcontests",
+            "type": "LLM",
+            "tags": [
+                "classification",
+                "security"
+                    ],
+            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack"],
+            "launched": "25 Jul 2023",
+            "registration-deadline": "24 Oct 2023",
+            "deadline": "24 Oct 2023",
+            "prize": "$30,000",
+            "platform": "CodaLab",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": "2023"
+        },
+        {
+            "name": "Trojan Detection Challenge 2023 - Red Teaming Track (Base Modal Subtrack)",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/14656?ref=mlcontests",
+            "type": "LLM",
+            "tags": [
+                "classification",
+                "security"
+                    ],
+            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack"],
+            "launched": "25 Jul 2023",
+            "registration-deadline": "24 Oct 2023",
+            "deadline": "24 Oct 2023",
+            "prize": "$30,000",
+            "platform": "CodaLab",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": "2023"
+        },
+        {
+            "name": "Trojan Detection Challenge 2023 - Red Teaming Track (Large Modal Subtrack)",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/14657?ref=mlcontests",
+            "type": "LLM",
+            "tags": [
+                "classification",
+                "security"
+                    ],
+            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack"],
+            "launched": "25 Jul 2023",
+            "registration-deadline": "24 Oct 2023",
+            "deadline": "24 Oct 2023",
+            "prize": "$30,000",
+            "platform": "CodaLab",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": "2023"
+        },
+        {
             "name": "CGIAR Eyes on the Ground Challenge",
             "url": "https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge?ref=mlcontests",
             "type": "image recognition",

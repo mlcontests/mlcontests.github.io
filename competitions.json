@@ -1,32 +1,34 @@
 {
     "data": [
         {
-            "name": "Trojan Detection Challenge 2023 - Trojan Detection Challenge (Base Modal Subtrack)",
+            "name": "Detect Trojans in LLMs (Base Model Track)",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/14656?ref=mlcontests",
-            "type": "LLM",
+            "type": "🕵 Security",
             "tags": [
-                "classification",
-                "security"
+                "security",
+                "nlp",
+                "generative"
                     ],
-            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack"],
+            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack", "https://trojandetection.ai"],
             "launched": "25 Jul 2023",
             "registration-deadline": "24 Oct 2023",
             "deadline": "24 Oct 2023",
-            "prize": "$30,000",
+            "prize": "$4,500",
             "platform": "CodaLab",
             "sponsor": null,
             "conference": "NeurIPS",
             "conference-year": 2023
         },
         {
-            "name": "Trojan Detection Challenge 2023 - Trojan Detection Challenge (Large Modal Subtrack)",
+            "name": "Detect Trojans in LLMs (Large Model Track)",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/14653?ref=mlcontests",
-            "type": "LLM",
+            "type": "🕵 Security",
             "tags": [
-                "classification",
-                "security"
+                "security",
+                "nlp",
+                "generative"
                     ],
-            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack"],
+            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack", "https://trojandetection.ai"],
             "launched": "25 Jul 2023",
             "registration-deadline": "24 Oct 2023",
             "deadline": "24 Oct 2023",
@@ -37,49 +39,52 @@
             "conference-year": 2023
         },
         {
-            "name": "Trojan Detection Challenge 2023 - Red Teaming Track (Base Modal Subtrack)",
+            "name": "Elicit Undesirable Behaviours from LLMs (Base Modal Track)",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/14656?ref=mlcontests",
-            "type": "LLM",
+            "type": "🕵 Security",
             "tags": [
-                "classification",
-                "security"
+                "security",
+                "nlp",
+                "generative"
                     ],
-            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack"],
+            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack", "https://trojandetection.ai"],
             "launched": "25 Jul 2023",
             "registration-deadline": "24 Oct 2023",
             "deadline": "24 Oct 2023",
-            "prize": "$30,000",
+            "prize": "$8,500",
             "platform": "CodaLab",
             "sponsor": null,
             "conference": "NeurIPS",
             "conference-year": 2023
         },
         {
-            "name": "Trojan Detection Challenge 2023 - Red Teaming Track (Large Modal Subtrack)",
+            "name": "Elicit Undesirable Behaviours from LLMs (Large Modal Track)",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/14657?ref=mlcontests",
-            "type": "LLM",
+            "type": "🕵 Security",
             "tags": [
-                "classification",
-                "security"
+                "security",
+                "nlp",
+                "generative"
                     ],
-            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack"],
+            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack", "https://trojandetection.ai"],
             "launched": "25 Jul 2023",
             "registration-deadline": "24 Oct 2023",
             "deadline": "24 Oct 2023",
-            "prize": "$30,000",
+            "prize": "$8,500",
             "platform": "CodaLab",
             "sponsor": null,
             "conference": "NeurIPS",
             "conference-year": 2023
         },
         {
-            "name": "CGIAR Eyes on the Ground Challenge",
+            "name": "Predict Drought Damage From Crop Images",
             "url": "https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge?ref=mlcontests",
-            "type": "image recognition",
+            "type": "📷 Computer Vision",
             "tags": [
                 "supervised",
-                "classification",
-                "vision"
+                "regression",
+                "vision",
+                "measurable"
                     ],
             "additional_urls": [ ],
             "launched": "21 Jul 2023",
@@ -87,15 +92,15 @@
             "deadline": "3 Nov 2023",
             "prize": "$10,000",
             "platform": "Zindi",
-            "sponsor": "IFPRI, ACRE Africa, CGIAR Research Initiative on Digital Innovation",
+            "sponsor": "IFPRI, ACRE Africa, CGIAR",
             "conference": null,
             "conference-year": null
         },
         {
             "name": "Bengali.Ai Speech Recognition",
             "url": "https://www.kaggle.com/competitions/bengaliai-speech/?ref=mlcontests",
-            "type": "speech recognition",
-            "tags": ["supervised"],
+            "type": "🔊 Audio",
+            "tags": ["supervised", "audio", "nlp", "generative", "measurable"],
             "additional_urls": [ ],
             "launched": "17 Jul 2023",
             "registration-deadline": "10 Oct 2023",
@@ -104,16 +109,18 @@
             "platform": "Kaggle",
             "sponsor": null,
             "conference": null,
-            "conference-year": null
+            "conference-year": null,
+            "data-size": 25.81,
         },
         {
-            "name": "Kaggle LLM Science Exam",
+            "name": "Use LLMs to Answer Science Questions",
             "url": "https://www.kaggle.com/competitions/kaggle-llm-science-exam?ref=mlcontests",
-            "type": "LLM",
+            "type": "🔤 NLP",
             "tags":[
-                "generative",
                 "supervised",
-                "reasoning"
+                "reasoning",
+                "classification",
+                "nlp"
              ],
             "additional_urls": [ ],
             "launched": "11 Jul 2023",
@@ -123,15 +130,18 @@
             "platform": "Kaggle",
             "sponsor": null,
             "conference": null,
-            "conference-year": null
+            "conference-year": null,
+            "data-size": 0.000364
         },
         {
             "name": "CommonLit - Evaluate Student Summaries",
             "url": "https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries?ref=mlcontests",
-            "type": "Unsupervised learning",
+            "type": "🔤 NLP",
             "tags": [
-                "unsupervised",
-                "regression"
+                "supervised",
+                "regression",
+                "nlp",
+                "measurable"
              ],
             "additional_urls": [ ],
             "launched": "12 Jul 2023",
@@ -144,12 +154,14 @@
             "conference-year": null
         },
         {
-            "name": "Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls",
+            "name": "Understand Falls in Older Adults",
             "url": "https://www.drivendata.org/competitions/217/cdc-fall-narratives/?ref=mlcontests",
-            "type": "Unsupervised learning",
+            "type": "📊 Analysis/Visualisation",
             "tags": [
                 "unsupervised",
-                "medical"
+                "medical",
+                "subjective",
+                "analysis"
              ],
             "additional_urls": [ ],
             "launched": "16 Jul 2023",

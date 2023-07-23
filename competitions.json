@@ -19,8 +19,7 @@
             "name": "Kaggle LLM Science Exam",
             "url": "https://www.kaggle.com/competitions/kaggle-llm-science-exam?ref=mlcontests",
             "type": "LLM",
-            "tags":
-             [
+            "tags":[
                 "generative",
                 "supervised",
                 "reasoning"

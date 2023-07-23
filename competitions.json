@@ -1,6 +1,25 @@
 {
     "data": [
         {
+            "name": "CGIAR Eyes on the Ground Challenge",
+            "url": "https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge?ref=mlcontests",
+            "type": "image recognition",
+            "tags": [
+                "supervised",
+                "classification",
+                "vision",
+                    ],
+            "additional_urls": [ ],
+            "launched": "21 Jul 2023",
+            "registration-deadline": "3 Nov 2023",
+            "deadline": "3 Nov 2023",
+            "prize": "$10,000",
+            "platform": "Zindi",
+            "sponsor": "IFPRI, ACRE Africa, CGIAR Research Initiative on Digital Innovation",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Bengali.Ai Speech Recognition",
             "url": "https://www.kaggle.com/competitions/bengaliai-speech/?ref=mlcontests",
             "type": "speech recognition",
@@ -48,7 +67,7 @@
             "deadline": "11 Oct 2023",
             "prize": "$60,000",
             "platform": "Kaggle",
-            "sponsor": "CommonLit",
+            "sponsor": "CommonLit, Walton Family Foundation, Schmidt Futures",
             "conference": null,
             "conference-year": null
         },

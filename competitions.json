@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "name": "Detect Trojans in LLMs (Base Model Track)",
+            "name": "Detect Trojans in LLMs (Base Model)",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/14656?ref=mlcontests",
             "type": "🕵 Security",
             "tags": [
@@ -20,7 +20,7 @@
             "conference-year": 2023
         },
         {
-            "name": "Detect Trojans in LLMs (Large Model Track)",
+            "name": "Detect Trojans in LLMs (Large Model)",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/14653?ref=mlcontests",
             "type": "🕵 Security",
             "tags": [
@@ -39,7 +39,7 @@
             "conference-year": 2023
         },
         {
-            "name": "Elicit Undesirable Behaviours from LLMs (Base Modal Track)",
+            "name": "Elicit Undesirable Behaviours from LLMs (Base Models)",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/14656?ref=mlcontests",
             "type": "🕵 Security",
             "tags": [
@@ -58,7 +58,7 @@
             "conference-year": 2023
         },
         {
-            "name": "Elicit Undesirable Behaviours from LLMs (Large Modal Track)",
+            "name": "Elicit Undesirable Behaviours from LLMs (Large Models)",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/14657?ref=mlcontests",
             "type": "🕵 Security",
             "tags": [
@@ -169,7 +169,7 @@
             "deadline": "6 Oct 2023",
             "prize": "$70,000",
             "platform": "DrivenData",
-            "sponsor": "Centers for Disease Control and Prevention - National Center for Injury Prevention and Control",
+            "sponsor": "CDC",
             "conference": null,
             "conference-year": null
         },
@@ -344,7 +344,7 @@
             "conference-year": 2023
         },
         {
-            "name": "HomeRobot Open Vocab Mobile Manipulation Challenge",
+            "name": "Open Vocab Mobile Manipulation Challenge",
             "url": "https://aihabitat.org/challenge/2023_homerobot_ovmm?ref=mlcontests",
             "additional_urls": "https://github.com/facebookresearch/home-robot?ref=mlcontests",
             "type": "🤖 Robotics",
@@ -407,7 +407,7 @@
             "conference-year": 2023
         },
         {
-            "name": "Privacy-Preserving Fine-Tuning for Language Models",
+            "name": "Privacy-Preserving Finetuning for LLMs",
             "url": "https://benchmarks.elsa-ai.eu/?ch=2 ",
             "type": "🕵 Privacy",
             "tags": [
@@ -426,7 +426,7 @@
             "evaluation": "ANLS"
         },
         {
-            "name": "Learn Causal Graphs For Telecommunication Networks",
+            "name": "Learn Causal Graphs For Telecom Networks",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/13902?ref=mlcontests",
             "additional_urls": "https://gcastle-hub.github.io/csl-competition?ref=mlcontests",
             "type": "➡️ Causal ML",
@@ -470,7 +470,7 @@
             "conference-year": 2023
         },
         {
-            "name": "Part-of-speech tagging for Diverse African Languages",
+            "name": "Part-of-speech Tagging for Diverse African Languages",
             "url": "https://zindi.africa/competitions/lacuna-masakhane-parts-of-speech-classification-challenge?ref=mlcontests&utm_medium=referral&utm_source=mlcontest&utm_campaign=paulkennedy",
             "type": "🔤 NLP",
             "tags": [
@@ -6681,7 +6681,7 @@
             "sponsor": null
         },
         {
-            "name": "Optimise Strategies for Deploying Workers Across Graphs",
+            "name": "Optimise Deployment of Workers Across Graphs",
             "url": "https://xeek.ai/challenges/off-the-beaten-path?ref=mlcontests",
             "type": "📉 Optimisation",
             "tags": [

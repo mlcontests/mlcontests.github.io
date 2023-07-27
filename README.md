@@ -84,6 +84,7 @@ Until the transition is complete, please also assign both a type and tags.
 | `"measurable"`  | Any competition with an objectively measurable goal/benchmark|
 | `"subjective"`  | Any competition with a subjective determination of winners, such as through a judging panel|
 | `"science"`  | Any challenge analysing scientific data (physics/biology/chemistry/...)|
+| `"medical"`  | Any challenge analysing medical data (CT scans/notes/...)|
 | `"sport"`  | Any challenge analysing sports data (horse racing, NFL, NBA, soccer,...)|
 | `"business"`  | Any challenge analysing business data (customer behaviour, credit card defaults,...)|
 | `"finance"`  | Any challenge analysing financial markets data (crypto price prediction,...)|

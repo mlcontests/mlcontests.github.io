@@ -1,6 +1,28 @@
 {
     "data": [
         {
+            "name": "Detect and Classify Abdominal Injuries From CT Scans",
+            "url": "https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "classification",
+                "supervised",
+                "vision",
+                "medical",
+                "measurable"
+            ],
+            "additional_urls": ["https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge"],
+            "launched": "26 Jul 2023",
+            "registration-deadline": "6 Oct 2023",
+            "deadline": "24 Oct 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "RSNA",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 460.34
+        },
+        {
             "name": "Shell.ai Hackathon 2023",
             "url": "https://www.hackerearth.com/challenges/new/competitive/shellai-hackathon-2023/?ref=mlcontests",
             "type": "📊 Analysis/Visualisation",

@@ -1,6 +1,26 @@
 {
     "data": [
         {
+            "name": "RSNA Abdominal Trauma Detection 2023",
+            "url": "https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/?ref=mlcontests",
+            "type": "📊 Analysis/Visualisation",
+            "tags": [
+                "regression",
+                "supervised",
+                "image recognition",
+                "medical"
+            ],
+            "additional_urls": ["https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge"],
+            "launched": "26 Jul 2023",
+            "registration-deadline": "6 Oct 2023",
+            "deadline": "24 Oct 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "RSNA",
+            "conference": "RSNA",
+            "conference-year": "2023"
+        },
+        {
             "name": "Shell.ai Hackathon 2023",
             "url": "https://www.hackerearth.com/challenges/new/competitive/shellai-hackathon-2023/?ref=mlcontests",
             "type": "📊 Analysis/Visualisation",

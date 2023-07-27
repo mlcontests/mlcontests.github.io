@@ -18,8 +18,8 @@
             "prize": "$50,000",
             "platform": "Kaggle",
             "sponsor": "RSNA",
-            "conference": null,
-            "conference-year": null,
+            "conference": "RSNA",
+            "conference-year": 2023,
             "data-size": 460.34
         },
         {

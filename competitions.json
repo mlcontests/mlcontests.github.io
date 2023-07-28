@@ -1,6 +1,26 @@
 {
     "data": [
         {
+            "name": "LLM Efficiency Challenge",
+            "url": "https://llm-efficiency-challenge.github.io/?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "generative",
+                "supervised",
+                "nlp",
+                "measurable"
+            ],
+            "additional_urls": ["https://neurips.cc/Conferences/2023/CompetitionTrack"],
+            "launched": "25 Jul 2023",
+            "registration-deadline": "15 Oct 2023",
+            "deadline": "15 Oct 2023",
+            "prize": "$8,500",
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2023
+        },
+        {
             "name": "Detect and Classify Abdominal Injuries From CT Scans",
             "url": "https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/?ref=mlcontests",
             "type": "📷 Computer Vision",

@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "name": "AI/ML for 5G-Energy Consumption Modelling",
+            "url": "https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling?ref=mlcontests",
+            "type": "analysis",
+            "tags": [
+                "supervised",
+                "regression",
+                "geo"
+            ],
+            "additional_urls": [],
+            "registration-deadline": "15 Oct 2023",
+            "deadline": "13 Oct 2023",
+            "prize": "20,000 CHF",
+            "platform": "Zindi",
+            "sponsor": "ITU",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "LLM Efficiency Challenge",
             "url": "https://llm-efficiency-challenge.github.io/?ref=mlcontests",
             "type": "🔤 NLP",

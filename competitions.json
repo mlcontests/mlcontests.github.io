@@ -1,6 +1,26 @@
 {
     "data": [
         {
+            "name": "Waste to energy",
+            "url": "https://www.hackerearth.com/challenges/new/competitive/shellai-hackathon-2023/",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "geospatial",
+                "supervised",
+                "sustainable energy",
+                "forecasting"
+            ],
+            "additional_urls": ["https://www.shell.com/energy-and-innovation/digitalisation/digital-and-ai-competitions/shell-ai-hackathon-for-sustainable-and-affordable-energy.html"],
+            "launched": "21 Jul 2023",
+            "registration-deadline": null,
+            "deadline": "27 Aug 2023",
+            "prize": "$9,200",
+            "platform": "Hackerearth",
+            "sponsor": "Shell",
+            "conference": null,
+            "conference-year": 2023
+        },
+        {
             "name": "LLM Efficiency Challenge",
             "url": "https://llm-efficiency-challenge.github.io/?ref=mlcontests",
             "type": "🔤 NLP",

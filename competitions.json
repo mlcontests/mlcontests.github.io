@@ -6778,49 +6778,33 @@
             "platform": "Xeek",
             "sponsor": null
         },
-         {
-            "name": "CGIAR Eyes on the Ground Challenge",
-            "url": "https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-            "type": "✅ Supervised Learning",
-            "tags": [
-                "vision",
-                "supervised",
-                "deeplearning",
-                "regression"
-            ],
-            "launched": "21 July 2023",
-            "registration-deadline": "03 Nov 2023",
-            "deadline": "03 Nov 2023",
-            "prize": "$10,000",
-            "platform": "Zindi",
-            "sponsor": "IFPRI, ACRE Africa, CGIAR"
-        },
         {
-            "name": "GeoAI Challenge for Air Pollution Susceptibility Mapping by ITU",
+            "name": "Geo-AI Challenge for Air Pollution Susceptibility Mapping",
             "url": "https://zindi.africa/competitions/geoai-challenge-for-air-pollution-susceptibility-mapping?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
             "type": "✅ Supervised Learning",
             "tags": [
                 "geo",
                 "supervised",
-                "classification"
+                "classification",
+                "timeseries"
             ],
-            "launched": "27 July 2023",
+            "launched": "27 Jul 2023",
             "registration-deadline": "14 Oct 2023",
             "deadline": "14 Oct 2023",
-            "prize": "$1000",
+            "prize": "$,1000",
             "platform": "Zindi",
             "sponsor": "ITU"
         },
         {
-            "name": "GEO-AI Challenge for Cropland Mapping by ITU",
+            "name": "GEO-AI Challenge for Cropland Mapping",
             "url": "https://zindi.africa/competitions/geo-ai-challenge-for-cropland-mapping-with-satellite-imagery?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-            "type": "✅ Supervised Learning",
+            "type": "📷 Computer Vision",
             "tags": [
                 "geo",
                 "supervised",
                 "classification"
             ],
-            "launched": "30 June 2023",
+            "launched": "30 Jun 2023",
             "registration-deadline": "5 Oct 2023",
             "deadline": "5 Oct 2023",
             "prize": "$4000",
@@ -6828,7 +6812,7 @@
             "sponsor": "ITU"
         },
         {
-            "name": "GEO-AI Challenge for Landslide Susceptibility Mapping by ITU",
+            "name": "GEO-AI Challenge for Landslide Susceptibility Mapping",
             "url": "https://zindi.africa/competitions/geo-ai-challenge-for-landslide-susceptibility-mapping?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
             "type": "✅ Supervised Learning",
             "tags": [
@@ -6836,58 +6820,61 @@
                 "supervised",
                 "classification"
             ],
-            "launched": "30 June 2023",
+            "launched": "30 Jun 2023",
             "registration-deadline": "5 Oct 2023",
             "deadline": "5 Oct 2023",
-            "prize": "$1000",
+            "prize": "$1,000",
             "platform": "Zindi",
             "sponsor": "ITU"
         },
         {
-            "name": "AI/ML for 5G-Energy Consumption Modelling by ITU AI/ML in 5G Challenge",
+            "name": "AI/ML for 5G-Energy Consumption Modelling",
             "url": "https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-            "type": "✅ Supervised Learning",
+            "type": "📈 Time Series Forecasting",
             "tags": [
                 "tabular",
                 "supervised",
-                "regression"
+                "regression",
+                "timeseries"
             ],
             "launched": "26 July 2023",
             "registration-deadline": "13 Oct 2023",
             "deadline": "13 Oct 2023",
-            "prize": "20,000 CHF",
+            "prize": "23,000",
             "platform": "Zindi",
             "sponsor": "ITU"
         },
         {
-            "name": "Network Traffic Scenario Prediction Challenge by ITU",
+            "name": "Network Traffic Scenario Prediction Challenge",
             "url": "https://zindi.africa/competitions/network-traffic-scenario-prediction-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
             "type": "✅ Supervised Learning",
             "tags": [
                 "tabular",
                 "supervised",
-                "classification"
+                "classification",
+                "timeseries"
             ],
-            "launched": "28 July 2023",
+            "launched": "28 Jul 2023",
             "registration-deadline": "10 Sep 2023",
             "deadline": "10 Sep 2023",
-            "prize": "$1000",
+            "prize": "$1,000",
             "platform": "Zindi",
             "sponsor": "ITU"
         },
         {
-            "name": "Fault Impact Analysis: Towards Service-Oriented Network Operation & Maintenanceby ITU",
+            "name": "Fault Impact Analysis: Towards Service-Oriented Network Operation & Maintenance",
             "url": "https://zindi.africa/competitions/fault-impact-analysis-towards-service-oriented-network-operation-maintenance?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-            "type": "✅ Supervised Learning",
+            "type": "📈 Time Series Forecasting",
             "tags": [
                 "tabular",
                 "supervised",
-                "classification"
+                "classification",
+                "timeseries"
             ],
-            "launched": "28 July 2023",
+            "launched": "28 Jul 2023",
             "registration-deadline": "18 Aug 2023",
             "deadline": "18 Aug 2023",
-            "prize": "8000 CHF",
+            "prize": "9,000",
             "platform": "Zindi",
             "sponsor": "ITU"
         }

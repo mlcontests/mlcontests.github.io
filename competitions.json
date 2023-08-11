@@ -1,5 +1,155 @@
 {
     "data": [
+
+        {
+            "name": "Scalable and High-Performance TinyML Solutions for Wildlife Monitoring",
+            "url": "https://challenge.aiforgood.itu.int/match/matchitem/88",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "supervised",
+                "vision",
+                "subjective"
+            ],
+            "additional_urls": null,
+            "launched": "25 Jul 2023",
+            "registration-deadline": "1 Oct 2023",
+            "deadline": "10 Nov 2023",
+            "prize": "CHF 500",
+            "platform": "ITU",
+            "sponsor": "ITU and Partners",
+            "conference": null
+        },
+
+        {
+            "name": "Scalable and High-Performance TinyML Solutions for Plant Disease Detection",
+            "url": "https://challenge.aiforgood.itu.int/match/matchitem/87",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "supervised",
+                "vision",
+                "subjective"
+            ],
+            "additional_urls": null,
+            "launched": "25 Jul 2023",
+            "registration-deadline": "1 Oct 2023",
+            "deadline": "10 Nov 2023",
+            "prize": "CHF 500",
+            "platform": "ITU",
+            "sponsor": "ITU and Partners",
+            "conference": null
+        },
+
+        {
+            "name": "Next-Gen tinyML Smart Weather Station",
+            "url": "https://challenge.aiforgood.itu.int/match/matchitem/86",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "subjective",
+                "geo"
+            ],
+            "additional_urls": null,
+            "launched": "25 Jul 2023",
+            "registration-deadline": "1 Oct 2023",
+            "deadline": "10 Nov 2023",
+            "prize": "$ 3000",
+            "platform": "ITU",
+            "sponsor": "ITU and Partners",
+            "conference": null
+        },
+
+        {
+            "name": "Network failure classification model using network digital twin",
+            "url": "https://challenge.aiforgood.itu.int/match/matchitem/86",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "graph",
+                "classification",
+                "measurable"
+            ],
+            "additional_urls": null,
+            "launched": "25 Jul 2023",
+            "registration-deadline": "1 Oct 2023",
+            "deadline": "10 Nov 2023",
+            "prize": "CHF 1000",
+            "platform": "ITU",
+            "sponsor": "ITU and Partners",
+            "conference": null
+        },
+
+        {
+            "name": "Graph Neural Networking Challenge 2023 - Creating a Network Digital Twin with Real Network Data",
+            "url": "https://challenge.aiforgood.itu.int/match/matchitem/82",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "graph",
+                "regression",
+                "measurable"
+            ],
+            "additional_urls": null,
+            "launched": "25 Jul 2023",
+            "registration-deadline": "1 Oct 2023",
+            "deadline": "10 Nov 2023",
+            "prize": " 2000 EUR",
+            "platform": "ITU",
+            "sponsor": "ITU and Partners",
+            "conference": null
+        },
+        
+        {
+            "name": "Intrusion and Vulnerability Detection in Software-Defined Networks (SDN)",
+            "url": "https://challenge.aiforgood.itu.int/match/matchitem/81",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "classification",
+                "measurable"
+            ],
+            "additional_urls": null,
+            "launched": "25 Jul 2023",
+            "registration-deadline": "1 Oct 2023",
+            "deadline": "10 Nov 2023",
+            "prize": " 1000 CHF",
+            "platform": "ITU",
+            "sponsor": "ITU and Partners",
+            "conference": null
+        },
+        {
+            "name": "Multi-environment automotive QoS prediction",
+            "url": "https://challenge.aiforgood.itu.int/match/matchitem/80",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "classification",
+                "measurable"
+            ],
+            "additional_urls": null,
+            "launched": "25 Jul 2023",
+            "registration-deadline": "1 Oct 2023",
+            "deadline": "10 Nov 2023",
+            "prize": " 1000 CHF",
+            "platform": "ITU",
+            "sponsor": "ITU and Partners",
+            "conference": null
+        },
+        {
+            "name": "Depth Map Estimation in 6G mmWave systems",
+            "url": "https://challenge.aiforgood.itu.int/match/matchitem/79",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "classification",
+                "measurable"
+            ],
+            "additional_urls": null,
+            "launched": "25 Jul 2023",
+            "registration-deadline": "1 Oct 2023",
+            "deadline": "10 Nov 2023",
+            "prize": " 1000 CHF",
+            "platform": "ITU",
+            "sponsor": "ITU and Partners",
+            "conference": null
+        },
         {
             "name": "LLM Efficiency Challenge",
             "url": "https://llm-efficiency-challenge.github.io/?ref=mlcontests",

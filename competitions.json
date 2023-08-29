@@ -6815,7 +6815,7 @@
             "launched": "27 Jul 2023",
             "registration-deadline": "14 Oct 2023",
             "deadline": "14 Oct 2023",
-            "prize": "$,1000",
+            "prize": "$1,000",
             "platform": "Zindi",
             "sponsor": "ITU"
         },
@@ -6831,7 +6831,7 @@
             "launched": "30 Jun 2023",
             "registration-deadline": "5 Oct 2023",
             "deadline": "5 Oct 2023",
-            "prize": "$4000",
+            "prize": "$4,000",
             "platform": "Zindi",
             "sponsor": "ITU"
         },
@@ -6864,7 +6864,7 @@
             "launched": "26 Jul 2023",
             "registration-deadline": "13 Oct 2023",
             "deadline": "13 Oct 2023",
-            "prize": "23,000",
+            "prize": "$23,000",
             "platform": "Zindi",
             "sponsor": "ITU"
         },
@@ -6898,6 +6898,24 @@
             "launched": "28 Jul 2023",
             "registration-deadline": "18 Aug 2023",
             "deadline": "18 Aug 2023",
+            "prize": "9,000",
+            "platform": "Zindi",
+            "sponsor": "ITU"
+        },
+        {
+            "name": "Nowcast Inflation in South Africa",
+            "url": "https://zindi.africa/competitions/rmb-cpi-nowcasting-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "📈 Time Series Forecasting",
+            "tags": [
+                "tabular",
+                "supervised",
+                "classification",
+                "timeseries",
+                "forecasting"
+            ],
+            "launched": "1 Apr 2023",
+            "registration-deadline": "1 May 2023",
+            "deadline": "1 Dec 2023",
             "prize": "9,000",
             "platform": "Zindi",
             "sponsor": "ITU"

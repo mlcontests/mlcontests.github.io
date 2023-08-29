@@ -1,15 +1,18 @@
 {
     "data": [
         {
-            "name": "Build an AI Research Assistant",
+            "name": "Build and Demo an AI Research Assistant",
             "url": "https://www.drivendata.org/competitions/252/ai-research-assistants/?ref=mlcontests",
-            "type": "🔤 NLP",
+            "type": "📊 Analysis/Visualisation",
             "tags": [
                 "generative",
                 "supervised",
                 "nlp",
                 "subjective",
-                "llm"
+                "llm",
+                "science",
+                "research",
+                "analysis"
             ],
             "additional_urls": [],
             "launched": "9 Aug 2023",

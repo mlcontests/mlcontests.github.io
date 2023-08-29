@@ -1,6 +1,27 @@
 {
     "data": [
         {
+            "name": "Build an AI Research Assistant",
+            "url": "https://www.drivendata.org/competitions/252/ai-research-assistants/?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "generative",
+                "supervised",
+                "nlp",
+                "subjective",
+                "llm"
+            ],
+            "additional_urls": [],
+            "launched": "9 Aug 2023",
+            "registration-deadline": "2 Oct 2023",
+            "deadline": "2 Oct 2023",
+            "prize": "$30,000",
+            "platform": "DrivenData",
+            "sponsor": "NASA",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "LLM Efficiency Challenge",
             "url": "https://llm-efficiency-challenge.github.io/?ref=mlcontests",
             "type": "🔤 NLP",

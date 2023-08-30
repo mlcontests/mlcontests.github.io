@@ -1,6 +1,26 @@
 {
     "data": [
         {
+            "name": "Predict AI Model Runtime",
+            "url": "https://www.kaggle.com/competitions/predict-ai-model-runtime?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "measurable",
+                "supervised",
+                "ranking"
+            ],
+            "additional_urls": [],
+            "launched": "29 Aug 2023",
+            "registration-deadline": "10 Nov 2023",
+            "deadline": "17 Nov 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Google",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 6.37
+        },
+        {
             "name": "Build and Demo an AI Research Assistant",
             "url": "https://www.drivendata.org/competitions/252/ai-research-assistants/?ref=mlcontests",
             "type": "📊 Analysis/Visualisation",

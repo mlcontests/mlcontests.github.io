@@ -6901,6 +6901,22 @@
             "prize": "9,000",
             "platform": "Zindi",
             "sponsor": "ITU"
+        },
+        {
+            "name": "GeoAI Challege Location Mention Recognition from Social Media by ITU",
+            "url": "https://zindi.africa/competitions/geoai-challege-location-mention-recognition-from-social-media?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "geo",
+                "supervised",
+                "regression"
+                ],
+            "launched": "19 July 2023",
+            "registration-deadline": "1 Oct 2023",
+            "deadline": "1 Oct 2023",
+            "prize": "$1,150",
+            "platform": "Zindi",
+            "sponsor": "ITU"
         }
     ]
 }

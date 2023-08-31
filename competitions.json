@@ -1,6 +1,48 @@
 {
     "data": [
         {
+            "name": "Predict Building Loads (CityLearn)",
+            "url": "https://www.aicrowd.com/challenges/neurips-2023-citylearn-challenge/problems/forecasting-track-citylearn-challenge?ref=mlcontests",
+            "type": "📈 Time Series Forecasting",
+            "tags": [
+                "measurable",
+                "supervised",
+                "timeseries",
+                "forecasting",
+                "regression"
+            ],
+            "additional_urls": [],
+            "launched": "21 Aug 2023",
+            "registration-deadline": "19 Sep 2023",
+            "deadline": "31 Oct 2023",
+            "prize": "$2,500",
+            "platform": "AIcrowd",
+            "sponsor": "CCAI/MERL/Amazon",
+            "conference": "NeurIPS",
+            "conference-year": 2023
+        },
+        {
+            "name": "Optimal Control of Energy and Heating Management (CityLearn)",
+            "url": "https://www.aicrowd.com/challenges/neurips-2023-citylearn-challenge/problems/control-track-citylearn-challenge?ref=mlcontests",
+            "type": "🤖 Reinforcement Learning",
+            "tags": [
+                "measurable",
+                "rl",
+                "timeseries",
+                "optimisation",
+                "control"
+            ],
+            "additional_urls": [],
+            "launched": "21 Aug 2023",
+            "registration-deadline": "19 Sep 2023",
+            "deadline": "31 Oct 2023",
+            "prize": "$2,500",
+            "platform": "AIcrowd",
+            "sponsor": "CCAI/MERL/Amazon",
+            "conference": "NeurIPS",
+            "conference-year": 2023
+        },
+        {
             "name": "Predict AI Model Runtime",
             "url": "https://www.kaggle.com/competitions/predict-ai-model-runtime?ref=mlcontests",
             "type": "✅ Supervised Learning",
@@ -543,7 +585,7 @@
             "registration-deadline": null,
             "deadline": "9 Sep 2023",
             "prize": null,
-            "platform": "Independnet",
+            "platform": "Independent",
             "sponsor": "elsa - European Union ",
             "conference": "NeurIPS",
             "conference-year": 2023,

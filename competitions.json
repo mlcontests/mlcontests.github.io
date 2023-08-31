@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "name": "AI Cyber Challenge",
+            "url": "https://aicyberchallenge.com/?ref=mlcontests",
+            "type": "🕵 Security",
+            "tags": [
+                "security",
+                "subjective"
+            ],
+            "additional_urls": [],
+            "launched": "9 Aug 2023",
+            "registration-deadline": "30 Sep 2023",
+            "deadline": "31 Oct 2025",
+            "prize": "$18,500,000",
+            "platform": "Independent",
+            "sponsor": "DARPA",
+            "conference": "DEF CON",
+            "conference-year": 2025
+        },
+        {
             "name": "Predict Building Loads (CityLearn)",
             "url": "https://www.aicrowd.com/challenges/neurips-2023-citylearn-challenge/problems/forecasting-track-citylearn-challenge?ref=mlcontests",
             "type": "📈 Time Series Forecasting",

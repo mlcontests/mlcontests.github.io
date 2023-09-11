@@ -7015,6 +7015,22 @@
             "prize": "$1,150",
             "platform": "Zindi",
             "sponsor": "ITU"
+        },
+        {
+            "name": "Digital Green Crop Yield Estimate Challenge",
+            "url": "https://zindi.africa/competitions/digital-green-crop-yield-estimate-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "tabular",
+                "supervised",
+                "regression"
+                ],
+            "launched": "8 Sep 2023",
+            "registration-deadline": "3 Dec 2023",
+            "deadline": "3 Dec 2023",
+            "prize": "$10,000",
+            "platform": "Zindi",
+            "sponsor": "Digital Green"
         }
     ]
 }

@@ -1,6 +1,69 @@
 {
     "data": [
         {
+            "name": "Predict RNA Structures",
+            "url": "https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "regression",
+                "science",
+                "measurable",
+                "supervised"
+            ],
+            "additional_urls": [],
+            "launched": "7 Sep 2023",
+            "registration-deadline": "30 Nov 2023",
+            "deadline": "7 Dec 2023",
+            "prize": "$100,000",
+            "platform": "Kaggle",
+            "sponsor": "Stanford University",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 88.74
+        },
+        {
+            "name": "Detect Sleep States",
+            "url": "https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states?ref=mlcontests",
+            "type": "📈 Time Series Event Detection",
+            "tags": [
+                "timeseries",
+                "detection",
+                "science",
+                "measurable",
+                "supervised"
+            ],
+            "additional_urls": [],
+            "launched": "5 Sep 2023",
+            "registration-deadline": "28 Nov 2023",
+            "deadline": "5 Dec 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Child Mind Institute",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 0.98646
+        },
+        {
+            "name": "Improve Available Data for Alzheimer/Dementia Prediction",
+            "url": "https://www.drivendata.org/competitions/253/competition-nih-alzheimers-adrd-1/?ref=mlcontests",
+            "type": "📒 Data",
+            "tags": [
+                "data",
+                "subjective",
+                "medical",
+                "science"
+            ],
+            "additional_urls": [],
+            "launched": "1 Sep 2023",
+            "registration-deadline": "17 Jan 2024",
+            "deadline": "31 Jan 2024",
+            "prize": "$200,000",
+            "platform": "DrivenData",
+            "sponsor": "NIH, NASA",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "AI Cyber Challenge",
             "url": "https://aicyberchallenge.com/?ref=mlcontests",
             "type": "🕵 Security",
@@ -7015,22 +7078,6 @@
             "prize": "$1,150",
             "platform": "Zindi",
             "sponsor": "ITU"
-        },
-        {
-            "name": "Digital Green Crop Yield Estimate Challenge",
-            "url": "https://zindi.africa/competitions/digital-green-crop-yield-estimate-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-            "type": "✅ Supervised Learning",
-            "tags": [
-                "tabular",
-                "supervised",
-                "regression"
-                ],
-            "launched": "8 Sep 2023",
-            "registration-deadline": "3 Dec 2023",
-            "deadline": "3 Dec 2023",
-            "prize": "$10,000",
-            "platform": "Zindi",
-            "sponsor": "Digital Green"
         }
     ]
 }

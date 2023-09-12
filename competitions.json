@@ -7094,6 +7094,23 @@
             "prize": "$10,000",
             "platform": "Zindi",
             "sponsor": "Digital Green"
+        },
+        {
+            "name": "Stranger Sections: Segmenting Mysterious Objects Through the Microscope",
+            "url": "https://xeek.ai/challenges/stranger-sections",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "unsupervised",
+                "segmentation",
+                "vision",
+                "subjective"
+                ],
+            "launched": "13 Sep 2023",
+            "registration-deadline": "13 Oct 2023",
+            "deadline": "13 Oct 2023",
+            "prize": "$25,000",
+            "platform": "Xeek",
+            "sponsor": null
         }
     ]
 }

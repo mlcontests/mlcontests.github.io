@@ -7094,6 +7094,17 @@
             "prize": "$10,000",
             "platform": "Zindi",
             "sponsor": "Digital Green"
+        },
+        {
+            "name": "Predict and Create STL Files",
+            "url": "https://app.humyn.ai/challenges/157fdb9c-3721-4255-ace3-01045795e64d?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "deadline": "18 Oct 2023",
+            "prize": "$4,600",
+            "platform": "Humyn.ai",
+            "sponsor": "Humyn.ai",
+            "registration-deadline": "20 Sep 2023",
+            "tags": ["supervised", "science", "generative"]
         }
     ]
 }

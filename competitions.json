@@ -1,6 +1,27 @@
 {
     "data": [
         {
+            "name": "Predict How Molecules Change Gene Expression",
+            "url": "https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "regression",
+                "science",
+                "measurable",
+                "supervised"
+            ],
+            "additional_urls": [],
+            "launched": "12 Sep 2023",
+            "registration-deadline": "23 Nov 2023",
+            "deadline": "30 Nov 2023",
+            "prize": "$100,000",
+            "platform": "Kaggle",
+            "sponsor": "Open Problems in Single-Cell Analysis",
+            "conference": "NeurIPS",
+            "conference-year": 2023,
+            "data-size": 4.48
+        },
+        {
             "name": "Predict RNA Structures",
             "url": "https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding?ref=mlcontests",
             "type": "✅ Supervised Learning",
@@ -7109,7 +7130,7 @@
         },
         {
 
-            "name": "Stranger Sections: Segmenting Mysterious Objects Through the Microscope",
+            "name": "Segment Objects Through the Microscope",
             "url": "https://xeek.ai/challenges/stranger-sections",
             "type": "📷 Computer Vision",
             "tags": [

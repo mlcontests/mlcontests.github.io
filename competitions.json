@@ -7145,6 +7145,23 @@
             "prize": "$25,000",
             "platform": "Xeek",
             "sponsor": null
+        },
+        {
+            "name": "GeoAI Challenge Estimating Soil Parameters from Hyperspectral Images by ITU",
+            "url": "https://zindi.africa/competitions/geoai-challenge-estimating-soil-parameters-from-hyperspectral-images?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "geo",
+                "supervised",
+                "regression"
+                ],
+            "launched": "19 Aug 2023",
+            "registration-deadline": "12 Nov 2023",
+            "deadline": "12 Nov 2023",
+            "prize": "$1,000",
+            "platform": "Zindi",
+            "sponsor": "ITU"
         }
+        
     ]
 }

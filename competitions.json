@@ -1,6 +1,71 @@
 {
     "data": [
         {
+            "name": "Use Typing Behaviour to Predict Essay Quality",
+            "url": "https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "regression",
+                "science",
+                "measurable",
+                "supervised",
+                "nlp"
+            ],
+            "additional_urls": [],
+            "launched": "2 Oct 2023",
+            "registration-deadline": "2 Jan 2024",
+            "deadline": "9 Jan 2024",
+            "prize": "$55,000",
+            "platform": "Kaggle",
+            "sponsor": "Various",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 0.48571
+        
+        },
+        {
+            "name": "Predict US Stocks' Closing Movements",
+            "url": "https://www.kaggle.com/competitions/optiver-trading-at-the-close/?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "regression",
+                "financial",
+                "forecasting",
+                "measurable"
+            ],
+            "additional_urls": [],
+            "launched": "7 Sep 2023",
+            "registration-deadline": "13 Dec 2023",
+            "deadline": "20 Dec 2023",
+            "prize": "$100,000",
+            "platform": "Kaggle",
+            "sponsor": "Optiver",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 0.6467
+        },
+        {
+            "name": "Improve Smartphone Positioning and Navigation",
+            "url": "https://www.kaggle.com/competitions/smartphone-decimeter-2023/?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "geo",
+                "measurable"
+            ],
+            "additional_urls": [],
+            "launched": "12 Sep 2023",
+            "registration-deadline": "16 May 2024",
+            "deadline": "23 May 2024",
+            "prize": "$15,000",
+            "platform": "Kaggle",
+            "sponsor": "Google, ION",
+            "conference": "ION GNSS+",
+            "conference-year": 2024,
+            "data-size": 16.16
+        },
+        {
             "name": "Predict How Molecules Change Gene Expression",
             "url": "https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/?ref=mlcontests",
             "type": "✅ Supervised Learning",

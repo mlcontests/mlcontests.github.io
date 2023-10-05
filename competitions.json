@@ -1,6 +1,103 @@
 {
     "data": [
         {
+            "name": "Linking Writing Processes to Writing Quality",
+            "url": "https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/?ref=mlcontests",
+            "type": "✅ NLP",
+            "tags": [
+                "regression",
+                "science",
+                "measurable",
+                "supervised"
+            ],
+            "additional_urls": [],
+            "launched": "2 Oct 2023",
+            "registration-deadline": "2 Jam 2024",
+            "deadline": "9 Jan 2024",
+            "prize": "$55,000",
+            "platform": "Kaggle",
+            "sponsor": "CommonLit, Walton Family Foundation, Schmidt Future",
+            "conference": null,
+            "conference-year": null,
+        
+        },
+        {
+            "name": "Stanford Ribonanza RNA Folding",
+            "url": "https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding/?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "supervised",
+                "vision"
+            ],
+            "additional_urls": [],
+            "launched": "7 Sep 2023",
+            "registration-deadline": "30 Nov 2023",
+            "deadline": "7 Dec 2023",
+            "prize": "$100,000",
+            "platform": "Kaggle",
+            "sponsor": "eterna, das labs",
+            "conference": null,
+            "conference-year": null,
+        
+        },
+        {
+            "name": "Trading at the close",
+            "url": "https://www.kaggle.com/competitions/optiver-trading-at-the-close/?ref=mlcontests",
+            "type": "unsupervised",
+            "tags": [
+                "unsupervised",
+                "regression"
+            ],
+            "additional_urls": [],
+            "launched": "7 Sep 2023",
+            "registration-deadline": "13 Dec 2023",
+            "deadline": "20 Dec 2023",
+            "prize": "$100,000",
+            "platform": "Kaggle",
+            "sponsor": "Optiver",
+            "conference": null,
+            "conference-year": null,
+        
+        },
+        {
+            "name": "Trading at the close",
+            "url": "https://www.kaggle.com/competitions/optiver-trading-at-the-close/?ref=mlcontests",
+            "type": "unsupervised",
+            "tags": [
+                "unsupervised",
+                "regression"
+            ],
+            "additional_urls": [],
+            "launched": "7 Sep 2023",
+            "registration-deadline": "23 Nov 2023",
+            "deadline": "7 Dec 2023",
+            "prize": "$100,000",
+            "platform": "Kaggle",
+            "sponsor": "Optiver",
+            "conference": null,
+            "conference-year": null,
+        
+        },
+        {
+            "name": "Google Smartphone Decimeter Challenge 2023",
+            "url": "https://www.kaggle.com/competitions/smartphone-decimeter-2023/?ref=mlcontests",
+            "type": "supervised",
+            "tags": [
+                "supervised",
+                "geo"
+            ],
+            "additional_urls": [],
+            "launched": "12 Sep 2023",
+            "registration-deadline": "16 May 2024",
+            "deadline": "23 May 2024",
+            "prize": "$15,000",
+            "platform": "Kaggle",
+            "sponsor": "ION",
+            "conference": " ION GNSS+ 2024",
+            "conference-year": 2024,
+        
+        },
+        {
             "name": "Predict How Molecules Change Gene Expression",
             "url": "https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/?ref=mlcontests",
             "type": "✅ Supervised Learning",

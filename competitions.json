@@ -18,7 +18,7 @@
             "platform": "Kaggle",
             "sponsor": "CommonLit, Walton Family Foundation, Schmidt Future",
             "conference": null,
-            "conference-year": null,
+            "conference-year": null
         
         },
         {
@@ -37,7 +37,7 @@
             "platform": "Kaggle",
             "sponsor": "eterna, das labs",
             "conference": null,
-            "conference-year": null,
+            "conference-year": null
         
         },
         {
@@ -56,7 +56,7 @@
             "platform": "Kaggle",
             "sponsor": "Optiver",
             "conference": null,
-            "conference-year": null,
+            "conference-year": null
         
         },
         {
@@ -75,7 +75,7 @@
             "platform": "Kaggle",
             "sponsor": "Optiver",
             "conference": null,
-            "conference-year": null,
+            "conference-year": null
         
         },
         {
@@ -93,7 +93,7 @@
             "prize": "$15,000",
             "platform": "Kaggle",
             "sponsor": "ION",
-            "conference": " ION GNSS+ 2024",
+            "conference": "ION GNSS+ 2024",
             "conference-year": 2024,
         
         },

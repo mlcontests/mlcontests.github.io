@@ -1,6 +1,27 @@
 {
     "data": [
         {
+            "name": "Help Humans Discover Trojans",
+            "url": "https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/?ref=mlcontests",
+            "type": "🕵 Security",
+            "tags": [
+                "safety",
+                "generative",
+                "measurable",
+                "vision",
+                "interpretability"
+            ],
+            "additional_urls": [],
+            "launched": "22 Sep 2023",
+            "registration-deadline": "22 Mar 2024",
+            "deadline": "22 Mar 2024",
+            "prize": "$8,000",
+            "platform": "Independent",
+            "sponsor": "Various",
+            "conference": "SATML",
+            "conference-year": 2024
+        },
+        {
             "name": "Use Typing Behaviour to Predict Essay Quality",
             "url": "https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/?ref=mlcontests",
             "type": "🔤 NLP",
@@ -21,7 +42,6 @@
             "conference": null,
             "conference-year": null,
             "data-size": 0.48571
-        
         },
         {
             "name": "Predict US Stocks' Closing Movements",
@@ -683,7 +703,7 @@
             "type": "🤖 Robotics",
             "tags": [
                 "robotics",
-                "computer vision",
+                "vision",
                 "nlp",
                 "measurable"
             ],

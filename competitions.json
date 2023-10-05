@@ -1,42 +1,23 @@
 {
     "data": [
         {
-            "name": "Melting Pot Challenge 2023",
+            "name": "Multi-Agent Dynamics & Mixed-Motive Cooperation",
             "url": "https://www.aicrowd.com/challenges/meltingpot-challenge-2023/?ref=mlcontests",
-            "type": "unsupervised",
+            "type": "🤖 Reinforcement Learning",
             "tags": [
-                "regression",
                 "rl",
-                "unsupervised"
+                "multi-agent",
+                "measurable"
             ],
             "additional_urls": [],
             "launched": "31 Aug 2023",
-            "registration-deadline": "2 Jam 2024",
+            "registration-deadline": "2 Jan 2024",
             "deadline": "10 Nov 2023",
             "prize": "$10,0000",
-            "platform": "AiCrowd",
+            "platform": "AIcrowd",
             "sponsor": "MIT, Google DeepMind, Cooperative AI Foundation",
             "conference": "NeurIPS",
-            "conference-year": 2024
-        
-        },
-        {
-            "name": "Stranger Selections - Segmenting Mysterious Objects Through the Microscope",
-            "url": "https://xeek.ai/challenges/stranger-sections/?ref=mlcontests",
-            "type": "unsupervised",
-            "tags": [
-                "unsupervised"
-            ],
-            "additional_urls": [],
-            "launched": "13 Sep 2023",
-            "registration-deadline": "13 Oct 2023",
-            "deadline": "13 Oct 2023",
-            "prize": "$25,0000",
-            "platform": "Xeek",
-            "sponsor": null,
-            "conference": null,
-            "conference-year": null
-        
+            "conference-year": 2023
         },
         {
             "name": "Predict How Molecules Change Gene Expression",

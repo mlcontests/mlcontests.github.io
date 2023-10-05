@@ -1,6 +1,44 @@
 {
     "data": [
         {
+            "name": "Melting Pot Challenge 2023",
+            "url": "https://www.aicrowd.com/challenges/meltingpot-challenge-2023/?ref=mlcontests",
+            "type": "unsupervised",
+            "tags": [
+                "regression",
+                "rl",
+                "unsupervised"
+            ],
+            "additional_urls": [],
+            "launched": "31 Aug 2023",
+            "registration-deadline": "2 Jam 2024",
+            "deadline": "10 Nov 2023",
+            "prize": "$10,0000",
+            "platform": "AiCrowd",
+            "sponsor": "MIT, Google DeepMind, Cooperative AI Foundation",
+            "conference": "NeurIPS",
+            "conference-year": 2024
+        
+        },
+        {
+            "name": "Stranger Selections - Segmenting Mysterious Objects Through the Microscope",
+            "url": "https://xeek.ai/challenges/stranger-sections/?ref=mlcontests",
+            "type": "unsupervised",
+            "tags": [
+                "unsupervised"
+            ],
+            "additional_urls": [],
+            "launched": "13 Sep 2023",
+            "registration-deadline": "13 Oct 2023",
+            "deadline": "13 Oct 2023",
+            "prize": "$25,0000",
+            "platform": "Xeek",
+            "sponsor": null,
+            "conference": null,
+            "conference-year": null
+        
+        },
+        {
             "name": "Predict How Molecules Change Gene Expression",
             "url": "https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/?ref=mlcontests",
             "type": "✅ Supervised Learning",

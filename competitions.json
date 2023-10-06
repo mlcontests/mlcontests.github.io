@@ -7246,7 +7246,21 @@
             "prize": "$1,000",
             "platform": "Zindi",
             "sponsor": "ITU"
+        },
+        {
+            "name": "Predict Elements in a Scanned Core Sample",
+            "url": "https://app.humyn.ai/challenges/f2759290-c693-4e60-9821-95beebde5f57?ref=mlc",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "tabular",
+                "measurable",
+                "science"
+            ],
+            "launched": "5 Oct 2023",
+            "deadline": "31 Oct 2023",
+            "prize": "$6,300",
+            "platform": "Humyn.ai",
+            "sponsor": null
         }
-        
     ]
 }

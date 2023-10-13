@@ -7261,6 +7261,22 @@
             "prize": "$6,300",
             "platform": "Humyn.ai",
             "sponsor": null
+        },
+        {
+            "name": "Maximise Diversity in of Generative Neural Networks",
+            "url": "https://xeek.ai/challenges/two-birds?ref=mlc",
+            "type": "💭 Generative Models",
+            "tags": [
+                "deeplearning",
+                "generative",
+                "measurable"
+            ],
+            "launched": "11 Oct 2023",
+            "registration-deadline": "12 Jan 2024",
+            "deadline": "12 Jan 2024",
+            "prize": "$40,000",
+            "platform": "Xeek",
+            "sponsor": null
         }
     ]
 }

@@ -1,6 +1,25 @@
 {
     "data": [
         {
+            "name": "Multi-Agent Dynamics & Mixed-Motive Cooperation",
+            "url": "https://www.aicrowd.com/challenges/meltingpot-challenge-2023/?ref=mlcontests",
+            "type": "🤖 Reinforcement Learning",
+            "tags": [
+                "rl",
+                "multi-agent",
+                "measurable"
+            ],
+            "additional_urls": [],
+            "launched": "31 Aug 2023",
+            "registration-deadline": "2 Jan 2024",
+            "deadline": "10 Nov 2023",
+            "prize": "$10,0000",
+            "platform": "AIcrowd",
+            "sponsor": "MIT, Google DeepMind, Cooperative AI Foundation",
+            "conference": "NeurIPS",
+            "conference-year": 2023
+        },
+        {
             "name": "Help Humans Discover Trojans",
             "url": "https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/?ref=mlcontests",
             "type": "🕵 Security",

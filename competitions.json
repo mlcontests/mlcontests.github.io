@@ -20,6 +20,91 @@
             "conference-year": 2023
         },
         {
+            "name": "Help Humans Discover Trojans",
+            "url": "https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/?ref=mlcontests",
+            "type": "🕵 Security",
+            "tags": [
+                "safety",
+                "generative",
+                "measurable",
+                "vision",
+                "interpretability"
+            ],
+            "additional_urls": [],
+            "launched": "22 Sep 2023",
+            "registration-deadline": "22 Mar 2024",
+            "deadline": "22 Mar 2024",
+            "prize": "$8,000",
+            "platform": "Independent",
+            "sponsor": "Various",
+            "conference": "SATML",
+            "conference-year": 2024
+        },
+        {
+            "name": "Use Typing Behaviour to Predict Essay Quality",
+            "url": "https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "regression",
+                "science",
+                "measurable",
+                "supervised",
+                "nlp"
+            ],
+            "additional_urls": [],
+            "launched": "2 Oct 2023",
+            "registration-deadline": "2 Jan 2024",
+            "deadline": "9 Jan 2024",
+            "prize": "$55,000",
+            "platform": "Kaggle",
+            "sponsor": "Various",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 0.48571
+        },
+        {
+            "name": "Predict US Stocks' Closing Movements",
+            "url": "https://www.kaggle.com/competitions/optiver-trading-at-the-close/?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "regression",
+                "financial",
+                "forecasting",
+                "measurable"
+            ],
+            "additional_urls": [],
+            "launched": "7 Sep 2023",
+            "registration-deadline": "13 Dec 2023",
+            "deadline": "20 Dec 2023",
+            "prize": "$100,000",
+            "platform": "Kaggle",
+            "sponsor": "Optiver",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 0.6467
+        },
+        {
+            "name": "Improve Smartphone Positioning and Navigation",
+            "url": "https://www.kaggle.com/competitions/smartphone-decimeter-2023/?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "geo",
+                "measurable"
+            ],
+            "additional_urls": [],
+            "launched": "12 Sep 2023",
+            "registration-deadline": "16 May 2024",
+            "deadline": "23 May 2024",
+            "prize": "$15,000",
+            "platform": "Kaggle",
+            "sponsor": "Google, ION",
+            "conference": "ION GNSS+",
+            "conference-year": 2024,
+            "data-size": 16.16
+        },
+        {
             "name": "Predict How Molecules Change Gene Expression",
             "url": "https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/?ref=mlcontests",
             "type": "✅ Supervised Learning",
@@ -637,7 +722,7 @@
             "type": "🤖 Robotics",
             "tags": [
                 "robotics",
-                "computer vision",
+                "vision",
                 "nlp",
                 "measurable"
             ],
@@ -7180,7 +7265,37 @@
             "prize": "$1,000",
             "platform": "Zindi",
             "sponsor": "ITU"
+        },
+        {
+            "name": "Predict Elements in a Scanned Core Sample",
+            "url": "https://app.humyn.ai/challenges/f2759290-c693-4e60-9821-95beebde5f57?ref=mlc",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "tabular",
+                "measurable",
+                "science"
+            ],
+            "launched": "5 Oct 2023",
+            "deadline": "31 Oct 2023",
+            "prize": "$6,300",
+            "platform": "Humyn.ai",
+            "sponsor": null
+        },
+        {
+            "name": "Maximise Diversity in of Generative Neural Networks",
+            "url": "https://xeek.ai/challenges/two-birds?ref=mlc",
+            "type": "💭 Generative Models",
+            "tags": [
+                "deeplearning",
+                "generative",
+                "measurable"
+            ],
+            "launched": "11 Oct 2023",
+            "registration-deadline": "12 Jan 2024",
+            "deadline": "12 Jan 2024",
+            "prize": "$40,000",
+            "platform": "Xeek",
+            "sponsor": null
         }
-        
     ]
 }

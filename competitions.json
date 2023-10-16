@@ -1,6 +1,46 @@
 {
     "data": [
         {
+            "name": "FT-Data Ranker: Fine-Tuning-Data Processing for LLMs (1B-Model)",
+            "url": "https://tianchi.aliyun.com/competition/entrance/532157?lang=en-us",
+            "type": "📒 Data",
+            "tags": [
+                "data",
+                "llm",
+                "measurable",
+                "nlp",
+                "supervised"
+            ],
+            "additional_urls": [],
+            "launched": "13 Oct 2023",
+            "deadline": "18 Nov 2023",
+            "prize": "$3,400",
+            "platform": "TIANCHI",
+            "sponsor": "ModelScope",
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "FT-Data Ranker: Fine-Tuning-Data Processing for LLMs (7B-Model)",
+            "url": "https://tianchi.aliyun.com/competition/entrance/532158?lang=en-us",
+            "type": "📒 Data",
+            "tags": [
+                "data",
+                "llm",
+                "measurable",
+                "nlp",
+                "supervised"
+            ],
+            "additional_urls": [],
+            "launched": "13 Oct 2023",
+            "deadline": "18 Nov 2023",
+            "prize": "$3,400",
+            "platform": "TIANCHI",
+            "sponsor": "ModelScope",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Multi-Agent Dynamics & Mixed-Motive Cooperation",
             "url": "https://www.aicrowd.com/challenges/meltingpot-challenge-2023/?ref=mlcontests",
             "type": "🤖 Reinforcement Learning",

@@ -3,21 +3,23 @@
         {
             "name": "NFL Big Data Bowl 2024",
             "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/?ref=mlcontests",
-            "type": "computer vision",
+            "type": "📊 Analysis/Visualisation ",
             "tags": [
-                "unsupervised",
                 "sport",
-                "vision"
+                "vision",
+                "subjective",
+                "analysis"
             ],
             "additional_urls": [],
             "launched": "13 Oct 2023",
             "registration-deadline": "8 Jan 2024",
             "deadline": "8 Jan 2024",
-            "prize": "$1,00,000",
+            "prize": "$100,000",
             "platform": "Kaggle",
             "sponsor": null,
-            "conference": "2024 NFL Scouting Combine",
-            "conference-year": 2024
+            "conference": null,
+            "conference-year": null,
+            "data-size": 1.61
         
         },
         {

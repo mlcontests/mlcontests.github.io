@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "name": "FT-Data Ranker: Fine-Tuning-Data Processing for LLMs (1B-Model)",
-            "url": "https://tianchi.aliyun.com/competition/entrance/532157?lang=en-us",
+            "name": "Fine-Tuning Data Processing for LLMs (1B-Model)",
+            "url": "https://tianchi.aliyun.com/competition/entrance/532157?lang=en-us&ref=mlcontests",
             "type": "📒 Data",
             "tags": [
                 "data",
@@ -15,14 +15,14 @@
             "launched": "13 Oct 2023",
             "deadline": "18 Nov 2023",
             "prize": "$3,400",
-            "platform": "TIANCHI",
+            "platform": "Tianchi",
             "sponsor": "ModelScope",
             "conference": null,
             "conference-year": null
         },
         {
-            "name": "FT-Data Ranker: Fine-Tuning-Data Processing for LLMs (7B-Model)",
-            "url": "https://tianchi.aliyun.com/competition/entrance/532158?lang=en-us",
+            "name": "Fine-Tuning Data Processing for LLMs (7B-Model)",
+            "url": "https://tianchi.aliyun.com/competition/entrance/532158?lang=en-us&ref=mlcontests",
             "type": "📒 Data",
             "tags": [
                 "data",
@@ -35,7 +35,7 @@
             "launched": "13 Oct 2023",
             "deadline": "18 Nov 2023",
             "prize": "$3,400",
-            "platform": "TIANCHI",
+            "platform": "Tianchi",
             "sponsor": "ModelScope",
             "conference": null,
             "conference-year": null

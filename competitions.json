@@ -1,5 +1,24 @@
 {
     "data": [
+         {
+            "name": "Water Supply Forecast Rodeo",
+            "url": "https://www.drivendata.org/competitions/group/reclamation-water-supply-forecast/?ref=mlcontests",
+            "type": "unsupervised",
+            "tags": [
+                "unsupervised",
+                "regression"
+            ],
+            "additional_urls": [],
+            "launched": "17 Oct 2023",
+            "registration-deadline": "15 Dec 2023",
+            "deadline": "15 Dec 2023",
+            "prize": "$5,00,0000",
+            "platform": "DrivenData",
+            "sponsor": "Bureau of Reclamation",
+            "conference": null,
+            "conference-year": null,
+        
+        },
         {
             "name": "Fine-Tuning Data Processing for LLMs (1B-Model)",
             "url": "https://tianchi.aliyun.com/competition/entrance/532157?lang=en-us&ref=mlcontests",

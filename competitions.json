@@ -3,16 +3,19 @@
          {
             "name": "Water Supply Forecast Rodeo",
             "url": "https://www.drivendata.org/competitions/group/reclamation-water-supply-forecast/?ref=mlcontests",
-            "type": "unsupervised",
+            "type": "📈 Time Series Forecasting",
             "tags": [
-                "unsupervised",
-                "regression"
+                "supervised",
+                "regression",
+                "timeseries",
+                "forecasting",
+                "measurable"
             ],
-            "additional_urls": [],
+            "additional_urls": ["https://www.drivendata.org/competitions/254/reclamation-water-supply-forecast-dev/?ref=mlcontests"],
             "launched": "17 Oct 2023",
             "registration-deadline": "15 Dec 2023",
             "deadline": "15 Dec 2023",
-            "prize": "$5,00,0000",
+            "prize": "$500,0000",
             "platform": "DrivenData",
             "sponsor": "Bureau of Reclamation",
             "conference": null,

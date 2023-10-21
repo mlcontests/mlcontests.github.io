@@ -1,6 +1,26 @@
 {
     "data": [
-         {
+        {
+            "name": "Antigranular: Harvard Open DP Hackathon",
+            "url": "https://www.antigranular.com/competitions/6512bb40e5a926ede026c129",
+            "type": "🔗 Private Probabilistic Record Linkage",
+            "tags": [
+                "privacy",
+                "classification",
+                "data"
+            ],
+            "additional_urls": ["https://www.antigranular.com/competitions/6512bb40e5a926ede026c129"],
+            "launched": "1 Oct 2023",
+            "registration-deadline": "30 Dec 2023",
+            "deadline": "30 Dec 2023",
+            "prize": "$5,500",
+            "platform": "Antigranular",
+            "sponsor": "OpenDP",
+            "conference": null,
+            "conference-year": null
+        
+        },
+        {
             "name": "Water Supply Forecast Rodeo",
             "url": "https://www.drivendata.org/competitions/group/reclamation-water-supply-forecast/?ref=mlcontests",
             "type": "📈 Time Series Forecasting",

@@ -1,15 +1,16 @@
 {
     "data": [
         {
-            "name": "Antigranular: Harvard Open DP Hackathon",
+            "name": "Privacy-Preserving Data Sharing for Pandemic Management",
             "url": "https://www.antigranular.com/competitions/6512bb40e5a926ede026c129",
-            "type": "🔗 Private Probabilistic Record Linkage",
+            "type": "🕵 Privacy",
             "tags": [
                 "privacy",
                 "classification",
-                "data"
+                "measurable",
+                "supervised"
             ],
-            "additional_urls": ["https://www.antigranular.com/competitions/6512bb40e5a926ede026c129"],
+            "additional_urls": [],
             "launched": "1 Oct 2023",
             "registration-deadline": "30 Dec 2023",
             "deadline": "30 Dec 2023",

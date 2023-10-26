@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "name": "DEFCON31 Capture the Flag Challenges",
+            "url": "https://www.kaggle.com/competitions/ai-village-capture-the-flag-defcon31?utm_medium=mlcontests&utm_source=mlcontests",
+            "type": "🕵 Security",
+            "tags": [
+                "multiple",
+                "security",
+                "measurable"
+            ],
+            "launched": "6 Oct 2023",
+            "registration-deadline": "9 Nov 2023",
+            "deadline": "9 Nov 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "AI Village",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Privacy-Preserving Data Sharing for Pandemic Management",
             "url": "https://www.antigranular.com/competitions/6512bb40e5a926ede026c129",
             "type": "🕵 Privacy",

@@ -1,8 +1,28 @@
 {
     "data": [
         {
+        "name": "Classify Ovarian Cancer Subtypes from Scans",
+        "url": "https://www.kaggle.com/competitions/UBC-OCEAN?ref=mlcontests",
+        "type": "📷 Computer Vision",
+        "tags": [
+            "classification",
+            "supervised",
+            "measurable",
+            "medical"
+        ],
+        "launched": "6 Oct 2023",
+        "registration-deadline": "27 Nov 2023",
+        "deadline": "3 Jan 2023",
+        "prize": "$50,000",
+        "platform": "Kaggle",
+        "sponsor": "UBC",
+        "conference": null,
+        "conference-year": null,
+        "data-size": 794.01
+        },
+        {
             "name": "DEFCON31 Capture the Flag Challenges",
-            "url": "https://www.kaggle.com/competitions/ai-village-capture-the-flag-defcon31?utm_medium=mlcontests&utm_source=mlcontests",
+            "url": "https://www.kaggle.com/competitions/ai-village-capture-the-flag-defcon31?ref=mlcontests",
             "type": "🕵 Security",
             "tags": [
                 "multiple",

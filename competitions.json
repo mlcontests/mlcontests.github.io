@@ -1,6 +1,27 @@
 {
     "data": [
         {
+            "name": "Detect LLM-Generated Text",
+            "url": "https://www.kaggle.com/competitions/llm-detect-ai-generated-text?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "classification",
+                "supervised",
+                "measurable",
+                "nlp",
+                "generative"
+            ],
+            "launched": "31 Oct 2023",
+            "registration-deadline": "15 Jan 2024",
+            "deadline": "22 Jan 2024",
+            "prize": "$1100,000",
+            "platform": "Kaggle",
+            "sponsor": "Learning Agency Lab",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 0.00443
+        },
+        {
         "name": "Classify Ovarian Cancer Subtypes from Scans",
         "url": "https://www.kaggle.com/competitions/UBC-OCEAN?ref=mlcontests",
         "type": "📷 Computer Vision",
@@ -964,8 +985,8 @@
         },
         {
             "name": "Unlearning in Image Classification",
-            "url": "https://unlearning-challenge.github.io/?ref=mlcontests",
-            "type": "📷 Computer Vision",
+            "url": "https://www.kaggle.com/competitions/neurips-2023-machine-unlearning?ref=mlcontests",
+            "type": "🕵 Privacy",
             "tags": [
                 "vision",
                 "legal",
@@ -973,13 +994,13 @@
                 "measurable",
                 "privacy"
             ],
-            "launched": "14 Jun 2023",
-            "registration-deadline": "30 Sep 2023",
-            "deadline": "30 Sep 2023",
-            "prize": null,
-            "platform": "Codalab",
-            "sponsor": null,
-            "additional_urls": ["https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html"],
+            "launched": "11 Sep 2023",
+            "registration-deadline": "20 Nov 2023",
+            "deadline": "27 Nov 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Google",
+            "additional_urls": ["https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html", "https://unlearning-challenge.github.io/?ref=mlcontests"],
             "conference": "NeurIPS",
             "conference-year": 2023
         },

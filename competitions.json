@@ -7459,6 +7459,23 @@
             "prize": "$40,000",
             "platform": "Xeek",
             "sponsor": null
+        },
+        {
+            "name": "CGIAR Crop Damage Classification Challenge",
+            "url": "https://zindi.africa/competitions/cgiar-crop-damage-classification-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "classification",
+                "deeplearning",
+                "vision"
+                ],
+            "launched": "27 Oct 2023",
+            "registration-deadline": "28 Jan 2024",
+            "deadline": "28 Jan 2024",
+            "prize": "$10,000",
+            "platform": "Zindi",
+            "sponsor": "IFPRI, ACRE Africa, KALRO, CGIAR"
         }
     ]
 }

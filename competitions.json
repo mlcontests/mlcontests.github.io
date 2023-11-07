@@ -7478,18 +7478,19 @@
             "sponsor": "IFPRI, ACRE Africa, KALRO, CGIAR"
         },
         {
-            "name": "Every Layer, Everywhere, All at Once: Segmenting Subsurface Data",
+            "name": "Subsurface Seismic Volume Segmentation",
             "url": "https://xeek.ai/challenges/every-layer?ref=mlc",
             "type": "📷 Computer Vision",
             "tags": [
                 "vision",
                 "segmentation",
                 "deeplearning",
-                "supervised"
+                "supervised",
+                "measurable"
             ],
-            "launched": "07 Nov 2023",
-            "registration-deadline": "08 Feb 2024",
-            "deadline": "08 Feb 2024",
+            "launched": "7 Nov 2023",
+            "registration-deadline": "8 Feb 2024",
+            "deadline": "8 Feb 2024",
             "prize": "$50,000",
             "platform": "Xeek",
             "sponsor": null

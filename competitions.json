@@ -7476,6 +7476,24 @@
             "prize": "$10,000",
             "platform": "Zindi",
             "sponsor": "IFPRI, ACRE Africa, KALRO, CGIAR"
+        },
+        {
+            "name": "Subsurface Seismic Volume Segmentation",
+            "url": "https://xeek.ai/challenges/every-layer?ref=mlc",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "segmentation",
+                "deeplearning",
+                "supervised",
+                "measurable"
+            ],
+            "launched": "7 Nov 2023",
+            "registration-deadline": "8 Feb 2024",
+            "deadline": "8 Feb 2024",
+            "prize": "$50,000",
+            "platform": "Xeek",
+            "sponsor": null
         }
     ]
 }

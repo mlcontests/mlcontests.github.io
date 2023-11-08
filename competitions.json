@@ -1,6 +1,27 @@
 {
     "data": [
         {
+            "name": "Predict Domestic Energy Use in Estonia",
+            "url": "https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers?ref=mlcontests",
+            "type": "📈 Time Series Forecasting",
+            "tags": [
+                "supervised",
+                "regression",
+                "timeseries",
+                "forecasting",
+                "measurable"
+            ],
+            "launched": "1 Nov 2023",
+            "registration-deadline": "24 Jan 2024",
+            "deadline": "31 Jan 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Enefit",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 1.15
+        },
+        {
             "name": "Detect LLM-Generated Text",
             "url": "https://www.kaggle.com/competitions/llm-detect-ai-generated-text?ref=mlcontests",
             "type": "🔤 NLP",
@@ -14,7 +35,7 @@
             "launched": "31 Oct 2023",
             "registration-deadline": "15 Jan 2024",
             "deadline": "22 Jan 2024",
-            "prize": "$1100,000",
+            "prize": "$110,000",
             "platform": "Kaggle",
             "sponsor": "Learning Agency Lab",
             "conference": null,

@@ -1,6 +1,46 @@
 {
     "data": [
         {
+            "name": "CPDC: Generate Commonsense Dialogue",
+            "url": "https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023/problems/task-1-commonsense-dialogue-response-generation?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "supervised",
+                "nlp",
+                "generative",
+                "measurable"
+            ],
+            "launched": "3 Nov 2023",
+            "registration-deadline": "1 Dec 2023",
+            "deadline": "1 Mar 2024",
+            "prize": "$25,000",
+            "platform": "AIcrowd",
+            "sponsor": "Sony, EPFL",
+            "conference": null,
+            "conference-year": null,
+            "data-size": null
+        },
+        {
+            "name": "CPDC: Link Knowledge to a Dialogue",
+            "url": "https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023/problems/task-2-commonsense-persona-knowledge-linking?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "nlp",
+                "generative",
+                "measurable",
+                "supervised"
+            ],
+            "launched": "3 Nov 2023",
+            "registration-deadline": "1 Dec 2023",
+            "deadline": "1 Mar 2024",
+            "prize": "$10,000",
+            "platform": "AIcrowd",
+            "sponsor": "Sony, EPFL",
+            "conference": null,
+            "conference-year": null,
+            "data-size": null
+        },
+        {
             "name": "Segment Vasculature in Kidney Scans",
             "url": "https://www.kaggle.com/competitions/blood-vessel-segmentation?ref=mlcontests",
             "type": "📷 Computer Vision",

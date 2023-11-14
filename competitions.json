@@ -1,6 +1,27 @@
 {
     "data": [
         {
+            "name": "Segment Vasculature in Kidney Scans",
+            "url": "https://www.kaggle.com/competitions/blood-vessel-segmentation?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "supervised",
+                "segmentation",
+                "vision",
+                "medical",
+                "measurable"
+            ],
+            "launched": "7 Nov 2023",
+            "registration-deadline": "30 Jan 2024",
+            "deadline": "6 Feb 2024",
+            "prize": "$80,000",
+            "platform": "Kaggle",
+            "sponsor": "SenNet, HOA",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 43.52
+        },
+        {
             "name": "Predict Domestic Energy Use in Estonia",
             "url": "https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers?ref=mlcontests",
             "type": "📈 Time Series Forecasting",

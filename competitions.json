@@ -1,7 +1,7 @@
 {
     "data": [
        {
-            "name": "LLM Capture-The-Flag @ SaTML 2024, Defense Phase",
+            "name": "LLM Capture-The-Flag, Defense Phase",
             "url": "https://ctf.spylab.ai",
             "type": "🛡️ Security",
             "tags": [
@@ -11,8 +11,8 @@
             ],
             "launched": "16 Nov 2023",
             "deadline": "15 Jan 2024",
-            "prize": "Travel grants to present at SaTML 2024",
-            "platform": "Custom",
+            "prize": "$0",
+            "platform": "Independent",
             "sponsor": "CISPA, European Lighthouse on Secure and Safe AI",
             "conference": "IEEE SaTML",
             "conference-year": 2024,
@@ -22,7 +22,7 @@
             ]
         },       
         {
-            "name": "LLM Capture-The-Flag @ SaTML 2024, Attack Phase",
+            "name": "LLM Capture-The-Flag, Attack Phase",
             "url": "https://ctf.spylab.ai",
             "type": "🛡️ Security",
             "tags": [
@@ -32,8 +32,8 @@
             ],
             "launched": "16 Nov 2023",
             "deadline": "29 Feb 2024",
-            "prize": "Travel grants to present at SaTML 2024",
-            "platform": "Custom",
+            "prize": "$0",
+            "platform": "Independent",
             "sponsor": "CISPA, European Lighthouse on Secure and Safe AI",
             "conference": "IEEE SaTML",
             "conference-year": 2024,

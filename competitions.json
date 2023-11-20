@@ -1,5 +1,47 @@
 {
     "data": [
+       {
+            "name": "LLM Capture-The-Flag, Defense Phase",
+            "url": "https://ctf.spylab.ai",
+            "type": "🛡️ Security",
+            "tags": [
+                "security",
+                "nlp",
+                "llm"
+            ],
+            "launched": "16 Nov 2023",
+            "deadline": "15 Jan 2024",
+            "prize": "$0",
+            "platform": "Independent",
+            "sponsor": "CISPA, European Lighthouse on Secure and Safe AI",
+            "conference": "IEEE SaTML",
+            "conference-year": 2024,
+            "additional_urls": [
+                "https://ctf.spylab.ai/static/rules.pdf",
+                "https://satml.org/participate-competitions/"
+            ]
+        },       
+        {
+            "name": "LLM Capture-The-Flag, Attack Phase",
+            "url": "https://ctf.spylab.ai",
+            "type": "🛡️ Security",
+            "tags": [
+                "security",
+                "nlp",
+                "llm"
+            ],
+            "launched": "16 Nov 2023",
+            "deadline": "29 Feb 2024",
+            "prize": "$0",
+            "platform": "Independent",
+            "sponsor": "CISPA, European Lighthouse on Secure and Safe AI",
+            "conference": "IEEE SaTML",
+            "conference-year": 2024,
+            "additional_urls": [
+                "https://ctf.spylab.ai/static/rules.pdf",
+                "https://satml.org/participate-competitions/"
+            ]
+        },
         {
             "name": "CPDC: Generate Commonsense Dialogue",
             "url": "https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023/problems/task-1-commonsense-dialogue-response-generation?ref=mlcontests",

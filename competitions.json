@@ -7618,6 +7618,25 @@
             "prize": "$50,000",
             "platform": "Xeek",
             "sponsor": null
+        },
+        {
+            "name": "Create mineral exploration targets",
+            "url": "https://app.humyn.ai/challenges/0e2020a4-8b6e-449a-bfc7-15297cf56936?ref=mlcontests",
+            "type": "📊 Analysis/Visualisation",
+            "tags": [
+                "analysis",
+                "geo",
+                "3d"
+            ],
+            "additional_urls": [],
+            "launched": "22 Nov 2023",
+            "registration-deadline": "8 Jan 2024",
+            "deadline": "8 Jan 2024",
+            "prize": "$250,000",
+            "platform": "Humyn.ai",
+            "sponsor": "Dundee Precious Metals",
+            "conference": null,
+            "conference-year": null
         }
     ]
 }

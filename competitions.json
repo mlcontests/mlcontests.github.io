@@ -7586,7 +7586,7 @@
         },
         {
             "name": "Maximise Diversity in of Generative Neural Networks",
-            "url": "https://xeek.ai/challenges/two-birds?ref=mlc",
+            "url": "https://thinkonward.com/app/c/challenges/two-birds?ref=mlc",
             "type": "💭 Generative Models",
             "tags": [
                 "deeplearning",
@@ -7597,7 +7597,7 @@
             "registration-deadline": "12 Jan 2024",
             "deadline": "12 Jan 2024",
             "prize": "$40,000",
-            "platform": "Xeek",
+            "platform": "Think Onward",
             "sponsor": null
         },
         {
@@ -7619,7 +7619,7 @@
         },
         {
             "name": "Subsurface Seismic Volume Segmentation",
-            "url": "https://xeek.ai/challenges/every-layer?ref=mlc",
+            "url": "https://thinkonward.com/app/c/challenges/every-layer?ref=mlc",
             "type": "📷 Computer Vision",
             "tags": [
                 "vision",
@@ -7632,7 +7632,7 @@
             "registration-deadline": "8 Feb 2024",
             "deadline": "8 Feb 2024",
             "prize": "$50,000",
-            "platform": "Xeek",
+            "platform": "Think Onward",
             "sponsor": null
         },
         {
@@ -7653,6 +7653,39 @@
             "sponsor": "Dundee Precious Metals",
             "conference": null,
             "conference-year": null
+        },
+        {
+            "name": "Patch the Planet: Restore Missing Data",
+            "url": "https://thinkonward.com/app/c/challenges/patch-the-planet?ref=mlc",
+            "type": "💭 Generative Models",
+            "tags": [
+                "vision",
+                "deeplearning",
+                "supervised",
+                "generative"
+            ],
+            "launched": "13 Dec 2023",
+            "registration-deadline": "15 Mar 2024",
+            "deadline": "15 Mar 2024",
+            "prize": "$50,000",
+            "platform": "Think Onward",
+            "sponsor": null
+        },
+        {
+            "name": "Parallel Perspectives: Restoring an Image from 1D Data",
+            "url": "https://thinkonward.com/app/c/challenges/parallel-perspectives?ref=mlc",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "deeplearning",
+                "supervised"
+            ],
+            "launched": "13 Dec 2023",
+            "registration-deadline": "15 Mar 2024",
+            "deadline": "15 Mar 2024",
+            "prize": "$30,000",
+            "platform": "Think Onward",
+            "sponsor": null
         }
     ]
 }

@@ -3,7 +3,7 @@
         {
             "name": "Kelp Wanted: Segmenting Kelp Forests",
             "url": "https://www.drivendata.org/competitions/255/kelp-forest-segmentation/?ref=mlcontests",
-            "type": "computer vision",
+            "type": "📷 Computer Vision",
             "tags": [
                 "vision",
                 "regression"

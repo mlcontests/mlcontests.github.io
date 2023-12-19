@@ -7686,6 +7686,57 @@
             "prize": "$20,000",
             "platform": "Think Onward",
             "sponsor": null
+        },
+        {
+            "name": "Unbreak my Seismic: A Geophysical Jigsaw Problem",
+            "url": "https://thinkonward.com/app/c/challenges/unbreak-my-seismic?ref=mlc",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "search",
+                "deeplearning",
+                "supervised"
+            ],
+            "launched": "20 Dec 2023",
+            "registration-deadline": "22 Mar 2024",
+            "deadline": "22 Mar 2024",
+            "prize": "$20,000",
+            "platform": "Think Onward",
+            "sponsor": null
+        },
+        {
+            "name": "Reflection Connection: Bringing New Algorithms to Old Data",
+            "url": "https://thinkonward.com/app/c/challenges/reflection-connection?ref=mlc",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "deeplearning",
+                "supervised",
+                "safety"
+            ],
+            "launched": "20 Dec 2023",
+            "registration-deadline": "22 Mar 2024",
+            "deadline": "22 Mar 2024",
+            "prize": "$30,000",
+            "platform": "Think Onward",
+            "sponsor": null
+        },
+        {
+            "name": "The Energy-Efficient Ghosts of Holiday Past",
+            "url": "https://thinkonward.com/app/c/challenges/ghosts-of-holidays-past?ref=mlc",
+            "type": "📈 Time Series Forecasting",
+            "tags": [
+                "tabular",
+                "timeseries",
+                "analysis",
+                "open",
+                "energy"
+            ],
+            "launched": "20 Dec 2023",
+            "registration-deadline": "16 Feb 2024",
+            "deadline": "16 Feb 2024",
+            "prize": "$30,000",
+            "platform": "Think Onward",
+            "sponsor": null
         }
     ]
 }

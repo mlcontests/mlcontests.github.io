@@ -1,6 +1,44 @@
 {
     "data": [
         {
+            "name": "Battlecode 2024",
+            "url": "https://battlecode.org/?ref=mlcontests",
+            "type": "🤖 Reinforcement Learning",
+            "tags": [
+                "rl",
+                "game",
+                "pvp",
+                "measurable"
+            ],
+            "launched": "8 Jan 2024",
+            "registration-deadline": "27 Jan 2023",
+            "deadline": "3 Feb 2023",
+            "prize": "$15,000",
+            "platform": "MIT",
+            "sponsor": "HRT, Jane Street, Spark, Others",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Santa 2023 - Polytope Permutation Puzzle",
+            "url": "https://www.kaggle.com/competitions/santa-2023?ref=mlcontests",
+            "type": "📉 Optimisation",
+            "tags": [
+                "optimisation",
+                "measurable"
+            ],
+            "launched": "18 Dec 2023",
+            "registration-deadline": "24 Jan 2023",
+            "deadline": "31 Jan 2023",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Kaggle",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Kelp Wanted: Segmenting Kelp Forests",
             "url": "https://www.drivendata.org/competitions/255/kelp-forest-segmentation/?ref=mlcontests",
             "type": "📷 Computer Vision",

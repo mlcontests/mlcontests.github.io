@@ -1,6 +1,26 @@
 {
     "data": [
         {
+            "name": "BetterMixture: Fine-Tuning Data Mixing for LLMs",
+            "url": "https://tianchi.aliyun.com/competition/entrance/532174?ref=mlcontests",
+            "type": "📒 Data",
+            "tags": [
+                "data",
+                "llm",
+                "measurable",
+                "nlp",
+                "supervised"
+            ],
+            "additional_urls": [],
+            "launched": "10 Jan 2024",
+            "deadline": "19 Mar 2024",
+            "prize": "$4,200",
+            "platform": "Tianchi",
+            "sponsor": "ModelScope",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Battlecode 2024",
             "url": "https://battlecode.org/?ref=mlcontests",
             "type": "🤖 Reinforcement Learning",

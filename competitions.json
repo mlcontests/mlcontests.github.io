@@ -1,6 +1,25 @@
 {
     "data": [
         {
+            "name": "Tabular Data Exploration",
+            "url": "https://www.datacamp.com/competitions/everyone-can-learn-data-scholarship-2023?ref=mlcontests",
+            "type": "📊 Analysis/Visualisation ",
+            "tags": [
+                "data",
+                "analysis",
+                "subjective",
+                "multiple"
+            ],
+            "additional_urls": [],
+            "launched": "15 Jan 2024",
+            "deadline": "28 Jun 2024",
+            "prize": "$9,000",
+            "platform": "DataCamp",
+            "sponsor": "DataCamp",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "BetterMixture: Fine-Tuning Data Mixing for LLMs",
             "url": "https://tianchi.aliyun.com/competition/entrance/532174?ref=mlcontests",
             "type": "📒 Data",

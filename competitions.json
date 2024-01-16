@@ -1,13 +1,13 @@
 {
     "data": [
         {
-            "name": "Everyone Can Learn Data Scholarship",
-            "url": "https://www.datacamp.com/competitions/everyone-can-learn-data-scholarship-2023",
-            "type": "📒 Data",
+            "name": "Tabular Data Exploration",
+            "url": "https://www.datacamp.com/competitions/everyone-can-learn-data-scholarship-2023?ref=mlcontests",
+            "type": "📊 Analysis/Visualisation ",
             "tags": [
                 "data",
                 "analysis",
-                "science",
+                "subjective",
                 "multiple"
             ],
             "additional_urls": [],

@@ -7839,16 +7839,17 @@
             "sponsor": null
         },
         {
-            "name": "Unifi Value Frameworks PDF Lifting Competition",
+            "name": "Extract ESG Metris from PDFs",
             "url": "https://zindi.africa/competitions/unifi-value-frameworks-pdf-lifting-competition?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
             "type": "✅ Supervised Learning",
             "tags": [
                 "generative",
-                "deeplearning"
+                "deeplearning",
+                "NLP"
                 ],
             "launched": "21 Dec 2023",
-            "registration-deadline": "18 March 2024",
-            "deadline": "18 March 2024",
+            "registration-deadline": "18 Mar 2024",
+            "deadline": "18 Mar 2024",
             "prize": "$5,000",
             "platform": "Zindi",
             "sponsor":  "UNIFI"

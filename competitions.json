@@ -7837,6 +7837,21 @@
             "prize": "$30,000",
             "platform": "Think Onward",
             "sponsor": null
+        },
+        {
+            "name": "Unifi Value Frameworks PDF Lifting Competition",
+            "url": "https://zindi.africa/competitions/unifi-value-frameworks-pdf-lifting-competition?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "generative",
+                "deeplearning"
+                ],
+            "launched": "21 Dec 2023",
+            "registration-deadline": "18 March 2024",
+            "deadline": "18 March 2024",
+            "prize": "$5,000",
+            "platform": "Zindi",
+            "sponsor":  "UNIFI"
         }
     ]
 }

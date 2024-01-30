@@ -7859,6 +7859,23 @@
             "prize": "$30,000",
             "platform": "Think Onward",
             "sponsor": null
+        },
+        {
+            "name": "Malawi Public Health Systems LLM Challenge",
+            "url": "https://zindi.africa/competitions/malawi-public-health-systems-llm-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "generative",
+                "deeplearning",
+                "nlp"
+                ],
+            "launched": "24 Jan 2024",
+            "registration-deadline": "4 Mar 2024",
+            "deadline": "4 Mar 2024",
+            "prize": "$2,000",
+            "platform": "Zindi",
+            "sponsor": "Kuyesera AI Lab"
         }
     ]
 }

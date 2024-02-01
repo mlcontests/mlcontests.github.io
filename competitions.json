@@ -7876,6 +7876,24 @@
             "prize": "$2,000",
             "platform": "Zindi",
             "sponsor": "Kuyesera AI Lab"
+        },
+        {
+            "name": "Finding Mining Sites",
+            "url": "https://solafune.com/competitions/58406cd6-c3bb-4f7a-85c7-c5a1ad67ca03?menu=about&tab=overview&utm_source=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "classification",
+                "vision",
+                "analysis",
+                "geo",
+                "open",
+                "satellite"
+            ],
+            "launched": "25 Dec 2023",
+            "deadline": "22 Apr 2024",
+            "prize": "$12,000",
+            "platform": "Solafune",
+            "sponsor": null
         }
     ]
 }

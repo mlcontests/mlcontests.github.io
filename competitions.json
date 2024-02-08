@@ -614,22 +614,22 @@
             "conference-year": null
         },
         {
-            "name": "AI Cyber Challenge",
-            "url": "https://aicyberchallenge.com/?ref=mlcontests",
+            "name": "AI Cyber Challenge: Semifinal",
+            "url": "https://aicyberchallenge.com/opentrack?ref=mlcontests",
             "type": "🕵 Security",
             "tags": [
                 "security",
                 "subjective"
             ],
             "additional_urls": [],
-            "launched": "9 Aug 2023",
-            "registration-deadline": "30 Sep 2023",
-            "deadline": "31 Oct 2025",
-            "prize": "$18,500,000",
+            "launched": "13 Dec 2023",
+            "registration-deadline": "30 Apr 2023",
+            "deadline": "30 Apr 2024",
+            "prize": "$14,000,000",
             "platform": "Independent",
             "sponsor": "DARPA",
             "conference": "DEF CON",
-            "conference-year": 2025
+            "conference-year": 2024
         },
         {
             "name": "Predict Building Loads (CityLearn)",

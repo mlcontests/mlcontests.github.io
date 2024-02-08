@@ -7895,5 +7895,20 @@
             "platform": "Solafune",
             "sponsor": null
         }
+        {
+            "name": "Generative Interior Design Challenge",
+            "url": "https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "generative",
+                "vision",
+                "subjective"
+            ],
+            "launched": "30 Jan 2024",
+            "deadline": "1 Apr 2024",
+            "prize": "$15,000",
+            "platform": "AIcrowd",
+            "sponsor": "MCS"
+        }
     ]
 }

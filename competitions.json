@@ -1487,6 +1487,21 @@
             "sponsor": "ADIA Lab"
         },
         {
+            "name": "Predict the level of hygiene of food production",
+            "url": "https://www.trustii.io/post/data-challenge-predict-the-level-of-hygiene-of-food-production?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": ["supervised", "open", "tabular", "classification"],
+            "launched": "16 Feb 2024",
+            "deadline": "31 Mar 2024",
+            "prize": "$1,500",
+            "platform": "Trustii.io",
+            "sponsor": "Trustii.io",
+            "additional_urls": ["https://app.trustii.io", "https://www.data.gouv.fr/en/datasets/resultats-des-controles-officiels-sanitaires-dispositif-dinformation-alimconfiance/?reuses_page=1#community-reuses"],
+            "conference": null,
+            "conference-year": null
+        },
+
+        {
             "name": "Ariel Data Challenge 2023: Predicting Key Properties of Exoplanets",
             "url": "https://www.ariel-datachallenge.space/",
             "type": "✅ Supervised Learning",

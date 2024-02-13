@@ -1,6 +1,49 @@
 {
     "data": [
         {
+            "name": "Detect Personal Data",
+            "url": "https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "supervised",
+                "detection",
+                "nlp",
+                "measurable",
+                "education"
+            ],
+            "additional_urls": [],
+            "launched": "17 Jan 2024",
+            "registration-deadline": "16 Apr 2024",
+            "deadline": "23 Apr 2024",
+            "prize": "$60,000",
+            "platform": "Kaggle",
+            "sponsor": "The Learning Agency Lab",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 0.10965
+        },
+        {
+            "name": "Credit Risk Model Stability",
+            "url": "https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "classification",
+                "finance",
+                "measurable"
+            ],
+            "additional_urls": [],
+            "launched": "5 Feb 2024",
+            "registration-deadline": "29 Apr 2024",
+            "deadline": "6 May 2024",
+            "prize": "$105,000",
+            "platform": "Kaggle",
+            "sponsor": "Home Credit Group",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 26.76
+        },
+        {
             "name": "Optimise LLM Inference on ARM CPUs",
             "url": "https://aicas2024.org/grand-challenge?ref=mlcontests",
             "type": "⚡ Systems/Efficiency",

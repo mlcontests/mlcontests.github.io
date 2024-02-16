@@ -12,15 +12,178 @@
             "launched": "8 Dec 2023",
             "deadline": "8 Jan 2024",
             "prize": "$10,000",
-            "platform": "CrunchDAO.com",
+            "platform": "CrunchDAO",
             "sponsor": "X-ALPHA",
+            },
+            {
+            "name": "Detect Personal Data",
+            "url": "https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "supervised",
+                "detection",
+                "nlp",
+                "measurable",
+                "education"
+            ],
+            "additional_urls": [],
+            "launched": "17 Jan 2024",
+            "registration-deadline": "16 Apr 2024",
+            "deadline": "23 Apr 2024",
+            "prize": "$60,000",
+            "platform": "Kaggle",
+            "sponsor": "The Learning Agency Lab",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 0.10965
+        },
+        {
+            "name": "Credit Risk Model Stability",
+            "url": "https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "classification",
+                "finance",
+                "measurable"
+            ],
+            "additional_urls": [],
+            "launched": "5 Feb 2024",
+            "registration-deadline": "29 Apr 2024",
+            "deadline": "6 May 2024",
+            "prize": "$105,000",
+            "platform": "Kaggle",
+            "sponsor": "Home Credit Group",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 26.76
+        },
+        {
+            "name": "Optimise LLM Inference on ARM CPUs",
+            "url": "https://aicas2024.org/grand-challenge?ref=mlcontests",
+            "type": "⚡ Systems/Efficiency",
+            "tags": [
+                "measurable",
+                "performance",
+                "systems",
+                "nlp",
+                "llm"
+            ],
+            "additional_urls": ["https://tianchi.aliyun.com/competition/entrance/532170"],
+            "launched": "4 Jan 2024",
+            "registration-deadline": "24 Feb 2024",
+            "deadline": "24 Feb 2024",
+            "prize": "$15,000",
+            "platform": "Tianchi",
+            "sponsor": "Alibaba, ARM China",
+            "conference": "AICAS",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
+            "name": "Harmful Brain Activity Classification",
+            "url": "https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification?ref=mlcontests",
+            "type": "📈 Time Series Classification",
+            "tags": [
+                "supervised",
+                "classification",
+                "measurable",
+                "science",
+                "medical",
+                "timeseries"
+            ],
+            "additional_urls": [],
+            "launched": "8 Jan 2024",
+            "registration-deadline": "1 Apr 2024",
+            "deadline": "8 Apr 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Harvard Medical School",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 26.4
+        },
+        {
+            "name": "Tabular Data Exploration: Dinosaurs and Movies",
+            "url": "https://www.datacamp.com/competitions/everyone-can-learn-data-scholarship-2023?ref=mlcontests",
+            "type": "📊 Analysis/Visualisation ",
+            "tags": [
+                "data",
+                "analysis",
+                "subjective",
+                "multiple"
+            ],
+            "additional_urls": [],
+            "launched": "15 Jan 2024",
+            "deadline": "28 Jun 2024",
+            "prize": "$9,000",
+            "platform": "DataCamp",
+            "sponsor": "DataCamp",
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "BetterMixture: Fine-Tuning Data Mixing for LLMs",
+            "url": "https://tianchi.aliyun.com/competition/entrance/532174?ref=mlcontests",
+            "type": "📒 Data",
+            "tags": [
+                "data",
+                "llm",
+                "measurable",
+                "nlp",
+                "supervised"
+            ],
+            "additional_urls": [],
+            "launched": "10 Jan 2024",
+            "deadline": "19 Mar 2024",
+            "prize": "$4,200",
+            "platform": "Tianchi",
+            "sponsor": "ModelScope",
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Battlecode 2024",
+            "url": "https://battlecode.org/?ref=mlcontests",
+            "type": "🤖 Reinforcement Learning",
+            "tags": [
+                "rl",
+                "game",
+                "pvp",
+                "measurable"
+            ],
+            "launched": "8 Jan 2024",
+            "registration-deadline": "27 Jan 2024",
+            "deadline": "3 Feb 2024",
+            "prize": "$15,000",
+            "platform": "MIT",
+            "sponsor": "HRT, Jane Street, Spark, Others",
+            "additional_urls": [],
+            "conference": null,
+            "conference-year": null
+        },
+        {
+            "name": "Santa 2023 - Polytope Permutation Puzzle",
+            "url": "https://www.kaggle.com/competitions/santa-2023?ref=mlcontests",
+            "type": "📉 Optimisation",
+            "tags": [
+                "optimisation",
+                "measurable"
+            ],
+            "launched": "18 Dec 2023",
+            "registration-deadline": "24 Jan 2024",
+            "deadline": "31 Jan 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Kaggle",
+            "additional_urls": [],
             "conference": null,
             "conference-year": null
         },
         {
             "name": "Kelp Wanted: Segmenting Kelp Forests",
             "url": "https://www.drivendata.org/competitions/255/kelp-forest-segmentation/?ref=mlcontests",
-            "type": "computer vision",
+            "type": "📷 Computer Vision",
             "tags": [
                 "vision",
                 "regression"
@@ -44,7 +207,7 @@
             ],
             "launched": "16 Nov 2023",
             "deadline": "15 Jan 2024",
-            "prize": "$1,750",
+            "prize": "$3,500",
             "platform": "Independent",
             "sponsor": "CISPA, European Lighthouse on Secure and Safe AI",
             "conference": "IEEE SaTML",
@@ -65,7 +228,7 @@
             ],
             "launched": "16 Nov 2023",
             "deadline": "29 Feb 2024",
-            "prize": "$1,750",
+            "prize": "$3,500",
             "platform": "Independent",
             "sponsor": "CISPA, European Lighthouse on Secure and Safe AI",
             "conference": "IEEE SaTML",
@@ -509,22 +672,22 @@
             "conference-year": null
         },
         {
-            "name": "AI Cyber Challenge",
-            "url": "https://aicyberchallenge.com/?ref=mlcontests",
+            "name": "AI Cyber Challenge: Semifinal",
+            "url": "https://aicyberchallenge.com/opentrack?ref=mlcontests",
             "type": "🕵 Security",
             "tags": [
                 "security",
                 "subjective"
             ],
             "additional_urls": [],
-            "launched": "9 Aug 2023",
-            "registration-deadline": "30 Sep 2023",
-            "deadline": "31 Oct 2025",
-            "prize": "$18,500,000",
+            "launched": "13 Dec 2023",
+            "registration-deadline": "30 Apr 2023",
+            "deadline": "30 Apr 2024",
+            "prize": "$14,000,000",
             "platform": "Independent",
             "sponsor": "DARPA",
             "conference": "DEF CON",
-            "conference-year": 2025
+            "conference-year": 2024
         },
         {
             "name": "Predict Building Loads (CityLearn)",
@@ -1381,6 +1544,21 @@
             "platform": "CrunchDAO",
             "sponsor": "ADIA Lab"
         },
+        {
+            "name": "Predict the level of hygiene of food production",
+            "url": "https://www.trustii.io/post/data-challenge-predict-the-level-of-hygiene-of-food-production?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": ["supervised", "open", "tabular", "classification"],
+            "launched": "16 Feb 2024",
+            "deadline": "31 Mar 2024",
+            "prize": "$1,500",
+            "platform": "Trustii.io",
+            "sponsor": "Trustii.io",
+            "additional_urls": ["https://app.trustii.io", "https://www.data.gouv.fr/en/datasets/resultats-des-controles-officiels-sanitaires-dispositif-dinformation-alimconfiance/?reuses_page=1#community-reuses"],
+            "conference": null,
+            "conference-year": null
+        },
+
         {
             "name": "Ariel Data Challenge 2023: Predicting Key Properties of Exoplanets",
             "url": "https://www.ariel-datachallenge.space/",
@@ -7603,7 +7781,7 @@
         },
         {
             "name": "Maximise Diversity in of Generative Neural Networks",
-            "url": "https://xeek.ai/challenges/two-birds?ref=mlc",
+            "url": "https://thinkonward.com/app/c/challenges/two-birds?ref=mlc",
             "type": "💭 Generative Models",
             "tags": [
                 "deeplearning",
@@ -7614,7 +7792,7 @@
             "registration-deadline": "12 Jan 2024",
             "deadline": "12 Jan 2024",
             "prize": "$40,000",
-            "platform": "Xeek",
+            "platform": "Think Onward",
             "sponsor": null
         },
         {
@@ -7636,7 +7814,7 @@
         },
         {
             "name": "Subsurface Seismic Volume Segmentation",
-            "url": "https://xeek.ai/challenges/every-layer?ref=mlc",
+            "url": "https://thinkonward.com/app/c/challenges/every-layer?ref=mlc",
             "type": "📷 Computer Vision",
             "tags": [
                 "vision",
@@ -7649,7 +7827,7 @@
             "registration-deadline": "8 Feb 2024",
             "deadline": "8 Feb 2024",
             "prize": "$50,000",
-            "platform": "Xeek",
+            "platform": "Think Onward",
             "sponsor": null
         },
         {
@@ -7670,6 +7848,140 @@
             "sponsor": "Dundee Precious Metals",
             "conference": null,
             "conference-year": null
+        },
+        {
+            "name": "Patch the Planet: Restore Missing Data",
+            "url": "https://thinkonward.com/app/c/challenges/patch-the-planet?ref=mlc",
+            "type": "💭 Generative Models",
+            "tags": [
+                "vision",
+                "deeplearning",
+                "supervised",
+                "generative"
+            ],
+            "launched": "13 Dec 2023",
+            "registration-deadline": "15 Mar 2024",
+            "deadline": "15 Mar 2024",
+            "prize": "$50,000",
+            "platform": "Think Onward",
+            "sponsor": null
+        },
+        {
+            "name": "Parallel Perspectives: Restoring an Image from 1D Data",
+            "url": "https://thinkonward.com/app/c/challenges/parallel-perspectives?ref=mlc",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "deeplearning",
+                "supervised"
+            ],
+            "launched": "13 Dec 2023",
+            "registration-deadline": "15 Mar 2024",
+            "deadline": "15 Mar 2024",
+            "prize": "$20,000",
+            "platform": "Think Onward",
+            "sponsor": null
+        },
+        {
+            "name": "Unbreak my Seismic: A Geophysical Jigsaw Problem",
+            "url": "https://thinkonward.com/app/c/challenges/unbreak-my-seismic?ref=mlc",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "search",
+                "deeplearning",
+                "supervised"
+            ],
+            "launched": "20 Dec 2023",
+            "registration-deadline": "22 Mar 2024",
+            "deadline": "22 Mar 2024",
+            "prize": "$20,000",
+            "platform": "Think Onward",
+            "sponsor": null
+        },
+        {
+            "name": "Reflection Connection: Bringing New Algorithms to Old Data",
+            "url": "https://thinkonward.com/app/c/challenges/reflection-connection?ref=mlc",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "deeplearning",
+                "supervised",
+                "safety"
+            ],
+            "launched": "20 Dec 2023",
+            "registration-deadline": "22 Mar 2024",
+            "deadline": "22 Mar 2024",
+            "prize": "$30,000",
+            "platform": "Think Onward",
+            "sponsor": null
+        },
+        {
+            "name": "The Energy-Efficient Ghosts of Holiday Past",
+            "url": "https://thinkonward.com/app/c/challenges/ghosts-of-holidays-past?ref=mlc",
+            "type": "📈 Time Series Forecasting",
+            "tags": [
+                "tabular",
+                "timeseries",
+                "analysis",
+                "open",
+                "energy"
+            ],
+            "launched": "20 Dec 2023",
+            "registration-deadline": "16 Feb 2024",
+            "deadline": "16 Feb 2024",
+            "prize": "$30,000",
+            "platform": "Think Onward",
+            "sponsor": null
+        },
+        {
+            "name": "Malawi Public Health Systems LLM Challenge",
+            "url": "https://zindi.africa/competitions/malawi-public-health-systems-llm-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "generative",
+                "deeplearning",
+                "nlp"
+                ],
+            "launched": "24 Jan 2024",
+            "registration-deadline": "4 Mar 2024",
+            "deadline": "4 Mar 2024",
+            "prize": "$2,000",
+            "platform": "Zindi",
+            "sponsor": "Kuyesera AI Lab"
+        },
+        {
+            "name": "Finding Mining Sites",
+            "url": "https://solafune.com/competitions/58406cd6-c3bb-4f7a-85c7-c5a1ad67ca03?menu=about&tab=overview&utm_source=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "classification",
+                "vision",
+                "analysis",
+                "geo",
+                "open",
+                "satellite"
+            ],
+            "launched": "25 Dec 2023",
+            "deadline": "22 Apr 2024",
+            "prize": "$12,000",
+            "platform": "Solafune",
+            "sponsor": null
+        },
+        {
+            "name": "Generative Interior Design Challenge",
+            "url": "https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "generative",
+                "vision",
+                "subjective"
+            ],
+            "launched": "30 Jan 2024",
+            "deadline": "1 Apr 2024",
+            "prize": "$15,000",
+            "platform": "AIcrowd",
+            "sponsor": "MCS"
         }
     ]
 }

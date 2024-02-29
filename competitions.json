@@ -1,6 +1,73 @@
 {
     "data": [
         {
+            "name": "Showcase Gemma LLM Usage",
+            "url": "https://www.kaggle.com/competitions/data-assistants-with-gemma?ref=mlcontests",
+            "type": "📊 Analysis/Visualisation ",
+            "tags": [
+                "generative",
+                "subjective",
+                "nlp",
+                "llm",
+                "analysis"
+            ],
+            "additional_urls": [],
+            "launched": "21 Feb 2024",
+            "registration-deadline": "14 Apr 2024",
+            "deadline": "14 Apr 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Google",
+            "conference": null,
+            "conference-year": null,
+            "data-size": null
+        },
+        {
+            "name": "LLM Prompt Recovery",
+            "url": "https://www.kaggle.com/competitions/llm-prompt-recovery?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "supervised",
+                "generative",
+                "nlp",
+                "measurable",
+                "llm"
+            ],
+            "additional_urls": [],
+            "launched": "27 Feb 2024",
+            "registration-deadline": "9 Apr 2024",
+            "deadline": "16 Apr 2024",
+            "prize": "$200,000",
+            "platform": "Kaggle",
+            "sponsor": "Kaggle",
+            "conference": null,
+            "conference-year": null,
+            "data-size": null
+        },
+        {
+            "name": "Predict College Basketball Results",
+            "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2024?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "classification",
+                "sport",
+                "measurable",
+                "open"
+            ],
+            "additional_urls": [],
+            "launched": "27 Feb 2024",
+            "registration-deadline": "21 Mar 2024",
+            "deadline": "21 Mar 2024",
+            "end-date": "10 Apr 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Kaggle",
+            "conference": null,
+            "conference-year": null,
+            "data-size": 0.14828
+        },
+        {
             "name": "Detect Personal Data",
             "url": "https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data?ref=mlcontests",
             "type": "🔤 NLP",

@@ -1,6 +1,27 @@
 {
     "data": [
         {
+            "name": "Create Building Wireframes from Photos",
+            "url": "https://huggingface.co/spaces/Building3D/USM3D?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised"
+            ],
+            "additional_urls": ["https://building3d.ucalgary.ca/"],
+            "launched": null,
+            "registration-deadline": "14 Mar 2024",
+            "deadline": "14 Mar 2024",
+            "prize": "$10,000",
+            "platform": "Hugging Face",
+            "sponsor": "University of Calgary, Popsmart",
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null,
+            "note": "In this competition, we will not approve accounts with email addresses from free email providers, such as gmail.com, qq.com, web.de, etc. Only university or company email addresses will be eligible for prize awards."
+        },
+        {
             "name": "Detect Spacecraft in Images",
             "url": "https://www.drivendata.org/competitions/260/spacecraft-detection/?ref=mlcontests",
             "type": "📷 Computer Vision",

@@ -1,6 +1,69 @@
 {
     "data": [
         {
+            "name": "Detect Spacecraft in Images",
+            "url": "https://www.drivendata.org/competitions/260/spacecraft-detection/?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "detection",
+                "measurable",
+                "supervised"
+            ],
+            "additional_urls": [],
+            "launched": null,
+            "registration-deadline": "14 Mar 2024",
+            "deadline": "14 Mar 2024",
+            "prize": "$12,000",
+            "platform": "DrivenData",
+            "sponsor": "NASA Tournament Lab",
+            "conference": null,
+            "conference-year": null,
+            "data-size": null
+        },
+        {
+            "name": "Identify Spacecraft Positions and Orientations",
+            "url": "https://www.drivendata.org/competitions/261/spacecraft-pose-estimation/?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "vision",
+                "regression",
+                "measurable",
+                "supervised"
+            ],
+            "additional_urls": [],
+            "launched": null,
+            "registration-deadline": "14 Mar 2024",
+            "deadline": "14 Mar 2024",
+            "prize": "$28,000",
+            "platform": "DrivenData",
+            "sponsor": "NASA Tournament Lab",
+            "conference": null,
+            "conference-year": null,
+            "data-size": null
+        },
+        {
+            "name": "Topic Matching on Clinical Notes",
+            "url": "https://www.drivendata.org/competitions/258/competition-snomed-ct/?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "nlp",
+                "medical",
+                "measurable",
+                "annotation"
+            ],
+            "additional_urls": [],
+            "launched": null,
+            "registration-deadline": "5 Mar 2024",
+            "deadline": "5 Mar 2024",
+            "prize": "$25,000",
+            "platform": "DrivenData",
+            "sponsor": "SNOMED International",
+            "conference": null,
+            "conference-year": null,
+            "data-size": null
+        },
+        {
             "name": "Showcase Gemma LLM Usage",
             "url": "https://www.kaggle.com/competitions/data-assistants-with-gemma?ref=mlcontests",
             "type": "📊 Analysis/Visualisation ",

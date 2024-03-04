@@ -1,6 +1,48 @@
 {
     "data": [
         {
+            "name": "Vesuvius Challenge - Decode Ancient Text from Scans",
+            "url": "https://scrollprize.org/2024_prizes",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "history",
+                "vision",
+                "nlp"
+            ],
+            "additional_urls": [],
+            "launched": "27 Feb 2024",
+            "registration-deadline": "31 Dec 2024",
+            "deadline": "31 Feb 2024",
+            "prize": "$625,000",
+            "platform": "Independent",
+            "sponsor": "Various",
+            "conference": null,
+            "conference-year": null,
+            "data-size": null,
+            "note": "$100k grand prize, 50k/12.5k first/second auto-segmentation prize, $112.5k first letters prizes, $350k monthly progress prizes."
+        },
+        {
+            "name": "AI Math Olympiad Progress Prize",
+            "url": "https://www.reddit.com/r/AIMOprize/comments/1ay4aiu/progress_prize_pre_announcement/",
+            "type": "🧮 Mathematics",
+            "tags": [
+                "nlp",
+                "mathematics",
+                "classification"
+            ],
+            "additional_urls": ["https://aimo.xtxmarkets.com/updates"],
+            "launched": null,
+            "registration-deadline": "1 Jul 2024",
+            "deadline": "1 Jul 2024",
+            "prize": "$1,048,576",
+            "platform": "Kaggle",
+            "sponsor": "XTX Markets",
+            "conference": null,
+            "conference-year": null,
+            "data-size": null,
+            "note": "Not live on Kaggle yet; pre-announced on Reddit and dates are indicative."
+        },
+        {
             "name": "Create Building Wireframes from Photos",
             "url": "https://huggingface.co/spaces/Building3D/USM3D?ref=mlcontests",
             "type": "📷 Computer Vision",

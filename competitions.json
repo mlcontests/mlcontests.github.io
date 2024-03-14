@@ -1,6 +1,29 @@
 {
     "data": [
         {
+            "name": "Detect Harmful Memes",
+            "url": "https://ospc.aisingapore.org/?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "multimodal",
+                "vision",
+                "nlp",
+                "safety",
+                "classification",
+                "measurable"
+            ],
+            "additional_urls": [],
+            "launched": "31 Jan 2024",
+            "registration-deadline": "20 Mar 2024",
+            "deadline": "11 Apr 2024",
+            "prize": "$52,500",
+            "platform": "AI Singapore",
+            "sponsor": "AI Singapore",
+            "conference": null,
+            "conference-year": null,
+            "data-size": null
+        },
+        {
             "name": "Vesuvius Challenge - Decode Ancient Text from Scans",
             "url": "https://scrollprize.org/2024_prizes",
             "type": "📷 Computer Vision",

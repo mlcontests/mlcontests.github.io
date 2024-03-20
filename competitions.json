@@ -8183,6 +8183,54 @@
             "prize": "$15,000",
             "platform": "AIcrowd",
             "sponsor": "MCS"
+        },
+        {
+            "name": "Stranger Sections 2: Segmenting Objects Through the Microscope",
+            "url": "https://thinkonward.com/app/c/challenges/stranger-sections-2?ref=mlc",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "segmentation",
+                "supervised"
+            ],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "28 Jun 2024",
+            "deadline": "28 Jun 2024",
+            "prize": "$30,000",
+            "platform": "Think Onward",
+            "sponsor": null
+        },
+        {
+            "name": "Power Patterns: Harnessing Electricity for Innovation",
+            "url": "https://thinkonward.com/app/c/challenges/power-patterns?ref=mlc",
+            "type": "📊 Analysis/Visualisation",
+            "tags": [
+                "unsupervised",
+                "analysis",
+                "segmentation"
+            ],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "24 May 2024",
+            "deadline": "24 May 2024",
+            "prize": "$15,000",
+            "platform": "Think Onward",
+            "sponsor": null
+        },
+        {
+            "name": "Spot the Trend: Pattern recognition in 1D Pressure Data",
+            "url": "https://thinkonward.com/app/c/challenges/spot-the-trend?ref=mlc",
+            "type": "📈 Time Series Classification",
+            "tags": [
+                "timeseries",
+                "supervised",
+                "classification"
+            ],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "28 Jun 2024",
+            "deadline": "28 Jun 2024",
+            "prize": "$30,000",
+            "platform": "Think Onward",
+            "sponsor": null
         }
     ]
 }

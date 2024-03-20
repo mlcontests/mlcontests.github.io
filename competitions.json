@@ -1,6 +1,83 @@
 {
     "data": [
         {
+            "name": "Waymo 2024: Pose Estimation",
+            "url": "https://waymo.com/intl/en_us/open/challenges/2023/pose-estimation/?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "measurable",
+                "supervised",
+                "vision",
+                "driving"
+            ],
+            "deadline": "23 May 2024",
+            "prize": null,
+            "platform": "Waymo",
+            "sponsor": "Waymo",
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "note": "Total of $18k Google cloud credits available for winners"
+        },
+        {
+            "name": "Waymo 2024: Occupancy & Flow Prediction",
+            "url": "https://waymo.com/open/challenges/2024/occupancy-flow-prediction/?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "measurable",
+                "supervised",
+                "forecasting",
+                "timeseries",
+                "vision",
+                "driving"
+            ],
+            "deadline": "23 May 2024",
+            "prize": null,
+            "platform": "Waymo",
+            "sponsor": "Waymo",
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "note": "Total of $18k Google cloud credits available for winners"
+        },
+        {
+            "name": "Waymo 2024: Sim Agents",
+            "url": "https://waymo.com/open/challenges/2024/sim-agents/?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "measurable",
+                "supervised",
+                "forecasting",
+                "timeseries",
+                "vision",
+                "driving"
+            ],
+            "deadline": "23 May 2023",
+            "prize": null,
+            "platform": "Waymo",
+            "sponsor": "Waymo",
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "note": "Total of $18k Google cloud credits available for winners"
+        },
+        {
+            "name": "Waymo 2024: 3D Semantic Segmentation",
+            "url": "https://waymo.com/open/challenges/2024/3d-semantic-segmentation/?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "measurable",
+                "supervised",
+                "segmentation",
+                "vision",
+                "driving"
+            ],
+            "deadline": "23 May 2024",
+            "prize": null,
+            "platform": "Waymo",
+            "sponsor": "Waymo",
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "note": "Total of $18k Google cloud credits available for winners"
+        },
+        {
             "name": "Predict Air Quality from Satellite Data",
             "url": "https://zindi.africa/competitions/airqo-african-air-quality-prediction-challenge?ref=mlcontests",
             "type": "📷 Computer Vision",

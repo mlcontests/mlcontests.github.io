@@ -78,8 +78,8 @@
             "note": "Total of $18k Google cloud credits available for winners"
         },
         {
-            "name": "Predict Air Quality from Satellite Data",
-            "url": "https://zindi.africa/competitions/airqo-african-air-quality-prediction-challenge?ref=mlcontests",
+            "name": "AirQo African Air Quality Prediction Challenge",
+            "url": "https://zindi.africa/competitions/airqo-african-air-quality-prediction-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
             "type": "📷 Computer Vision",
             "tags": [
                 "supervised",
@@ -94,14 +94,14 @@
             "deadline": "16 Jun 2024",
             "prize": "$3,000",
             "platform": "Zindi",
-            "sponsor": "AirQo/Mozilla",
+            "sponsor": "AIRQO, MAKERERE UNIVERSITY, MOZILLA",
             "conference": null,
             "conference-year": null,
             "data-size": 0.0033
         },
         {
-            "name": "Count Houses in Satellite Images",
-            "url": "https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge?ref=mlcontests",
+            "name": "Arm UNICEF Disaster Vulnerability Challenge",
+            "url": "https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
             "type": "📷 Computer Vision",
             "tags": [
                 "supervised",
@@ -116,7 +116,7 @@
             "deadline": "23 Jun 2024",
             "prize": "$10,000",
             "platform": "Zindi",
-            "sponsor": "UNICEF/arm",
+            "sponsor": "UNICEF, ARM, MUST",
             "conference": null,
             "conference-year": null,
             "data-size": 7.7
@@ -8327,40 +8327,6 @@
             "prize": "$15,000",
             "platform": "AIcrowd",
             "sponsor": "MCS"
-        },
-        {
-            "name": "Arm UNICEF Disaster Vulnerability Challenge",
-            "url": "https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-            "type": "📷 Computer Vision",
-            "tags": [
-                "supervised",
-                "regression",
-                "deeplearning",
-                "vision"
-                ],
-            "launched": "15 Mar 2024",
-            "registration-deadline": "23 Jun 2024",
-            "deadline": "23 Jun 2024",
-            "prize": "$10,000",
-            "platform": "Zindi",
-            "sponsor": "UNICEF, ARM, MUST"
-        },
-        {
-            "name": "AirQo African Air Quality Prediction Challenge",
-            "url": "https://zindi.africa/competitions/airqo-african-air-quality-prediction-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-            "type": "✅ Supervised Learning",
-            "tags": [
-                "supervised",
-                "regression",
-                "tabular",
-                "timeseries"
-                ],
-            "launched": "15 Mar 2024",
-            "registration-deadline": "16 Jun 2024",
-            "deadline": "16 Jun 2024",
-            "prize": "$3,000",
-            "platform": "Zindi",
-            "sponsor": "AIRQO, MAKERERE UNIVERSITY"
         }
     ]
 }

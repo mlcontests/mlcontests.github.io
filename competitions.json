@@ -8185,7 +8185,7 @@
             "sponsor": "MCS"
         },
         {
-            "name": "Stranger Sections 2: Segmenting Objects Through the Microscope",
+            "name": "Segment Objects in Microscope Images",
             "url": "https://thinkonward.com/app/c/challenges/stranger-sections-2?ref=mlc",
             "type": "📷 Computer Vision",
             "tags": [
@@ -8197,39 +8197,41 @@
             "registration-deadline": "28 Jun 2024",
             "deadline": "28 Jun 2024",
             "prize": "$30,000",
-            "platform": "Think Onward",
+            "platform": "Onward",
             "sponsor": null
         },
         {
-            "name": "Power Patterns: Harnessing Electricity for Innovation",
+            "name": "Identify Energy Demand Profiles",
             "url": "https://thinkonward.com/app/c/challenges/power-patterns?ref=mlc",
             "type": "📊 Analysis/Visualisation",
             "tags": [
-                "unsupervised",
+                "subjective",
                 "analysis",
-                "segmentation"
+                "timeseries",
+                "climate"
             ],
             "launched": "25 Mar 2024",
             "registration-deadline": "24 May 2024",
             "deadline": "24 May 2024",
             "prize": "$15,000",
-            "platform": "Think Onward",
+            "platform": "Onward",
             "sponsor": null
         },
         {
-            "name": "Spot the Trend: Pattern recognition in 1D Pressure Data",
+            "name": "Predict Oil/Gas Well States from Pressure Data",
             "url": "https://thinkonward.com/app/c/challenges/spot-the-trend?ref=mlc",
             "type": "📈 Time Series Classification",
             "tags": [
                 "timeseries",
                 "supervised",
-                "classification"
+                "classification",
+                "measurable"
             ],
             "launched": "25 Mar 2024",
             "registration-deadline": "28 Jun 2024",
             "deadline": "28 Jun 2024",
             "prize": "$30,000",
-            "platform": "Think Onward",
+            "platform": "Onward",
             "sponsor": null
         }
     ]

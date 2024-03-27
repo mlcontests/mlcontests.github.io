@@ -1,6 +1,26 @@
 {
     "data": [
         {
+            "name": "Reconstruct 3D Scenes from 2D Images",
+            "url": "https://www.kaggle.com/competitions/image-matching-challenge-2024?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "3D"
+            ],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "27 May 2024",
+            "deadline": "3 Jun 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Czech Technical University in Prague",
+            "conference": null,
+            "conference_year": null,
+            "data-size": 4.04
+        },
+        {
             "name": "Waymo 2024: Pose Estimation",
             "url": "https://waymo.com/intl/en_us/open/challenges/2023/pose-estimation/?ref=mlcontests",
             "type": "📷 Computer Vision",
@@ -78,8 +98,8 @@
             "note": "Total of $18k Google cloud credits available for winners"
         },
         {
-            "name": "African Air Quality Prediction Challenge",
-            "url": "https://zindi.africa/competitions/airqo-african-air-quality-prediction-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "name": "Predict Air Quality from Satellite Data",
+            "url": "https://zindi.africa/competitions/airqo-african-air-quality-prediction-challenge?ref=mlcontests",
             "type": "📷 Computer Vision",
             "tags": [
                 "supervised",
@@ -94,14 +114,14 @@
             "deadline": "16 Jun 2024",
             "prize": "$3,000",
             "platform": "Zindi",
-            "sponsor": "AIRQO, MAKERERE UNIVERSITY, MOZILLA",
+            "sponsor": "AirQo/Mozilla",
             "conference": null,
             "conference-year": null,
             "data-size": 0.0033
         },
         {
             "name": "Count Houses in Satellite Images",
-            "url": "https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "url": "https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge?ref=mlcontests",
             "type": "📷 Computer Vision",
             "tags": [
                 "supervised",
@@ -116,7 +136,7 @@
             "deadline": "23 Jun 2024",
             "prize": "$10,000",
             "platform": "Zindi",
-            "sponsor": "UNICEF, ARM, MUST",
+            "sponsor": "UNICEF/arm",
             "conference": null,
             "conference-year": null,
             "data-size": 7.7
@@ -8327,56 +8347,6 @@
             "prize": "$15,000",
             "platform": "AIcrowd",
             "sponsor": "MCS"
-        },
-        {
-            "name": "Segment Objects in Microscope Images",
-            "url": "https://thinkonward.com/app/c/challenges/stranger-sections-2?ref=mlc",
-            "type": "📷 Computer Vision",
-            "tags": [
-                "vision",
-                "segmentation",
-                "supervised"
-            ],
-            "launched": "25 Mar 2024",
-            "registration-deadline": "28 Jun 2024",
-            "deadline": "28 Jun 2024",
-            "prize": "$30,000",
-            "platform": "Onward",
-            "sponsor": null
-        },
-        {
-            "name": "Identify Energy Demand Profiles",
-            "url": "https://thinkonward.com/app/c/challenges/power-patterns?ref=mlc",
-            "type": "📊 Analysis/Visualisation",
-            "tags": [
-                "subjective",
-                "analysis",
-                "timeseries",
-                "climate"
-            ],
-            "launched": "25 Mar 2024",
-            "registration-deadline": "24 May 2024",
-            "deadline": "24 May 2024",
-            "prize": "$15,000",
-            "platform": "Onward",
-            "sponsor": null
-        },
-        {
-            "name": "Predict Oil/Gas Well States from Pressure Data",
-            "url": "https://thinkonward.com/app/c/challenges/spot-the-trend?ref=mlc",
-            "type": "📈 Time Series Classification",
-            "tags": [
-                "timeseries",
-                "supervised",
-                "classification",
-                "measurable"
-            ],
-            "launched": "25 Mar 2024",
-            "registration-deadline": "28 Jun 2024",
-            "deadline": "28 Jun 2024",
-            "prize": "$30,000",
-            "platform": "Onward",
-            "sponsor": null
         }
     ]
 }

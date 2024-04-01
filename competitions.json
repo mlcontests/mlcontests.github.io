@@ -1,6 +1,44 @@
 {
     "data": [
         {
+            "name": "Stranger Sections 2: Segmenting Objects Through the Microscope",
+            "url": "https://thinkonward.com/app/c/challenges/stranger-sections-2?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "supervised",
+                "segmentation"
+            ],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "28 Jun 2024",
+            "deadline": "28 Jun 2024",
+            "prize": "$30,000",
+            "platform": "Onward",
+            "sponsor": null,
+            "conference": null,
+            "conference_year": null,
+            "data-size": 0.5
+        },
+        {
+            "name": "Spot the Trend: Pattern recognition in 1D Pressure Data",
+            "url": "https://thinkonward.com/app/c/challenges/spot-the-trend?ref=mlcontests",
+            "type": "📈Time Series",
+            "tags": [
+                "timeseries",
+                "supervised",
+                "geo"
+            ],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "28 Jun 2024",
+            "deadline": "28 Jun 2024",
+            "prize": "$30,000",
+            "platform": "Onward",
+            "sponsor": null,
+            "conference": null,
+            "conference_year": null,
+            "data-size": 4.0
+        },
+        {
             "name": "Reconstruct 3D Scenes from 2D Images",
             "url": "https://www.kaggle.com/competitions/image-matching-challenge-2024?ref=mlcontests",
             "type": "📷 Computer Vision",

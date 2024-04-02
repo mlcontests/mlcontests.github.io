@@ -1,5 +1,6 @@
 {
     "data": [
+
         {
             "name": "Build AI Agents",
             "url": "https://www.aiagentschallenge.com/?ref=mlcontests",
@@ -230,7 +231,7 @@
         },
         {
             "name": "AI Math Olympiad Progress Prize",
-            "url": "https://www.reddit.com/r/AIMOprize/comments/1ay4aiu/progress_prize_pre_announcement/",
+            "url": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize?ref=mlcontests",
             "type": "🧮 Mathematics",
             "tags": [
                 "nlp",
@@ -238,16 +239,15 @@
                 "classification"
             ],
             "additional_urls": ["https://aimo.xtxmarkets.com/updates"],
-            "launched": null,
-            "registration-deadline": "1 Jul 2024",
-            "deadline": "1 Jul 2024",
+            "launched": "1 Apr 2024",
+            "registration-deadline": "20 Jun 2024",
+            "deadline": "27 Jun 2024",
             "prize": "$1,048,576",
             "platform": "Kaggle",
             "sponsor": "XTX Markets",
             "conference": null,
             "conference-year": null,
-            "data-size": null,
-            "note": "Not live on Kaggle yet; pre-announced on Reddit and dates are indicative."
+            "data-size": null
         },
         {
             "name": "Create Building Wireframes from Photos",
@@ -8367,6 +8367,56 @@
             "prize": "$15,000",
             "platform": "AIcrowd",
             "sponsor": "MCS"
+        },
+        {
+            "name": "Segment Objects in Microscope Images",
+            "url": "https://thinkonward.com/app/c/challenges/stranger-sections-2?ref=mlc",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "segmentation",
+                "supervised"
+            ],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "28 Jun 2024",
+            "deadline": "28 Jun 2024",
+            "prize": "$30,000",
+            "platform": "Onward",
+            "sponsor": null
+        },
+        {
+            "name": "Identify Energy Demand Profiles",
+            "url": "https://thinkonward.com/app/c/challenges/power-patterns?ref=mlc",
+            "type": "📊 Analysis/Visualisation",
+            "tags": [
+                "subjective",
+                "analysis",
+                "timeseries",
+                "climate"
+            ],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "24 May 2024",
+            "deadline": "24 May 2024",
+            "prize": "$15,000",
+            "platform": "Onward",
+            "sponsor": null
+        },
+        {
+            "name": "Predict Oil/Gas Well States from Pressure Data",
+            "url": "https://thinkonward.com/app/c/challenges/spot-the-trend?ref=mlc",
+            "type": "📈 Time Series Classification",
+            "tags": [
+                "timeseries",
+                "supervised",
+                "classification",
+                "measurable"
+            ],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "28 Jun 2024",
+            "deadline": "28 Jun 2024",
+            "prize": "$30,000",
+            "platform": "Onward",
+            "sponsor": null
         }
     ]
 }

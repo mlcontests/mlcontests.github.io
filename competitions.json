@@ -1,6 +1,26 @@
 {
     "data": [
         {
+            "name": "Build AI Agents",
+            "url": "https://www.aiagentschallenge.com/?ref=mlcontests",
+            "type": "💡 Product/Applied",
+            "tags": [
+                "product",
+                "applied",
+                "subjective",
+                "innovation"
+            ],
+            "launched": "11 Mar 2024",
+            "registration-deadline": "1 Sep 2024",
+            "deadline": "1 Sep 2024",
+            "prize": "$1,000,000",
+            "platform": "Independent",
+            "sponsor": "MM01",
+            "conference": null,
+            "conference_year": null,
+            "data-size": null
+        },
+        {
             "name": "Reconstruct 3D Scenes from 2D Images",
             "url": "https://www.kaggle.com/competitions/image-matching-challenge-2024?ref=mlcontests",
             "type": "📷 Computer Vision",

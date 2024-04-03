@@ -1,6 +1,25 @@
 {
     "data": [
         {
+            "name": "Space Optimization Competition (SpOC) 3.0",
+            "url": "https://github.com/esa/SpOC3",
+            "type": "📉 Optimisation",
+            "tags": [
+                "optimisation",
+                "measurable",
+                "multiple"
+            ],
+            "additional_urls": ["https://optimize.esa.int/challenges"],
+            "launched": "1 Apr 2024",
+            "deadline": "30 Jun 2024",
+            "prize": null,
+            "platform": "ESA Optimize",
+            "sponsor": "Advanced Concepts Team, European Space Agency",
+            "conference": "GECCO",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
             "name": "SnakeCLEF: Identify Snake Species in Images",
             "url": "https://sites.google.com/view/fgvc11/competitions/snakeclef2024?ref=mlcontests",
             "type": "📷 Computer Vision",

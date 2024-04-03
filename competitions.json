@@ -1,6 +1,26 @@
 {
     "data": [
-
+        {
+            "name": "Structured Semantic 3D Reconstruction",
+            "url": "https://huggingface.co/spaces/usm3d/S23DR?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised"
+            ],
+            "additional_urls": [],
+            "launched": "14 Mar 2024",
+            "registration-deadline": "28 May 2024",
+            "deadline": "28 May 2024",
+            "prize": "$25,000",
+            "platform": "Hugging Face",
+            "sponsor": "Hover Inc.",
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null,
+            "note": ""
+        },
         {
             "name": "Build AI Agents",
             "url": "https://www.aiagentschallenge.com/?ref=mlcontests",
@@ -259,9 +279,9 @@
                 "supervised"
             ],
             "additional_urls": ["https://building3d.ucalgary.ca/"],
-            "launched": null,
-            "registration-deadline": "14 Mar 2024",
-            "deadline": "14 Mar 2024",
+            "launched": "15 Feb 2024",
+            "registration-deadline": "31 May 2024",
+            "deadline": "31 May 2024",
             "prize": "$10,000",
             "platform": "Hugging Face",
             "sponsor": "University of Calgary, Popsmart",

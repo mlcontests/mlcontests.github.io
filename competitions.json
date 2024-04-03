@@ -14,7 +14,7 @@
             "deadline": "30 Jun 2024",
             "prize": null,
             "platform": "ESA Optimize",
-            "sponsor": "Advanced Concepts Team, European Space Agency",
+            "sponsor": "Advanced Concepts Team, ESA",
             "conference": "GECCO",
             "conference-year": 2024,
             "data-size": null
@@ -391,7 +391,7 @@
             "deadline": "3 Jun 2024",
             "prize": "$50,000",
             "platform": "Kaggle",
-            "sponsor": "Czech Technical University in Prague",
+            "sponsor": "CTU Prague",
             "conference": null,
             "conference_year": null,
             "data-size": 4.04

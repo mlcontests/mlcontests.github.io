@@ -1,6 +1,174 @@
 {
     "data": [
         {
+            "name": "SnakeCLEF: Identify Snake Species in Images",
+            "url": "https://sites.google.com/view/fgvc11/competitions/snakeclef2024?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "regression"
+            ],
+            "additional_urls": ["https://huggingface.co/spaces/BVRA/SnakeCLEF2024"],
+            "launched": "29 Feb 2024",
+            "registration-deadline": "24 May 2024",
+            "deadline": "24 May 2024",
+            "prize": null,
+            "platform": "Hugging Face",
+            "sponsor": null,
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
+            "name": "PlantCLEF: Identify Plant Species in Images",
+            "url": "https://sites.google.com/view/fgvc11/competitions/plantclef2024?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "regression"
+            ],
+            "additional_urls": ["https://huggingface.co/spaces/BVRA/PlantCLEF2024?ref=mlcontests"],
+            "launched": "21 Mar 2024",
+            "registration-deadline": "24 May 2024",
+            "deadline": "24 May 2024",
+            "prize": null,
+            "platform": "Hugging Face",
+            "sponsor": null,
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
+            "name": "PlantTraits: Predict Plant Traits from Photographs",
+            "url": "https://sites.google.com/view/fgvc11/competitions/planttraits2024?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "regression"
+            ],
+            "additional_urls": ["https://www.kaggle.com/competitions/planttraits2024?ref=mlcontests"],
+            "launched": "2 Feb 2024",
+            "registration-deadline": "2 Jun 2024",
+            "deadline": "2 Jun 2024",
+            "prize": null,
+            "platform": "Kaggle",
+            "sponsor": null,
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
+            "name": "iBioHash: Fine-Grained Image Hashing",
+            "url": "https://sites.google.com/view/fgvc11/competitions/ibiohash2024?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "classification"
+            ],
+            "additional_urls": ["https://www.kaggle.com/competitions/ibiohash-2024-fgvc11/overview?ref=mlcontests"],
+            "launched": "8 Mar 2024",
+            "registration-deadline": "18 May 2024",
+            "deadline": "18 May 2024",
+            "prize": null,
+            "platform": "Kaggle",
+            "sponsor": null,
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
+            "name": "HyperLeaf: Predict Properties from Images of Leaves",
+            "url": "https://sites.google.com/view/fgvc11/competitions/hyperleaf2024?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "regression"
+            ],
+            "additional_urls": ["https://www.kaggle.com/competitions/HyperLeaf2024/overview?ref=mlcontests"],
+            "launched": "8 Mar 2024",
+            "registration-deadline": "2 Jun 2024",
+            "deadline": "2 Jun 2024",
+            "prize": null,
+            "platform": "Kaggle",
+            "sponsor": null,
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
+            "name": "GeoLifeCLEF: Classify Plant Species",
+            "url": "https://sites.google.com/view/fgvc11/competitions/geolifeclef2024?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "classification"
+            ],
+            "additional_urls": ["https://www.kaggle.com/competitions/geolifeclef-2024/?ref=mlcontests"],
+            "launched": "29 Feb 2024",
+            "registration-deadline": "24 May 2024",
+            "deadline": "24 May 2024",
+            "prize": null,
+            "platform": "Kaggle",
+            "sponsor": null,
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
+            "name": "FungiCLEF: Classify Fungi in Photos",
+            "url": "https://sites.google.com/view/fgvc11/competitions/fungiclef2024?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "classification"
+            ],
+            "additional_urls": ["https://huggingface.co/spaces/BVRA/FungiCLEF2024?ref=mlcontests"],
+            "launched": "13 Mar 2024",
+            "registration-deadline": "24 May 2024",
+            "deadline": "24 May 2024",
+            "prize": null,
+            "platform": "Hugging Face",
+            "sponsor": null,
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
+            "name": "BugNIST: Classify Bugs in Photos",
+            "url": "https://sites.google.com/view/fgvc11/competitions/bugnist2024?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "classification"
+            ],
+            "additional_urls": ["https://www.kaggle.com/competitions/bugnist2024fgvc?ref=mlcontests"],
+            "launched": "2 Mar 2024",
+            "registration-deadline": "2 Jun 2024",
+            "deadline": "2 Jun 2024",
+            "prize": null,
+            "platform": "Kaggle",
+            "sponsor": null,
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
             "name": "AGC: Mapless Driving",
             "url": "https://opendrivelab.com/challenge2024/?ref=mlcontests#mapless_driving",
             "type": "📷 Computer Vision",

@@ -1,6 +1,155 @@
 {
     "data": [
         {
+            "name": "AGC: Mapless Driving",
+            "url": "https://opendrivelab.com/challenge2024/?ref=mlcontests#mapless_driving",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "driving"
+            ],
+            "additional_urls": ["https://huggingface.co/spaces/AGC2024/mapless-driving-2024?ref=mlcontests"],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "1 Jun 2024",
+            "deadline": "1 Jun 2024",
+            "prize": "$1,500",
+            "platform": "Hugging Face",
+            "sponsor": "Various",
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
+            "name": "AGC: Driving with Language",
+            "url": "https://opendrivelab.com/challenge2024/?ref=mlcontests#multiview_3d_visual_grounding",
+            "type": "🔤 NLP",
+            "tags": [
+                "vision",
+                "nlp",
+                "measurable",
+                "supervised",
+                "driving"
+            ],
+            "additional_urls": ["https://huggingface.co/spaces/AGC2024/driving-with-language-2024?ref=mlcontests"],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "1 Jun 2024",
+            "deadline": "1 Jun 2024",
+            "prize": "$1,500",
+            "platform": "Hugging Face",
+            "sponsor": "Various",
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
+            "name": "AGC: CARLA Autonomous Driving",
+            "url": "https://opendrivelab.com/challenge2024/?ref=mlcontests#carla",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "driving"
+            ],
+            "additional_urls": ["https://eval.ai/web/challenges/challenge-page/2098/overview"],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "1 Jun 2024",
+            "deadline": "1 Jun 2024",
+            "prize": "$10,000",
+            "platform": "EvalAI",
+            "sponsor": "Various",
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
+            "name": "AGC: Multi-View 3D Visual Grounding",
+            "url": "https://opendrivelab.com/challenge2024/?ref=mlcontests#multiview_3d_visual_grounding",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "driving"
+            ],
+            "additional_urls": ["https://huggingface.co/spaces/AGC2024/visual-grounding-2024?ref=mlcontests"],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "1 Jun 2024",
+            "deadline": "1 Jun 2024",
+            "prize": "$10,000",
+            "platform": "Hugging Face",
+            "sponsor": "Various",
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
+            "name": "AGC: Occupancy and Flow",
+            "url": "https://opendrivelab.com/challenge2024/?ref=mlcontests#occupancy_and_flow",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "driving"
+            ],
+            "additional_urls": ["https://huggingface.co/spaces/AGC2024-S/occupancy-and-flow-2024?ref=mlcontests"],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "1 Jun 2024",
+            "deadline": "1 Jun 2024",
+            "prize": "$30,000",
+            "platform": "Hugging Face",
+            "sponsor": "Various",
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
+            "name": "AGC: Predictive World Model",
+            "url": "https://opendrivelab.com/challenge2024/?ref=mlcontests#predictive_world_model",
+            "type": "📈 Time Series Forecasting",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "driving"
+            ],
+            "additional_urls": ["https://huggingface.co/spaces/AGC2024-P/predictive-world-model-2024?ref=mlcontests"],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "1 Jun 2024",
+            "deadline": "1 Jun 2024",
+            "prize": "$30,000",
+            "platform": "Hugging Face",
+            "sponsor": "Various",
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
+            "name": "AGC: E2E Driving at Scale",
+            "url": "https://opendrivelab.com/challenge2024/?ref=mlcontests#end_to_end_driving_at_scale",
+            "type": "🤖 Reinforcement Learning",
+            "tags": [
+                "vision",
+                "measurable",
+                "control",
+                "driving",
+                "rl"
+            ],
+            "additional_urls": ["https://huggingface.co/spaces/AGC2024-P/e2e-driving-2024"],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "1 Jun 2024",
+            "deadline": "1 Jun 2024",
+            "prize": "$30,000",
+            "platform": "Hugging Face",
+            "sponsor": "Various",
+            "conference": "CVPR",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
             "name": "Structured Semantic 3D Reconstruction",
             "url": "https://huggingface.co/spaces/usm3d/S23DR?ref=mlcontests",
             "type": "📷 Computer Vision",
@@ -18,8 +167,7 @@
             "sponsor": "Hover Inc.",
             "conference": "CVPR",
             "conference-year": 2024,
-            "data-size": null,
-            "note": ""
+            "data-size": null
         },
         {
             "name": "Build AI Agents",

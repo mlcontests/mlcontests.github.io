@@ -1,6 +1,67 @@
 {
     "data": [
         {
+            "name": "Automated Essay Scoring",
+            "url": "https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "education",
+                "nlp",
+                "supervised",
+                "measurable"
+            ],
+            "launched": "3 Apr 2024",
+            "registration-deadline": "25 Jun 2024",
+            "deadline": "2 Jul 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "The Learning Agency Lab",
+            "conference": null,
+            "conference_year": null,
+            "data-size": 0.0362
+        },
+        {
+            "name": "BirdCLEF: Identify Bird Species from Audio",
+            "url": "https://www.kaggle.com/competitions/birdclef-2024?ref=mlcontests",
+            "type": "🔊 Audio",
+            "tags": [
+                "classification",
+                "audio",
+                "supervised",
+                "measurable"
+            ],
+            "launched": "3 Apr 2024",
+            "registration-deadline": "3 Jun 2024",
+            "deadline": "10 Jun 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Cornell Lab of Ornithology",
+            "conference": "LifeCLEF",
+            "conference_year": 2024,
+            "data-size": 23.43
+        },
+        {
+            "name": "SnakeCLEF: Identify Snake Species in Images",
+            "url": "https://sites.google.com/view/fgvc11/competitions/snakeclef2024?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "measurable",
+                "supervised",
+                "regression"
+            ],
+            "additional_urls": ["https://huggingface.co/spaces/BVRA/SnakeCLEF2024"],
+            "launched": " 2024",
+            "registration-deadline": "24 May 2024",
+            "deadline": "24 May 2024",
+            "prize": null,
+            "platform": "Kaggle",
+            "sponsor": null,
+            "conference": "LifeCLEF",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
             "name": "Space Optimization Competition (SpOC) 3.0",
             "url": "https://github.com/esa/SpOC3",
             "type": "📉 Optimisation",

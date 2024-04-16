@@ -8853,7 +8853,7 @@
             "sponsor": null
         },
         {
-            "name": "IberAutextification",
+            "name": "Identify Generated Text in Iberian Languages",
             "url": "https://sites.google.com/view/iberautextification",
             "type": "🔤 NLP",
             "tags": [
@@ -8867,7 +8867,9 @@
             "deadline": "10 May 2024",
             "prize": "$1,000",
             "platform": "Independent",
-            "sponsor": "Genaios"
+            "sponsor": "Genaios",
+            "conference": "IberLEF",
+            "conference-year": 2024
         }
     ]
 }

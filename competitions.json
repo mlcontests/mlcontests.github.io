@@ -1,6 +1,88 @@
 {
     "data": [
         {
+            "name": "Generate Patent Search Queries",
+            "url": "https://www.kaggle.com/competitions/uspto-explainable-ai?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "supervised",
+                "search",
+                "generative",
+                "measurable",
+                "nlp"
+            ],
+            "launched": "24 Apr 2024",
+            "registration-deadline": "17 Jul 2024",
+            "deadline": "24 Jul 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "US PTO",
+            "conference": null,
+            "conference_year": null,
+            "data-size": 136.6
+        },
+        {
+            "name": "Predict User Chatbot Preferences",
+            "url": "https://www.kaggle.com/competitions/lmsys-chatbot-arena?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "nlp",
+                "classification",
+                "supervised",
+                "measurable"
+            ],
+            "launched": "2 May 2024",
+            "registration-deadline": "29 Jul 2024",
+            "deadline": "5 Aug 2024",
+            "prize": "$100,000",
+            "platform": "Kaggle",
+            "sponsor": "LMSYS ORG",
+            "conference": null,
+            "conference_year": null,
+            "data-size": 0.18419
+        },
+        {
+            "name": "Atmospheric Physics Prediction",
+            "url": "https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim?ref=mlcontests",
+            "type": null,
+            "tags": [
+                "supervised",
+                "measurable",
+                "science",
+                "physics",
+                "regression"
+            ],
+            "launched": "18 Apr 2024",
+            "registration-deadline": "24 Jun 2024",
+            "deadline": "1 Jul 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "LEAP",
+            "conference": null,
+            "conference_year": null,
+            "data-size": 192.3
+        },
+        {
+            "name": "Predict New Medicines with BELKA",
+            "url": "https://www.kaggle.com/competitions/leash-BELKA?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "science",
+                "classification",
+                "measurable"
+            ],
+            "launched": "4 Apr 2024",
+            "registration-deadline": "1 Jul 2024",
+            "deadline": "8 Jul 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Leash Bio",
+            "conference": null,
+            "conference_year": null,
+            "data-size": 58.01
+        },
+        {
             "name": "Automated Essay Scoring",
             "url": "https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2?ref=mlcontests",
             "type": "🔤 NLP",

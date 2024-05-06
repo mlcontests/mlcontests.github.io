@@ -62,7 +62,7 @@
         {
             "name": "Atmospheric Physics Prediction",
             "url": "https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim?ref=mlcontests",
-            "type": null,
+            "type": "✅ Supervised Learning",
             "tags": [
                 "supervised",
                 "measurable",

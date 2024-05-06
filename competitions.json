@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "name": "Develop AI Safety Benchmarks",
+            "url": "https://www.mlsafety.org/safebench?ref=mlcontests",
+            "type": "📝 Design",
+            "tags": [
+                "subjective",
+                "design",
+                "safety"
+            ],
+            "launched": "25 Mar 2024",
+            "registration-deadline": "25 Feb 2025",
+            "deadline": "25 Feb 2025",
+            "prize": "$250,000",
+            "platform": "Independent",
+            "sponsor": "Center for AI Safety",
+            "conference": null,
+            "conference_year": null
+        },
+        {
             "name": "Generate Patent Search Queries",
             "url": "https://www.kaggle.com/competitions/uspto-explainable-ai?ref=mlcontests",
             "type": "🔤 NLP",

@@ -8870,6 +8870,23 @@
             "sponsor": "Genaios",
             "conference": "IberLEF",
             "conference-year": 2024
+        },
+        {
+            "name": "‘AIntuition’: Retrieval Augmented Generation (RAG) for Public Services and Administration Tasks by ITU",
+            "url": "https://zindi.africa/competitions/retrieval-augmented-generation-rag-for-public-services-and-administration-tasks?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "generative",
+                "deeplearning",
+                "nlp"
+                ],
+            "launched": "24 April 2024",
+            "registration-deadline": "17 May 2024",
+            "deadline": "17 May 2024",
+            "prize": "$1,500",
+            "platform": "Zindi",
+            "sponsor": "ITU"
         }
     ]
 }

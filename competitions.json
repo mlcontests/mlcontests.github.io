@@ -8987,6 +8987,23 @@
             "prize": "$1,500",
             "platform": "Zindi",
             "sponsor": "ITU"
+        },
+        {
+            "name": "Specializing Large Language Models for Telecom Networks",
+            "url": "https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "🔤 NLP",
+            "tags": [
+                "supervised",
+                "generative",
+                "deeplearning",
+                "nlp"
+                ],
+            "launched": "7 May 2024",
+            "registration-deadline": "6 July 2024",
+            "deadline": "6 July 2024",
+            "prize": "$6,464",
+            "platform": "Zindi",
+            "sponsor": "ITU, HUAWEI"
         }
     ]
 }

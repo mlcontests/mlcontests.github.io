@@ -8987,6 +8987,22 @@
             "prize": "$1,500",
             "platform": "Zindi",
             "sponsor": "ITU"
+        },
+        {
+            "name": "Melio MLOps Machine Translation Challenge",
+            "url": "https://zindi.africa/competitions/melio-mlops-competition?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "🔤 NLP",
+            "tags": [
+                "supervised",
+                "deeplearning",
+                "nlp"
+                ],
+            "launched": "8 May 2024",
+            "registration-deadline": "22 July 2024",
+            "deadline": "22 July 2024",
+            "prize": "$6,500",
+            "platform": "Zindi",
+            "sponsor": "melio.ai, data354.com, uvci.edu.ci"
         }
     ]
 }

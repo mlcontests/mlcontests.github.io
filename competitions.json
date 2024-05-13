@@ -1,6 +1,29 @@
 {
     "data": [
         {
+            "name": "DigiLut : Lung Transplant Rejection Detection",
+            "url": "https://www.trustii.io/post/join-the-digilut-challenge-advancing-lung-transplant-rejection-detection-1?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "vision",
+                "medical",
+                "classification"
+            ],
+            "launched": "31 May 2023",
+            "deadline": "31 Jul 2023",
+            "prize": "$25,000",
+            "platform": "Trustii.io",
+            "sponsor": "Various",
+            "additional_urls": [
+                "https://app.trustii.io",
+                "https://www.health-data-hub.fr/actualites/lancement-data-challenge-digilut"
+            ],
+            "conference": null,
+            "conference-year": null,
+            "note": "This challenge is organized by the Foch Hospital, in partnership with the Health Data Hub and financed by the Banque Publique d’Investissement (Bpifrance) . The challenge is sponsored by the “Grand Défi: Improvement of medical diagnoses through Artificial Intelligence” program led by the French Secretariat General for Investment."
+        },
+        {
             "name": "Develop AI Safety Benchmarks",
             "url": "https://www.mlsafety.org/safebench?ref=mlcontests",
             "type": "📝 Design",

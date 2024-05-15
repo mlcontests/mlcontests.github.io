@@ -1,6 +1,22 @@
 {
     "data": [
         {
+            "name": "Google API Developer Competition",
+            "url": "https://ai.google.dev/competition?ref=mlcontests",
+            "type": "Hackathon",
+            "tags": [
+                "Gen-AI"
+            ],
+            "launched": "14 May 2024",
+            "registration-deadline": "12 Aug 2025",
+            "deadline": "12 Aug 2025",
+            "prize": "$1,000,000",
+            "platform": "Independent",
+            "sponsor": "Google",
+            "conference": null,
+            "conference_year": null
+        },
+        {
             "name": "Develop AI Safety Benchmarks",
             "url": "https://www.mlsafety.org/safebench?ref=mlcontests",
             "type": "📝 Design",

@@ -1,15 +1,16 @@
 {
     "data": [
         {
-            "name": "Google API Developer Competition",
+            "name": "Build Apps using Google Gemini",
             "url": "https://ai.google.dev/competition?ref=mlcontests",
-            "type": "Hackathon",
+            "type": "💡 Product/Applied",
             "tags": [
-                "Gen-AI"
+                "generative",
+                "subjective"
             ],
             "launched": "14 May 2024",
-            "registration-deadline": "12 Aug 2025",
-            "deadline": "12 Aug 2025",
+            "registration-deadline": "12 Aug 2024",
+            "deadline": "12 Aug 2024",
             "prize": "$1,000,000",
             "platform": "Independent",
             "sponsor": "Google",

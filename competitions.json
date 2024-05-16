@@ -1,14 +1,15 @@
 {
     "data": [
         {
-            "name": "DigiLut : Lung Transplant Rejection Detection",
+            "name": "Lung Transplant Rejection Detection",
             "url": "https://www.trustii.io/post/join-the-digilut-challenge-advancing-lung-transplant-rejection-detection-1?ref=mlcontests",
-            "type": "✅ Supervised Learning",
+            "type": "📷 Computer Vision",
             "tags": [
                 "supervised",
                 "vision",
                 "medical",
-                "classification"
+                "classification",
+                "measurable"
             ],
             "launched": "31 May 2023",
             "deadline": "31 Jul 2023",

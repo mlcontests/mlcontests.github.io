@@ -9030,13 +9030,14 @@
             "sponsor": "ITU"
         },
         {
-            "name": "Melio MLOps Machine Translation Challenge",
+            "name": "MLOps:Machine Translation",
             "url": "https://zindi.africa/competitions/melio-mlops-competition?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-            "type": "🔤 NLP",
+            "type": "💡 Product/Applied",
             "tags": [
-                "supervised",
                 "deeplearning",
-                "nlp"
+                "nlp",
+                "translation",
+                "subjective"
                 ],
             "launched": "8 May 2024",
             "registration-deadline": "22 Jul 2024",
@@ -9046,7 +9047,7 @@
             "sponsor": "melio.ai, data354.com, uvci.edu.ci"
         },
         {
-            "name": "Specializing Large Language Models for Telecom Networks",
+            "name": "Specializing LLMs for Telecom Networks",
             "url": "https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
             "type": "🔤 NLP",
             "tags": [

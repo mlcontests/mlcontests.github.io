@@ -9064,13 +9064,16 @@
             "sponsor": "ITU, HUAWEI"
         },
         {
-            "name": "Algotester Machine Learning Contest",
+            "name": "Building Contour Detection in Satellite Imagery",
             "url": "https://algotester.com/mlc",
             "type": "📷 Computer Vision",
             "tags": [
                 "supervised",
                 "segmentation",
-                "deeplearning"
+                "vision",
+                "deeplearning",
+                "satellite",
+                "measurable"
                 ],
             "launched": "25 May 2024",
             "deadline": "9 Jun 2024",

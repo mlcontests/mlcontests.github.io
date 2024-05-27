@@ -9062,6 +9062,28 @@
             "prize": "$6,464",
             "platform": "Zindi",
             "sponsor": "ITU, HUAWEI"
+        },
+        {
+            "name": "Building Contour Detection in Satellite Imagery",
+            "url": "https://algotester.com/mlc",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "supervised",
+                "segmentation",
+                "vision",
+                "deeplearning",
+                "satellite",
+                "measurable"
+                ],
+            "launched": "25 May 2024",
+            "deadline": "9 Jun 2024",
+            "prize": "$8,300",
+            "platform": "Algotester",
+            "sponsor": "HUAWEI",
+            "additional_urls": [
+                "https://algotester.com/en/Contest/Display/110635",
+                "https://algotester.com/en/ContestProblem/DisplayWithFile/135254"
+            ]
         }
     ]
 }

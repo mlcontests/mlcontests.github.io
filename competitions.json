@@ -9084,6 +9084,22 @@
                 "https://algotester.com/en/Contest/Display/110635",
                 "https://algotester.com/en/ContestProblem/DisplayWithFile/135254"
             ]
+        },
+        {
+            "name": "Heart Disease Prediction Hackathon",
+            "url": "https://www.antigranular.com/competitions",
+            "type": "🕵 Privacy",
+            "tags": [
+                "privacy",
+                "classification",
+                "measurable",
+                "supervised"
+            ],
+            "launched": "24 May 2024",
+            "deadline": "24 Jul 2024",
+            "prize": "€4,500",
+            "platform": "Independent",
+            "sponsor": "",
         }
     ]
 }

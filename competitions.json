@@ -1,6 +1,26 @@
 {
     "data": [
         {
+            "name": "ModelScope-Sora Data Directors Creative Sprint",
+            "url": "https://tianchi.aliyun.com/competition/entrance/532219?ref=mlcontests",
+            "type": "📒 Data",
+            "tags": [
+                "data",
+                "llm",
+                "measurable",
+                "generative",
+                "multimodal"
+            ],
+            "additional_urls": [],
+            "launched": "1 Jun 2024",
+            "deadline": "14 Aug 2024",
+            "prize": "$6,800",
+            "platform": "Tianchi",
+            "sponsor": "ModelScope",
+            "conference": null,
+            "conference-year": null
+        },
+        {
             "name": "Build Apps using Google Gemini",
             "url": "https://ai.google.dev/competition?ref=mlcontests",
             "type": "💡 Product/Applied",

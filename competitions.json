@@ -9121,6 +9121,46 @@
             "prize": "$4,900",
             "platform": "Independent",
             "sponsor": ""
+        },
+        {
+            "name": "LLM 20 Questions",
+            "url": "https://www.kaggle.com/competitions/llm-20-questions?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "nlp",
+                "llm",
+                "generative",
+                "pvp",
+                "measurable"
+            ],
+            "launched": "15 May 2024",
+            "registration-deadline": "6 Aug 2024",
+            "deadline": "13 Aug 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Kaggle",
+            "conference": null,
+            "conference_year": null
+        },
+        {
+            "name": "Classify Lumbar Spine Degenerative Conditions from MRIs",
+            "url": "https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "supervised",
+                "measurable",
+                "vision",
+                "classification",
+                "medical"
+            ],
+            "launched": "17 May 2024",
+            "registration-deadline": "1 Oct 2024",
+            "deadline": "8 Oct 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "RSNA",
+            "conference": null,
+            "conference_year": null
         }
     ]
 }

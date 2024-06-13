@@ -1,6 +1,25 @@
     {
     "data": [
         {
+            "name": "ARC Prize 2024",
+            "url": "https://www.kaggle.com/competitions/arc-prize-2024?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "reasoning",
+                "supervised",
+                "measurable"
+            ],
+            "additional_urls": ["https://arcprize.org/?ref=mlcontests"],
+            "launched": "11 Jun 2024",
+            "registration-deadline": "3 Nov 2024",
+            "deadline": "10 Nov 2024",
+            "prize": "$600,000",
+            "platform": "Kaggle",
+            "sponsor": "Various",
+            "conference": null,
+            "conference-year": null
+       },
+        {
             "name": "Improve Fine-Tuning Datasets for Sora-like Models",
             "url": "https://tianchi.aliyun.com/competition/entrance/532219?ref=mlcontests",
             "type": "📒 Data",

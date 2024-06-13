@@ -3,16 +3,19 @@
         {
             "name": "ARC Prize 2024",
             "url": "https://www.kaggle.com/competitions/arc-prize-2024?ref=mlcontests",
-            "type": "supervised",
+            "type": "✅ Supervised Learning",
             "tags": [
+                "reasoning",
                 "supervised",
-                "classification",
+                "measurable"
             ],
+            "additional_urls": ["https://arcprize.org/?ref=mlcontests"],
             "launched": "11 Jun 2024",
-            "deadline": "3 Nov 2024",
-            "prize": "$1,00,000",
+            "registration-deadline": "3 Nov 2024",
+            "deadline": "10 Nov 2024",
+            "prize": "$600,000",
             "platform": "Kaggle",
-            "sponsor": null,
+            "sponsor": "Various",
             "conference": null,
             "conference-year": null
        },

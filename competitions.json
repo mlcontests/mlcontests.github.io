@@ -9180,6 +9180,22 @@
             "sponsor": "RSNA",
             "conference": null,
             "conference_year": null
+        },
+        {
+            "name": "Image Impeccable: Journey to Clarity",
+            "url": "https://thinkonward.com/app/c/challenges/image-impeccable?ref=mlc",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "deeplearning",
+                "supervised"
+            ],
+            "launched": "24 Jun 2024",
+            "registration-deadline": "18 Oct 2024",
+            "deadline": "18 Oct 2024",
+            "prize": "$20,000",
+            "platform": "Think Onward",
+            "sponsor": null
         }
     ]
 }

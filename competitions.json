@@ -1,6 +1,22 @@
     {
     "data": [
         {
+            "name": "Rohlik Orders Forecasting Challenge",
+            "url": "https://www.kaggle.com/competitions/rohlik-orders-forecasting-challenge?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "measurable"
+            ],
+            "launched": " 6 2024",
+            "registration-deadline": "9 Aug 2024",
+            "deadline": "23 Aug 2024",
+            "prize": "$12,000",
+            "platform": "Kaggle",
+            "sponsor": null,
+            "conference": null,
+            "conference-year": null
+       },
+        {
             "name": "ARC Prize 2024",
             "url": "https://www.kaggle.com/competitions/arc-prize-2024?ref=mlcontests",
             "type": "✅ Supervised Learning",

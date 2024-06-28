@@ -1,6 +1,26 @@
     {
     "data": [
         {
+            "name": "Identify Skin Cancers in 3D Photographs",
+            "url": "https://www.kaggle.com/competitions/isic-2024-challenge?ref=mlcontests",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "classification",
+                "medical",
+                "measurable",
+                "supervised"
+            ],
+            "launched": "27 Jun 2024",
+            "registration-deadline": "30 Aug 2024",
+            "deadline": "6 Sep 2024",
+            "prize": "$80,000",
+            "platform": "Kaggle",
+            "sponsor": "ISIC",
+            "conference": null,
+            "conference_year": null
+        },
+        {
             "name": "Forecast Grocery Order Volume",
             "url": "https://www.kaggle.com/competitions/rohlik-orders-forecasting-challenge?ref=mlcontests",
             "type": "📈 Time Series Forecasting",

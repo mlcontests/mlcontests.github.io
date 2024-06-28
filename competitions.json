@@ -3,16 +3,20 @@
         {
             "name": "Rohlik Orders Forecasting Challenge",
             "url": "https://www.kaggle.com/competitions/rohlik-orders-forecasting-challenge?ref=mlcontests",
-            "type": "✅ Supervised Learning",
+            "type": "📈 Time Series Forecasting",
             "tags": [
-                "measurable"
+                "measurable",
+                "supervised",
+                "forecasting",
+                "timeseries",
+                "regression"
             ],
-            "launched": " 6 2024",
+            "launched": " 6 Jun 2024",
             "registration-deadline": "9 Aug 2024",
             "deadline": "23 Aug 2024",
             "prize": "$12,000",
             "platform": "Kaggle",
-            "sponsor": null,
+            "sponsor": "Rohlik Group",
             "conference": null,
             "conference-year": null
        },

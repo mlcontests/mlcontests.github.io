@@ -1,7 +1,7 @@
     {
     "data": [
         {
-            "name": "Rohlik Orders Forecasting Challenge",
+            "name": "Forecast Grocery Order Volume",
             "url": "https://www.kaggle.com/competitions/rohlik-orders-forecasting-challenge?ref=mlcontests",
             "type": "📈 Time Series Forecasting",
             "tags": [

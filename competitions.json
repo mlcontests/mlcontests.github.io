@@ -1,6 +1,25 @@
     {
     "data": [
         {
+            "name": "Diagnose COVID-19 From Breath Samples",
+            "url": "https://bitgrit.net/competition/22?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "classification",
+                "medical",
+                "measurable"
+            ],
+            "launched": "5 Jul 2024",
+            "registration-deadline": "6 Sep 2024",
+            "deadline": "6 Sep 2024",
+            "prize": "$55,000",
+            "platform": "bitgrit",
+            "sponsor": "NASA",
+            "conference": null,
+            "conference_year": null
+        },
+        {
             "name": "Identify Skin Cancers in 3D Photographs",
             "url": "https://www.kaggle.com/competitions/isic-2024-challenge?ref=mlcontests",
             "type": "📷 Computer Vision",

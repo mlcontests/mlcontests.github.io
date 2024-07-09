@@ -9258,5 +9258,26 @@
             "platform": "Onward",
             "sponsor": null
         }
+        ,
+        {
+            "name": "Aerosol Optical Depth Estimation",
+            "url": "https://solafune.com/competitions/ca6ee401-eba9-4f7d-95e6-d1b378a17200?menu=about&tab=overview",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "vision",
+                "deeplearning",
+                "supervised",
+                "geo",
+                "regression",
+                "open",
+                "analysis",
+                "satellite"
+            ],
+            "launched": "8 Jul 2024",
+            "deadline": "31 Oct 2024",
+            "prize": "$12,000",
+            "platform": "Solafune",
+            "sponsor": null
+        }
     ]
 }

@@ -1,5 +1,41 @@
     {
     "data": [
+
+        {
+            "name": "ADRENALIN - BOPTEST Challenge: Smart building HVAC control",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/19660",
+            "type": " Smart controll",
+            "tags": [
+                "HVAC controll",
+                "smart building"
+            ],
+            "launched": "9 Jul 2024",
+            "deadline": "15 Sep 2024",
+            "prize": "€30,000",
+            "platform": "Codalab",
+            "additional_urls": ["https://adrenalin.energy"],
+            "sponsor": "AES Innovation, Synavision, Kiona",
+            "conference": null,
+            "conference_year": null
+        },
+        {
+            "name": "ADRENALIN - Load disaggregation Challenge: Energy use in buildings",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/19659",
+            "type": "Unsupervised learning",
+            "tags": [
+                "Energy load",
+                "Disaggregation",
+                "Unsupervised learning"
+            ],
+            "launched": "9 Jul 2024",
+            "deadline": "15 Sep 2024",
+            "prize": "€30,000",
+            "platform": "Codalab",
+            "additional_urls": ["https://adrenalin.energy"],
+            "sponsor": "EUDP, ReMoni",
+            "conference": null,
+            "conference_year": null
+        },
         {
             "name": "Diagnose COVID-19 From Breath Samples",
             "url": "https://bitgrit.net/competition/22?ref=mlcontests",

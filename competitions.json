@@ -9257,6 +9257,23 @@
             "prize": "$20,000",
             "platform": "Onward",
             "sponsor": null
+        },
+        {
+            "name": "Predict Building Classes From Load Profiles",
+            "url": "https://thinkonward.com/app/c/challenges/building-instinct?ref=mlc",
+            "type": "📈 Time Series Forecasting",
+            "tags": [
+                "supervised",
+                "classification",
+                "timeseries",
+                "measurable"
+            ],
+            "launched": "9 Jul 2024",
+            "registration-deadline": "2 Oct 2024",
+            "deadline": "2 Oct 2024",
+            "prize": "$15,000",
+            "platform": "Onward",
+            "sponsor": null
         }
         ,
         {

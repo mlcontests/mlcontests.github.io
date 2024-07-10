@@ -3,7 +3,7 @@
         {
             "name": "ADRENALIN - Load disaggregation Challenge: Energy use in buildings",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/19659",
-            "type": "Unsupervised Learning",
+            "type": "📈 Disaggregation",
             "tags": [
                 "unsupervised",
                 "disaggregation",
@@ -23,7 +23,7 @@
         {
             "name": "ADRENALIN - BOPTEST Challenge: Smart building HVAC control",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/19660",
-            "type": "Smart Contorl",
+            "type": "🔧 Smart Control",
             "tags": [
                 "smart control",
                 "HVAC systems",
@@ -39,11 +39,7 @@
             "sponsor": "AES Innovation, synavision, Kiona",
             "conference": null,
             "conference_year": null
-        },
-
-
-        
-        
+        },      
         {
             "name": "Diagnose COVID-19 From Breath Samples",
             "url": "https://bitgrit.net/competition/22?ref=mlcontests",

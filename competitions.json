@@ -1,6 +1,49 @@
     {
     "data": [
         {
+            "name": "Building Energy Use: Load Disaggregation",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/19659?ref=mlcontests",
+            "type": "📈 Disaggregation",
+            "tags": [
+                "unsupervised",
+                "disaggregation",
+                "building",
+                "energy",
+                "measurable",
+                "regression"
+            ],
+            "launched": "9 Jul 2024",
+            "additional_urls": ["https://adrenalin.energy"],
+            "registration-deadline": "15 Sep 2024",
+            "deadline": "29 Sep 2024",
+            "prize": "$32,500",
+            "platform": "CodaLab",
+            "sponsor": "EUDP, ReMoni",
+            "conference": null,
+            "conference_year": null
+        },
+        {
+            "name": "Smart Building HVAC Control",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/19660?ref=mlcontests",
+            "type": "🔧 Smart Control",
+            "tags": [
+                "control",
+                "HVAC",
+                "building",
+                "energy",
+                "measurable"                
+            ],
+            "launched": "9 Jul 2024",
+            "additional_urls": ["https://adrenalin.energy"],
+            "registration-deadline": "15 Sep 2024",
+            "deadline": "29 Sep 2024",
+            "prize": "$32,500",
+            "platform": "CodaLab",
+            "sponsor": "AES Innovation, synavision, Kiona",
+            "conference": null,
+            "conference_year": null
+        },      
+        {
             "name": "Diagnose COVID-19 From Breath Samples",
             "url": "https://bitgrit.net/competition/22?ref=mlcontests",
             "type": "✅ Supervised Learning",

@@ -1,41 +1,44 @@
     {
     "data": [
         {
-            "name": "ADRENALIN - Load disaggregation Challenge: Energy use in buildings",
-            "url": "https://codalab.lisn.upsaclay.fr/competitions/19659",
+            "name": "Building Energy Use: Load Disaggregation",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/19659?ref=mlcontests",
             "type": "📈 Disaggregation",
             "tags": [
                 "unsupervised",
                 "disaggregation",
                 "building",
-                "energy"
+                "energy",
+                "measurable",
+                "regression"
             ],
             "launched": "9 Jul 2024",
             "additional_urls": ["https://adrenalin.energy"],
             "registration-deadline": "15 Sep 2024",
             "deadline": "29 Sep 2024",
-            "prize": "€30,000",
-            "platform": "Codalab",
+            "prize": "$32,500",
+            "platform": "CodaLab",
             "sponsor": "EUDP, ReMoni",
             "conference": null,
             "conference_year": null
         },
         {
-            "name": "ADRENALIN - BOPTEST Challenge: Smart building HVAC control",
-            "url": "https://codalab.lisn.upsaclay.fr/competitions/19660",
+            "name": "Smart Building HVAC Control",
+            "url": "https://codalab.lisn.upsaclay.fr/competitions/19660?ref=mlcontests",
             "type": "🔧 Smart Control",
             "tags": [
-                "smart control",
-                "HVAC systems",
+                "control",
+                "HVAC",
                 "building",
-                "energy"
+                "energy",
+                "measurable"                
             ],
             "launched": "9 Jul 2024",
             "additional_urls": ["https://adrenalin.energy"],
             "registration-deadline": "15 Sep 2024",
             "deadline": "29 Sep 2024",
-            "prize": "€30,000",
-            "platform": "Codalab",
+            "prize": "$32,500",
+            "platform": "CodaLab",
             "sponsor": "AES Innovation, synavision, Kiona",
             "conference": null,
             "conference_year": null

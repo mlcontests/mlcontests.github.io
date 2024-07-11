@@ -9316,9 +9316,9 @@
                 "nlp"
                 ],
             "launched": "7 May 2024",
-            "registration-deadline": "6 Jul 2024",
-            "deadline": "6 Jul 2024",
-            "prize": "$6,464",
+            "registration-deadline": "26 Jul 2024",
+            "deadline": "26 Jul 2024",
+            "prize": "$6,500",
             "platform": "Zindi",
             "sponsor": "ITU, HUAWEI"
         },
@@ -9456,6 +9456,57 @@
             "prize": "$12,000",
             "platform": "Solafune",
             "sponsor": null
+        },
+        {
+            "name": "Ground-level NO2 Estimation",
+            "url": "https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "geo",
+                "regression"
+                ],
+            "launched": "22 May 2024",
+            "registration-deadline": "16 Nov 2024",
+            "deadline": "16 Nov 2024",
+            "prize": "$1,100",
+            "platform": "Zindi",
+            "sponsor": "ITU"
+        },
+        {
+            "name": "Agricultural Plastic Cover Mapping with Satellite Imagery",
+            "url": "https://zindi.africa/competitions/geoai-challenge-for-agricultural-plastic-cover-mapping-with-satellite-imagery?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "supervised",
+                "geo",
+                "satellite",
+                "classification",
+                "measurable"
+                ],
+            "launched": "12 Jun 2024",
+            "registration-deadline": "12 Nov 2024",
+            "deadline": "12 Nov 2024",
+            "prize": "$1,100",
+            "platform": "Zindi",
+            "sponsor": "ITU"
+        },
+        {
+            "name": "Learn Location Mention Recognition Challenge",
+            "url": "https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "🔤 NLP",
+            "tags": [
+                "supervised",
+                "deeplearning",
+                "nlp",
+                "measurable"
+                ],
+            "launched": "16 May 2024",
+            "registration-deadline": "19 Sep 2024",
+            "deadline": "19 Sep 2024",
+            "prize": "$5,000",
+            "platform": "Zindi",
+            "sponsor": "Microsoft/HBKU"
         }
     ]
 }

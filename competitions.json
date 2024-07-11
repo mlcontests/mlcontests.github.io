@@ -9338,6 +9338,19 @@
             "prize": "$12,000",
             "platform": "Solafune",
             "sponsor": null
+        },
+        {
+            "name": "The NASA Breath Diagnostics Challenge",
+            "url": "https://bitgrit.net/competition/22",
+            "type": "Tabular",
+            "tags": [
+                "classification"                
+            ],
+            "launched": "5 Jul 2024",
+            "deadline": "6 Sep 2024",
+            "prize": "$55,000",
+            "platform": "Bitgrit",
+            "sponsor": null
         }
     ]
 }

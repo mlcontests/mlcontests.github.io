@@ -1,6 +1,124 @@
     {
     "data": [
         {
+            "name": "ML for Computational Fluid Dynamics",
+            "url": "https://www.codabench.org/competitions/3282/?ref=mlcontests",
+            "type": "🔧 Engineering",
+            "tags": [
+                "science",
+                "engineering",
+                "simulation",
+                "supervised",
+                "measurable"
+            ],
+            "launched": "1 Jul 2024",
+            "registration-deadline": "14 Oct 2024",
+            "deadline": "14 Oct 2024",
+            "prize": "$8,700",
+            "platform": "Codabench",
+            "sponsor": "IRT SystemX, NVIDIA",
+            "conference": "NeurIPS",
+            "conference-year": 2024
+        },
+        {
+            "name": "Efficient LLMs Through Merging",
+            "url": "https://llm-merging.github.io/?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "nlp",
+                "research",
+                "efficiency",
+                "generative",
+                "llm",
+                "measurable"
+            ],
+            "launched": "1 Jul 2024",
+            "registration-deadline": "1 Sep 2024",
+            "deadline": "1 Sep 2024",
+            "prize": "$15,000",
+            "platform": "Independent",
+            "sponsor": "HuggingFace, Sakana, Arcee",
+            "conference": "NeurIPS",
+            "conference-year": 2024
+        },
+        {
+            "name": "Train LLMS For Edge Devices",
+            "url": "https://edge-llms-challenge.github.io/edge-llm-challenge.github.io/?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "nlp",
+                "research",
+                "efficiency",
+                "generative",
+                "llm",
+                "measurable"
+            ],
+            "launched": "25 Jun 2024",
+            "registration-deadline": "25 Aug 2024",
+            "deadline": "25 Oct 2024",
+            "prize": "$20,000",
+            "platform": "Independent",
+            "sponsor": "Huawei",
+            "conference": "NeurIPS",
+            "conference-year": 2024
+        },
+        {
+            "name": "Auto-Bidding In Large-Scale Auctions",
+            "url": "https://tianchi.aliyun.com/specials/promotion/neurips2024_alimama#/?lang=en_us?ref=mlcontests",
+            "type": "🤖 Reinforcement Learning",
+            "tags": [
+                "measurable",
+                "rl",
+                "game"
+            ],
+            "launched": "25 Jun 2024",
+            "registration-deadline": "24 Oct 2024",
+            "deadline": "24 Oct 2024",
+            "prize": "$30,000",
+            "platform": "Tianchi",
+            "sponsor": "Alibaba",
+            "conference": "NeurIPS",
+            "conference-year": 2024
+        },
+        {
+            "name": "Speech Enhancement",
+            "url": "https://urgent-challenge.github.io/urgent2024/?ref=mlcontests",
+            "type": "🔊 Audio",
+            "tags": [
+                "audio",
+                "supervised",
+                "measurable"
+            ],
+            "launched": "10 Jun 2024",
+            "registration-deadline": "20 Sep 2024",
+            "deadline": "20 Sep 2024",
+            "prize": null,
+            "platform": "CodaLab",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2024
+        },
+        {
+            "name": "Rainfall Prediction",
+            "url": "https://weather4cast.net/neurips2024/?ref=mlcontests",
+            "type": "📈 Time Series Forecasting",
+            "tags": [
+                "timeseries",
+                "weather",
+                "forecasting",
+                "supervised",
+                "measurable"
+            ],
+            "launched": "14 Jun 2024",
+            "registration-deadline": "6 Oct 2024",
+            "deadline": "6 Oct 2024",
+            "prize": null,
+            "platform": "Independent",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2024
+        },
+        {
             "name": "Building Energy Use: Load Disaggregation",
             "url": "https://codalab.lisn.upsaclay.fr/competitions/19659?ref=mlcontests",
             "type": "📈 Disaggregation",
@@ -274,12 +392,12 @@
             ],
             "launched": "4 Apr 2024",
             "registration-deadline": "1 Jul 2024",
-            "deadline": "8 Jul 2024",
+            "deadline": "2 Jul 2024",
             "prize": "$50,000",
             "platform": "Kaggle",
             "sponsor": "Leash Bio",
-            "conference": null,
-            "conference_year": null,
+            "conference": "NeurIPS",
+            "conference_year": 2024,
             "data-size": 58.01
         },
         {

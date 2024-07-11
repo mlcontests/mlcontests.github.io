@@ -9456,6 +9456,71 @@
             "prize": "$12,000",
             "platform": "Solafune",
             "sponsor": null
+        },
+        {
+            "name": "GeoAI Ground-level NO2 Estimation Challenge by ITU",
+            "url": "https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "geo",
+                "regression"
+                ],
+            "launched": "22 May 2024",
+            "registration-deadline": "16 Nov 2024",
+            "deadline": "16 Nov 2024",
+            "prize": "$1,120",
+            "platform": "Zindi",
+            "sponsor": "ITU"
+        },
+        {
+            "name": "GeoAI Agricultural Plastic Cover Mapping with Satellite Imagery",
+            "url": "https://zindi.africa/competitions/geoai-challenge-for-agricultural-plastic-cover-mapping-with-satellite-imagery?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "supervised",
+                "geo",
+                "classification"
+                ],
+            "launched": "12 Jun 2024",
+            "registration-deadline": "12 Nov 2024",
+            "deadline": "12 Nov 2024",
+            "prize": "$1,120",
+            "platform": "Zindi",
+            "sponsor": "ITU"
+        },
+        {
+            "name": "Specializing Large Language Models for Telecom Networks by ITU AI/ML in 5G Challenge",
+            "url": "https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "🔤 NLP",
+            "tags": [
+                "supervised",
+                "generative",
+                "deeplearning",
+                "nlp"
+                ],
+            "launched": "7 May 2024",
+            "registration-deadline": "27 Jul 2024",
+            "deadline": "27 Jul 2024",
+            "prize": "$6,530",
+            "platform": "Zindi",
+            "sponsor": "ITU"
+        },
+        {
+            "name": "Microsoft Learn Location Mention Recognition Challenge",
+            "url": "https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "🔤 NLP",
+            "tags": [
+                "supervised",
+                "deeplearning",
+                "nlp"
+                ],
+            "launched": "16 May 2024",
+            "registration-deadline": "19 Sep 2024",
+            "deadline": "19 Sep 2024",
+            "prize": "$5,000",
+            "platform": "Zindi",
+            "sponsor": "ITU"
         }
     ]
 }

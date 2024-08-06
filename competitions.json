@@ -9317,9 +9317,9 @@
                 "translation",
                 "subjective"
                 ],
-            "launched": "8 May 2024",
-            "registration-deadline": "22 Jul 2024",
-            "deadline": "22 Jul 2024",
+            "launched": "3 May 2024",
+            "registration-deadline": "19 Aug 2024",
+            "deadline": "1 Sep 2024",
             "prize": "$6,500",
             "platform": "Zindi",
             "sponsor": "melio.ai, data354.com, uvci.edu.ci"
@@ -9526,6 +9526,41 @@
             "prize": "$5,000",
             "platform": "Zindi",
             "sponsor": "Microsoft/HBKU"
+        },
+        {
+            "name": "Smart Energy Supply Scheduling for Green Telecom",
+            "url": "https://zindi.africa/competitions/smart-energy-supply-scheduling-for-green-telecom?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "🔧 Smart Control",
+            "tags": [
+                "supervised",
+                "measurable",
+                "control",
+                "climate",
+                "energy"
+                ],
+            "launched": "6 Aug 2024",
+            "registration-deadline": "30 Sep 2024",
+            "deadline": "30 Sep 2024",
+            "prize": "$21,000",
+            "platform": "Zindi",
+            "sponsor": "ITU"
+        },
+        {
+            "name": "Spatio-Temporal Beam-Level Traffic Forecasting",
+            "url": "https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+            "type": "📈 Time Series Forecasting",
+            "tags": [
+                "supervised",
+                "measurable",
+                "timeseries",
+                "forecasting"
+                ],
+            "launched": "24 Jul 2024",
+            "registration-deadline": "11 Oct 2024",
+            "deadline": "11 Oct 2024",
+            "prize": "$14,000",
+            "platform": "Zindi",
+            "sponsor": "ITU"
         }
     ]
 }

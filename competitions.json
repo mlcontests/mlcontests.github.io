@@ -1,17 +1,19 @@
     {
     "data": [
         {
-            "name": "Global Challenge for Safe and Secure LLMs",
+            "name": "Test and Improve Resilience of LLMs",
             "url": "https://aisingapore.org/global-challenge-for-safe-and-secure-llms/?ref=mlcontests",
             "type": "Cyber Security",
             "tags": [
                 "LLM",
-                "security"
+                "security",
+                "generative",
+                "measurable"
             ],
             "launched": "2 Jul 2024",
             "registration-deadline": "17 Sep 2024",
             "deadline": "17 Sep 2024",
-            "prize": "$1,22,500",
+            "prize": "$122,500",
             "platform": "AI Singapore",
             "sponsor": "CSA Singapore, DSTA",
             "conference": "Singapore International Cyber Week",

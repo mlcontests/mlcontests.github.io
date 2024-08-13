@@ -1,5 +1,25 @@
     {
     "data": [
+
+        {
+            "name": "NeurIPS - Ariel Data Challenge 2024",
+            "url": "https://www.ariel-datachallenge.space/",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "science",
+                "data",
+                "regression",
+                "multimodal"
+            ],
+            "launched": "1 Aug 2024",
+            "registration-deadline": "24 Oct 2024",
+            "deadline": "31 Oct 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "CNES, UKSA, ESA and Kaggle Competitions Research Grant",
+            "conference": "NeurIPS",
+            "conference-year": 2024
+        },
         {
             "name": "Test and Improve Resilience of LLMs",
             "url": "https://aisingapore.org/global-challenge-for-safe-and-secure-llms/?ref=mlcontests",

@@ -2,8 +2,8 @@
     "data": [
 
         {
-            "name": "NeurIPS - Ariel Data Challenge 2024",
-            "url": "https://www.ariel-datachallenge.space/",
+            "name": "Ariel Data Challenge 2024",
+            "url": "https://www.ariel-datachallenge.space/?ref=mlcontests",
             "type": "✅ Supervised Learning",
             "tags": [
                 "science",
@@ -14,9 +14,10 @@
             "launched": "1 Aug 2024",
             "registration-deadline": "24 Oct 2024",
             "deadline": "31 Oct 2024",
+            "additional_urls": ["https://www.kaggle.com/competitions/ariel-data-challenge-2024?ref=mlcontests"],
             "prize": "$50,000",
             "platform": "Kaggle",
-            "sponsor": "CNES, UKSA, ESA and Kaggle Competitions Research Grant",
+            "sponsor": "CNES, UKSA, ESA and Kaggle",
             "conference": "NeurIPS",
             "conference-year": 2024
         },

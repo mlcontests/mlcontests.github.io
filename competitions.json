@@ -1,6 +1,23 @@
     {
     "data": [
-
+        {
+            "name": "AI-driven Competitive Programming",
+            "url": "https://hackercupai.github.io/?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "generative",
+                "measurable",
+                "code"
+            ],
+            "launched": "24 Jul 2024",
+            "registration-deadline": "5 Oct 2024",
+            "deadline": "7 Dec 2024",
+            "prize": null,
+            "platform": "Meta Coding Competitions",
+            "sponsor": null,
+            "conference": "NeurIPS",
+            "conference-year": 2024
+        },
         {
             "name": "Ariel Data Challenge 2024",
             "url": "https://www.ariel-datachallenge.space/?ref=mlcontests",

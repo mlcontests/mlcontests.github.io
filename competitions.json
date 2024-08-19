@@ -1,6 +1,62 @@
     {
     "data": [
         {
+            "name": "LLM Privacy Challenge",
+            "url": "https://www.llmagentsafetycomp24.com/?ref=mlcontests",
+            "type": "🕵 Privacy",
+            "tags": [
+                "generative",
+                "measurable",
+                "privacy"
+            ],
+            "launched": "1 Jul 2024",
+            "registration-deadline": "1 Aug 2024",
+            "deadline": "1 Nov 2024",
+            "prize": "$5,000",
+            "platform": "Codabench",
+            "sponsor": "Center for AI Safety, together.ai",
+            "conference": "NeurIPS",
+            "conference-year": 2024
+        }, 
+        {
+            "name": "Dexterity and Agility in Bionic Humans",
+            "url": "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024?ref=mlcontests",
+            "type": "🤖 Reinforcement Learning",
+            "tags": [
+                "science",
+                "rl",
+                "robotics",
+                "measurable",
+                "control"
+            ],
+            "launched": "31 Jul 2024",
+            "registration-deadline": "31 Oct 2024",
+            "deadline": "31 Oct 2024",
+            "prize": null,
+            "platform": "TBD",
+            "sponsor": "TBD",
+            "conference": "NeurIPS",
+            "conference-year": 2024
+        },
+        {
+            "name": "LLM and Agent Safety",
+            "url": "https://www.llmagentsafetycomp24.com/?ref=mlcontests",
+            "type": "🕵 Safety",
+            "tags": [
+                "generative",
+                "measurable",
+                "safety"
+            ],
+            "launched": "31 Jul 2024",
+            "registration-deadline": "12 Oct 2024",
+            "deadline": "18 Oct 2024",
+            "prize": "$30,000",
+            "platform": "CodaLab",
+            "sponsor": "Virtue AI, together.ai",
+            "conference": "NeurIPS",
+            "conference-year": 2024
+        },
+        {
             "name": "AI-driven Competitive Programming",
             "url": "https://hackercupai.github.io/?ref=mlcontests",
             "type": "🔤 NLP",

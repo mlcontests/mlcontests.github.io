@@ -1,6 +1,25 @@
     {
     "data": [
         {
+            "name": "Predict Agent Performance in Two-Player Board Games",
+            "url": "https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants?ref=mlcontests",
+            "type": null,
+            "tags": [
+                "supervised",
+                "measurable",
+                "game",
+                "regression"
+            ],
+            "launched": "5 Sep 2024",
+            "registration-deadline": "25 Nov 2024",
+            "deadline": "2 Dec 2024",
+            "prize": "$50,000",
+            "platform": "Kaggle",
+            "sponsor": "Maastricht University",
+            "conference": null,
+            "conference_year": null
+        }
+        {
             "name": "LLM Privacy Challenge",
             "url": "https://www.llmagentsafetycomp24.com/?ref=mlcontests",
             "type": "🕵 Privacy",

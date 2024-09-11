@@ -1,6 +1,49 @@
     {
     "data": [
         {
+            "name": "Youth Mental Health Data Abstraction",
+            "url": "https://www.drivendata.org/competitions/295/cdc-automated-abstraction/?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "nlp",
+                "abstraction",
+                "medical",
+                "supervised",
+                "measurable"
+            ],
+            "additional_urls": [],
+            "launched": "11 Sep 2024",
+            "registration-deadline": "21 Nov 2024",
+            "deadline": "21 Nov 2024",
+            "prize": "$45,000",
+            "platform": "DrivenData",
+            "sponsor": "CDC NCIPC",
+            "conference": null,
+            "conference-year": null,
+            "data-size": null
+        },
+        {
+            "name": "Youth Mental Health Data Exploration",
+            "url": "https://www.drivendata.org/competitions/296/cdc-novel-variables/?ref=mlcontests",
+            "type": "📊 Analysis/Visualisation ",
+            "tags": [
+                "nlp",
+                "analysis",
+                "medical",
+                "subjective"
+            ],
+            "additional_urls": [],
+            "launched": "11 Sep 2024",
+            "registration-deadline": "21 Nov 2024",
+            "deadline": "21 Nov 2024",
+            "prize": "$25,000",
+            "platform": "DrivenData",
+            "sponsor": "CDC NCIPC",
+            "conference": null,
+            "conference-year": null,
+            "data-size": null
+        },
+        {
             "name": "Predict Agent Performance in Two-Player Board Games",
             "url": "https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants?ref=mlcontests",
             "type": "✅ Supervised Learning",

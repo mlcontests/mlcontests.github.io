@@ -3,7 +3,7 @@
         {
             "name": "Predict Agent Performance in Two-Player Board Games",
             "url": "https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants?ref=mlcontests",
-            "type": null,
+            "type": "✅ Supervised Learning",
             "tags": [
                 "supervised",
                 "measurable",

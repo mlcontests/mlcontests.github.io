@@ -1,6 +1,26 @@
     {
     "data": [
         {
+            "name": "WAVES: Image Watermark Removal",
+            "url": "https://erasinginvisible.github.io/?ref=mlcontests",
+            "type": "🛡️ Security",
+            "tags": [
+                "vision",
+                "security",
+                "measurable"
+            ],
+            "additional_urls": [],
+            "launched": "31 Jul 2024",
+            "registration-deadline": "5 Nov 2024",
+            "deadline": "5 Nov 2024",
+            "prize": "$6,000",
+            "platform": "Indepedent",
+            "sponsor": "UMIACS",
+            "conference": "NeurIPS",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
             "name": "Higgs Boson Decay: Signal Strength Uncertainty Quantification",
             "url": "https://www.codabench.org/competitions/2977/?ref=mlcontests",
             "type": "✅ Supervised Learning",

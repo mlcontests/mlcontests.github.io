@@ -1,6 +1,28 @@
     {
     "data": [
         {
+            "name": "Higgs Boson Decay: Signal Strength Uncertainty Quantification",
+            "url": "https://www.codabench.org/competitions/2977/?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "physics",
+                "science",
+                "uncertainty",
+                "supervised",
+                "measurable"
+            ],
+            "additional_urls": [],
+            "launched": "31 Aug 2024",
+            "registration-deadline": "2 Nov 2024",
+            "deadline": "2 Nov 2024",
+            "prize": "$4,000",
+            "platform": "Codabench",
+            "sponsor": "FAIR Universe",
+            "conference": "NeurIPS",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
             "name": "Youth Mental Health Data Abstraction",
             "url": "https://www.drivendata.org/competitions/295/cdc-automated-abstraction/?ref=mlcontests",
             "type": "🔤 NLP",

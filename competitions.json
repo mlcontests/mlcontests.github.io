@@ -1,6 +1,47 @@
     {
     "data": [
         {
+            "name": "Identify Misconceptions in Multiple-Choice Math Answers",
+            "url": "https://www.kaggle.com/competitions/eedi-mining-misconceptions-in-mathematics?ref=mlcontests",
+            "type": "🔤 NLP",
+            "tags": [
+                "education",
+                "nlp",
+                "measurable",
+                "supervised"
+            ],
+            "launched": "12 Sep 2024",
+            "registration-deadline": "5 Dec 2024",
+            "deadline": "12 Dec 2024",
+            "prize": "$55,000",
+            "platform": "Kaggle",
+            "sponsor": "The Learning Agency Lab, Gates Foundation, Schmidt Futures, Chan Zuckerberg Initiative",
+            "conference": null,
+            "conference_year": null,
+            "data-size": 0.00091134
+        },
+        {
+            "name": "Predict Problematic Internet Use in Children",
+            "url": "https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use?ref=mlcontests",
+            "type": "✅ Supervised Learning",
+            "tags": [
+                "medical",
+                "timeseries",
+                "class",
+                "measurable",
+                "supervised"
+            ],
+            "launched": "19 Sep 2024",
+            "registration-deadline": "12 Dec 2024",
+            "deadline": "19 Dec 2024",
+            "prize": "$60,000",
+            "platform": "Kaggle",
+            "sponsor": "Child Mind Institute, HCS, Dell, NVIDIA",
+            "conference": null,
+            "conference_year": null,
+            "data-size": 6.73
+        },
+        {
             "name": "Build cooperative language model agents",
             "url": "https://www.codabench.org/competitions/3888/?ref=mlcontests",
             "type": "🕵 Safety",

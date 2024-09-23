@@ -1,6 +1,28 @@
     {
     "data": [
         {
+            "name": "Build cooperative language model agents",
+            "url": "https://www.codabench.org/competitions/3888/?ref=mlcontests",
+            "type": "🕵 Safety",
+            "tags": [
+                "rl",
+                "safety",
+                "nlp",
+                "measurable",
+                "language"
+            ],
+            "additional_urls": ["https://www.cooperativeai.com/contests/concordia-2024"],
+            "launched": "17 Sep 2024",
+            "registration-deadline": "1 Nov 2024",
+            "deadline": "1 Nov 2024",
+            "prize": "$10,000",
+            "platform": "Codabench",
+            "sponsor": "Cooperative AI Foundation, Google DeepMind",
+            "conference": "NeurIPS",
+            "conference-year": 2024,
+            "data-size": null
+        },
+        {
             "name": "WAVES: Image Watermark Removal",
             "url": "https://erasinginvisible.github.io/?ref=mlcontests",
             "type": "🛡️ Security",

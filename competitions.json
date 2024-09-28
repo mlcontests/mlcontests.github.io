@@ -1,5 +1,30 @@
-    {
+{
     "data": [
+        {
+            "name": "ADIA Lab Causal Discovery Challenge",
+            "url": "https://hub.crunchdao.com/competitions/causality-discovery?ref=mlcontests",
+            "type": "️➡ Causal ML",
+            "prize": "$100,000",
+            "platform": "CrunchDAO",
+            "sponsor": "ADIA Lab",
+            "tags": [
+				"causal",
+				"supervised",
+				"unsupervised",
+				"tabular",
+				"forecasting",
+				"science",
+				"business",
+				"meta",
+				"analysis",
+				"optimisation",
+				"reasoning",
+				"graph"
+            ],
+            "launched": "1 Aug 2024",
+            "registration-deadline": "24 Oct 2024",
+            "deadline": "24 Oct 2024"
+        },
         {
             "name": "Identify Misconceptions in Multiple-Choice Math Answers",
             "url": "https://www.kaggle.com/competitions/eedi-mining-misconceptions-in-mathematics?ref=mlcontests",

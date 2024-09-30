@@ -9822,6 +9822,23 @@
             "prize": "$14,000",
             "platform": "Zindi",
             "sponsor": "ITU"
+        },
+        {
+            "name": "Dark side of the volume",
+            "url": "https://thinkonward.com/app/c/challenges/dark-side?ref=mlc",
+            "type": "📷 Computer Vision",
+            "tags": [
+                "segmentation",
+                "supervised",
+                "vision",
+                "generative"
+            ],
+            "launched": "2 Oct 2024",
+            "registration-deadline": "8 Jan 2025",
+            "deadline": "8 Jan 2025",
+            "prize": "$20,000",
+            "platform": "Think Onward",
+            "sponsor": null
         }
     ]
 }

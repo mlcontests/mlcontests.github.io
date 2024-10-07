@@ -1,6 +1,28 @@
     {
     "data": [
         {
+            "name": "Build a Secure and Local RAG System",
+            "url": "https://www.trustii.io/post/build-a-secure-and-flexible-retrieval-augmented-generation-rag-system",
+            "type": "🔤 NLP",
+            "tags": [
+                "nlp",
+                "language",
+                "supervised"
+            ],
+            "launched": "10 Oct 2024",
+            "deadline": "10 Nov 2024",
+            "prize": "$11,000",
+            "platform": "Trustii.io",
+            "sponsor": "Understand Tech",
+            "additional_urls": [
+                "https://app.trustii.io",
+                "https://app.understand.tech"
+            ],
+            "conference": null,
+            "conference_year": null,
+            "data-size": null
+        },
+        {
             "name": "Identify Misconceptions in Multiple-Choice Math Answers",
             "url": "https://www.kaggle.com/competitions/eedi-mining-misconceptions-in-mathematics?ref=mlcontests",
             "type": "🔤 NLP",

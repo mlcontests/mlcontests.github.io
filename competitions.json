@@ -1,6 +1,25 @@
 {
   "data": [
     {
+      "name": "Gemma LLM fine-tuning",
+      "url": "https://www.kaggle.com/competitions/gemma-language-tuning?ref=mlcontests",
+      "type": "🔤 NLP",
+      "tags": [
+        "llm",
+        "subjective",
+        "fine-tuning",
+        "multi-lingual"
+      ],
+      "launched": "3 Oct 2024",
+      "registration-deadline": "14 Jan 2025",
+      "deadline": "14 Jan 2025",
+      "prize": "$150,000",
+      "platform": "Kaggle",
+      "sponsor": "Google",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Build a Secure and Local RAG System",
       "url": "https://www.trustii.io/post/build-a-secure-and-flexible-retrieval-augmented-generation-rag-system",
       "type": "🔤 NLP",

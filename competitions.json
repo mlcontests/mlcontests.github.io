@@ -255,7 +255,7 @@
     },
     {
       "name": "Dexterity and Agility in Bionic Humans",
-      "url": "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024?ref=mlcontests",
+      "url": "https://eval.ai/web/challenges/challenge-page/2373/overview?ref=mlcontests",
       "type": "🤖 Reinforcement Learning",
       "tags": [
         "science",
@@ -264,12 +264,13 @@
         "measurable",
         "control"
       ],
+      "additional_urls": "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024?ref=mlcontests",
       "launched": "31 Jul 2024",
       "registration-deadline": "31 Oct 2024",
       "deadline": "31 Oct 2024",
       "prize": null,
-      "platform": "TBD",
-      "sponsor": "TBD",
+      "platform": "EvalAI",
+      "sponsor": "Google Cloud",
       "conference": "NeurIPS",
       "conference-year": 2024
     },

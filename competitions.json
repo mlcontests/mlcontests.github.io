@@ -1,6 +1,88 @@
 {
   "data": [
     {
+      "name": "AI Math Olympiad Progress Prize 2",
+      "url": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2?ref=mlcontests",
+      "type": "🧮 Mathematics",
+      "tags": [
+        "nlp",
+        "mathematics",
+        "measurable",
+        "supervised"
+      ],
+      "launched": "17 Oct 2024",
+      "registration-deadline": "25 Mar 2025",
+      "deadline": "1 Apr 2025",
+      "prize": "$2,117,152",
+      "platform": "Kaggle",
+      "sponsor": "XTX Markets",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "NFL Big Data Bowl 2025",
+      "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2025?ref=mlcontests",
+      "type": "📊 Analysis/Visualisation ",
+      "tags": [
+        "sports",
+        "analysis",
+        "subjective"
+      ],
+      "launched": "10 Oct 2024",
+      "registration-deadline": "8 Jan 2025",
+      "deadline": "8 Jan 2025",
+      "prize": "$100,000",
+      "platform": "Kaggle",
+      "sponsor": "The NFL",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Gemini Long Context",
+      "url": "https://www.kaggle.com/competitions/gemini-long-context?ref=mlcontests",
+      "type": "📊 Analysis/Visualisation ",
+      "tags": [
+        "nlp",
+        "generative",
+        "video generation",
+        "llm",
+        "subjective",
+        "analysis/visualisation"
+      ],
+      "launched": "17 Oct 2024",
+      "registration-deadline": "1 Dec 2024",
+      "deadline": "1 Dec 2024",
+      "prize": "$100,000",
+      "platform": "Kaggle",
+      "sponsor": "Google",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Real-Time Market Data Forecasting",
+      "url": "https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting?ref=mlcontests",
+      "type": "📈 Time Series Forecasting",
+      "tags": [
+        "finance",
+        "tabular",
+        "regression",
+        "custom metric",
+        "timeseries",
+        "forecasting",
+        "supervised",
+        "measurable"
+      ],
+      "launched": "14 Oct 2024",
+      "registration-deadline": "6 Jan 2025",
+      "deadline": "13 Jan 2025",
+      "prize": "$120,000",
+      "platform": "Kaggle",
+      "sponsor": "Jane Street",
+      "conference": null,
+      "conference_year": null,
+      "data-size": 12.3
+    },
+    {
       "name": "Gemma LLM fine-tuning",
       "url": "https://www.kaggle.com/competitions/gemma-language-tuning?ref=mlcontests",
       "type": "🔤 NLP",

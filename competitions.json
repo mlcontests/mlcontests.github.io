@@ -2548,7 +2548,7 @@
     },
         {
       "name": "Global Economic Forecast Hackathon",
-      "url": "https://www.antigranular.com/competitions/global-economic-forecast-hackathon-with-texas-a-m-aggie-data-science",
+      "url": "https://www.antigranular.com/competitions/global-economic-forecast-hackathon-with-texas-a-m-aggie-data-science?ref=mlcontests",
       "type": "🕵 Privacy",
       "tags": [
         "privacy",
@@ -2559,9 +2559,9 @@
       ],
       "launched": "8 Nov 2024",
       "deadline": "17 Dec 2024",
-      "prize": "€4,500",
+      "prize": "$4,750",
       "platform": "Antigranular",
-      "sponsor": ""
+      "sponsor": null
     },
     {
       "name": "LLM 20 Questions",

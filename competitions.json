@@ -1,6 +1,62 @@
 {
   "data": [
     {
+      "name": "Autoimmune Disease: Predict Unseen Genes",
+      "url": "https://hub.crunchdao.com/competitions/broad-2?ref=mlcontests",
+      "type": "📷 Computer Vision",
+      "tags": [
+        "supervised",
+        "regression",
+        "ranking",
+        "segmentation",
+        "vision",
+        "multimodal",
+        "science",
+        "medical",
+        "analysis",
+        "measurable",
+        "open",
+        "multiple",
+        "deep learning"
+      ],
+      "launched": "18 Nov 2024",
+      "registration-deadline": "31 Jan 2025",
+      "deadline": "31 Jan 2025",
+      "prize": "$12,000",
+      "platform": "CrunchDAO",
+      "sponsor": "Eric and Wendy Schmidt Center",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Autoimmune Disease: Predict Gene Expression From Images",
+      "url": "https://hub.crunchdao.com/competitions/broad-1?ref=mlcontests",
+      "type": "📷 Computer Vision",
+      "tags": [
+        "supervised",
+        "regression",
+        "ranking",
+        "segmentation",
+        "vision",
+        "multimodal",
+        "science",
+        "medical",
+        "analysis",
+        "measurable",
+        "open",
+        "multiple",
+        "deep learning"
+      ],
+      "launched": "28 Oct 2024",
+      "registration-deadline": "31 Jan 2025",
+      "deadline": "31 Jan 2025",
+      "prize": "$12,000",
+      "platform": "CrunchDAO",
+      "sponsor": "Eric and Wendy Schmidt Center",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "CytologIA Data Challenge - Advancing Hematological Diagnostics Through AI",
       "url": "https://www.trustii.io/post/announcing-the-cytologia-data-challenge-advancing-hematological-diagnostics-through-ai?ref=mlcontests",
       "type": "📷 Computer Vision",

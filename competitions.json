@@ -57,6 +57,30 @@
       "conference_year": null
     },
     {
+      "name": "CytologIA Data Challenge - Advancing Hematological Diagnostics Through AI",
+      "url": "https://www.trustii.io/post/announcing-the-cytologia-data-challenge-advancing-hematological-diagnostics-through-ai?ref=mlcontests",
+      "type": "📷 Computer Vision",
+      "tags": [
+        "supervised",
+        "vision",
+        "medical",
+        "classification",
+        "measurable"
+      ],
+      "launched": "25 Nov 2024",
+      "deadline": "06 Jan 2025",
+      "prize": "$25,000",
+      "platform": "Trustii.io",
+      "sponsor": "Various",
+      "additional_urls": [
+        "https://app.trustii.io",
+        "https://www.health-data-hub.fr/actualites/pre-inscriptions-au-data-challenge-cytologia"
+      ],
+      "conference": null,
+      "conference-year": null,
+      "note": "This challenge is organized by the French Cellular Hematology Group in partnership with Algoscope and Health Data Hub and financed by the Banque Publique d’Investissement (Bpifrance) . The challenge is sponsored by the “Grand Défi: Improvement of medical diagnoses through Artificial Intelligence” program led by the French Secretariat General for Investment."
+    },
+    {
       "name": "AI Math Olympiad Progress Prize 2",
       "url": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2?ref=mlcontests",
       "type": "🧮 Mathematics",
@@ -2601,6 +2625,23 @@
       "prize": "$4,900",
       "platform": "Antigranular",
       "sponsor": ""
+    },
+        {
+      "name": "Global Economic Forecast Hackathon",
+      "url": "https://www.antigranular.com/competitions/global-economic-forecast-hackathon-with-texas-a-m-aggie-data-science?ref=mlcontests",
+      "type": "🕵 Privacy",
+      "tags": [
+        "privacy",
+        "classification",
+        "measurable",
+        "supervised",
+        "security"
+      ],
+      "launched": "8 Nov 2024",
+      "deadline": "17 Dec 2024",
+      "prize": "$4,750",
+      "platform": "Antigranular",
+      "sponsor": null
     },
     {
       "name": "LLM 20 Questions",

@@ -2840,6 +2840,25 @@
       "prize": "$20,000",
       "platform": "Think Onward",
       "sponsor": null
+    },
+    {
+      "name": "Identifying Deforestation Drivers",
+      "url": "https://solafune.com/competitions/68ad4759-4686-4bb3-94b8-7063f755b43d?menu=about&tab=overview&ref=mlcontests",
+      "type": "📷 Computer Vision",
+      "tags": [
+        "vision",
+        "deeplearning",
+        "supervised",
+        "geo",
+        "classification",
+        "analysis",
+        "satellite"
+      ],
+      "launched": "28 Nov 2024",
+      "deadline": "28 Feb 2025",
+      "prize": "$12,000",
+      "platform": "Solafune",
+      "sponsor": null
     }
   ]
 }

@@ -2840,6 +2840,30 @@
       "prize": "$20,000",
       "platform": "Think Onward",
       "sponsor": null
+    },
+    {
+      "name": "Inundata: Mapping Floods in South Africa",
+      "url": "https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa",
+      "type": "Classification",
+      "tags": [
+        "supervised",
+        "classification",
+        "prediction",
+        "images",
+        "multimodal",
+        "science",
+        "analysis",
+        "open",
+        "multiple"
+      ],
+      "launched": "15 Nov 2024",
+      "registration-deadline": "16 Feb 2025",
+      "deadline": "16 Feb 2025",
+      "prize": "$10,000",
+      "platform": "Zindi",
+      "sponsor": "Google DeepMind, South African Environmental Observation Network(SAEON) and South African Risk and Vulnerability Atlas(SARVA)",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

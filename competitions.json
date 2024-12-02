@@ -2947,6 +2947,89 @@
       "prize": "$12,000",
       "platform": "Solafune",
       "sponsor": null
+    },
+    {
+    "name": "Find Biological Structures in 3D Volumes",
+    "url": "https://www.kaggle.com/competitions/czii-cryo-et-object-identification?ref=mlcontests",
+    "type": "📷 Computer Vision",
+    "tags": [
+        "vision",
+        "supervised",
+        "measurable",
+        "biology",
+        "image",
+        "object detection",
+        "custom metric"
+    ],
+    "launched": "6 Nov 2024",
+    "registration-deadline": "29 Jan 2025",
+    "deadline": "5 Feb 2025",
+    "prize": "$75,000",
+    "platform": "Kaggle",
+    "sponsor": "CZ Imaging Institute",
+    "conference": null,
+    "conference_year": null
+    },
+    {
+    "name": "Re-order Text to Minimise Perplexity",
+    "url": "https://www.kaggle.com/competitions/santa-2024?ref=mlcontests",
+    "type": "🔤 NLP",
+    "tags": [
+        "optimization",
+        "holidays and cultural events",
+        "custom metric",
+        "measurable",
+        "nlp",
+        "llm"
+    ],
+    "launched": "21 Nov 2024",
+    "registration-deadline": "24 Jan 2025",
+    "deadline": "31 Jan 2025",
+    "prize": "$50,000",
+    "platform": "Kaggle",
+    "sponsor": null,
+    "conference": null,
+    "conference_year": null
+    },
+    {
+    "name": "Predict Human Preferences on Multi-lingual Chatbots",
+    "url": "https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena?ref=mlcontests",
+    "type": "🔤 NLP",
+    "tags": [
+        "nlp",
+        "classification",
+        "languages",
+        "text conversation",
+        "accuracy score"
+    ],
+    "launched": "18 Nov 2024",
+    "registration-deadline": "27 Jan 2025",
+    "deadline": "3 Feb 2025",
+    "prize": "$50,000",
+    "platform": "Kaggle",
+    "sponsor": "Chatbot Arena",
+    "conference": null,
+    "conference_year": null
+    },
+    {
+    "name": "Create Efficient Chess Bots",
+    "url": "https://www.kaggle.com/competitions/fide-google-efficiency-chess-ai-challenge?ref=mlcontests",
+    "type": "🤖 Reinforcement Learning",
+    "tags": [
+        "board games",
+        "reinforcement learning",
+        "simulations",
+        "custom metric",
+        "measurable"
+    ],
+    "launched": "18 Nov 2024",
+    "registration-deadline": "4 Feb 2025",
+    "deadline": "11 Feb 2025",
+    "prize": "$50,000",
+    "platform": "Kaggle",
+    "sponsor": "Fédération Internationale des Echecs (FIDE)",
+    "conference": null,
+    "conference_year": null
     }
   ]
 }

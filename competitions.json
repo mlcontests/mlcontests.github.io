@@ -2842,8 +2842,8 @@
       "sponsor": null
     },
     {
-      "name": "Inundata: Mapping Floods in South Africa",
-      "url": "https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa",
+      "name": "Map Flash Floods in South Africa",
+      "url": "https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa?ref=mlcontests",
       "type": "✅ Supervised Learning",
       "tags": [
         "supervised",
@@ -2865,8 +2865,8 @@
       "conference_year": null
     },
     {
-      "name": "Ghana Crop Disease Detection Challenge",
-      "url": "https://zindi.africa/competitions/ghana-crop-disease-detection-challenge",
+      "name": "Identify Diseases on Crops",
+      "url": "https://zindi.africa/competitions/ghana-crop-disease-detection-challenge?ref=mlcontests",
       "type": "📷 Computer Vision",
       "tags": [
         "supervised",
@@ -2888,8 +2888,8 @@
       "conference_year": null
     },
     {
-      "name": "Telangana Crop Health Challenge",
-      "url": "https://zindi.africa/competitions/telangana-crop-health-challenge",
+      "name": "Predict Health Status of Crops",
+      "url": "https://zindi.africa/competitions/telangana-crop-health-challenge?ref=mlcontests",
       "type": "✅ Supervised Learning",
       "tags": [
         "supervised",
@@ -2902,15 +2902,15 @@
       "launched": "08 Nov 2024",
       "registration-deadline": "09 Feb 2025",
       "deadline": "09 Feb 2025",
-      "prize": "€6,900",
+      "prize": "$6,900",
       "platform": "Zindi",
       "sponsor": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
       "conference": null,
       "conference_year": null
     },
     {
-      "name": "African Credit Scoring Challenge",
-      "url": "https://zindi.africa/competitions/african-credit-scoring-challenge",
+      "name": "Predict Customer Loan Defaults",
+      "url": "https://zindi.africa/competitions/african-credit-scoring-challenge?ref=mlcontests",
       "type": "✅ Supervised Learning",
       "tags": [
         "supervised",
@@ -2925,9 +2925,28 @@
       "deadline": "12 Jan 2025",
       "prize": "$5,000",
       "platform": "Zindi",
-      "sponsor": "The Client",
+      "sponsor": null,
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Identifying Deforestation Drivers",
+      "url": "https://solafune.com/competitions/68ad4759-4686-4bb3-94b8-7063f755b43d?menu=about&tab=overview&ref=mlcontests",
+      "type": "📷 Computer Vision",
+      "tags": [
+        "vision",
+        "deeplearning",
+        "supervised",
+        "geo",
+        "classification",
+        "analysis",
+        "satellite"
+      ],
+      "launched": "28 Nov 2024",
+      "deadline": "28 Feb 2025",
+      "prize": "$12,000",
+      "platform": "Solafune",
+      "sponsor": null
     }
   ]
 }

@@ -2844,7 +2844,7 @@
     {
       "name": "Inundata: Mapping Floods in South Africa",
       "url": "https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa",
-      "type": "Classification",
+      "type": "✅ Supervised Learning",
       "tags": [
         "supervised",
         "classification",
@@ -2862,6 +2862,73 @@
       "prize": "$10,000",
       "platform": "Zindi",
       "sponsor": "Google DeepMind",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Ghana Crop Disease Detection Challenge",
+      "url": "https://zindi.africa/competitions/ghana-crop-disease-detection-challenge",
+      "type": "📷 Computer Vision",
+      "tags": [
+        "supervised",
+        "classification",
+        "object detection",
+        "images",
+        "agriculture",
+        "biology",
+        "food safety",
+        "open",
+        "multiple"
+      ],
+      "launched": "04 Oct 2024",
+      "registration-deadline": "15 Dec 2024",
+      "deadline": "15 Dec 2024",
+      "prize": "$8,000",
+      "platform": "Zindi",
+      "sponsor": "FAIR Forward, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Telangana Crop Health Challenge",
+      "url": "https://zindi.africa/competitions/telangana-crop-health-challenge",
+      "type": "✅ Supervised Learning",
+      "tags": [
+        "supervised",
+        "classification"
+        "agriculture",
+        "food safety",
+        "policy",
+        "open",
+        "multiple"
+      ],
+      "launched": "08 Nov 2024",
+      "registration-deadline": "09 Feb 2025",
+      "deadline": "09 Feb 2025",
+      "prize": "€6,900",
+      "platform": "Zindi",
+      "sponsor": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "African Credit Scoring Challenge",
+      "url": "https://zindi.africa/competitions/african-credit-scoring-challenge",
+      "type": "✅ Supervised Learning",
+      "tags": [
+        "supervised",
+        "classification"
+        "financial service",
+        "policy",
+        "open",
+        "multiple"
+      ],
+      "launched": "29 Nov 2024",
+      "registration-deadline": "12 Jan 2025",
+      "deadline": "12 Jan 2025",
+      "prize": "$5,000",
+      "platform": "Zindi",
+      "sponsor": "The Client",
       "conference": null,
       "conference_year": null
     }

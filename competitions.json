@@ -3030,6 +3030,27 @@
     "sponsor": "Fédération Internationale des Echecs (FIDE)",
     "conference": null,
     "conference_year": null
-    }
+    },
+    {
+      "name": "Create Adversarial Essays for LLM Judges",
+      "url": "https://www.kaggle.com/competitions/llms-you-cant-please-them-all?ref=mlcontests",
+      "type": "🔤 NLP",
+      "tags": [
+          "statistical analysis",
+          "text generation",
+          "custom metric",
+          "generative",
+          "nlp",
+          "measurable"
+      ],
+      "launched": "3 Dec 2024",
+      "registration-deadline": "25 Feb 2025",
+      "deadline": "4 Mar 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+  }
   ]
 }

@@ -81,6 +81,25 @@
       "note": "This challenge is organized by the French Cellular Hematology Group in partnership with Algoscope and Health Data Hub and financed by the Banque Publique d’Investissement (Bpifrance) . The challenge is sponsored by the “Grand Défi: Improvement of medical diagnoses through Artificial Intelligence” program led by the French Secretariat General for Investment."
     },
     {
+      "name": "Lux AI Season 3",
+      "url": "https://www.kaggle.com/competitions/lux-ai-season-3?ref=mlcontests",
+      "type": "🤖 Reinforcement Learning",
+      "tags": [
+        "rl",
+        "game",
+        "pvp",
+        "measurable"
+      ],
+      "launched": "9 Dec 2024",
+      "registration-deadline": "3 Mar 2025",
+      "deadline": "10 Mar 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": null,
+      "conference": "NeurIPS",
+      "conference_year": 2024
+    },
+    {
       "name": "AI Math Olympiad Progress Prize 2",
       "url": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2?ref=mlcontests",
       "type": "🧮 Mathematics",

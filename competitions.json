@@ -2949,6 +2949,48 @@
       "conference_year": null
     },
     {
+      "name": "Kuyesera AI Disaster Damage and Displacement Challenge",
+      "url": "https://zindi.africa/competitions/kuyesera-ai-disaster-damage-and-displacement-challenge",
+      "type": "✅ Supervised Learning",
+      "tags": [
+        "supervised",
+        "classification",
+        "object detection",
+        "policy",
+        "open",
+        "multiple"
+      ],
+      "launched": "06 Dec 2024",
+      "registration-deadline": "31 Jan 2025",
+      "deadline": "31 Jan 2025",
+      "prize": "$12,500 + AWS Credits",
+      "platform": "Zindi",
+      "sponsor": "AWS(aws.amazon.com)",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "SUA Outsmarting Outbreaks Challenge",
+      "url": "https://zindi.africa/competitions/outsmarting-outbreaks-challenge",
+      "type": "✅ Supervised Learning",
+      "tags": [
+        "supervised",
+        "prediction",
+        "health",
+        "policy",
+        "open",
+        "multiple"
+      ],
+      "launched": "06 Dec 2024",
+      "registration-deadline": "31 Jan 2025",
+      "deadline": "31 Jan 2025",
+      "prize": "$12,500 + AWS Credits",
+      "platform": "Zindi",
+      "sponsor": "AWS(aws.amazon.com)",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Identifying Deforestation Drivers",
       "url": "https://solafune.com/competitions/68ad4759-4686-4bb3-94b8-7063f755b43d?menu=about&tab=overview&ref=mlcontests",
       "type": "📷 Computer Vision",

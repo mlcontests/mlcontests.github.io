@@ -2914,7 +2914,7 @@
       "type": "✅ Supervised Learning",
       "tags": [
         "supervised",
-        "classification"
+        "classification",
         "financial service",
         "policy",
         "open",
@@ -2930,7 +2930,6 @@
       "conference_year": null
     },
     {
-<<<<<<< HEAD
       "name": "Kuyesera AI Disaster Damage and Displacement Challenge",
       "url": "https://zindi.africa/competitions/kuyesera-ai-disaster-damage-and-displacement-challenge",
       "type": "✅ Supervised Learning",
@@ -2971,7 +2970,8 @@
       "sponsor": "AWS(aws.amazon.com)",
       "conference": null,
       "conference_year": null
-=======
+    },
+    {
       "name": "Identifying Deforestation Drivers",
       "url": "https://solafune.com/competitions/68ad4759-4686-4bb3-94b8-7063f755b43d?menu=about&tab=overview&ref=mlcontests",
       "type": "📷 Computer Vision",
@@ -2989,7 +2989,6 @@
       "prize": "$12,000",
       "platform": "Solafune",
       "sponsor": null
->>>>>>> 88a91a47feedbf7ccfa6d71390f224af35cdfa45
     }
   ]
 }

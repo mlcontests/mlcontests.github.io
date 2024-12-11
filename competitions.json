@@ -1,6 +1,34 @@
 {
   "data": [
     {
+      "name": "Autoimmune Disease: Identifying Gene",
+      "url": "https://hub.crunchdao.com/competitions/broad-3?ref=mlcontests",
+      "type": "📷 Computer Vision",
+      "tags": [
+        "supervised",
+        "regression",
+        "ranking",
+        "segmentation",
+        "vision",
+        "multimodal",
+        "science",
+        "medical",
+        "analysis",
+        "measurable",
+        "open",
+        "multiple",
+        "deep learning"
+      ],
+      "launched": "9 Dec 2024",
+      "registration-deadline": "31 Jan 2025",
+      "deadline": "31 Jan 2025",
+      "prize": "$26,000",
+      "platform": "CrunchDAO",
+      "sponsor": "Eric and Wendy Schmidt Center",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Autoimmune Disease: Predict Unseen Genes",
       "url": "https://hub.crunchdao.com/competitions/broad-2?ref=mlcontests",
       "type": "📷 Computer Vision",

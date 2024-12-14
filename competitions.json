@@ -3070,6 +3070,26 @@
       "sponsor": null,
       "conference": null,
       "conference_year": null
-  }
+    },
+    {
+      "name": "Core Values: A Geological Quest",
+      "url": "https://thinkonward.com/app/c/challenges/core-values?ref=mlc",
+      "type": "📷 Image Classification",
+      "tags": [
+        "segmentation",
+        "vision",
+        "deeplearning",
+        "classification",
+        "science"
+      ],
+      "launched": "18 Dec 2024",
+      "registration-deadline": "14 Feb 2025",
+      "deadline": "14 Feb 2025",
+      "prize": "$30,000",
+      "platform": "Think Onward",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    }
   ]
 }

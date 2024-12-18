@@ -2949,6 +2949,52 @@
       "conference_year": null
     },
     {
+      "name": "Detect Cyclone Damage in Satellite Data",
+      "url": "https://zindi.africa/competitions/kuyesera-ai-disaster-damage-and-displacement-challenge?ref=mlcontests",
+      "type": "✅ Supervised Learning",
+      "tags": [
+        "supervised",
+        "classification",
+        "object detection",
+        "policy",
+        "open",
+        "multiple",
+        "satellite",
+        "measurable"
+      ],
+      "launched": "06 Dec 2024",
+      "registration-deadline": "31 Jan 2025",
+      "deadline": "31 Jan 2025",
+      "prize": "$12,500",
+      "platform": "Zindi",
+      "sponsor": "AWS",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Predict Waterborne Disease Outbreaks",
+      "url": "https://zindi.africa/competitions/outsmarting-outbreaks-challenge?ref=mlcontests",
+      "type": "✅ Supervised Learning",
+      "tags": [
+        "supervised",
+        "prediction",
+        "health",
+        "policy",
+        "open",
+        "multiple",
+        "measurable",
+        "regression"
+      ],
+      "launched": "06 Dec 2024",
+      "registration-deadline": "31 Jan 2025",
+      "deadline": "31 Jan 2025",
+      "prize": "$12,500",
+      "platform": "Zindi",
+      "sponsor": "AWS",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Identifying Deforestation Drivers",
       "url": "https://solafune.com/competitions/68ad4759-4686-4bb3-94b8-7063f755b43d?menu=about&tab=overview&ref=mlcontests",
       "type": "📷 Computer Vision",

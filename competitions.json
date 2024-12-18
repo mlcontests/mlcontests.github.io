@@ -3144,6 +3144,47 @@
       "sponsor": null,
       "conference": null,
       "conference_year": null
-  }
+  },
+    {
+      "name": "Predict HCT Transplant Survival Rates",
+      "url": "https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions?ref=mlcontests",
+      "type": "✅ Supervised Learning",
+      "tags": [
+        "healthcare",
+        "survey analysis",
+        "custom metric",
+        "classification",
+        "supervised",
+        "measurable"
+      ],
+      "launched": "4 Dec 2024",
+      "registration-deadline": "26 Feb 2025",
+      "deadline": "5 Mar 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "CIBMTR",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Build a Model That Solves Real GitHub Issues",
+      "url": "https://www.kaggle.com/competitions/konwinski-prize?ref=mlcontests",
+      "type": "🔤 NLP",
+      "tags": [
+        "computer science",
+        "custom metric",
+        "generative",
+        "measurable",
+        "llm"
+      ],
+      "launched": "12 Dec 2024",
+      "registration-deadline": "5 Mar 2025",
+      "deadline": "12 Mar 2025",
+      "prize": "$1,225,000",
+      "platform": "Kaggle",
+      "sponsor": "Andy Konwinski",
+      "conference": null,
+      "conference_year": null
+    }
   ]
 }

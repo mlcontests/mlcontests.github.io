@@ -2930,8 +2930,8 @@
       "conference_year": null
     },
     {
-      "name": "Kuyesera AI Disaster Damage and Displacement Challenge",
-      "url": "https://zindi.africa/competitions/kuyesera-ai-disaster-damage-and-displacement-challenge",
+      "name": "Detect Cyclone Damage in Satellite Data",
+      "url": "https://zindi.africa/competitions/kuyesera-ai-disaster-damage-and-displacement-challenge?ref=mlcontests",
       "type": "✅ Supervised Learning",
       "tags": [
         "supervised",
@@ -2939,20 +2939,22 @@
         "object detection",
         "policy",
         "open",
-        "multiple"
+        "multiple",
+        "satellite",
+        "measurable"
       ],
       "launched": "06 Dec 2024",
       "registration-deadline": "31 Jan 2025",
       "deadline": "31 Jan 2025",
-      "prize": "$12,500 + AWS Credits",
+      "prize": "$12,500",
       "platform": "Zindi",
-      "sponsor": "AWS(aws.amazon.com)",
+      "sponsor": "AWS",
       "conference": null,
       "conference_year": null
     },
     {
-      "name": "SUA Outsmarting Outbreaks Challenge",
-      "url": "https://zindi.africa/competitions/outsmarting-outbreaks-challenge",
+      "name": "Predict Waterborne Disease Outbreaks",
+      "url": "https://zindi.africa/competitions/outsmarting-outbreaks-challenge?ref=mlcontests",
       "type": "✅ Supervised Learning",
       "tags": [
         "supervised",
@@ -2960,14 +2962,16 @@
         "health",
         "policy",
         "open",
-        "multiple"
+        "multiple",
+        "measurable",
+        "regression"
       ],
       "launched": "06 Dec 2024",
       "registration-deadline": "31 Jan 2025",
       "deadline": "31 Jan 2025",
-      "prize": "$12,500 + AWS Credits",
+      "prize": "$12,500",
       "platform": "Zindi",
-      "sponsor": "AWS(aws.amazon.com)",
+      "sponsor": "AWS",
       "conference": null,
       "conference_year": null
     },

@@ -3072,7 +3072,7 @@
       "conference_year": null
     },
     {
-      "name": "Core Values: A Geological Quest",
+      "name": "Geological Image Segmentation",
       "url": "https://thinkonward.com/app/c/challenges/core-values?ref=mlc",
       "type": "📷 Image Classification",
       "tags": [
@@ -3080,7 +3080,9 @@
         "vision",
         "deeplearning",
         "classification",
-        "science"
+        "science",
+        "measurable",
+        "supervised"
       ],
       "launched": "18 Dec 2024",
       "registration-deadline": "14 Feb 2025",

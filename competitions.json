@@ -1,6 +1,34 @@
 {
   "data": [
     {
+      "name": "Autoimmune Disease: Identifying Gene",
+      "url": "https://hub.crunchdao.com/competitions/broad-3?ref=mlcontests",
+      "type": "📷 Computer Vision",
+      "tags": [
+        "supervised",
+        "regression",
+        "ranking",
+        "segmentation",
+        "vision",
+        "multimodal",
+        "science",
+        "medical",
+        "analysis",
+        "measurable",
+        "open",
+        "multiple",
+        "deep learning"
+      ],
+      "launched": "9 Dec 2024",
+      "registration-deadline": "31 Jan 2025",
+      "deadline": "31 Jan 2025",
+      "prize": "$26,000",
+      "platform": "CrunchDAO",
+      "sponsor": "Eric and Wendy Schmidt Center",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Autoimmune Disease: Predict Unseen Genes",
       "url": "https://hub.crunchdao.com/competitions/broad-2?ref=mlcontests",
       "type": "📷 Computer Vision",
@@ -2949,6 +2977,52 @@
       "conference_year": null
     },
     {
+      "name": "Detect Cyclone Damage in Satellite Data",
+      "url": "https://zindi.africa/competitions/kuyesera-ai-disaster-damage-and-displacement-challenge?ref=mlcontests",
+      "type": "✅ Supervised Learning",
+      "tags": [
+        "supervised",
+        "classification",
+        "object detection",
+        "policy",
+        "open",
+        "multiple",
+        "satellite",
+        "measurable"
+      ],
+      "launched": "06 Dec 2024",
+      "registration-deadline": "31 Jan 2025",
+      "deadline": "31 Jan 2025",
+      "prize": "$12,500",
+      "platform": "Zindi",
+      "sponsor": "AWS",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Predict Waterborne Disease Outbreaks",
+      "url": "https://zindi.africa/competitions/outsmarting-outbreaks-challenge?ref=mlcontests",
+      "type": "✅ Supervised Learning",
+      "tags": [
+        "supervised",
+        "prediction",
+        "health",
+        "policy",
+        "open",
+        "multiple",
+        "measurable",
+        "regression"
+      ],
+      "launched": "06 Dec 2024",
+      "registration-deadline": "31 Jan 2025",
+      "deadline": "31 Jan 2025",
+      "prize": "$12,500",
+      "platform": "Zindi",
+      "sponsor": "AWS",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Identifying Deforestation Drivers",
       "url": "https://solafune.com/competitions/68ad4759-4686-4bb3-94b8-7063f755b43d?menu=about&tab=overview&ref=mlcontests",
       "type": "📷 Computer Vision",
@@ -3090,6 +3164,47 @@
       "prize": "$30,000",
       "platform": "Think Onward",
       "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Predict HCT Transplant Survival Rates",
+      "url": "https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions?ref=mlcontests",
+      "type": "✅ Supervised Learning",
+      "tags": [
+        "healthcare",
+        "survey analysis",
+        "custom metric",
+        "classification",
+        "supervised",
+        "measurable"
+      ],
+      "launched": "4 Dec 2024",
+      "registration-deadline": "26 Feb 2025",
+      "deadline": "5 Mar 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "CIBMTR",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Build a Model That Solves Real GitHub Issues",
+      "url": "https://www.kaggle.com/competitions/konwinski-prize?ref=mlcontests",
+      "type": "🔤 NLP",
+      "tags": [
+        "computer science",
+        "custom metric",
+        "generative",
+        "measurable",
+        "llm"
+      ],
+      "launched": "12 Dec 2024",
+      "registration-deadline": "5 Mar 2025",
+      "deadline": "12 Mar 2025",
+      "prize": "$1,225,000",
+      "platform": "Kaggle",
+      "sponsor": "Andy Konwinski",
       "conference": null,
       "conference_year": null
     }

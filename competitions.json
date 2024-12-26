@@ -1,6 +1,48 @@
 {
   "data": [
     {
+      "name": "Token Recommendation on Base",
+      "url": "https://cryptopond.xyz/modelFactory/detail/55",
+      "type": "🛡️ Security",
+      "tags": [
+        "ranking",
+        "graph",
+        "measurable",
+        "finance",
+        "timeseries"
+      ],
+      "launched": "25 Dec 2024",
+      "registration-deadline": "13 Feb 2025",
+      "deadline": "13 Feb 2025",
+      "prize": "$7000",
+      "platform": "Pond",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Wallet Risk Scoring on Base",
+      "url": "https://cryptopond.xyz/modelFactory/detail/65",
+      "type": "🛡️ Security",
+      "tags": [
+        "supervised",
+        "classification",
+        "graph",
+        "measurable",
+        "finance",
+        "measurable",
+        "supervised"
+      ],
+      "launched": "19 Dec 2024",
+      "registration-deadline": "6 Feb 2025",
+      "deadline": "6 Feb 2025",
+      "prize": "$7000",
+      "platform": "Pond",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Autoimmune Disease: Identifying Gene",
       "url": "https://hub.crunchdao.com/competitions/broad-3?ref=mlcontests",
       "type": "📷 Computer Vision",

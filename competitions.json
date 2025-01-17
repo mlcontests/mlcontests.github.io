@@ -1,6 +1,34 @@
 {
   "data": [
     {
+      "name": "Autoimmune Disease: Identifying Gene",
+      "url": "https://hub.crunchdao.com/competitions/broad-3?ref=mlcontests",
+      "type": "📷 Computer Vision",
+      "tags": [
+        "supervised",
+        "regression",
+        "ranking",
+        "segmentation",
+        "vision",
+        "multimodal",
+        "science",
+        "medical",
+        "analysis",
+        "measurable",
+        "open",
+        "multiple",
+        "deep learning"
+      ],
+      "launched": "9 Dec 2024",
+      "registration-deadline": "31 Jan 2025",
+      "deadline": "31 Jan 2025",
+      "prize": "$26,000",
+      "platform": "CrunchDAO",
+      "sponsor": "Eric and Wendy Schmidt Center",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Autoimmune Disease: Predict Unseen Genes",
       "url": "https://hub.crunchdao.com/competitions/broad-2?ref=mlcontests",
       "type": "📷 Computer Vision",
@@ -79,6 +107,25 @@
       "conference": null,
       "conference-year": null,
       "note": "This challenge is organized by the French Cellular Hematology Group in partnership with Algoscope and Health Data Hub and financed by the Banque Publique d’Investissement (Bpifrance) . The challenge is sponsored by the “Grand Défi: Improvement of medical diagnoses through Artificial Intelligence” program led by the French Secretariat General for Investment."
+    },
+    {
+      "name": "Lux AI Season 3",
+      "url": "https://www.kaggle.com/competitions/lux-ai-season-3?ref=mlcontests",
+      "type": "🤖 Reinforcement Learning",
+      "tags": [
+        "rl",
+        "game",
+        "pvp",
+        "measurable"
+      ],
+      "launched": "9 Dec 2024",
+      "registration-deadline": "3 Mar 2025",
+      "deadline": "10 Mar 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": null,
+      "conference": "NeurIPS",
+      "conference_year": 2024
     },
     {
       "name": "AI Math Olympiad Progress Prize 2",
@@ -2893,7 +2940,7 @@
       "type": "✅ Supervised Learning",
       "tags": [
         "supervised",
-        "classification"
+        "classification",
         "agriculture",
         "food safety",
         "policy",
@@ -2902,7 +2949,7 @@
       "launched": "08 Nov 2024",
       "registration-deadline": "09 Feb 2025",
       "deadline": "09 Feb 2025",
-      "prize": "$6,900",
+      "prize": "$7,300",
       "platform": "Zindi",
       "sponsor": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
       "conference": null,
@@ -3012,6 +3059,171 @@
       "prize": "$1,300",
       "platform": "Zindi",
       "sponsor": "LELAPA AI",
+    },
+    {
+    "name": "Find Biological Structures in 3D Volumes",
+    "url": "https://www.kaggle.com/competitions/czii-cryo-et-object-identification?ref=mlcontests",
+    "type": "📷 Computer Vision",
+    "tags": [
+        "vision",
+        "supervised",
+        "measurable",
+        "biology",
+        "image",
+        "object detection",
+        "custom metric"
+    ],
+    "launched": "6 Nov 2024",
+    "registration-deadline": "29 Jan 2025",
+    "deadline": "5 Feb 2025",
+    "prize": "$75,000",
+    "platform": "Kaggle",
+    "sponsor": "CZ Imaging Institute",
+    "conference": null,
+    "conference_year": null
+    },
+    {
+    "name": "Re-order Text to Minimise Perplexity",
+    "url": "https://www.kaggle.com/competitions/santa-2024?ref=mlcontests",
+    "type": "🔤 NLP",
+    "tags": [
+        "optimization",
+        "holidays and cultural events",
+        "custom metric",
+        "measurable",
+        "nlp",
+        "llm"
+    ],
+    "launched": "21 Nov 2024",
+    "registration-deadline": "24 Jan 2025",
+    "deadline": "31 Jan 2025",
+    "prize": "$50,000",
+    "platform": "Kaggle",
+    "sponsor": null,
+    "conference": null,
+    "conference_year": null
+    },
+    {
+    "name": "Predict Human Preferences on Multi-lingual Chatbots",
+    "url": "https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena?ref=mlcontests",
+    "type": "🔤 NLP",
+    "tags": [
+        "nlp",
+        "classification",
+        "languages",
+        "text conversation",
+        "accuracy score"
+    ],
+    "launched": "18 Nov 2024",
+    "registration-deadline": "27 Jan 2025",
+    "deadline": "3 Feb 2025",
+    "prize": "$50,000",
+    "platform": "Kaggle",
+    "sponsor": "Chatbot Arena",
+    "conference": null,
+    "conference_year": null
+    },
+    {
+    "name": "Create Efficient Chess Bots",
+    "url": "https://www.kaggle.com/competitions/fide-google-efficiency-chess-ai-challenge?ref=mlcontests",
+    "type": "🤖 Reinforcement Learning",
+    "tags": [
+        "board games",
+        "reinforcement learning",
+        "simulations",
+        "custom metric",
+        "measurable"
+    ],
+    "launched": "18 Nov 2024",
+    "registration-deadline": "4 Feb 2025",
+    "deadline": "11 Feb 2025",
+    "prize": "$50,000",
+    "platform": "Kaggle",
+    "sponsor": "Fédération Internationale des Echecs (FIDE)",
+    "conference": null,
+    "conference_year": null
+    },
+    {
+      "name": "Create Adversarial Essays for LLM Judges",
+      "url": "https://www.kaggle.com/competitions/llms-you-cant-please-them-all?ref=mlcontests",
+      "type": "🔤 NLP",
+      "tags": [
+          "statistical analysis",
+          "text generation",
+          "custom metric",
+          "generative",
+          "nlp",
+          "measurable"
+      ],
+      "launched": "3 Dec 2024",
+      "registration-deadline": "25 Feb 2025",
+      "deadline": "4 Mar 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Geological Image Segmentation",
+      "url": "https://thinkonward.com/app/c/challenges/core-values?ref=mlc",
+      "type": "📷 Image Classification",
+      "tags": [
+        "segmentation",
+        "vision",
+        "deeplearning",
+        "classification",
+        "science",
+        "measurable",
+        "supervised"
+      ],
+      "launched": "18 Dec 2024",
+      "registration-deadline": "14 Feb 2025",
+      "deadline": "14 Feb 2025",
+      "prize": "$30,000",
+      "platform": "Think Onward",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Predict HCT Transplant Survival Rates",
+      "url": "https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions?ref=mlcontests",
+      "type": "✅ Supervised Learning",
+      "tags": [
+        "healthcare",
+        "survey analysis",
+        "custom metric",
+        "classification",
+        "supervised",
+        "measurable"
+      ],
+      "launched": "4 Dec 2024",
+      "registration-deadline": "26 Feb 2025",
+      "deadline": "5 Mar 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "CIBMTR",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Build a Model That Solves Real GitHub Issues",
+      "url": "https://www.kaggle.com/competitions/konwinski-prize?ref=mlcontests",
+      "type": "🔤 NLP",
+      "tags": [
+        "computer science",
+        "custom metric",
+        "generative",
+        "measurable",
+        "llm"
+      ],
+      "launched": "12 Dec 2024",
+      "registration-deadline": "5 Mar 2025",
+      "deadline": "12 Mar 2025",
+      "prize": "$1,225,000",
+      "platform": "Kaggle",
+      "sponsor": "Andy Konwinski",
       "conference": null,
       "conference_year": null
     }

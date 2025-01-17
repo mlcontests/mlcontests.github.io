@@ -3042,6 +3042,25 @@
       "sponsor": null
     },
     {
+      "name": "Build Efficient Language Models for Swahili and Hausa",
+      "url": "https://zindi.africa/competitions/lelapa-ai-buzuzu-mavi-challenge?ref=mlcontests",
+      "type": "✅ Supervised Learning",
+      "tags": [
+        "supervised",
+        "natural language processing",
+        "sentiment analysis",
+        "machine translation",
+        "research",
+        "measurable"
+      ],
+      "launched": "10 Jan 2025",
+      "registration-deadline": "6 Apr 2025",
+      "deadline": "6 Apr 2025",
+      "prize": "$1,300",
+      "platform": "Zindi",
+      "sponsor": "LELAPA AI"
+    },
+    {
     "name": "Find Biological Structures in 3D Volumes",
     "url": "https://www.kaggle.com/competitions/czii-cryo-et-object-identification?ref=mlcontests",
     "type": "📷 Computer Vision",

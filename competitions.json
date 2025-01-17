@@ -2995,7 +2995,7 @@
       "sponsor": null
     },
     {
-      "name": "Lelapa AI Buzuzu-Mavi Challenge",
+      "name": "Build Efficient Language Models for Swahili and Hausa",
       "url": "https://zindi.africa/competitions/lelapa-ai-buzuzu-mavi-challenge?ref=mlcontests",
       "type": "✅ Supervised Learning",
       "tags": [
@@ -3004,6 +3004,7 @@
         "sentiment analysis",
         "machine translation",
         "research",
+        "measurable",
       ],
       "launched": "10 Jan 2025",
       "registration-deadline": "6 Apr 2025",

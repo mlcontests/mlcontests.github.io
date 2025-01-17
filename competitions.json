@@ -2993,6 +2993,26 @@
       "prize": "$12,000",
       "platform": "Solafune",
       "sponsor": null
+    },
+    {
+      "name": "Lelapa AI Buzuzu-Mavi Challenge",
+      "url": "https://zindi.africa/competitions/lelapa-ai-buzuzu-mavi-challenge?ref=mlcontests",
+      "type": "✅ Supervised Learning",
+      "tags": [
+        "supervised",
+        "natural language processing",
+        "sentiment analysis",
+        "machine translation",
+        "research",
+      ],
+      "launched": "10 Jan 2025",
+      "registration-deadline": "6 Apr 2025",
+      "deadline": "6 Apr 2025",
+      "prize": "$1,300",
+      "platform": "Zindi",
+      "sponsor": "LELAPA AI",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

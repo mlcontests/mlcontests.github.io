@@ -3226,6 +3226,29 @@
       "sponsor": "Andy Konwinski",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Cassava Root Volume Estimation Challenge",
+      "url": "https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge?ref=mlcontests",
+      "type": "📷 Computer Vision",
+      "tags": [
+        "supervised",
+        "detection"
+        "health",
+        "policy",
+        "agriculture"
+        "open",
+        "multiple",
+        "measurable",
+      ],
+      "launched": "24 Jan 2025",
+      "registration-deadline": "9 Mar 2025",
+      "deadline": "9 Mar 2025",
+      "prize": "$15 000",
+      "platform": "Zindi",
+      "sponsor": "CGIAR",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

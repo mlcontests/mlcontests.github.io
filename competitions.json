@@ -2691,6 +2691,23 @@
       "sponsor": null
     },
     {
+      "name": "Fraud Detection Hackathon",
+      "url": "https://www.antigranular.com/competitions/fraud-detection-hackathon-with-privacy-village-dpd25fest?ref=mlcontests",
+      "type": "🕵 Privacy",
+      "tags": [
+        "privacy",
+        "classification",
+        "measurable",
+        "supervised",
+        "security"
+      ],
+      "launched": "28 Jan 2025",
+      "deadline": "28 Feb 2025",
+      "prize": "$4,670",
+      "platform": "Antigranular",
+      "sponsor": null
+    },
+    {
       "name": "LLM 20 Questions",
       "url": "https://www.kaggle.com/competitions/llm-20-questions?ref=mlcontests",
       "type": "🔤 NLP",

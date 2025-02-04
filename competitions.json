@@ -3265,11 +3265,18 @@
     }
     {
     "name": "Global Challenge for Safe and Secure LLMs Track 2", 
-    "url": "http://www.gcss.aisingapore.org",
-    "type": "safety",
-    "deadline": "11 FEB 2025",
-    "prize": "40 000 USD"
-    "platform": "Own platform"
+    "url": "http://gcss.aisingapore.org?ref=mlcontests",
+    "type": "🕵 Safety",
+    "tags": [
+        "llm",
+        "safety",
+        "nlp",
+        "measurable",
+        "language"
+      ],
+    "deadline": "11 Feb 2025",
+    "prize": "$70,000"
+    "platform": "AI Singapore"
     "sponsor": null,
     }
   ]

@@ -3263,5 +3263,14 @@
       "conference": null,
       "conference_year": null
     }
+    {
+    "name": "Global Challenge for Safe and Secure LLMs Track 2", 
+    "url": "http://www.gcss.aisingapore.org",
+    "type": "safety",
+    "deadline": "11 FEB 2025",
+    "prize": "40 000 USD"
+    "platform": "Own platform"
+    "sponsor": null,
+    }
   ]
 }

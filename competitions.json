@@ -3262,6 +3262,22 @@
       "sponsor": "CGIAR",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Dynamic Rhythms",
+      "url": "https://thinkonward.com/app/c/challenges/dynamic-rhythms?ref=mlcontests",
+      "type": "📈 Time Series Forecasting",
+      "tags": [
+        "supervised",
+        "timeseries",
+        "forecasting"
+      ],
+      "launched": "5 Feb 2025",
+      "registration-deadline": "1 May 2025",
+      "deadline": "1 May 2025",
+      "prize": "$20,000",
+      "platform": "Think Onward",
+      "sponsor": null
     }
   ]
 }

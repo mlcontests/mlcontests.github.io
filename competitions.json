@@ -3262,6 +3262,22 @@
       "sponsor": "CGIAR",
       "conference": null,
       "conference_year": null
+    },
+    {
+    "name": "Global Challenge for Safe and Secure LLMs Track 2", 
+    "url": "http://gcss.aisingapore.org?ref=mlcontests",
+    "type": "🕵 Safety",
+    "tags": [
+        "llm",
+        "safety",
+        "nlp",
+        "measurable",
+        "language"
+      ],
+    "deadline": "11 Feb 2025",
+    "prize": "$70,000",
+    "platform": "AI Singapore",
+    "sponsor": null
     }
   ]
 }

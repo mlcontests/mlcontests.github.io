@@ -3264,7 +3264,7 @@
       "conference_year": null
     },
     {
-      "name": "Dynamic Rhythms",
+      "name": "Predict Power Outages",
       "url": "https://thinkonward.com/app/c/challenges/dynamic-rhythms?ref=mlcontests",
       "type": "📈 Time Series Forecasting",
       "tags": [
@@ -3278,6 +3278,22 @@
       "prize": "$20,000",
       "platform": "Think Onward",
       "sponsor": null
+    },
+    {
+    "name": "Global Challenge for Safe and Secure LLMs Track 2", 
+    "url": "http://gcss.aisingapore.org?ref=mlcontests",
+    "type": "🕵 Safety",
+    "tags": [
+        "llm",
+        "safety",
+        "nlp",
+        "measurable",
+        "language"
+      ],
+    "deadline": "11 Feb 2025",
+    "prize": "$70,000",
+    "platform": "AI Singapore",
+    "sponsor": null
     }
   ]
 }

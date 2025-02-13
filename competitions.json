@@ -3245,6 +3245,44 @@
       "sponsor": "CGIAR",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Amini Cocoa Contamination Challenge",
+      "url": "https://zindi.africa/competitions/amini-cocoa-contamination-challenge?ref=mlcontests",
+      "type": "📷 Computer Vision",
+      "tags": [
+        "supervised",
+        "vision",
+        "segmentation",
+        "measurable"
+      ],
+      "launched": "14 Feb 2025",
+      "registration-deadline": "11 May 2025",
+      "deadline": "11 May 2025",
+      "prize": "$2,500",
+      "platform": "Zindi",
+      "sponsor": "Amini",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Lacuna Solar Survey Challenge",
+      "url": "https://zindi.africa/competitions/lacuna-solar-survey-challenge?ref=mlcontests",
+      "type": "📷 Computer Vision",
+      "tags": [
+        "supervised",
+        "vision",
+        "segmentation",
+        "measurable"
+      ],
+      "launched": "14 Feb 2025",
+      "registration-deadline": "24 Mar 2025",
+      "deadline": "24 Mar 2025",
+      "prize": "$5,000",
+      "platform": "Zindi",
+      "sponsor": "Lacuna Fund, MAIDI",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

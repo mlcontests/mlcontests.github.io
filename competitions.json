@@ -3333,6 +3333,25 @@
     "prize": "$70,000",
     "platform": "AI Singapore",
     "sponsor": null
-    }
+    },
+    {
+    "name": "Predict College Basketball Results",
+    "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2025?ref=mlcontests",
+    "type": null,
+    "tags": [
+        "sports",
+        "forecasting",
+        "supervised",
+        "measurable"
+    ],
+    "launched": "10 Feb 2025",
+    "registration-deadline": null,
+    "deadline": "20 Mar 2025",
+    "prize": "$50,000",
+    "platform": "Kaggle",
+    "sponsor": "Kaggle",
+    "conference": null,
+    "conference_year": null
+  }
   ]
 }

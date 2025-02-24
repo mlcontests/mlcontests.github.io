@@ -302,7 +302,7 @@
       "tags": [
         "medical",
         "timeseries",
-        "class",
+        "education",
         "measurable",
         "supervised"
       ],
@@ -1804,7 +1804,7 @@
       "tags": [
         "supervised",
         "classification",
-        "sport",
+        "sports",
         "measurable",
         "open"
       ],
@@ -2153,7 +2153,7 @@
       "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/?ref=mlcontests",
       "type": "📊 Analysis/Visualisation ",
       "tags": [
-        "sport",
+        "sports",
         "vision",
         "subjective",
         "analysis"
@@ -2969,7 +2969,7 @@
       "tags": [
         "supervised",
         "classification",
-        "financial service",
+        "finance",
         "policy",
         "open",
         "multiple"

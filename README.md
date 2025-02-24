@@ -85,7 +85,7 @@ Until the transition is complete, please also assign both a type and tags.
 | `"subjective"`  | Any competition with a subjective determination of winners, such as through a judging panel|
 | `"science"`  | Any challenge analysing scientific data (physics/biology/chemistry/...)|
 | `"medical"`  | Any challenge analysing medical data (CT scans/notes/...)|
-| `"sport"`  | Any challenge analysing sports data (horse racing, NFL, NBA, soccer,...)|
+| `"sports"`  | Any challenge analysing sports data (horse racing, NFL, NBA, soccer,...)|
 | `"business"`  | Any challenge analysing business data (customer behaviour, credit card defaults,...)|
 | `"finance"`  | Any challenge analysing financial markets data (crypto price prediction,...)|
 | `"education"`  | Any challenge analysing education-related data (analysing students' essays, etc)|
@@ -98,4 +98,4 @@ Until the transition is complete, please also assign both a type and tags.
 | `"multiple"`  | A competition composed of multiple mini-challenges |
 | `"mlops"`  | A competition focused on MLOps - the operational aspects of ML in production - rather than modelling |
 | `"generative"`  | A competition that focuses on generative models |
-| `"deeplearning"`  | A competition that requires the use of deep learning |
+| `"deep learning"`  | A competition related specifically to deep learning, e.g. exploring strengths/weaknesses of specific architectures |

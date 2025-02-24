@@ -56,7 +56,7 @@ Until the transition is complete, please also assign both a type and tags.
 | ------------- | ------------- |
 | `"supervised"`  | [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) (labels are given) |
 | `"unsupervised"`  | [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning) (no labels given) |
-| `"rl"`  | [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) (actions to maximise reward) |
+| `"reinforcement learning"`  | [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) (actions to maximise reward) |
 | `"control"`  | [Control problems](https://en.wikipedia.org/wiki/Optimal_control) (controlling a dynamical system) |
 | `"classification"`  | [Classification](https://en.wikipedia.org/wiki/Statistical_classification) (class labels) |
 | `"regression"`  | [Regression](https://en.wikipedia.org/wiki/Regression_analysis) (numerical labels) |

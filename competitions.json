@@ -113,7 +113,7 @@
       "url": "https://www.kaggle.com/competitions/lux-ai-season-3?ref=mlcontests",
       "type": "🤖 Reinforcement Learning",
       "tags": [
-        "rl",
+        "reinforcement learning",
         "game",
         "pvp",
         "measurable"
@@ -234,7 +234,8 @@
       "type": "🔤 NLP",
       "tags": [
         "nlp",
-        "language",
+        "rag",
+        "llm",
         "supervised"
       ],
       "launched": "10 Oct 2024",
@@ -321,11 +322,10 @@
       "url": "https://www.codabench.org/competitions/3888/?ref=mlcontests",
       "type": "🕵 Safety",
       "tags": [
-        "rl",
+        "reinforcement learning",
         "safety",
         "nlp",
-        "measurable",
-        "language"
+        "measurable"
       ],
       "additional_urls": [
         "https://www.cooperativeai.com/contests/concordia-2024"
@@ -468,7 +468,7 @@
       "type": "🤖 Reinforcement Learning",
       "tags": [
         "science",
-        "rl",
+        "reinforcement learning",
         "robotics",
         "measurable",
         "control"
@@ -628,7 +628,7 @@
       "type": "🤖 Reinforcement Learning",
       "tags": [
         "measurable",
-        "rl",
+        "reinforcement learning",
         "game"
       ],
       "launched": "25 Jun 2024",
@@ -1382,7 +1382,7 @@
         "measurable",
         "control",
         "driving",
-        "rl"
+        "reinforcement learning"
       ],
       "additional_urls": [
         "https://huggingface.co/spaces/AGC2024-P/e2e-driving-2024"
@@ -1954,7 +1954,7 @@
       "url": "https://battlecode.org/?ref=mlcontests",
       "type": "🤖 Reinforcement Learning",
       "tags": [
-        "rl",
+        "reinforcement learning",
         "game",
         "pvp",
         "measurable"
@@ -3312,8 +3312,7 @@
         "llm",
         "safety",
         "nlp",
-        "measurable",
-        "language"
+        "measurable"
       ],
     "deadline": "11 Feb 2025",
     "prize": "$70,000",

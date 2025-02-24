@@ -546,7 +546,7 @@
       "url": "https://aisingapore.org/global-challenge-for-safe-and-secure-llms/?ref=mlcontests",
       "type": "Cyber Security",
       "tags": [
-        "LLM",
+        "llm",
         "security",
         "generative",
         "measurable"
@@ -1030,7 +1030,7 @@
       "data-size": null
     },
     {
-      "name": "Space Optimization Competition (SpOC) 3.0",
+      "name": "Space Optimisation Competition (SpOC) 3.0",
       "url": "https://github.com/esa/SpOC3",
       "type": "📉 Optimisation",
       "tags": [
@@ -3093,7 +3093,7 @@
     "url": "https://www.kaggle.com/competitions/santa-2024?ref=mlcontests",
     "type": "🔤 NLP",
     "tags": [
-        "optimization",
+        "optimisation",
         "holidays and cultural events",
         "custom metric",
         "measurable",

@@ -1445,7 +1445,7 @@
         "vision",
         "measurable",
         "supervised",
-        "3D"
+        "3d"
       ],
       "launched": "25 Mar 2024",
       "registration-deadline": "27 May 2024",
@@ -2297,7 +2297,7 @@
       "url": "https://thinkonward.com/app/c/challenges/two-birds?ref=mlc",
       "type": "💭 Generative Models",
       "tags": [
-        "deeplearning",
+        "deep learning",
         "generative",
         "measurable"
       ],
@@ -2315,7 +2315,6 @@
       "tags": [
         "supervised",
         "classification",
-        "deeplearning",
         "vision"
       ],
       "launched": "27 Oct 2023",
@@ -2332,7 +2331,6 @@
       "tags": [
         "vision",
         "segmentation",
-        "deeplearning",
         "supervised",
         "measurable"
       ],
@@ -2368,7 +2366,6 @@
       "type": "💭 Generative Models",
       "tags": [
         "vision",
-        "deeplearning",
         "supervised",
         "generative"
       ],
@@ -2385,7 +2382,6 @@
       "type": "📷 Computer Vision",
       "tags": [
         "vision",
-        "deeplearning",
         "supervised"
       ],
       "launched": "13 Dec 2023",
@@ -2401,7 +2397,6 @@
       "type": "📷 Computer Vision",
       "tags": [
         "search",
-        "deeplearning",
         "supervised"
       ],
       "launched": "20 Dec 2023",
@@ -2417,7 +2412,6 @@
       "type": "📷 Computer Vision",
       "tags": [
         "vision",
-        "deeplearning",
         "supervised",
         "safety"
       ],
@@ -2453,8 +2447,8 @@
       "tags": [
         "supervised",
         "generative",
-        "deeplearning",
-        "nlp"
+        "nlp",
+        "llm"
       ],
       "launched": "24 Jan 2024",
       "registration-deadline": "4 Mar 2024",
@@ -2590,8 +2584,9 @@
       "tags": [
         "supervised",
         "generative",
-        "deeplearning",
-        "nlp"
+        "nlp",
+        "llm",
+        "rag"
       ],
       "launched": "24 Apr 2024",
       "registration-deadline": "17 May 2024",
@@ -2605,7 +2600,6 @@
       "url": "https://zindi.africa/competitions/melio-mlops-competition?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
       "type": "💡 Product/Applied",
       "tags": [
-        "deeplearning",
         "nlp",
         "translation",
         "subjective"
@@ -2624,8 +2618,8 @@
       "tags": [
         "supervised",
         "generative",
-        "deeplearning",
-        "nlp"
+        "nlp",
+        "llm"
       ],
       "launched": "7 May 2024",
       "registration-deadline": "26 Jul 2024",
@@ -2642,7 +2636,6 @@
         "supervised",
         "segmentation",
         "vision",
-        "deeplearning",
         "satellite",
         "measurable"
       ],
@@ -2753,7 +2746,6 @@
       "type": "📷 Computer Vision",
       "tags": [
         "vision",
-        "deeplearning",
         "supervised",
         "geo",
         "measurable"
@@ -2788,7 +2780,6 @@
       "type": "📷 Computer Vision",
       "tags": [
         "vision",
-        "deeplearning",
         "supervised",
         "geo",
         "regression",
@@ -2842,7 +2833,6 @@
       "type": "🔤 NLP",
       "tags": [
         "supervised",
-        "deeplearning",
         "nlp",
         "measurable"
       ],
@@ -3045,7 +3035,6 @@
       "type": "📷 Computer Vision",
       "tags": [
         "vision",
-        "deeplearning",
         "supervised",
         "geo",
         "classification",
@@ -3064,7 +3053,7 @@
       "type": "✅ Supervised Learning",
       "tags": [
         "supervised",
-        "natural language processing",
+        "nlp",
         "sentiment analysis",
         "machine translation",
         "research",
@@ -3165,9 +3154,7 @@
       "url": "https://www.kaggle.com/competitions/llms-you-cant-please-them-all?ref=mlcontests",
       "type": "🔤 NLP",
       "tags": [
-          "statistical analysis",
           "text generation",
-          "custom metric",
           "generative",
           "nlp",
           "measurable"
@@ -3188,7 +3175,6 @@
       "tags": [
         "segmentation",
         "vision",
-        "deeplearning",
         "classification",
         "science",
         "measurable",

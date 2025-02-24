@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "name": "Autoimmune Disease: Identifying Gene",
+      "name": "Autoimmune Disease: Identifying Genes",
       "url": "https://hub.crunchdao.com/competitions/broad-3?ref=mlcontests",
       "type": "📷 Computer Vision",
       "tags": [
@@ -3042,7 +3042,7 @@
         "satellite"
       ],
       "launched": "28 Nov 2024",
-      "deadline": "28 Feb 2025",
+      "deadline": "14 Mar 2025",
       "prize": "$12,000",
       "platform": "Solafune",
       "sponsor": null

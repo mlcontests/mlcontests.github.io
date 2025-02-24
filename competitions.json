@@ -3337,6 +3337,55 @@
     "sponsor": "Kaggle",
     "conference": null,
     "conference_year": null
+  },
+  {
+    "name": "Generate Temporally Aligned Audio and Video",
+    "url": "https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024/problems/temporal-alignment-track?ref=mlcontests",
+    "type": "🔊 Audio",
+    "tags": [
+      "generative",
+      "vision",
+      "audio",
+      "video",
+      "measurable"
+    ],
+    "launched": "29 Oct 2024",
+    "deadline": "25 Mar 2025",
+    "prize": "$17,500",
+    "platform": "AIcrowd",
+    "sponsor": "Sony"
+  },
+  {
+    "name": "Generate Spatially Aligned Audio and Video",
+    "url": "https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024/problems/spatial-alignment-track?ref=mlcontests",
+    "type": "🔊 Audio",
+    "tags": [
+      "generative",
+      "vision",
+      "audio",
+      "video",
+      "measurable"
+    ],
+    "launched": "29 Oct 2024",
+    "deadline": "25 Mar 2025",
+    "prize": "$17,500",
+    "platform": "AIcrowd",
+    "sponsor": "Sony"
+  },
+  {
+    "name": "Classify Time Series of Building Data",
+    "url": "https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024/problems/spatial-alignment-track?ref=mlcontests",
+    "type": "📈 Time Series Classification",
+    "tags": [
+      "timeseries",
+      "classification",
+      "measurable"
+    ],
+    "launched": "9 Dec 2024",
+    "deadline": "3 Feb 2025",
+    "prize": "$7,000",
+    "platform": "AIcrowd",
+    "sponsor": "UNSW Sydney"
   }
   ]
 }

@@ -3264,6 +3264,44 @@
       "conference_year": null
     },
     {
+      "name": "Identify Diseases on Cocoa Leaves",
+      "url": "https://zindi.africa/competitions/amini-cocoa-contamination-challenge?ref=mlcontests",
+      "type": "📷 Computer Vision",
+      "tags": [
+        "supervised",
+        "vision",
+        "segmentation",
+        "measurable"
+      ],
+      "launched": "14 Feb 2025",
+      "registration-deadline": "11 May 2025",
+      "deadline": "11 May 2025",
+      "prize": "$2,500",
+      "platform": "Zindi",
+      "sponsor": "Amini",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Identify Solar Panels in Overhead Images",
+      "url": "https://zindi.africa/competitions/lacuna-solar-survey-challenge?ref=mlcontests",
+      "type": "📷 Computer Vision",
+      "tags": [
+        "supervised",
+        "vision",
+        "segmentation",
+        "measurable"
+      ],
+      "launched": "14 Feb 2025",
+      "registration-deadline": "24 Mar 2025",
+      "deadline": "24 Mar 2025",
+      "prize": "$5,000",
+      "platform": "Zindi",
+      "sponsor": "Lacuna Fund, MAIDI",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Predict Power Outages",
       "url": "https://thinkonward.com/app/c/challenges/dynamic-rhythms?ref=mlcontests",
       "type": "📈 Time Series Forecasting",

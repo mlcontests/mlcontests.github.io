@@ -354,7 +354,7 @@
       "registration-deadline": "5 Nov 2024",
       "deadline": "5 Nov 2024",
       "prize": "$6,000",
-      "platform": "Indepedent",
+      "platform": "Independent",
       "sponsor": "UMIACS",
       "conference": "NeurIPS",
       "conference-year": 2024,
@@ -2305,7 +2305,7 @@
       "registration-deadline": "12 Jan 2024",
       "deadline": "12 Jan 2024",
       "prize": "$40,000",
-      "platform": "Think Onward",
+      "platform": "ThinkOnward",
       "sponsor": null
     },
     {
@@ -2340,7 +2340,7 @@
       "registration-deadline": "8 Feb 2024",
       "deadline": "8 Feb 2024",
       "prize": "$50,000",
-      "platform": "Think Onward",
+      "platform": "ThinkOnward",
       "sponsor": null
     },
     {
@@ -2376,7 +2376,7 @@
       "registration-deadline": "15 Mar 2024",
       "deadline": "15 Mar 2024",
       "prize": "$50,000",
-      "platform": "Think Onward",
+      "platform": "ThinkOnward",
       "sponsor": null
     },
     {
@@ -2392,7 +2392,7 @@
       "registration-deadline": "15 Mar 2024",
       "deadline": "15 Mar 2024",
       "prize": "$20,000",
-      "platform": "Think Onward",
+      "platform": "ThinkOnward",
       "sponsor": null
     },
     {
@@ -2408,7 +2408,7 @@
       "registration-deadline": "22 Mar 2024",
       "deadline": "22 Mar 2024",
       "prize": "$20,000",
-      "platform": "Think Onward",
+      "platform": "ThinkOnward",
       "sponsor": null
     },
     {
@@ -2425,7 +2425,7 @@
       "registration-deadline": "22 Mar 2024",
       "deadline": "22 Mar 2024",
       "prize": "$30,000",
-      "platform": "Think Onward",
+      "platform": "ThinkOnward",
       "sponsor": null
     },
     {
@@ -2443,7 +2443,7 @@
       "registration-deadline": "16 Feb 2024",
       "deadline": "16 Feb 2024",
       "prize": "$30,000",
-      "platform": "Think Onward",
+      "platform": "ThinkOnward",
       "sponsor": null
     },
     {
@@ -2902,7 +2902,7 @@
       "registration-deadline": "8 Jan 2025",
       "deadline": "8 Jan 2025",
       "prize": "$20,000",
-      "platform": "Think Onward",
+      "platform": "ThinkOnward",
       "sponsor": null
     },
     {
@@ -3198,7 +3198,7 @@
       "registration-deadline": "14 Feb 2025",
       "deadline": "14 Feb 2025",
       "prize": "$30,000",
-      "platform": "Think Onward",
+      "platform": "ThinkOnward",
       "sponsor": null,
       "conference": null,
       "conference_year": null
@@ -3290,7 +3290,8 @@
         "supervised",
         "vision",
         "segmentation",
-        "measurable"
+        "measurable",
+        "satellite"
       ],
       "launched": "14 Feb 2025",
       "registration-deadline": "24 Mar 2025",
@@ -3314,7 +3315,7 @@
       "registration-deadline": "1 May 2025",
       "deadline": "1 May 2025",
       "prize": "$20,000",
-      "platform": "Think Onward",
+      "platform": "ThinkOnward",
       "sponsor": null
     },
     {

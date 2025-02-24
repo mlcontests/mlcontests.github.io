@@ -2691,6 +2691,23 @@
       "sponsor": null
     },
     {
+      "name": "Fraud Detection Hackathon",
+      "url": "https://www.antigranular.com/competitions/fraud-detection-hackathon-with-privacy-village-dpd25fest?ref=mlcontests",
+      "type": "🕵 Privacy",
+      "tags": [
+        "privacy",
+        "classification",
+        "measurable",
+        "supervised",
+        "security"
+      ],
+      "launched": "28 Jan 2025",
+      "deadline": "28 Feb 2025",
+      "prize": "$4,670",
+      "platform": "Antigranular",
+      "sponsor": null
+    },
+    {
       "name": "LLM 20 Questions",
       "url": "https://www.kaggle.com/competitions/llm-20-questions?ref=mlcontests",
       "type": "🔤 NLP",
@@ -3283,6 +3300,38 @@
       "sponsor": "Lacuna Fund, MAIDI",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Predict Power Outages",
+      "url": "https://thinkonward.com/app/c/challenges/dynamic-rhythms?ref=mlcontests",
+      "type": "📈 Time Series Forecasting",
+      "tags": [
+        "supervised",
+        "timeseries",
+        "forecasting"
+      ],
+      "launched": "5 Feb 2025",
+      "registration-deadline": "1 May 2025",
+      "deadline": "1 May 2025",
+      "prize": "$20,000",
+      "platform": "Think Onward",
+      "sponsor": null
+    },
+    {
+    "name": "Global Challenge for Safe and Secure LLMs Track 2", 
+    "url": "http://gcss.aisingapore.org?ref=mlcontests",
+    "type": "🕵 Safety",
+    "tags": [
+        "llm",
+        "safety",
+        "nlp",
+        "measurable",
+        "language"
+      ],
+    "deadline": "11 Feb 2025",
+    "prize": "$70,000",
+    "platform": "AI Singapore",
+    "sponsor": null
     }
   ]
 }

@@ -3386,6 +3386,23 @@
     "prize": "$7,000",
     "platform": "AIcrowd",
     "sponsor": "UNSW Sydney"
+  },
+  {
+    "name": "STORM-AI: Forecast Space Weather",
+    "url": "https://www.codabench.org/competitions/5547/?ref=mlcontests",
+    "type": "📈 Time Series Forecasting",
+    "tags": [
+      "timeseries",
+      "forecasting",
+      "regression",
+      "measurable",
+      "science"
+    ],
+    "launched": "15 Nov 2024",
+    "deadline": "21 Apr 2025",
+    "prize": "$25,000",
+    "platform": "Codabench",
+    "sponsor": "MIT ARCLab"
   }
   ]
 }

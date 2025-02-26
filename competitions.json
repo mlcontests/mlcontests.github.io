@@ -3397,6 +3397,26 @@
     "prize": "$25,000",
     "platform": "Codabench",
     "sponsor": "MIT ARCLab"
-  }
+  },
+  {
+    "name": "Generate SVG drawings with LLMs",
+    "url": "https://www.kaggle.com/competitions/drawing-with-llms?ref=mlcontests",
+    "type": null,
+    "tags": [
+        "nlp",
+        "generative",
+        "vision",
+        "llm",
+        "measurable"
+    ],
+    "launched": "25 Feb 2025",
+    "registration-deadline": "20 May 2025",
+    "deadline": "27 May 2025",
+    "prize": "$50,000",
+    "platform": "Kaggle",
+    "sponsor": "Kaggle",
+    "conference": null,
+    "conference_year": null
+    }
   ]
 }

@@ -3417,6 +3417,57 @@
     "sponsor": "Kaggle",
     "conference": null,
     "conference_year": null
-    }
+    },
+    {
+      "name": "Program Robots to Navigate Autonomously",
+      "url": "https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge25.html#the%20challenge?ref=mlcontests",
+      "tags": [
+          "robotics",
+          "in-person",
+          "driving"
+      ],
+      "launched": "1 Jan 2025",
+      "registration-deadline": "1 Apr 2025",
+      "deadline": "1 May 2025",
+      "prize": null,
+      "platform": "In-person",
+      "sponsor": "Clearpath Robotics",
+      "conference": "ICRA",
+      "conference_year": 2025
+      },
+      {
+      "name": "Fly Drones in Simulation and Real Life",
+      "url": "https://uk.mathworks.com/academia/student-competitions/minidrones/icra.html?ref=mlcontests",
+      "tags": [
+          "robotics",
+          "in-person",
+          "simulation"
+      ],
+      "launched": "1 Mar 2025",
+      "registration-deadline": "27 Mar 2025",
+      "deadline": "8 Apr 2025",
+      "prize": null,
+      "platform": "In-person",
+      "sponsor": "MathWorks",
+      "conference": "ICRA",
+      "conference_year": 2025
+      },
+      {
+      "name": "Robot Arm Sim2Real Competition",
+      "url": "http://sim2real.net/track/track/?nav=S2R2025&ref=mlcontests",
+      "tags": [
+          "robotics",
+          "in-person",
+          "simulation"
+      ],
+      "launched": "1 Jan 2025",
+      "registration-deadline": "23 May 2025",
+      "deadline": "23 May 2025",
+      "prize": "$4,500",
+      "platform": "In-person",
+      "sponsor": "Discover Robotics",
+      "conference": "ICRA",
+      "conference_year": 2025
+      }
   ]
 }

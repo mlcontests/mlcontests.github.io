@@ -30,11 +30,17 @@ Optional fields:
 "conference-year": Which year of the conference is this competition affiliated with? E.g. 2022 
 "launched": day the competition starts. Format is "D MMM YYYY".
 "registration-deadline": final day new competitors are able to register. Format is "D MMM YYYY".
+"launched": day the competition was added to this repo. 
 "additional_urls": Any additional relevant links - for example, to the competition homepage if the actual competition is run on CodaLab. E.g. ["https://example1.com", "https://example2.com"]
-"additional_prizes": Any additional relevant links - for example, to the competition homepage if the actual competition is run on CodaLab. E.g. ["https://example1.com", "https://example2.com"]
+"additional_prizes": Any additional non-cash prizes.  For example: "RTX 4090" or "$500 travel grant". 
 ```
 
 The required date format in all cases is `D MMM YYYY` - e.g. `5 Jan 2023`. 
+
+The `prize` field should use USD values with a comma as the thousands separator, e.g. `$50,000` for fifty-thousand dollars. 
+This field should only contain unconditional cash prizes. Other prizes -- compute grants, travel grants, hardware, or swag, should be specified as a string in the `additional_prizes` field. 
+
+The full schema is specified in `schema.json`. 
 
 ## Valid tags
 

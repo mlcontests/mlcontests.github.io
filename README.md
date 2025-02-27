@@ -5,14 +5,6 @@
 </p>
 <h1 align="center">ML Contests</h1>
 
-<div align='center'>
-
-![license](https://img.shields.io/github/license/mlcontests/mlcontests.github.io?style=flat-square)
-![website](https://img.shields.io/website?down_color=lightgrey&down_message=Offline&style=flat-square&up_color=green&up_message=Online&url=https%3A%2F%2Fmlcontests.com)
-![pull_requests](https://img.shields.io/github/issues-pr/mlcontests/mlcontests.github.io?style=flat-square)
-![stars](https://img.shields.io/github/stars/mlcontests/mlcontests.github.io?style=flat-square)
-
-</div>
 
 A sortable list of public machine learning/data science/AI contests, viewable on [mlcontests.com](https://mlcontests.com). 
 
@@ -25,7 +17,7 @@ Mandatory fields
 ```
 "name": A description of the competition. 
 "url": Link to the competition. Feel free to insert codes so you can track the source. 
-"type": The type of ML that most closely matches the competition. See other competitions for examples. E.g. "✅ Supervised Learning"
+"tags": Any tags relevant to the type of challenge. E.g. ["supervised", "vision", "nlp"]. See list of valid tags below.
 "deadline": final day for submissions. Format is "D MMM YYYY".
 "prize": Monetary prizes only, converted to USD, or leave blank. 
 "platform": which platform is running the competition? E.g. "Kaggle"/"DrivenData"
@@ -39,18 +31,16 @@ Optional fields:
 "launched": day the competition starts. Format is "D MMM YYYY".
 "registration-deadline": final day new competitors are able to register. Format is "D MMM YYYY".
 "additional_urls": Any additional relevant links - for example, to the competition homepage if the actual competition is run on CodaLab. E.g. ["https://example1.com", "https://example2.com"]
-"tags": Any tags relevant to the type of challenge. E.g. ["supervised", "vision", "nlp"]
+"additional_prizes": Any additional relevant links - for example, to the competition homepage if the actual competition is run on CodaLab. E.g. ["https://example1.com", "https://example2.com"]
 ```
 
 The required date format in all cases is `D MMM YYYY` - e.g. `5 Jan 2023`. 
 
 ## Valid tags
 
-We are currently transitioning away from assinging a competition a single *type* (e.g. `"supervised learning"` / `"computer vision"`) and towards assigning multiple *tags* (e.g. `["supervised", "vision", "timeseries"]`).
+Each competition can have several tags linked to it. 
 
-Currently valid tags are listed below. Please check this list and tag your competition with all relevant tags. If you feel like any important tags are missing from this list, feel free to make suggestions in a pull request. 
-
-Until the transition is complete, please also assign both a type and tags. 
+Valid tags are listed below. Please check this list and tag your competition with all relevant tags. If you feel like any important tags are missing from this list, feel free to make suggestions in a pull request. 
 
 | Tag  | Description |
 | ------------- | ------------- |

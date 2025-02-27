@@ -13,8 +13,11 @@
             "url": {
               "type": "string"
             },
-            "type": {
-              "type": "string"
+            "tags": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
             },
             "deadline": {
               "type": "string",
@@ -39,7 +42,7 @@
           "required": [
             "name",
             "url",
-            "type",
+            "tags",
             "deadline",
             "prize",
             "platform",

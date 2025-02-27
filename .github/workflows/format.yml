@@ -1,0 +1,53 @@
+name: Format JSON
+
+on:
+  push:
+    paths:
+      - competitions.json
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  format-json:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          # Full git history is needed to get a proper list of changed files
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+          
+      - name: Install Prettier
+        run: npm install -g prettier
+        
+      - name: Format competitions.json
+        run: prettier --write competitions.json
+        
+      - name: Check for changes
+        id: git-check
+        run: |
+          if [[ $(git status --porcelain) ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add competitions.json
+          git commit -m "Format competitions.json with Prettier"
+      
+      - name: Push changes
+        if: steps.git-check.outputs.changes == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

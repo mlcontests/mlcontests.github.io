@@ -3298,6 +3298,23 @@
       "sponsor": "Discover Robotics",
       "conference": "ICRA",
       "conference_year": 2025
-      }
+      },
+      {
+        "name": "Predict RNA Sequence Structure",
+        "url": "https://www.kaggle.com/competitions/stanford-rna-3d-folding?ref=mlcontests",
+        "tags": [
+            "supervised",
+            "science",
+            "regression"
+        ],
+        "launched": "27 Feb 2025",
+        "registration-deadline": "22 May 2025",
+        "deadline": "29 May 2025",
+        "prize": "$75,000",
+        "platform": "Kaggle",
+        "sponsor": "Stanford University",
+        "conference": null,
+        "conference_year": null
+    }
   ]
 }

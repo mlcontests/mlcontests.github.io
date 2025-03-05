@@ -1,6 +1,6 @@
 {
   "data": [
-     {
+    {
       "name": "Forecast Micro-Hydropower Load Generation",
       "url": "https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge?ref=mlcontests",
       "tags": [
@@ -128,7 +128,12 @@
     {
       "name": "Lux AI Season 3",
       "url": "https://www.kaggle.com/competitions/lux-ai-season-3?ref=mlcontests",
-      "tags": ["reinforcement learning", "game", "pvp", "measurable"],
+      "tags": [
+        "reinforcement learning",
+        "game",
+        "pvp",
+        "measurable"
+      ],
       "launched": "9 Dec 2024",
       "registration-deadline": "3 Mar 2025",
       "deadline": "10 Mar 2025",
@@ -141,7 +146,12 @@
     {
       "name": "AI Math Olympiad Progress Prize 2",
       "url": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2?ref=mlcontests",
-      "tags": ["nlp", "mathematics", "measurable", "supervised"],
+      "tags": [
+        "nlp",
+        "mathematics",
+        "measurable",
+        "supervised"
+      ],
       "launched": "17 Oct 2024",
       "registration-deadline": "25 Mar 2025",
       "deadline": "1 Apr 2025",
@@ -154,7 +164,11 @@
     {
       "name": "NFL Big Data Bowl 2025",
       "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2025?ref=mlcontests",
-      "tags": ["sports", "analysis", "subjective"],
+      "tags": [
+        "sports",
+        "analysis",
+        "subjective"
+      ],
       "launched": "10 Oct 2024",
       "registration-deadline": "8 Jan 2025",
       "deadline": "8 Jan 2025",
@@ -210,7 +224,12 @@
     {
       "name": "Gemma LLM fine-tuning",
       "url": "https://www.kaggle.com/competitions/gemma-language-tuning?ref=mlcontests",
-      "tags": ["llm", "subjective", "fine-tuning", "multi-lingual"],
+      "tags": [
+        "llm",
+        "subjective",
+        "fine-tuning",
+        "multi-lingual"
+      ],
       "launched": "3 Oct 2024",
       "registration-deadline": "14 Jan 2025",
       "deadline": "14 Jan 2025",
@@ -223,7 +242,12 @@
     {
       "name": "Build a Secure and Local RAG System",
       "url": "https://www.trustii.io/post/build-a-secure-and-flexible-retrieval-augmented-generation-rag-system",
-      "tags": ["nlp", "rag", "llm", "supervised"],
+      "tags": [
+        "nlp",
+        "rag",
+        "llm",
+        "supervised"
+      ],
       "launched": "10 Oct 2024",
       "deadline": "10 Nov 2024",
       "prize": "$5,000",
@@ -264,7 +288,12 @@
     {
       "name": "Identify Misconceptions in Multiple-Choice Math Answers",
       "url": "https://www.kaggle.com/competitions/eedi-mining-misconceptions-in-mathematics?ref=mlcontests",
-      "tags": ["education", "nlp", "measurable", "supervised"],
+      "tags": [
+        "education",
+        "nlp",
+        "measurable",
+        "supervised"
+      ],
       "launched": "12 Sep 2024",
       "registration-deadline": "5 Dec 2024",
       "deadline": "12 Dec 2024",
@@ -298,7 +327,12 @@
     {
       "name": "Build cooperative language model agents",
       "url": "https://www.codabench.org/competitions/3888/?ref=mlcontests",
-      "tags": ["reinforcement learning", "safety", "nlp", "measurable"],
+      "tags": [
+        "reinforcement learning",
+        "safety",
+        "nlp",
+        "measurable"
+      ],
       "additional_urls": [
         "https://www.cooperativeai.com/contests/concordia-2024"
       ],
@@ -315,7 +349,11 @@
     {
       "name": "WAVES: Image Watermark Removal",
       "url": "https://erasinginvisible.github.io/?ref=mlcontests",
-      "tags": ["vision", "security", "measurable"],
+      "tags": [
+        "vision",
+        "security",
+        "measurable"
+      ],
       "additional_urls": [],
       "launched": "31 Jul 2024",
       "registration-deadline": "5 Nov 2024",
@@ -330,7 +368,13 @@
     {
       "name": "Higgs Boson Decay: Signal Strength Uncertainty Quantification",
       "url": "https://www.codabench.org/competitions/2977/?ref=mlcontests",
-      "tags": ["physics", "science", "uncertainty", "supervised", "measurable"],
+      "tags": [
+        "physics",
+        "science",
+        "uncertainty",
+        "supervised",
+        "measurable"
+      ],
       "additional_urls": [],
       "launched": "31 Aug 2024",
       "registration-deadline": "2 Nov 2024",
@@ -345,7 +389,13 @@
     {
       "name": "Youth Mental Health Data Abstraction",
       "url": "https://www.drivendata.org/competitions/295/cdc-automated-abstraction/?ref=mlcontests",
-      "tags": ["nlp", "abstraction", "medical", "supervised", "measurable"],
+      "tags": [
+        "nlp",
+        "abstraction",
+        "medical",
+        "supervised",
+        "measurable"
+      ],
       "additional_urls": [],
       "launched": "11 Sep 2024",
       "registration-deadline": "21 Nov 2024",
@@ -360,7 +410,12 @@
     {
       "name": "Youth Mental Health Data Exploration",
       "url": "https://www.drivendata.org/competitions/296/cdc-novel-variables/?ref=mlcontests",
-      "tags": ["nlp", "analysis", "medical", "subjective"],
+      "tags": [
+        "nlp",
+        "analysis",
+        "medical",
+        "subjective"
+      ],
       "additional_urls": [],
       "launched": "11 Sep 2024",
       "registration-deadline": "21 Nov 2024",
@@ -375,7 +430,12 @@
     {
       "name": "Predict Agent Performance in Two-Player Board Games",
       "url": "https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants?ref=mlcontests",
-      "tags": ["supervised", "measurable", "game", "regression"],
+      "tags": [
+        "supervised",
+        "measurable",
+        "game",
+        "regression"
+      ],
       "launched": "5 Sep 2024",
       "registration-deadline": "25 Nov 2024",
       "deadline": "2 Dec 2024",
@@ -388,7 +448,11 @@
     {
       "name": "LLM Privacy Challenge",
       "url": "https://www.llmagentsafetycomp24.com/?ref=mlcontests",
-      "tags": ["generative", "measurable", "privacy"],
+      "tags": [
+        "generative",
+        "measurable",
+        "privacy"
+      ],
       "launched": "1 Jul 2024",
       "registration-deadline": "1 Aug 2024",
       "deadline": "1 Nov 2024",
@@ -421,7 +485,11 @@
     {
       "name": "LLM and Agent Safety",
       "url": "https://www.llmagentsafetycomp24.com/?ref=mlcontests",
-      "tags": ["generative", "measurable", "safety"],
+      "tags": [
+        "generative",
+        "measurable",
+        "safety"
+      ],
       "launched": "31 Jul 2024",
       "registration-deadline": "12 Oct 2024",
       "deadline": "18 Oct 2024",
@@ -434,7 +502,11 @@
     {
       "name": "AI-driven Competitive Programming",
       "url": "https://hackercupai.github.io/?ref=mlcontests",
-      "tags": ["generative", "measurable", "code"],
+      "tags": [
+        "generative",
+        "measurable",
+        "code"
+      ],
       "launched": "24 Jul 2024",
       "registration-deadline": "5 Oct 2024",
       "deadline": "7 Dec 2024",
@@ -447,7 +519,12 @@
     {
       "name": "Ariel Data Challenge 2024",
       "url": "https://www.ariel-datachallenge.space/?ref=mlcontests",
-      "tags": ["science", "data", "regression", "multimodal"],
+      "tags": [
+        "science",
+        "data",
+        "regression",
+        "multimodal"
+      ],
       "launched": "1 Aug 2024",
       "registration-deadline": "24 Oct 2024",
       "deadline": "31 Oct 2024",
@@ -463,7 +540,12 @@
     {
       "name": "Test and Improve Resilience of LLMs",
       "url": "https://aisingapore.org/global-challenge-for-safe-and-secure-llms/?ref=mlcontests",
-      "tags": ["llm", "security", "generative", "measurable"],
+      "tags": [
+        "llm",
+        "security",
+        "generative",
+        "measurable"
+      ],
       "launched": "2 Jul 2024",
       "registration-deadline": "17 Sep 2024",
       "deadline": "17 Sep 2024",
@@ -535,7 +617,11 @@
     {
       "name": "Auto-Bidding In Large-Scale Auctions",
       "url": "https://tianchi.aliyun.com/specials/promotion/neurips2024_alimama#/?lang=en_us?ref=mlcontests",
-      "tags": ["measurable", "reinforcement learning", "game"],
+      "tags": [
+        "measurable",
+        "reinforcement learning",
+        "game"
+      ],
       "launched": "25 Jun 2024",
       "registration-deadline": "24 Oct 2024",
       "deadline": "24 Oct 2024",
@@ -548,7 +634,11 @@
     {
       "name": "Speech Enhancement",
       "url": "https://urgent-challenge.github.io/urgent2024/?ref=mlcontests",
-      "tags": ["audio", "supervised", "measurable"],
+      "tags": [
+        "audio",
+        "supervised",
+        "measurable"
+      ],
       "launched": "10 Jun 2024",
       "registration-deadline": "20 Sep 2024",
       "deadline": "20 Sep 2024",
@@ -589,7 +679,9 @@
         "regression"
       ],
       "launched": "9 Jul 2024",
-      "additional_urls": ["https://adrenalin.energy"],
+      "additional_urls": [
+        "https://adrenalin.energy"
+      ],
       "registration-deadline": "15 Sep 2024",
       "deadline": "29 Sep 2024",
       "prize": "$32,500",
@@ -601,9 +693,17 @@
     {
       "name": "Smart Building HVAC Control",
       "url": "https://codalab.lisn.upsaclay.fr/competitions/19660?ref=mlcontests",
-      "tags": ["control", "HVAC", "building", "energy", "measurable"],
+      "tags": [
+        "control",
+        "HVAC",
+        "building",
+        "energy",
+        "measurable"
+      ],
       "launched": "9 Jul 2024",
-      "additional_urls": ["https://adrenalin.energy"],
+      "additional_urls": [
+        "https://adrenalin.energy"
+      ],
       "registration-deadline": "15 Sep 2024",
       "deadline": "29 Sep 2024",
       "prize": "$32,500",
@@ -615,7 +715,12 @@
     {
       "name": "Diagnose COVID-19 From Breath Samples",
       "url": "https://bitgrit.net/competition/22?ref=mlcontests",
-      "tags": ["supervised", "classification", "medical", "measurable"],
+      "tags": [
+        "supervised",
+        "classification",
+        "medical",
+        "measurable"
+      ],
       "launched": "5 Jul 2024",
       "registration-deadline": "6 Sep 2024",
       "deadline": "6 Sep 2024",
@@ -666,8 +771,14 @@
     {
       "name": "ARC Prize 2024",
       "url": "https://www.kaggle.com/competitions/arc-prize-2024?ref=mlcontests",
-      "tags": ["reasoning", "supervised", "measurable"],
-      "additional_urls": ["https://arcprize.org/?ref=mlcontests"],
+      "tags": [
+        "reasoning",
+        "supervised",
+        "measurable"
+      ],
+      "additional_urls": [
+        "https://arcprize.org/?ref=mlcontests"
+      ],
       "launched": "11 Jun 2024",
       "registration-deadline": "3 Nov 2024",
       "deadline": "10 Nov 2024",
@@ -680,7 +791,13 @@
     {
       "name": "Improve Fine-Tuning Datasets for Sora-like Models",
       "url": "https://tianchi.aliyun.com/competition/entrance/532219?ref=mlcontests",
-      "tags": ["data", "llm", "measurable", "generative", "multimodal"],
+      "tags": [
+        "data",
+        "llm",
+        "measurable",
+        "generative",
+        "multimodal"
+      ],
       "additional_urls": [],
       "launched": "1 Jun 2024",
       "deadline": "14 Aug 2024",
@@ -693,7 +810,10 @@
     {
       "name": "Build Apps using Google Gemini",
       "url": "https://ai.google.dev/competition?ref=mlcontests",
-      "tags": ["generative", "subjective"],
+      "tags": [
+        "generative",
+        "subjective"
+      ],
       "launched": "14 May 2024",
       "registration-deadline": "12 Aug 2024",
       "deadline": "12 Aug 2024",
@@ -729,7 +849,11 @@
     {
       "name": "Develop AI Safety Benchmarks",
       "url": "https://www.mlsafety.org/safebench?ref=mlcontests",
-      "tags": ["subjective", "design", "safety"],
+      "tags": [
+        "subjective",
+        "design",
+        "safety"
+      ],
       "launched": "25 Mar 2024",
       "registration-deadline": "25 Feb 2025",
       "deadline": "25 Feb 2025",
@@ -742,7 +866,13 @@
     {
       "name": "Generate Patent Search Queries",
       "url": "https://www.kaggle.com/competitions/uspto-explainable-ai?ref=mlcontests",
-      "tags": ["supervised", "search", "generative", "measurable", "nlp"],
+      "tags": [
+        "supervised",
+        "search",
+        "generative",
+        "measurable",
+        "nlp"
+      ],
       "launched": "24 Apr 2024",
       "registration-deadline": "17 Jul 2024",
       "deadline": "24 Jul 2024",
@@ -756,7 +886,12 @@
     {
       "name": "Predict User Chatbot Preferences",
       "url": "https://www.kaggle.com/competitions/lmsys-chatbot-arena?ref=mlcontests",
-      "tags": ["nlp", "classification", "supervised", "measurable"],
+      "tags": [
+        "nlp",
+        "classification",
+        "supervised",
+        "measurable"
+      ],
       "launched": "2 May 2024",
       "registration-deadline": "29 Jul 2024",
       "deadline": "5 Aug 2024",
@@ -770,7 +905,13 @@
     {
       "name": "Atmospheric Physics Prediction",
       "url": "https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim?ref=mlcontests",
-      "tags": ["supervised", "measurable", "science", "physics", "regression"],
+      "tags": [
+        "supervised",
+        "measurable",
+        "science",
+        "physics",
+        "regression"
+      ],
       "launched": "18 Apr 2024",
       "registration-deadline": "24 Jun 2024",
       "deadline": "1 Jul 2024",
@@ -784,7 +925,12 @@
     {
       "name": "Predict New Medicines with BELKA",
       "url": "https://www.kaggle.com/competitions/leash-BELKA?ref=mlcontests",
-      "tags": ["supervised", "science", "classification", "measurable"],
+      "tags": [
+        "supervised",
+        "science",
+        "classification",
+        "measurable"
+      ],
       "launched": "4 Apr 2024",
       "registration-deadline": "1 Jul 2024",
       "deadline": "2 Jul 2024",
@@ -798,7 +944,12 @@
     {
       "name": "Automated Essay Scoring",
       "url": "https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2?ref=mlcontests",
-      "tags": ["education", "nlp", "supervised", "measurable"],
+      "tags": [
+        "education",
+        "nlp",
+        "supervised",
+        "measurable"
+      ],
       "launched": "3 Apr 2024",
       "registration-deadline": "25 Jun 2024",
       "deadline": "2 Jul 2024",
@@ -812,7 +963,12 @@
     {
       "name": "BirdCLEF: Identify Bird Species from Audio",
       "url": "https://www.kaggle.com/competitions/birdclef-2024?ref=mlcontests",
-      "tags": ["classification", "audio", "supervised", "measurable"],
+      "tags": [
+        "classification",
+        "audio",
+        "supervised",
+        "measurable"
+      ],
       "launched": "3 Apr 2024",
       "registration-deadline": "3 Jun 2024",
       "deadline": "10 Jun 2024",
@@ -826,8 +982,15 @@
     {
       "name": "SnakeCLEF: Identify Snake Species in Images",
       "url": "https://sites.google.com/view/fgvc11/competitions/snakeclef2024?ref=mlcontests",
-      "tags": ["vision", "measurable", "supervised", "regression"],
-      "additional_urls": ["https://huggingface.co/spaces/BVRA/SnakeCLEF2024"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "regression"
+      ],
+      "additional_urls": [
+        "https://huggingface.co/spaces/BVRA/SnakeCLEF2024"
+      ],
       "launched": " 2024",
       "registration-deadline": "24 May 2024",
       "deadline": "24 May 2024",
@@ -841,8 +1004,14 @@
     {
       "name": "Space Optimisation Competition (SpOC) 3.0",
       "url": "https://github.com/esa/SpOC3",
-      "tags": ["optimisation", "measurable", "multiple"],
-      "additional_urls": ["https://optimize.esa.int/challenges"],
+      "tags": [
+        "optimisation",
+        "measurable",
+        "multiple"
+      ],
+      "additional_urls": [
+        "https://optimize.esa.int/challenges"
+      ],
       "launched": "1 Apr 2024",
       "deadline": "30 Jun 2024",
       "prize": null,
@@ -855,8 +1024,15 @@
     {
       "name": "SnakeCLEF: Identify Snake Species in Images",
       "url": "https://sites.google.com/view/fgvc11/competitions/snakeclef2024?ref=mlcontests",
-      "tags": ["vision", "measurable", "supervised", "regression"],
-      "additional_urls": ["https://huggingface.co/spaces/BVRA/SnakeCLEF2024"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "regression"
+      ],
+      "additional_urls": [
+        "https://huggingface.co/spaces/BVRA/SnakeCLEF2024"
+      ],
       "launched": "29 Feb 2024",
       "registration-deadline": "24 May 2024",
       "deadline": "24 May 2024",
@@ -870,7 +1046,12 @@
     {
       "name": "PlantCLEF: Identify Plant Species in Images",
       "url": "https://sites.google.com/view/fgvc11/competitions/plantclef2024?ref=mlcontests",
-      "tags": ["vision", "measurable", "supervised", "regression"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "regression"
+      ],
       "additional_urls": [
         "https://huggingface.co/spaces/BVRA/PlantCLEF2024?ref=mlcontests"
       ],
@@ -887,7 +1068,12 @@
     {
       "name": "PlantTraits: Predict Plant Traits from Photographs",
       "url": "https://sites.google.com/view/fgvc11/competitions/planttraits2024?ref=mlcontests",
-      "tags": ["vision", "measurable", "supervised", "regression"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "regression"
+      ],
       "additional_urls": [
         "https://www.kaggle.com/competitions/planttraits2024?ref=mlcontests"
       ],
@@ -904,7 +1090,12 @@
     {
       "name": "iBioHash: Fine-Grained Image Hashing",
       "url": "https://sites.google.com/view/fgvc11/competitions/ibiohash2024?ref=mlcontests",
-      "tags": ["vision", "measurable", "supervised", "classification"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "classification"
+      ],
       "additional_urls": [
         "https://www.kaggle.com/competitions/ibiohash-2024-fgvc11/overview?ref=mlcontests"
       ],
@@ -921,7 +1112,12 @@
     {
       "name": "HyperLeaf: Predict Properties from Images of Leaves",
       "url": "https://sites.google.com/view/fgvc11/competitions/hyperleaf2024?ref=mlcontests",
-      "tags": ["vision", "measurable", "supervised", "regression"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "regression"
+      ],
       "additional_urls": [
         "https://www.kaggle.com/competitions/HyperLeaf2024/overview?ref=mlcontests"
       ],
@@ -938,7 +1134,12 @@
     {
       "name": "GeoLifeCLEF: Classify Plant Species",
       "url": "https://sites.google.com/view/fgvc11/competitions/geolifeclef2024?ref=mlcontests",
-      "tags": ["vision", "measurable", "supervised", "classification"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "classification"
+      ],
       "additional_urls": [
         "https://www.kaggle.com/competitions/geolifeclef-2024/?ref=mlcontests"
       ],
@@ -955,7 +1156,12 @@
     {
       "name": "FungiCLEF: Classify Fungi in Photos",
       "url": "https://sites.google.com/view/fgvc11/competitions/fungiclef2024?ref=mlcontests",
-      "tags": ["vision", "measurable", "supervised", "classification"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "classification"
+      ],
       "additional_urls": [
         "https://huggingface.co/spaces/BVRA/FungiCLEF2024?ref=mlcontests"
       ],
@@ -972,7 +1178,12 @@
     {
       "name": "BugNIST: Classify Bugs in Photos",
       "url": "https://sites.google.com/view/fgvc11/competitions/bugnist2024?ref=mlcontests",
-      "tags": ["vision", "measurable", "supervised", "classification"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "classification"
+      ],
       "additional_urls": [
         "https://www.kaggle.com/competitions/bugnist2024fgvc?ref=mlcontests"
       ],
@@ -989,7 +1200,12 @@
     {
       "name": "AGC: Mapless Driving",
       "url": "https://opendrivelab.com/challenge2024/?ref=mlcontests#mapless_driving",
-      "tags": ["vision", "measurable", "supervised", "driving"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "driving"
+      ],
       "additional_urls": [
         "https://huggingface.co/spaces/AGC2024/mapless-driving-2024?ref=mlcontests"
       ],
@@ -1006,7 +1222,13 @@
     {
       "name": "AGC: Driving with Language",
       "url": "https://opendrivelab.com/challenge2024/?ref=mlcontests#multiview_3d_visual_grounding",
-      "tags": ["vision", "nlp", "measurable", "supervised", "driving"],
+      "tags": [
+        "vision",
+        "nlp",
+        "measurable",
+        "supervised",
+        "driving"
+      ],
       "additional_urls": [
         "https://huggingface.co/spaces/AGC2024/driving-with-language-2024?ref=mlcontests"
       ],
@@ -1023,7 +1245,12 @@
     {
       "name": "AGC: CARLA Autonomous Driving",
       "url": "https://opendrivelab.com/challenge2024/?ref=mlcontests#carla",
-      "tags": ["vision", "measurable", "supervised", "driving"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "driving"
+      ],
       "additional_urls": [
         "https://eval.ai/web/challenges/challenge-page/2098/overview"
       ],
@@ -1040,7 +1267,12 @@
     {
       "name": "AGC: Multi-View 3D Visual Grounding",
       "url": "https://opendrivelab.com/challenge2024/?ref=mlcontests#multiview_3d_visual_grounding",
-      "tags": ["vision", "measurable", "supervised", "driving"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "driving"
+      ],
       "additional_urls": [
         "https://huggingface.co/spaces/AGC2024/visual-grounding-2024?ref=mlcontests"
       ],
@@ -1057,7 +1289,12 @@
     {
       "name": "AGC: Occupancy and Flow",
       "url": "https://opendrivelab.com/challenge2024/?ref=mlcontests#occupancy_and_flow",
-      "tags": ["vision", "measurable", "supervised", "driving"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "driving"
+      ],
       "additional_urls": [
         "https://huggingface.co/spaces/AGC2024-S/occupancy-and-flow-2024?ref=mlcontests"
       ],
@@ -1074,7 +1311,12 @@
     {
       "name": "AGC: Predictive World Model",
       "url": "https://opendrivelab.com/challenge2024/?ref=mlcontests#predictive_world_model",
-      "tags": ["vision", "measurable", "supervised", "driving"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "driving"
+      ],
       "additional_urls": [
         "https://huggingface.co/spaces/AGC2024-P/predictive-world-model-2024?ref=mlcontests"
       ],
@@ -1114,7 +1356,11 @@
     {
       "name": "Structured Semantic 3D Reconstruction",
       "url": "https://huggingface.co/spaces/usm3d/S23DR?ref=mlcontests",
-      "tags": ["vision", "measurable", "supervised"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised"
+      ],
       "additional_urls": [],
       "launched": "14 Mar 2024",
       "registration-deadline": "28 May 2024",
@@ -1129,7 +1375,11 @@
     {
       "name": "Build AI Agents",
       "url": "https://www.aiagentschallenge.com/?ref=mlcontests",
-      "tags": ["product", "subjective", "innovation"],
+      "tags": [
+        "product",
+        "subjective",
+        "innovation"
+      ],
       "launched": "11 Mar 2024",
       "registration-deadline": "15 Nov 2024",
       "deadline": "15 Nov 2024",
@@ -1143,7 +1393,12 @@
     {
       "name": "Reconstruct 3D Scenes from 2D Images",
       "url": "https://www.kaggle.com/competitions/image-matching-challenge-2024?ref=mlcontests",
-      "tags": ["vision", "measurable", "supervised", "3d"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised",
+        "3d"
+      ],
       "launched": "25 Mar 2024",
       "registration-deadline": "27 May 2024",
       "deadline": "3 Jun 2024",
@@ -1157,7 +1412,12 @@
     {
       "name": "Waymo 2024: Pose Estimation",
       "url": "https://waymo.com/intl/en_us/open/challenges/2023/pose-estimation/?ref=mlcontests",
-      "tags": ["measurable", "supervised", "vision", "driving"],
+      "tags": [
+        "measurable",
+        "supervised",
+        "vision",
+        "driving"
+      ],
       "deadline": "23 May 2024",
       "prize": null,
       "platform": "Waymo",
@@ -1207,7 +1467,13 @@
     {
       "name": "Waymo 2024: 3D Semantic Segmentation",
       "url": "https://waymo.com/open/challenges/2024/3d-semantic-segmentation/?ref=mlcontests",
-      "tags": ["measurable", "supervised", "segmentation", "vision", "driving"],
+      "tags": [
+        "measurable",
+        "supervised",
+        "segmentation",
+        "vision",
+        "driving"
+      ],
       "deadline": "23 May 2024",
       "prize": null,
       "platform": "Waymo",
@@ -1219,7 +1485,13 @@
     {
       "name": "Predict Air Quality from Satellite Data",
       "url": "https://zindi.africa/competitions/airqo-african-air-quality-prediction-challenge?ref=mlcontests",
-      "tags": ["supervised", "vision", "geo", "satellite", "regression"],
+      "tags": [
+        "supervised",
+        "vision",
+        "geo",
+        "satellite",
+        "regression"
+      ],
       "additional_urls": [],
       "launched": "15 Mar 2024",
       "registration-deadline": "16 Jun 2024",
@@ -1234,7 +1506,13 @@
     {
       "name": "Count Houses in Satellite Images",
       "url": "https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge?ref=mlcontests",
-      "tags": ["supervised", "vision", "geo", "satellite", "regression"],
+      "tags": [
+        "supervised",
+        "vision",
+        "geo",
+        "satellite",
+        "regression"
+      ],
       "additional_urls": [],
       "launched": "15 Mar 2024",
       "registration-deadline": "23 Jun 2024",
@@ -1293,7 +1571,11 @@
     {
       "name": "Vesuvius Challenge - Decode Ancient Text from Scans",
       "url": "https://scrollprize.org/2024_prizes",
-      "tags": ["history", "vision", "nlp"],
+      "tags": [
+        "history",
+        "vision",
+        "nlp"
+      ],
       "additional_urls": [],
       "launched": "27 Feb 2024",
       "registration-deadline": "31 Dec 2024",
@@ -1309,8 +1591,14 @@
     {
       "name": "AI Math Olympiad Progress Prize",
       "url": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize?ref=mlcontests",
-      "tags": ["nlp", "mathematics", "classification"],
-      "additional_urls": ["https://aimo.xtxmarkets.com/updates"],
+      "tags": [
+        "nlp",
+        "mathematics",
+        "classification"
+      ],
+      "additional_urls": [
+        "https://aimo.xtxmarkets.com/updates"
+      ],
       "launched": "1 Apr 2024",
       "registration-deadline": "20 Jun 2024",
       "deadline": "27 Jun 2024",
@@ -1324,8 +1612,14 @@
     {
       "name": "Create Building Wireframes from Photos",
       "url": "https://huggingface.co/spaces/Building3D/USM3D?ref=mlcontests",
-      "tags": ["vision", "measurable", "supervised"],
-      "additional_urls": ["https://building3d.ucalgary.ca/"],
+      "tags": [
+        "vision",
+        "measurable",
+        "supervised"
+      ],
+      "additional_urls": [
+        "https://building3d.ucalgary.ca/"
+      ],
       "launched": "15 Feb 2024",
       "registration-deadline": "31 May 2024",
       "deadline": "31 May 2024",
@@ -1340,7 +1634,12 @@
     {
       "name": "Detect Spacecraft in Images",
       "url": "https://www.drivendata.org/competitions/260/spacecraft-detection/?ref=mlcontests",
-      "tags": ["vision", "detection", "measurable", "supervised"],
+      "tags": [
+        "vision",
+        "detection",
+        "measurable",
+        "supervised"
+      ],
       "additional_urls": [],
       "launched": null,
       "registration-deadline": "14 Mar 2024",
@@ -1355,7 +1654,12 @@
     {
       "name": "Identify Spacecraft Positions and Orientations",
       "url": "https://www.drivendata.org/competitions/261/spacecraft-pose-estimation/?ref=mlcontests",
-      "tags": ["vision", "regression", "measurable", "supervised"],
+      "tags": [
+        "vision",
+        "regression",
+        "measurable",
+        "supervised"
+      ],
       "additional_urls": [],
       "launched": null,
       "registration-deadline": "14 Mar 2024",
@@ -1370,7 +1674,12 @@
     {
       "name": "Topic Matching on Clinical Notes",
       "url": "https://www.drivendata.org/competitions/258/competition-snomed-ct/?ref=mlcontests",
-      "tags": ["nlp", "medical", "measurable", "annotation"],
+      "tags": [
+        "nlp",
+        "medical",
+        "measurable",
+        "annotation"
+      ],
       "additional_urls": [],
       "launched": null,
       "registration-deadline": "5 Mar 2024",
@@ -1385,7 +1694,13 @@
     {
       "name": "Showcase Gemma LLM Usage",
       "url": "https://www.kaggle.com/competitions/data-assistants-with-gemma?ref=mlcontests",
-      "tags": ["generative", "subjective", "nlp", "llm", "analysis"],
+      "tags": [
+        "generative",
+        "subjective",
+        "nlp",
+        "llm",
+        "analysis"
+      ],
       "additional_urls": [],
       "launched": "21 Feb 2024",
       "registration-deadline": "14 Apr 2024",
@@ -1400,7 +1715,13 @@
     {
       "name": "LLM Prompt Recovery",
       "url": "https://www.kaggle.com/competitions/llm-prompt-recovery?ref=mlcontests",
-      "tags": ["supervised", "generative", "nlp", "measurable", "llm"],
+      "tags": [
+        "supervised",
+        "generative",
+        "nlp",
+        "measurable",
+        "llm"
+      ],
       "additional_urls": [],
       "launched": "27 Feb 2024",
       "registration-deadline": "9 Apr 2024",
@@ -1415,7 +1736,13 @@
     {
       "name": "Predict College Basketball Results",
       "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2024?ref=mlcontests",
-      "tags": ["supervised", "classification", "sports", "measurable", "open"],
+      "tags": [
+        "supervised",
+        "classification",
+        "sports",
+        "measurable",
+        "open"
+      ],
       "additional_urls": [],
       "launched": "27 Feb 2024",
       "registration-deadline": "21 Mar 2024",
@@ -1431,7 +1758,13 @@
     {
       "name": "Detect Personal Data",
       "url": "https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data?ref=mlcontests",
-      "tags": ["supervised", "detection", "nlp", "measurable", "education"],
+      "tags": [
+        "supervised",
+        "detection",
+        "nlp",
+        "measurable",
+        "education"
+      ],
       "additional_urls": [],
       "launched": "17 Jan 2024",
       "registration-deadline": "16 Apr 2024",
@@ -1446,7 +1779,12 @@
     {
       "name": "Credit Risk Model Stability",
       "url": "https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/?ref=mlcontests",
-      "tags": ["supervised", "classification", "finance", "measurable"],
+      "tags": [
+        "supervised",
+        "classification",
+        "finance",
+        "measurable"
+      ],
       "additional_urls": [],
       "launched": "5 Feb 2024",
       "registration-deadline": "29 Apr 2024",
@@ -1461,7 +1799,13 @@
     {
       "name": "Optimise LLM Inference on ARM CPUs",
       "url": "https://aicas2024.org/grand-challenge?ref=mlcontests",
-      "tags": ["measurable", "performance", "systems", "nlp", "llm"],
+      "tags": [
+        "measurable",
+        "performance",
+        "systems",
+        "nlp",
+        "llm"
+      ],
       "additional_urls": [
         "https://tianchi.aliyun.com/competition/entrance/532170"
       ],
@@ -1500,7 +1844,12 @@
     {
       "name": "Tabular Data Exploration: Dinosaurs and Movies",
       "url": "https://www.datacamp.com/competitions/everyone-can-learn-data-scholarship-2023?ref=mlcontests",
-      "tags": ["data", "analysis", "subjective", "multiple"],
+      "tags": [
+        "data",
+        "analysis",
+        "subjective",
+        "multiple"
+      ],
       "additional_urls": [],
       "launched": "15 Jan 2024",
       "deadline": "28 Jun 2024",
@@ -1513,7 +1862,13 @@
     {
       "name": "BetterMixture: Fine-Tuning Data Mixing for LLMs",
       "url": "https://tianchi.aliyun.com/competition/entrance/532174?ref=mlcontests",
-      "tags": ["data", "llm", "measurable", "nlp", "supervised"],
+      "tags": [
+        "data",
+        "llm",
+        "measurable",
+        "nlp",
+        "supervised"
+      ],
       "additional_urls": [],
       "launched": "10 Jan 2024",
       "deadline": "19 Mar 2024",
@@ -1526,7 +1881,12 @@
     {
       "name": "Battlecode 2024",
       "url": "https://battlecode.org/?ref=mlcontests",
-      "tags": ["reinforcement learning", "game", "pvp", "measurable"],
+      "tags": [
+        "reinforcement learning",
+        "game",
+        "pvp",
+        "measurable"
+      ],
       "launched": "8 Jan 2024",
       "registration-deadline": "27 Jan 2024",
       "deadline": "3 Feb 2024",
@@ -1540,7 +1900,10 @@
     {
       "name": "Santa 2023 - Polytope Permutation Puzzle",
       "url": "https://www.kaggle.com/competitions/santa-2023?ref=mlcontests",
-      "tags": ["optimisation", "measurable"],
+      "tags": [
+        "optimisation",
+        "measurable"
+      ],
       "launched": "18 Dec 2023",
       "registration-deadline": "24 Jan 2024",
       "deadline": "31 Jan 2024",
@@ -1554,7 +1917,10 @@
     {
       "name": "Kelp Wanted: Segmenting Kelp Forests",
       "url": "https://www.drivendata.org/competitions/255/kelp-forest-segmentation/?ref=mlcontests",
-      "tags": ["vision", "regression"],
+      "tags": [
+        "vision",
+        "regression"
+      ],
       "launched": "28 Nov 2023",
       "deadline": "21 Feb 2024",
       "prize": "$15,000",
@@ -1566,7 +1932,11 @@
     {
       "name": "LLM Capture-The-Flag, Defense Phase",
       "url": "https://ctf.spylab.ai",
-      "tags": ["security", "nlp", "llm"],
+      "tags": [
+        "security",
+        "nlp",
+        "llm"
+      ],
       "launched": "16 Nov 2023",
       "deadline": "15 Jan 2024",
       "prize": "$3,500",
@@ -1582,7 +1952,11 @@
     {
       "name": "LLM Capture-The-Flag, Attack Phase",
       "url": "https://ctf.spylab.ai",
-      "tags": ["security", "nlp", "llm"],
+      "tags": [
+        "security",
+        "nlp",
+        "llm"
+      ],
       "launched": "16 Nov 2023",
       "deadline": "29 Feb 2024",
       "prize": "$3,500",
@@ -1598,7 +1972,12 @@
     {
       "name": "CPDC: Generate Commonsense Dialogue",
       "url": "https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023/problems/task-1-commonsense-dialogue-response-generation?ref=mlcontests",
-      "tags": ["supervised", "nlp", "generative", "measurable"],
+      "tags": [
+        "supervised",
+        "nlp",
+        "generative",
+        "measurable"
+      ],
       "launched": "3 Nov 2023",
       "registration-deadline": "1 Dec 2023",
       "deadline": "1 Mar 2024",
@@ -1612,7 +1991,12 @@
     {
       "name": "CPDC: Link Knowledge to a Dialogue",
       "url": "https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023/problems/task-2-commonsense-persona-knowledge-linking?ref=mlcontests",
-      "tags": ["nlp", "generative", "measurable", "supervised"],
+      "tags": [
+        "nlp",
+        "generative",
+        "measurable",
+        "supervised"
+      ],
       "launched": "3 Nov 2023",
       "registration-deadline": "1 Dec 2023",
       "deadline": "1 Mar 2024",
@@ -1626,7 +2010,13 @@
     {
       "name": "Segment Vasculature in Kidney Scans",
       "url": "https://www.kaggle.com/competitions/blood-vessel-segmentation?ref=mlcontests",
-      "tags": ["supervised", "segmentation", "vision", "medical", "measurable"],
+      "tags": [
+        "supervised",
+        "segmentation",
+        "vision",
+        "medical",
+        "measurable"
+      ],
       "launched": "7 Nov 2023",
       "registration-deadline": "30 Jan 2024",
       "deadline": "6 Feb 2024",
@@ -1680,7 +2070,12 @@
     {
       "name": "NFL Big Data Bowl 2024",
       "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/?ref=mlcontests",
-      "tags": ["sports", "vision", "subjective", "analysis"],
+      "tags": [
+        "sports",
+        "vision",
+        "subjective",
+        "analysis"
+      ],
       "additional_urls": [],
       "launched": "13 Oct 2023",
       "registration-deadline": "8 Jan 2024",
@@ -1715,7 +2110,13 @@
     {
       "name": "Use Typing Behaviour to Predict Essay Quality",
       "url": "https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/?ref=mlcontests",
-      "tags": ["regression", "science", "measurable", "supervised", "nlp"],
+      "tags": [
+        "regression",
+        "science",
+        "measurable",
+        "supervised",
+        "nlp"
+      ],
       "additional_urls": [],
       "launched": "2 Oct 2023",
       "registration-deadline": "2 Jan 2024",
@@ -1730,7 +2131,11 @@
     {
       "name": "Improve Smartphone Positioning and Navigation",
       "url": "https://www.kaggle.com/competitions/smartphone-decimeter-2023/?ref=mlcontests",
-      "tags": ["supervised", "geo", "measurable"],
+      "tags": [
+        "supervised",
+        "geo",
+        "measurable"
+      ],
       "additional_urls": [],
       "launched": "12 Sep 2023",
       "registration-deadline": "16 May 2024",
@@ -1745,7 +2150,12 @@
     {
       "name": "Improve Available Data for Alzheimer/Dementia Prediction",
       "url": "https://www.drivendata.org/competitions/253/competition-nih-alzheimers-adrd-1/?ref=mlcontests",
-      "tags": ["data", "subjective", "medical", "science"],
+      "tags": [
+        "data",
+        "subjective",
+        "medical",
+        "science"
+      ],
       "additional_urls": [],
       "launched": "1 Sep 2023",
       "registration-deadline": "17 Jan 2024",
@@ -1759,7 +2169,10 @@
     {
       "name": "AI Cyber Challenge: Semifinal",
       "url": "https://aicyberchallenge.com/opentrack?ref=mlcontests",
-      "tags": ["security", "subjective"],
+      "tags": [
+        "security",
+        "subjective"
+      ],
       "additional_urls": [],
       "launched": "13 Dec 2023",
       "registration-deadline": "30 Apr 2023",
@@ -1773,7 +2186,12 @@
     {
       "name": "Predict the level of hygiene of food production",
       "url": "https://www.trustii.io/post/data-challenge-predict-the-level-of-hygiene-of-food-production?ref=mlcontests",
-      "tags": ["supervised", "open", "tabular", "classification"],
+      "tags": [
+        "supervised",
+        "open",
+        "tabular",
+        "classification"
+      ],
       "launched": "16 Feb 2024",
       "deadline": "31 Mar 2024",
       "prize": "$1,500",
@@ -1789,7 +2207,11 @@
     {
       "name": "Maximise Diversity in of Generative Neural Networks",
       "url": "https://thinkonward.com/app/c/challenges/two-birds?ref=mlc",
-      "tags": ["deep learning", "generative", "measurable"],
+      "tags": [
+        "deep learning",
+        "generative",
+        "measurable"
+      ],
       "launched": "11 Oct 2023",
       "registration-deadline": "12 Jan 2024",
       "deadline": "12 Jan 2024",
@@ -1800,7 +2222,11 @@
     {
       "name": "CGIAR Crop Damage Classification Challenge",
       "url": "https://zindi.africa/competitions/cgiar-crop-damage-classification-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-      "tags": ["supervised", "classification", "vision"],
+      "tags": [
+        "supervised",
+        "classification",
+        "vision"
+      ],
       "launched": "27 Oct 2023",
       "registration-deadline": "28 Jan 2024",
       "deadline": "28 Jan 2024",
@@ -1811,7 +2237,12 @@
     {
       "name": "Subsurface Seismic Volume Segmentation",
       "url": "https://thinkonward.com/app/c/challenges/every-layer?ref=mlc",
-      "tags": ["vision", "segmentation", "supervised", "measurable"],
+      "tags": [
+        "vision",
+        "segmentation",
+        "supervised",
+        "measurable"
+      ],
       "launched": "7 Nov 2023",
       "registration-deadline": "8 Feb 2024",
       "deadline": "8 Feb 2024",
@@ -1822,7 +2253,11 @@
     {
       "name": "Create mineral exploration targets",
       "url": "https://app.humyn.ai/challenges/0e2020a4-8b6e-449a-bfc7-15297cf56936?ref=mlcontests",
-      "tags": ["analysis", "geo", "3d"],
+      "tags": [
+        "analysis",
+        "geo",
+        "3d"
+      ],
       "additional_urls": [],
       "launched": "22 Nov 2023",
       "registration-deadline": "8 Jan 2024",
@@ -1836,7 +2271,11 @@
     {
       "name": "Patch the Planet: Restore Missing Data",
       "url": "https://thinkonward.com/app/c/challenges/patch-the-planet?ref=mlc",
-      "tags": ["vision", "supervised", "generative"],
+      "tags": [
+        "vision",
+        "supervised",
+        "generative"
+      ],
       "launched": "13 Dec 2023",
       "registration-deadline": "15 Mar 2024",
       "deadline": "15 Mar 2024",
@@ -1847,7 +2286,10 @@
     {
       "name": "Parallel Perspectives: Restoring an Image from 1D Data",
       "url": "https://thinkonward.com/app/c/challenges/parallel-perspectives?ref=mlc",
-      "tags": ["vision", "supervised"],
+      "tags": [
+        "vision",
+        "supervised"
+      ],
       "launched": "13 Dec 2023",
       "registration-deadline": "15 Mar 2024",
       "deadline": "15 Mar 2024",
@@ -1858,7 +2300,10 @@
     {
       "name": "Unbreak my Seismic: A Geophysical Jigsaw Problem",
       "url": "https://thinkonward.com/app/c/challenges/unbreak-my-seismic?ref=mlc",
-      "tags": ["search", "supervised"],
+      "tags": [
+        "search",
+        "supervised"
+      ],
       "launched": "20 Dec 2023",
       "registration-deadline": "22 Mar 2024",
       "deadline": "22 Mar 2024",
@@ -1869,7 +2314,11 @@
     {
       "name": "Reflection Connection: Bringing New Algorithms to Old Data",
       "url": "https://thinkonward.com/app/c/challenges/reflection-connection?ref=mlc",
-      "tags": ["vision", "supervised", "safety"],
+      "tags": [
+        "vision",
+        "supervised",
+        "safety"
+      ],
       "launched": "20 Dec 2023",
       "registration-deadline": "22 Mar 2024",
       "deadline": "22 Mar 2024",
@@ -1880,7 +2329,13 @@
     {
       "name": "The Energy-Efficient Ghosts of Holiday Past",
       "url": "https://thinkonward.com/app/c/challenges/ghosts-of-holidays-past?ref=mlc",
-      "tags": ["tabular", "timeseries", "analysis", "open", "energy"],
+      "tags": [
+        "tabular",
+        "timeseries",
+        "analysis",
+        "open",
+        "energy"
+      ],
       "launched": "20 Dec 2023",
       "registration-deadline": "16 Feb 2024",
       "deadline": "16 Feb 2024",
@@ -1891,7 +2346,12 @@
     {
       "name": "Malawi Public Health Systems LLM Challenge",
       "url": "https://zindi.africa/competitions/malawi-public-health-systems-llm-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-      "tags": ["supervised", "generative", "nlp", "llm"],
+      "tags": [
+        "supervised",
+        "generative",
+        "nlp",
+        "llm"
+      ],
       "launched": "24 Jan 2024",
       "registration-deadline": "4 Mar 2024",
       "deadline": "4 Mar 2024",
@@ -1919,7 +2379,11 @@
     {
       "name": "Generative Interior Design Challenge",
       "url": "https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024?ref=mlcontests",
-      "tags": ["generative", "vision", "subjective"],
+      "tags": [
+        "generative",
+        "vision",
+        "subjective"
+      ],
       "launched": "30 Jan 2024",
       "deadline": "1 Apr 2024",
       "prize": "$15,000",
@@ -1929,7 +2393,11 @@
     {
       "name": "Segment Objects in Microscope Images",
       "url": "https://thinkonward.com/app/c/challenges/stranger-sections-2?ref=mlc",
-      "tags": ["vision", "segmentation", "supervised"],
+      "tags": [
+        "vision",
+        "segmentation",
+        "supervised"
+      ],
       "launched": "25 Mar 2024",
       "registration-deadline": "28 Jun 2024",
       "deadline": "28 Jun 2024",
@@ -1940,7 +2408,12 @@
     {
       "name": "Identify Energy Demand Profiles",
       "url": "https://thinkonward.com/app/c/challenges/power-patterns?ref=mlc",
-      "tags": ["subjective", "analysis", "timeseries", "climate"],
+      "tags": [
+        "subjective",
+        "analysis",
+        "timeseries",
+        "climate"
+      ],
       "launched": "25 Mar 2024",
       "registration-deadline": "24 May 2024",
       "deadline": "24 May 2024",
@@ -1951,7 +2424,12 @@
     {
       "name": "Predict Oil/Gas Well States from Pressure Data",
       "url": "https://thinkonward.com/app/c/challenges/spot-the-trend?ref=mlc",
-      "tags": ["timeseries", "supervised", "classification", "measurable"],
+      "tags": [
+        "timeseries",
+        "supervised",
+        "classification",
+        "measurable"
+      ],
       "launched": "25 Mar 2024",
       "registration-deadline": "28 Jun 2024",
       "deadline": "28 Jun 2024",
@@ -1997,7 +2475,13 @@
     {
       "name": "RAG for Public Services and Administration Tasks",
       "url": "https://zindi.africa/competitions/retrieval-augmented-generation-rag-for-public-services-and-administration-tasks?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-      "tags": ["supervised", "generative", "nlp", "llm", "rag"],
+      "tags": [
+        "supervised",
+        "generative",
+        "nlp",
+        "llm",
+        "rag"
+      ],
       "launched": "24 Apr 2024",
       "registration-deadline": "17 May 2024",
       "deadline": "17 May 2024",
@@ -2008,7 +2492,11 @@
     {
       "name": "MLOps: Machine Translation",
       "url": "https://zindi.africa/competitions/melio-mlops-competition?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-      "tags": ["nlp", "translation", "subjective"],
+      "tags": [
+        "nlp",
+        "translation",
+        "subjective"
+      ],
       "launched": "3 May 2024",
       "registration-deadline": "19 Aug 2024",
       "deadline": "1 Sep 2024",
@@ -2019,7 +2507,12 @@
     {
       "name": "Specializing LLMs for Telecom Networks",
       "url": "https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-      "tags": ["supervised", "generative", "nlp", "llm"],
+      "tags": [
+        "supervised",
+        "generative",
+        "nlp",
+        "llm"
+      ],
       "launched": "7 May 2024",
       "registration-deadline": "26 Jul 2024",
       "deadline": "26 Jul 2024",
@@ -2098,7 +2591,13 @@
     {
       "name": "LLM 20 Questions",
       "url": "https://www.kaggle.com/competitions/llm-20-questions?ref=mlcontests",
-      "tags": ["nlp", "llm", "generative", "pvp", "measurable"],
+      "tags": [
+        "nlp",
+        "llm",
+        "generative",
+        "pvp",
+        "measurable"
+      ],
       "launched": "15 May 2024",
       "registration-deadline": "6 Aug 2024",
       "deadline": "13 Aug 2024",
@@ -2130,7 +2629,12 @@
     {
       "name": "Denoise 3D Seismic Volumes",
       "url": "https://thinkonward.com/app/c/challenges/image-impeccable?ref=mlc",
-      "tags": ["vision", "supervised", "geo", "measurable"],
+      "tags": [
+        "vision",
+        "supervised",
+        "geo",
+        "measurable"
+      ],
       "launched": "25 Jun 2024",
       "registration-deadline": "18 Oct 2024",
       "deadline": "18 Oct 2024",
@@ -2141,7 +2645,12 @@
     {
       "name": "Predict Building Classes From Load Profiles",
       "url": "https://thinkonward.com/app/c/challenges/building-instinct?ref=mlc",
-      "tags": ["supervised", "classification", "timeseries", "measurable"],
+      "tags": [
+        "supervised",
+        "classification",
+        "timeseries",
+        "measurable"
+      ],
       "launched": "9 Jul 2024",
       "registration-deadline": "2 Oct 2024",
       "deadline": "2 Oct 2024",
@@ -2170,7 +2679,11 @@
     {
       "name": "Ground-level NO2 Estimation",
       "url": "https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-      "tags": ["supervised", "geo", "regression"],
+      "tags": [
+        "supervised",
+        "geo",
+        "regression"
+      ],
       "launched": "22 May 2024",
       "registration-deadline": "16 Nov 2024",
       "deadline": "16 Nov 2024",
@@ -2198,7 +2711,11 @@
     {
       "name": "Learn Location Mention Recognition Challenge",
       "url": "https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-      "tags": ["supervised", "nlp", "measurable"],
+      "tags": [
+        "supervised",
+        "nlp",
+        "measurable"
+      ],
       "launched": "16 May 2024",
       "registration-deadline": "19 Sep 2024",
       "deadline": "19 Sep 2024",
@@ -2209,7 +2726,13 @@
     {
       "name": "Smart Energy Supply Scheduling for Green Telecom",
       "url": "https://zindi.africa/competitions/smart-energy-supply-scheduling-for-green-telecom?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-      "tags": ["supervised", "measurable", "control", "climate", "energy"],
+      "tags": [
+        "supervised",
+        "measurable",
+        "control",
+        "climate",
+        "energy"
+      ],
       "launched": "6 Aug 2024",
       "registration-deadline": "30 Sep 2024",
       "deadline": "30 Sep 2024",
@@ -2220,7 +2743,12 @@
     {
       "name": "Spatio-Temporal Beam-Level Traffic Forecasting",
       "url": "https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
-      "tags": ["supervised", "measurable", "timeseries", "forecasting"],
+      "tags": [
+        "supervised",
+        "measurable",
+        "timeseries",
+        "forecasting"
+      ],
       "launched": "24 Jul 2024",
       "registration-deadline": "11 Oct 2024",
       "deadline": "11 Oct 2024",
@@ -2231,7 +2759,12 @@
     {
       "name": "Identify Faults on Seismic Volumes",
       "url": "https://thinkonward.com/app/c/challenges/dark-side?ref=mlc",
-      "tags": ["segmentation", "supervised", "vision", "generative"],
+      "tags": [
+        "segmentation",
+        "supervised",
+        "vision",
+        "generative"
+      ],
       "launched": "2 Oct 2024",
       "registration-deadline": "8 Jan 2025",
       "deadline": "8 Jan 2025",
@@ -2426,7 +2959,13 @@
     {
       "name": "Re-order Text to Minimise Perplexity",
       "url": "https://www.kaggle.com/competitions/santa-2024?ref=mlcontests",
-      "tags": ["optimisation", "custom metric", "measurable", "nlp", "llm"],
+      "tags": [
+        "optimisation",
+        "custom metric",
+        "measurable",
+        "nlp",
+        "llm"
+      ],
       "launched": "21 Nov 2024",
       "registration-deadline": "24 Jan 2025",
       "deadline": "31 Jan 2025",
@@ -2439,7 +2978,12 @@
     {
       "name": "Predict Human Preferences on Multi-lingual Chatbots",
       "url": "https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena?ref=mlcontests",
-      "tags": ["nlp", "classification", "languages", "accuracy score"],
+      "tags": [
+        "nlp",
+        "classification",
+        "languages",
+        "accuracy score"
+      ],
       "launched": "18 Nov 2024",
       "registration-deadline": "27 Jan 2025",
       "deadline": "3 Feb 2025",
@@ -2470,7 +3014,12 @@
     {
       "name": "Create Adversarial Essays for LLM Judges",
       "url": "https://www.kaggle.com/competitions/llms-you-cant-please-them-all?ref=mlcontests",
-      "tags": ["text generation", "generative", "nlp", "measurable"],
+      "tags": [
+        "text generation",
+        "generative",
+        "nlp",
+        "measurable"
+      ],
       "launched": "3 Dec 2024",
       "registration-deadline": "25 Feb 2025",
       "deadline": "4 Mar 2025",
@@ -2503,7 +3052,12 @@
     {
       "name": "Predict HCT Transplant Survival Rates",
       "url": "https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions?ref=mlcontests",
-      "tags": ["healthcare", "classification", "supervised", "measurable"],
+      "tags": [
+        "healthcare",
+        "classification",
+        "supervised",
+        "measurable"
+      ],
       "launched": "4 Dec 2024",
       "registration-deadline": "26 Feb 2025",
       "deadline": "5 Mar 2025",
@@ -2535,7 +3089,12 @@
     {
       "name": "Cassava Root Volume Estimation Challenge",
       "url": "https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge?ref=mlcontests",
-      "tags": ["supervised", "vision", "segmentation", "measurable"],
+      "tags": [
+        "supervised",
+        "vision",
+        "segmentation",
+        "measurable"
+      ],
       "launched": "24 Jan 2025",
       "registration-deadline": "9 Mar 2025",
       "deadline": "9 Mar 2025",
@@ -2548,7 +3107,12 @@
     {
       "name": "Identify Diseases on Cocoa Leaves",
       "url": "https://zindi.africa/competitions/amini-cocoa-contamination-challenge?ref=mlcontests",
-      "tags": ["supervised", "vision", "segmentation", "measurable"],
+      "tags": [
+        "supervised",
+        "vision",
+        "segmentation",
+        "measurable"
+      ],
       "launched": "14 Feb 2025",
       "registration-deadline": "11 May 2025",
       "deadline": "11 May 2025",
@@ -2580,7 +3144,11 @@
     {
       "name": "Predict Power Outages",
       "url": "https://thinkonward.com/app/c/challenges/dynamic-rhythms?ref=mlcontests",
-      "tags": ["supervised", "timeseries", "forecasting"],
+      "tags": [
+        "supervised",
+        "timeseries",
+        "forecasting"
+      ],
       "launched": "5 Feb 2025",
       "registration-deadline": "1 May 2025",
       "deadline": "1 May 2025",
@@ -2591,7 +3159,12 @@
     {
       "name": "Global Challenge for Safe and Secure LLMs Track 2",
       "url": "http://gcss.aisingapore.org?ref=mlcontests",
-      "tags": ["llm", "safety", "nlp", "measurable"],
+      "tags": [
+        "llm",
+        "safety",
+        "nlp",
+        "measurable"
+      ],
       "deadline": "11 Feb 2025",
       "prize": "$70,000",
       "platform": "AI Singapore",
@@ -2600,7 +3173,12 @@
     {
       "name": "Predict College Basketball Results",
       "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2025?ref=mlcontests",
-      "tags": ["sports", "forecasting", "supervised", "measurable"],
+      "tags": [
+        "sports",
+        "forecasting",
+        "supervised",
+        "measurable"
+      ],
       "launched": "10 Feb 2025",
       "registration-deadline": null,
       "deadline": "20 Mar 2025",
@@ -2613,7 +3191,13 @@
     {
       "name": "Generate Temporally Aligned Audio and Video",
       "url": "https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024/problems/temporal-alignment-track?ref=mlcontests",
-      "tags": ["generative", "vision", "audio", "video", "measurable"],
+      "tags": [
+        "generative",
+        "vision",
+        "audio",
+        "video",
+        "measurable"
+      ],
       "launched": "29 Oct 2024",
       "deadline": "25 Mar 2025",
       "prize": "$17,500",
@@ -2623,7 +3207,13 @@
     {
       "name": "Generate Spatially Aligned Audio and Video",
       "url": "https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024/problems/spatial-alignment-track?ref=mlcontests",
-      "tags": ["generative", "vision", "audio", "video", "measurable"],
+      "tags": [
+        "generative",
+        "vision",
+        "audio",
+        "video",
+        "measurable"
+      ],
       "launched": "29 Oct 2024",
       "deadline": "25 Mar 2025",
       "prize": "$17,500",
@@ -2633,7 +3223,11 @@
     {
       "name": "Classify Time Series of Building Data",
       "url": "https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024/problems/spatial-alignment-track?ref=mlcontests",
-      "tags": ["timeseries", "classification", "measurable"],
+      "tags": [
+        "timeseries",
+        "classification",
+        "measurable"
+      ],
       "launched": "9 Dec 2024",
       "deadline": "3 Feb 2025",
       "prize": "$7,000",
@@ -2659,7 +3253,13 @@
     {
       "name": "Generate SVG drawings with LLMs",
       "url": "https://www.kaggle.com/competitions/drawing-with-llms?ref=mlcontests",
-      "tags": ["nlp", "generative", "vision", "llm", "measurable"],
+      "tags": [
+        "nlp",
+        "generative",
+        "vision",
+        "llm",
+        "measurable"
+      ],
       "launched": "25 Feb 2025",
       "registration-deadline": "20 May 2025",
       "deadline": "27 May 2025",
@@ -2672,7 +3272,11 @@
     {
       "name": "Program Robots to Navigate Autonomously",
       "url": "https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge25.html#the%20challenge?ref=mlcontests",
-      "tags": ["robotics", "in-person", "driving"],
+      "tags": [
+        "robotics",
+        "in-person",
+        "driving"
+      ],
       "launched": "1 Jan 2025",
       "registration-deadline": "1 Apr 2025",
       "deadline": "1 May 2025",
@@ -2685,7 +3289,11 @@
     {
       "name": "Fly Drones in Simulation and Real Life",
       "url": "https://uk.mathworks.com/academia/student-competitions/minidrones/icra.html?ref=mlcontests",
-      "tags": ["robotics", "in-person", "simulation"],
+      "tags": [
+        "robotics",
+        "in-person",
+        "simulation"
+      ],
       "launched": "1 Mar 2025",
       "registration-deadline": "27 Mar 2025",
       "deadline": "8 Apr 2025",
@@ -2698,7 +3306,11 @@
     {
       "name": "Robot Arm Sim2Real Competition",
       "url": "http://sim2real.net/track/track/?nav=S2R2025&ref=mlcontests",
-      "tags": ["robotics", "in-person", "simulation"],
+      "tags": [
+        "robotics",
+        "in-person",
+        "simulation"
+      ],
       "launched": "1 Jan 2025",
       "registration-deadline": "23 May 2025",
       "deadline": "23 May 2025",
@@ -2711,7 +3323,11 @@
     {
       "name": "Predict RNA Sequence Structure",
       "url": "https://www.kaggle.com/competitions/stanford-rna-3d-folding?ref=mlcontests",
-      "tags": ["supervised", "science", "regression"],
+      "tags": [
+        "supervised",
+        "science",
+        "regression"
+      ],
       "launched": "27 Feb 2025",
       "registration-deadline": "22 May 2025",
       "deadline": "29 May 2025",
@@ -2720,6 +3336,27 @@
       "sponsor": "Stanford University",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Identify People From Silhouettes in Videos",
+      "url": "https://codalab.lisn.upsaclay.fr/competitions/21845?ref=mlcontests",
+      "tags": [
+        "vision",
+        "video",
+        "supervised",
+        "classification"
+      ],
+      "launched": "28 Feb 2025",
+      "registration-deadline": "6 May 2025",
+      "deadline": "6 May 2025",
+      "prize": "$2,660",
+      "platform": "CodaLab",
+      "sponsor": "Watrix Technology",
+      "conference": "IJCB",
+      "conference_year": 2025,
+      "additional-urls": [
+        "https://hid.iapr-tc4.org/"
+      ]
     }
   ]
 }

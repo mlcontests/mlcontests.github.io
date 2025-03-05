@@ -1,17 +1,16 @@
 {
   "data": [
      {
-      "name": "IBM SkillsBuild Hydropower Climate Optimisation Challenge",
-      "url": "https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge",
+      "name": "Forecast Micro-Hydropower Load Generation",
+      "url": "https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge?ref=mlcontests",
       "tags": [
         "supervised",
         "regression",
         "timeseries",
-        "science",
-        "analysis",
-        "tabular",
-        "optimization",
-        "open"
+        "forecasting",
+        "engineering",
+        "open",
+        "climate"
       ],
       "launched": "4 Mar 2025",
       "registration-deadline": "10 Apr 2025",

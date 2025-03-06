@@ -3359,14 +3359,15 @@
       ]
     },
     {
-      "name": "BYU - Locating Bacterial Flagellar Motors 2025",
+      "name": "Locate Bacterial Flagellar Motors in 3D Tomograms",
       "url": "https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025?ref=mlcontests",
       "tags": [
         "biology",
-        "computer vision",
-        "image",
+        "vision",
+        "science",
         "object detection",
-        "custom metric"
+        "measurable",
+        "supervised"
       ],
       "launched": "5 Mar 2025",
       "registration-deadline": "28 May 2025",

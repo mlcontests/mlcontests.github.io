@@ -3357,6 +3357,25 @@
       "additional-urls": [
         "https://hid.iapr-tc4.org/"
       ]
+    },
+    {
+      "name": "BYU - Locating Bacterial Flagellar Motors 2025",
+      "url": "https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025?ref=mlcontests",
+      "tags": [
+        "biology",
+        "computer vision",
+        "image",
+        "object detection",
+        "custom metric"
+      ],
+      "launched": "5 Mar 2025",
+      "registration-deadline": "28 May 2025",
+      "deadline": "4 Jun 2025",
+      "prize": "$65,000",
+      "platform": "Kaggle",
+      "sponsor": "Brigham Young University",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

@@ -3332,6 +3332,24 @@
     "prize": "$70,000",
     "platform": "AI Singapore",
     "sponsor": null
+    },
+    {
+      "name": "IBM SkillsBuild Hydropower Climate Optimisation Challenge",
+      "url": "https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge?ref=mlcontests",
+      "type": "Forecasting",
+      "tags": [
+        "supervised",
+        "tabular",
+        "measurable"
+      ],
+      "launched": "03 Mar 2025",
+      "registration-deadline": "11 Apr 2025",
+      "deadline": "11 Apr 2025",
+      "prize": "$3,000",
+      "platform": "Zindi",
+      "sponsor": "IBM SkillsBuild, CISNR",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

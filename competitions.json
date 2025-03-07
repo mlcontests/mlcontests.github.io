@@ -3350,6 +3350,24 @@
       "sponsor": "IBM SkillsBuild, CISNR",
       "conference": null,
       "conference_year": null
+    },
+     {
+      "name": "AMINI Soil Prediction Challenge",
+      "url": "https://zindi.africa/competitions/amini-soil-prediction-challenge?ref=mlcontests",
+      "type": "Regression",
+      "tags": [
+        "supervised",
+        "tabular",
+        "measurable"
+      ],
+      "launched": "06 Mar 2025",
+      "registration-deadline": "08 Jun 2025",
+      "deadline": "08 Jun 2025",
+      "prize": "$7,000",
+      "platform": "Zindi",
+      "sponsor": "AMINI, NVIDIA",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

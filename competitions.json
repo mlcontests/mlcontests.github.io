@@ -3377,6 +3377,25 @@
       "sponsor": "Brigham Young University",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "BirdCLEF+ 2025",
+      "url": "https://www.kaggle.com/competitions/birdclef-2025?ref=mlcontests",
+      "tags": [
+        "earth and nature",
+        "animals",
+        "multilabel classification",
+        "audio event classification",
+        "custom metric"
+      ],
+      "launched": "10 Mar 2025",
+      "registration-deadline": "29 May 2025",
+      "deadline": "5 Jun 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Cornell Lab of Ornithology",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

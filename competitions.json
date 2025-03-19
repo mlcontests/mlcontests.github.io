@@ -22,28 +22,26 @@
       "conference_year": null
     },
     {
-      "name": "With Ethereum Founder Vitalik Buterin: Quantifying Contributions of Open Source Projects to the Ethereum Universe",
+      "name": "Quantify Contributions of Open Source Code to Downstream Projects",
       "url": "https://cryptopond.xyz/modelfactory/detail/2564617?ref=mlcontests",
       "tags": [
-        "business",
         "finance",
         "open",
-        "data",
-        "deep learning",
         "supervised",
-        "multimodal",
-        "graph",
         "measurable",
         "analysis",
         "ranking",
-        "subjective"
+        "subjective",
+        "crypto",
+        "graph"
       ],
       "launched": "10 Feb 2025",
       "registration-deadline": "10 May 2025",
       "deadline": "10 May 2025",
       "prize": "$50,000",
       "platform": "Pond",
-      "sponsor": "Vitalik Buterin, Deepfunding, OSObserver, Allo Capital, Drips Network, Pairwisevote",
+      "sponsor": "Vitalik Buterin, DeepFunding, OSObserver, Allo Capital, Drips Network, Pairwisevote",
+      "additional_urls": ["https://www.deepfunding.org/"],
       "conference": null,
       "conference_year": null
     },

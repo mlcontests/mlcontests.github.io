@@ -3420,6 +3420,24 @@
       "sponsor": "Cornell Lab of Ornithology",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Detect Vacant Land in Satellite Images",
+      "url": "https://solafune.com/competitions/5026f2e0-0821-4b02-b09b-78b178482028?menu=about&tab=overview&ref=mlcontests",
+      "tags": [
+        "vision",
+        "supervised",
+        "geo",
+        "object detection",
+        "segmentation",
+        "analysis",
+        "satellite"
+      ],
+      "launched": "13 Mar 2025",
+      "deadline": "14 Jun 2025",
+      "prize": "$12,000",
+      "platform": "Solafune",
+      "sponsor": null
     }
   ]
 }

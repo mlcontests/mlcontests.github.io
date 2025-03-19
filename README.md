@@ -30,7 +30,7 @@ Optional fields:
 "conference-year": Which year of the conference is this competition affiliated with? E.g. 2022 
 "launched": day the competition starts. Format is "D MMM YYYY".
 "registration-deadline": final day new competitors are able to register. Format is "D MMM YYYY".
-"launched": day the competition was added to this repo. 
+"added": day the competition was added to this repo. 
 "additional_urls": Any additional relevant links - for example, to the competition homepage if the actual competition is run on CodaLab. E.g. ["https://example1.com", "https://example2.com"]
 "additional_prizes": Any additional non-cash prizes.  For example: "RTX 4090" or "$500 travel grant". 
 ```

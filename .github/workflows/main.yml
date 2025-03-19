@@ -19,4 +19,4 @@ jobs:
         - name: hit endpoint  
           env:
             NETLIFY_BUILD_HOOK: ${{ secrets.BUILDHOOK }}
-          run: curl -X POST -d {} $BUILD_HOOK
+          run: curl -X POST -d {} $NETLIFY_BUILD_HOOK

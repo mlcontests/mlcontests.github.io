@@ -3398,7 +3398,7 @@
       "conference_year": null
     },
     {
-      "name": "Vacant Lot Detection",
+      "name": "Detect Vacant Land in Satellite Images",
       "url": "https://solafune.com/competitions/5026f2e0-0821-4b02-b09b-78b178482028?menu=about&tab=overview&ref=mlcontests",
       "tags": [
         "vision",

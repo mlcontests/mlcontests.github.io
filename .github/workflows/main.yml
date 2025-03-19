@@ -14,7 +14,7 @@ jobs:
       runs-on: ubuntu-20.04
       steps:
         - name: sleep to allow any caches to update
-          run: sleep 1s
+          run: sleep 90s
           shell: bash
         - name: hit endpoint  
           env:

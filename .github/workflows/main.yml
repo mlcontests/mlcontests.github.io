@@ -14,9 +14,9 @@ jobs:
       runs-on: ubuntu-20.04
       steps:
         - name: sleep to allow any caches to update
-          run: sleep 90s
+          run: sleep 1s
           shell: bash
         - name: hit endpoint  
           env:
             NETLIFY_BUILD_HOOK: ${{ secrets.BUILDHOOK }}
-          run: curl -X POST -d {} "$BUILD_HOOK"
+          run: curl -X POST -d {} $BUILD_HOOK

@@ -9,12 +9,14 @@ defaults:
   run:
     shell: bash
 jobs:
-  trigger-build-netlify:
-      name: Trigger build (Netlify)
+  trigger-build-site:
+      name: Trigger build
       runs-on: ubuntu-20.04
       steps:
-        - name: sleep for 90 seconds
+        - name: sleep to allow any caches to update
           run: sleep 90s
           shell: bash
         - name: hit endpoint  
-          run: curl -X POST -d {} https://api.netlify.com/build_hooks/63ff284fb01c046c071c3a09
+          env:
+            NETLIFY_BUILD_HOOK: ${{ secrets.BUILDHOOK }}
+          run: curl -X POST -d {} "$BUILD_HOOK"

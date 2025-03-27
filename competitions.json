@@ -3442,18 +3442,20 @@
       "sponsor": null
     },
     {
-      "name": "ARC Prize 2025",
+      "name": "ARC Prize 2025: Abstraction and Reasoning",
       "url": "https://www.kaggle.com/competitions/arc-prize-2025?ref=mlcontests",
       "tags": [
-        "artificial intelligence",
-        "custom metric"
+        "reasoning",
+        "supervised",
+        "measurable"
       ],
       "launched": "26 Mar 2025",
       "registration-deadline": "27 Oct 2025",
       "deadline": "3 Nov 2025",
+      "added": "27 Mar 2025",
       "prize": "$725,000",
       "platform": "Kaggle",
-      "sponsor": "Abstraction and Reasoning Corpus",
+      "sponsor": "ARC Prize Foundation",
       "conference": null,
       "conference_year": null
     }

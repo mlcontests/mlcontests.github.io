@@ -3458,6 +3458,25 @@
       "sponsor": "ARC Prize Foundation",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Predict U.S. Engineering Salaries",
+      "url": "https://bitgrit.net/competition/24?ref=mlcontests",
+      "tags": [
+        "classification",
+        "supervised",
+        "measurable",
+        "tabular"
+      ],
+      "launched": "15 Mar 2025",
+      "registration-deadline": "15 Jun 2025",
+      "deadline": "15 Jun 2025",
+      "added": "27 Mar 2025",
+      "prize": "$3,000",
+      "platform": "bitgrit",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

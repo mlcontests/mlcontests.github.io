@@ -3458,6 +3458,23 @@
       "sponsor": "ARC Prize Foundation",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Image Matching Challenge 2025",
+      "url": "https://www.kaggle.com/competitions/image-matching-challenge-2025?ref=mlcontests",
+      "tags": [
+        "computer vision",
+        "image",
+        "custom metric"
+      ],
+      "launched": "1 Apr 2025",
+      "registration-deadline": "26 May 2025",
+      "deadline": "2 Jun 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Czech Technical University in Prague",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

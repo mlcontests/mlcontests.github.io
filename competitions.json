@@ -3460,6 +3460,26 @@
       "conference_year": null
     },
     {
+      "name": "Reconstruct 3D Scenes From 2D Image Collections",
+      "url": "https://www.kaggle.com/competitions/image-matching-challenge-2025?ref=mlcontests",
+      "tags": [
+        "computer vision",
+        "supervised",
+        "3d",
+        "clustering",
+        "measurable"
+      ],
+      "launched": "1 Apr 2025",
+      "registration-deadline": "26 May 2025",
+      "deadline": "2 Jun 2025",
+      "added": "3 Apr 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Czech Technical University in Prague",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Predict U.S. Engineering Salaries",
       "url": "https://bitgrit.net/competition/24?ref=mlcontests",
       "tags": [

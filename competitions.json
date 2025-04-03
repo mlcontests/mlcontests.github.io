@@ -3478,6 +3478,106 @@
       "sponsor": "Czech Technical University in Prague",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Predict U.S. Engineering Salaries",
+      "url": "https://bitgrit.net/competition/24?ref=mlcontests",
+      "tags": [
+        "classification",
+        "supervised",
+        "measurable",
+        "tabular"
+      ],
+      "launched": "15 Mar 2025",
+      "registration-deadline": "15 Jun 2025",
+      "deadline": "15 Jun 2025",
+      "added": "27 Mar 2025",
+      "prize": "$3,000",
+      "platform": "bitgrit",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Predict Future Positions of 2 Road-Based Agents",
+      "url": "https://waymo.com/open/challenges/2025/interaction-prediction/?ref=mlcontests",
+      "tags": [
+        "measurable",
+        "supervised",
+        "timeseries",
+        "forecasting",
+        "driving"
+      ],
+      "launched": "1 Apr 2025",
+      "registration-deadline": "22 May 2025",
+      "deadline": "22 May 2025",
+      "added": "2 Apr 2025",
+      "prize": "$18,000",
+      "platform": "Waymo",
+      "sponsor": "Waymo",
+      "conference": "CVPR",
+      "conference-year": 2025
+    },
+    {
+      "name": "Simulate Realistic Traffic Behaviour",
+      "url": "https://waymo.com/open/challenges/2025/sim-agents/?ref=mlcontests",
+      "tags": [
+        "measurable",
+        "supervised",
+        "timeseries",
+        "simulation",
+        "driving"
+      ],
+      "launched": "1 Apr 2025",
+      "registration-deadline": "22 May 2025",
+      "deadline": "22 May 2025",
+      "added": "2 Apr 2025",
+      "prize": "$18,000",
+      "platform": "Waymo",
+      "sponsor": "Waymo",
+      "conference": "CVPR",
+      "conference-year": 2025
+    },
+    {
+      "name": "Generate Realistic Traffic Scenarios",
+      "url": "https://waymo.com/open/challenges/2025/scenario-generation/?ref=mlcontests",
+      "tags": [
+        "measurable",
+        "supervised",
+        "timeseries",
+        "simulation",
+        "driving"
+      ],
+      "launched": "1 Apr 2025",
+      "registration-deadline": "22 May 2025",
+      "deadline": "22 May 2025",
+      "added": "2 Apr 2025",
+      "prize": "$18,000",
+      "platform": "Waymo",
+      "sponsor": "Waymo",
+      "conference": "CVPR",
+      "conference-year": 2025
+    },
+    {
+      "name": "Vision-based End-To-End Driving",
+      "url": "https://waymo.com/open/challenges/2025/e2e-driving/?ref=mlcontests",
+      "tags": [
+        "measurable",
+        "supervised",
+        "vision",
+        "timeseries",
+        "control",
+        "driving"
+      ],
+      "launched": "1 Apr 2025",
+      "registration-deadline": "22 May 2025",
+      "deadline": "22 May 2025",
+      "added": "2 Apr 2025",
+      "prize": "$18,000",
+      "platform": "Waymo",
+      "sponsor": "Waymo",
+      "conference": "CVPR",
+      "conference-year": 2025
     }
   ]
 }

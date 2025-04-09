@@ -3578,6 +3578,23 @@
       "sponsor": "Waymo",
       "conference": "CVPR",
       "conference-year": 2025
+    },
+    {
+      "name": " Yale/UNC-CH - Geophysical Waveform Inversion",
+      "url": "https://www.kaggle.com/competitions/waveform-inversion?ref=mlcontests",
+      "tags": [
+        "physics",
+        "signal processing",
+        "mean absolute error"
+      ],
+      "launched": "8 Apr 2025",
+      "registration-deadline": "23 Jun 2025",
+      "deadline": "30 Jun 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Yale University",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

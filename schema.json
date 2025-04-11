@@ -13,10 +13,25 @@
             "url": {
               "type": "string"
             },
-            "type": {
-              "type": "string"
+            "tags": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
             },
             "deadline": {
+              "type": "string",
+              "pattern": "\\d{1,2} [a-zA-Z]{3} \\d{4}"
+            },
+            "registration-deadline": {
+              "type": "string",
+              "pattern": "\\d{1,2} [a-zA-Z]{3} \\d{4}"
+            },
+            "launched": {
+              "type": "string",
+              "pattern": "\\d{1,2} [a-zA-Z]{3} \\d{4}"
+            },
+            "added": {
               "type": "string",
               "pattern": "\\d{1,2} [a-zA-Z]{3} \\d{4}"
             },
@@ -34,12 +49,18 @@
             },
             "conference-year": {
               "type": ["integer", "null"]
+            },
+            "additional_urls": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
             }
           },
           "required": [
             "name",
             "url",
-            "type",
+            "tags",
             "deadline",
             "prize",
             "platform",

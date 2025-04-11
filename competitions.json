@@ -3580,12 +3580,15 @@
       "conference-year": 2025
     },
     {
-      "name": " Yale/UNC-CH - Geophysical Waveform Inversion",
+      "name": "Geophysical Waveform Inversion",
       "url": "https://www.kaggle.com/competitions/waveform-inversion?ref=mlcontests",
       "tags": [
         "physics",
-        "signal processing",
-        "mean absolute error"
+        "regression",
+        "supervised",
+        "measurable",
+        "timeseries",
+        "science"
       ],
       "launched": "8 Apr 2025",
       "registration-deadline": "23 Jun 2025",

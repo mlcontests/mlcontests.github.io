@@ -3635,6 +3635,29 @@
       "sponsor": "Yale University",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Detect Fake Crypto Wallets",
+      "url": "https://cryptopond.xyz/modelfactory/detail/4712551?ref=mlcontests",
+      "tags": [
+        "crypto",
+        "classification",
+        "supervised",
+        "measurable",
+        "tabular",
+        "security"
+      ],
+      "launched": "9 Apr 2025",
+      "registration-deadline": "30 Apr 2025",
+      "deadline": "30 Apr 2025",
+      "prize": "$20,000",
+      "platform": "Pond",
+      "sponsor": "Human Passport, Octant, Ethereum Foundation",
+      "additional_urls": [
+        "https://ethereum.foundation/", "https://x.com/HumnPassport", "https://x.com/OctantApp"
+      ],
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

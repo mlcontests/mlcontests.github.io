@@ -39,6 +39,23 @@
       "conference_year": null
     },
     {
+      "name": "Amini Soil Prediction Challenge",
+      "url": "https://zindi.africa/competitions/amini-soil-prediction-challenge?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "regression",
+        "climate"
+      ],
+      "launched": "2 Apr 2025",
+      "registration-deadline": "23 Jun 2025",
+      "deadline": "23 Jun 2025",
+      "prize": "$7,000",
+      "platform": "Zindi",
+      "sponsor": "Amini",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Quantify Contributions of Open Source Code to Downstream Projects",
       "url": "https://cryptopond.xyz/modelfactory/detail/2564617?ref=mlcontests",
       "tags": [

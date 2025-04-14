@@ -22,12 +22,14 @@
       "conference_year": null
     },
      {
-      "name": "Kenya Clinical Reasoning Challenge",
+      "name": "Generate Clinical Reasoning Texts",
       "url": "https://zindi.africa/competitions/kenya-clinical-reasoning-challenge?ref=mlcontests",
       "tags": [
         "supervised",
         "nlp",
-        "medical"
+        "medical",
+        "llm",
+        "generative"
       ],
       "launched": "3 Apr 2025",
       "registration-deadline": "30 Jun 2025",
@@ -39,12 +41,13 @@
       "conference_year": null
     },
     {
-      "name": "Amini Soil Prediction Challenge",
+      "name": "Predict Soil Nutrient Availability",
       "url": "https://zindi.africa/competitions/amini-soil-prediction-challenge?ref=mlcontests",
       "tags": [
         "supervised",
         "regression",
-        "climate"
+        "climate",
+        "measurable"
       ],
       "launched": "2 Apr 2025",
       "registration-deadline": "23 Jun 2025",

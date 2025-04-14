@@ -3368,6 +3368,24 @@
       "sponsor": "Amini",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Kenya Clinical Reasoning Challenge",
+      "url": "https://zindi.africa/competitions/kenya-clinical-reasoning-challenge?ref=mlcontests",
+      "type": "nlp",
+      "tags": [
+        "supervised",
+        "tabular",
+        "measurable"
+      ],
+      "launched": "03 Apr 2025",
+      "registration-deadline": "30 Jun 2025",
+      "deadline": "30 Jun 2025",
+      "prize": "$10,000",
+      "platform": "Zindi",
+      "sponsor": "PATH",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

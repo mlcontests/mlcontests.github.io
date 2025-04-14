@@ -21,6 +21,23 @@
       "conference": null,
       "conference_year": null
     },
+     {
+      "name": "Kenya Clinical Reasoning Challenge",
+      "url": "https://zindi.africa/competitions/kenya-clinical-reasoning-challenge?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "nlp",
+        "medical"
+      ],
+      "launched": "3 Apr 2025",
+      "registration-deadline": "30 Jun 2025",
+      "deadline": "30 Jun 2025",
+      "prize": "$10,000",
+      "platform": "Zindi",
+      "sponsor": "PATH",
+      "conference": null,
+      "conference_year": null
+    },
     {
       "name": "Quantify Contributions of Open Source Code to Downstream Projects",
       "url": "https://cryptopond.xyz/modelfactory/detail/2564617?ref=mlcontests",

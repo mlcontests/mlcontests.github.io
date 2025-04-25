@@ -3658,6 +3658,28 @@
       ],
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Part 1: Stacking Sats & Part 2: Bittensor Subnet POC",
+      "url": "https://www.hypertrial.ai/",
+      "tags": [
+        "crypto",
+        "time series",
+        "bitcoin",
+        "bittensor",
+        "backtest",
+        "quant",
+        "technical analysis"
+      ],
+      "launched": "25 April 2025",
+      "registration-deadline": "9 May 2025",
+      "deadline": "23 May 2025",
+      "prize": "$100,000",
+      "platform": "Hypertrial.ai",
+      "sponsor": "XVentures, Proof of Talk",
+      "additional_urls": ["https://www.proofoftalk.io/proof-of-pitch"],
+      "conference": "Proof of Talk",
+      "conference_year": "2025"
     }
   ]
 }

@@ -3637,7 +3637,7 @@
       "conference_year": null
     },
     {
-      "name": "Côte d’Ivoire Byte-Sized Agriculture Challenge",
+      "name": "Classify Crops in Côte d’Ivoire Satellite Imagery",
       "url": "https://zindi.africa/competitions/cote-divoire-byte-sized-agriculture-challenge?ref=mlcontests",
       "tags": [
         "supervised",
@@ -3648,7 +3648,7 @@
       "launched": "25 Apr 2025",
       "registration-deadline": "16 Jun 2025",
       "deadline": "16 Jun 2025",
-      "prize": "€7,000",
+      "prize": "$8,000",
       "platform": "Zindi",
       "sponsor": "Digital Africa",
       "conference": null,

@@ -3637,6 +3637,24 @@
       "conference_year": null
     },
     {
+      "name": "Classify Crops in Côte d’Ivoire Satellite Imagery",
+      "url": "https://zindi.africa/competitions/cote-divoire-byte-sized-agriculture-challenge?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "classification",
+        "satellite",
+        "geo"
+      ],
+      "launched": "25 Apr 2025",
+      "registration-deadline": "16 Jun 2025",
+      "deadline": "16 Jun 2025",
+      "prize": "$8,000",
+      "platform": "Zindi",
+      "sponsor": "Digital Africa",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Detect Fake Crypto Wallets",
       "url": "https://cryptopond.xyz/modelfactory/detail/4712551?ref=mlcontests",
       "tags": [

@@ -3676,6 +3676,22 @@
       ],
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Predict Seismic Wave Velocity",
+      "url": "https://thinkonward.com/app/c/challenges/speed-and-structure?ref=mlc",
+      "tags": [
+        "supervised",
+        "vision",
+        "generative",
+        "science"
+      ],
+      "launched": "14 May 2025",
+      "registration-deadline": "07 Aug 2025",
+      "deadline": "07 Aug 2025",
+      "prize": "$30,000",
+      "platform": "ThinkOnward",
+      "sponsor": null
     }
   ]
 }

@@ -11,7 +11,7 @@ defaults:
 jobs:
   trigger-build-site:
       name: Trigger build
-      runs-on: ubuntu-20.04
+      runs-on: ubuntu-24.04
       steps:
         - name: sleep to allow any caches to update
           run: sleep 90s

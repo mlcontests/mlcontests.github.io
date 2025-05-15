@@ -3692,6 +3692,22 @@
       "prize": "$30,000",
       "platform": "ThinkOnward",
       "sponsor": null
+    },
+    {
+      "name": "ADIA Lab and Crunch Lab Launch Structural Break Challenge",
+      "url": "https://www.adialab.ae/structural-break-challenge",
+      "tags": [
+        "supervised",
+        "tabular",
+        "forecasting",
+        "science"
+      ],
+      "launched": "14 May 2025",
+      "registration-deadline": "20 Sep 2025",
+      "deadline": "25 Sep 2025",
+      "prize": "$100,000",
+      "platform": "crunchdao",
+      "sponsor": "ADIALAB"
     }
   ]
 }

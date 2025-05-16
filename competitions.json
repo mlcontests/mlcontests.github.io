@@ -21,7 +21,7 @@
       "conference": null,
       "conference_year": null
     },
-     {
+    {
       "name": "Generate Clinical Reasoning Texts",
       "url": "https://zindi.africa/competitions/kenya-clinical-reasoning-challenge?ref=mlcontests",
       "tags": [
@@ -3672,7 +3672,9 @@
       "platform": "Pond",
       "sponsor": "Human Passport, Octant, Ethereum Foundation",
       "additional_urls": [
-        "https://ethereum.foundation/", "https://x.com/HumnPassport", "https://x.com/OctantApp"
+        "https://ethereum.foundation/",
+        "https://x.com/HumnPassport",
+        "https://x.com/OctantApp"
       ],
       "conference": null,
       "conference_year": null
@@ -3692,6 +3694,25 @@
       "prize": "$30,000",
       "platform": "ThinkOnward",
       "sponsor": null
+    },
+    {
+      "name": "OpenAI to Z Challenge",
+      "url": "https://www.kaggle.com/competitions/openai-to-z-challenge?ref=mlcontests",
+      "tags": [
+        "brazil",
+        "south america",
+        "geospatial analysis",
+        "computer vision",
+        "deep learning"
+      ],
+      "launched": "15 May 2025",
+      "registration-deadline": null,
+      "deadline": "29 Jun 2025",
+      "prize": "$400,000",
+      "platform": "Kaggle",
+      "sponsor": "OpenAI",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

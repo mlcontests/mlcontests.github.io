@@ -3731,6 +3731,45 @@
       "sponsor": "OpenAI",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Edit Formal Maths Proofs Based on Instructions",
+      "url": "https://www.codabench.org/competitions/8357/?ref=mlcontests",
+      "tags": [
+        "mathematics",
+        "reasoning",
+        "llm",
+        "measurable"
+      ],
+      "launched": "21 May 2025",
+      "registration-deadline": "1 Jul 2025",
+      "deadline": "1 Jul 2025",
+      "prize": null,
+      "additional-urls": ["https://sites.google.com/view/ai4mathworkshopicml2025/challenge"],
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "ICML",
+      "conference_year": 2025
+    },
+    {
+      "name": "Answer Physics Exam Questions",
+      "url": "https://www.codabench.org/competitions/7925/?ref=mlcontests",
+      "tags": [
+        "physics",
+        "science",
+        "reasoning",
+        "llm",
+        "measurable"
+      ],
+      "launched": "21 May 2025",
+      "registration-deadline": "1 Jul 2025",
+      "deadline": "1 Jul 2025",
+      "prize": null,
+      "additional-urls": ["https://sites.google.com/view/ai4mathworkshopicml2025/challenge"],
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "ICML",
+      "conference_year": 2025
     }
   ]
 }

@@ -3696,6 +3696,24 @@
       "sponsor": null
     },
     {
+      "name": "Detect Structural Breaks in Time Series Data",
+      "url": "https://structural-break.crunchdao.com/?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "tabular",
+        "timeseries",
+        "forecasting",
+        "measurable"
+      ],
+      "launched": "14 May 2025",
+      "registration-deadline": "20 Sep 2025",
+      "deadline": "25 Sep 2025",
+      "additional-urls": ["https://www.adialab.ae/structural-break-challenge"],
+      "prize": "$100,000",
+      "platform": "CrunchDAO",
+      "sponsor": "ADIALAB"
+    },
+    {
       "name": "Use OpenAI Models to Discover Archaeological Sites",
       "url": "https://www.kaggle.com/competitions/openai-to-z-challenge?ref=mlcontests",
       "tags": [

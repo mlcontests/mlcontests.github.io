@@ -3696,19 +3696,19 @@
       "sponsor": null
     },
     {
-      "name": "OpenAI to Z Challenge",
+      "name": "Use OpenAI Models to Discover Archaeological Sites",
       "url": "https://www.kaggle.com/competitions/openai-to-z-challenge?ref=mlcontests",
       "tags": [
-        "brazil",
-        "south america",
-        "geospatial analysis",
-        "computer vision",
-        "deep learning"
+        "subjective",
+        "geo",
+        "vision",
+        "analysis/visualisation",
+        "satellite"
       ],
       "launched": "15 May 2025",
       "registration-deadline": null,
       "deadline": "29 Jun 2025",
-      "prize": "$400,000",
+      "prize": "$200,000",
       "platform": "Kaggle",
       "sponsor": "OpenAI",
       "conference": null,

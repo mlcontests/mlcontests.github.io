@@ -3694,19 +3694,21 @@
       "sponsor": null
     },
     {
-      "name": "ADIA Lab and Crunch Lab Launch Structural Break Challenge",
-      "url": "https://www.adialab.ae/structural-break-challenge",
+      "name": "Detect Structural Breaks in Time Series Data",
+      "url": "https://structural-break.crunchdao.com/?ref=mlcontests",
       "tags": [
         "supervised",
         "tabular",
+        "timeseries",
         "forecasting",
-        "science"
+        "measurable"
       ],
       "launched": "14 May 2025",
       "registration-deadline": "20 Sep 2025",
       "deadline": "25 Sep 2025",
+      "additional-urls": ["https://www.adialab.ae/structural-break-challenge"],
       "prize": "$100,000",
-      "platform": "crunchdao",
+      "platform": "CrunchDAO",
       "sponsor": "ADIALAB"
     }
   ]

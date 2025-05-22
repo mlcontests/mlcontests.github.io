@@ -3721,7 +3721,8 @@
         "geo",
         "vision",
         "analysis/visualisation",
-        "satellite"
+        "satellite",
+        "hackathon"
       ],
       "launched": "15 May 2025",
       "registration-deadline": null,
@@ -3770,6 +3771,24 @@
       "sponsor": null,
       "conference": "ICML",
       "conference_year": 2025
+    },
+    {
+      "name": "Demonstrate Innovative Uses of AI",
+      "url": "https://hpaistudio.devpost.com/?ref=mlcontests",
+      "tags": [
+        "subjective",
+        "analysis/visualisation",
+        "hackathon"
+      ],
+      "launched": "7 Apr 2025",
+      "registration-deadline": "10 Jun 2025",
+      "deadline": "10 Jun 2025",
+      "prize": "$70,000",
+      "platform": "DEVPOST",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null,
+      "note": "This competition is open to U.S. residents only"
     }
   ]
 }

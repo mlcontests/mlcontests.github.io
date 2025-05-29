@@ -3686,12 +3686,13 @@
         "supervised",
         "classification",
         "satellite",
-        "geo"
+        "geo",
+        "measurable"
       ],
       "launched": "17 Apr 2025",
-      "registration-deadline": "04 Aug 2025",
-      "deadline": "04 Aug 2025",
-      "prize": "1,000 CHF",
+      "registration-deadline": "4 Aug 2025",
+      "deadline": "4 Aug 2025",
+      "prize": "$1,200",
       "platform": "Zindi",
       "sponsor": "ITU",
       "conference": null,

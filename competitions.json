@@ -21,7 +21,7 @@
       "conference": null,
       "conference_year": null
     },
-     {
+    {
       "name": "Generate Clinical Reasoning Texts",
       "url": "https://zindi.africa/competitions/kenya-clinical-reasoning-challenge?ref=mlcontests",
       "tags": [
@@ -3672,7 +3672,9 @@
       "platform": "Pond",
       "sponsor": "Human Passport, Octant, Ethereum Foundation",
       "additional_urls": [
-        "https://ethereum.foundation/", "https://x.com/HumnPassport", "https://x.com/OctantApp"
+        "https://ethereum.foundation/",
+        "https://x.com/HumnPassport",
+        "https://x.com/OctantApp"
       ],
       "conference": null,
       "conference_year": null
@@ -3694,6 +3696,117 @@
       "sponsor": "ITU",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Predict Seismic Wave Velocity",
+      "url": "https://thinkonward.com/app/c/challenges/speed-and-structure?ref=mlc",
+      "tags": [
+        "supervised",
+        "vision",
+        "generative",
+        "science"
+      ],
+      "launched": "14 May 2025",
+      "registration-deadline": "07 Aug 2025",
+      "deadline": "07 Aug 2025",
+      "prize": "$30,000",
+      "platform": "ThinkOnward",
+      "sponsor": null
+    },
+    {
+      "name": "Detect Structural Breaks in Time Series Data",
+      "url": "https://structural-break.crunchdao.com/?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "tabular",
+        "timeseries",
+        "forecasting",
+        "measurable"
+      ],
+      "launched": "14 May 2025",
+      "registration-deadline": "20 Sep 2025",
+      "deadline": "25 Sep 2025",
+      "additional-urls": ["https://www.adialab.ae/structural-break-challenge"],
+      "prize": "$100,000",
+      "platform": "CrunchDAO",
+      "sponsor": "ADIALAB"
+    },
+    {
+      "name": "Use OpenAI Models to Discover Archaeological Sites",
+      "url": "https://www.kaggle.com/competitions/openai-to-z-challenge?ref=mlcontests",
+      "tags": [
+        "subjective",
+        "geo",
+        "vision",
+        "analysis/visualisation",
+        "satellite",
+        "hackathon"
+      ],
+      "launched": "15 May 2025",
+      "registration-deadline": null,
+      "deadline": "29 Jun 2025",
+      "prize": "$200,000",
+      "platform": "Kaggle",
+      "sponsor": "OpenAI",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Edit Formal Maths Proofs Based on Instructions",
+      "url": "https://www.codabench.org/competitions/8357/?ref=mlcontests",
+      "tags": [
+        "mathematics",
+        "reasoning",
+        "llm",
+        "measurable"
+      ],
+      "launched": "21 May 2025",
+      "registration-deadline": "1 Jul 2025",
+      "deadline": "1 Jul 2025",
+      "prize": null,
+      "additional-urls": ["https://sites.google.com/view/ai4mathworkshopicml2025/challenge"],
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "ICML",
+      "conference_year": 2025
+    },
+    {
+      "name": "Answer Physics Exam Questions",
+      "url": "https://www.codabench.org/competitions/7925/?ref=mlcontests",
+      "tags": [
+        "physics",
+        "science",
+        "reasoning",
+        "llm",
+        "measurable"
+      ],
+      "launched": "21 May 2025",
+      "registration-deadline": "1 Jul 2025",
+      "deadline": "1 Jul 2025",
+      "prize": null,
+      "additional-urls": ["https://sites.google.com/view/ai4mathworkshopicml2025/challenge"],
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "ICML",
+      "conference_year": 2025
+    },
+    {
+      "name": "Demonstrate Innovative Uses of AI",
+      "url": "https://hpaistudio.devpost.com/?ref=mlcontests",
+      "tags": [
+        "subjective",
+        "analysis/visualisation",
+        "hackathon"
+      ],
+      "launched": "7 Apr 2025",
+      "registration-deadline": "10 Jun 2025",
+      "deadline": "10 Jun 2025",
+      "prize": "$70,000",
+      "platform": "DEVPOST",
+      "sponsor": "HP, NVIDIA",
+      "conference": null,
+      "conference_year": null,
+      "note": "This competition is open to U.S. residents only"
     }
   ]
 }

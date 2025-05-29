@@ -3680,6 +3680,25 @@
       "conference_year": null
     },
     {
+      "name": "Classification for Landslide Detection",
+      "url": "https://zindi.africa/competitions/classification-for-landslide-detection?utm_medium=referral&utm_source=mlcontest&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "classification",
+        "satellite",
+        "geo",
+        "measurable"
+      ],
+      "launched": "17 Apr 2025",
+      "registration-deadline": "4 Aug 2025",
+      "deadline": "4 Aug 2025",
+      "prize": "$1,200",
+      "platform": "Zindi",
+      "sponsor": "ITU",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Predict Seismic Wave Velocity",
       "url": "https://thinkonward.com/app/c/challenges/speed-and-structure?ref=mlc",
       "tags": [

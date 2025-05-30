@@ -3727,7 +3727,9 @@
       "launched": "14 May 2025",
       "registration-deadline": "20 Sep 2025",
       "deadline": "25 Sep 2025",
-      "additional-urls": ["https://www.adialab.ae/structural-break-challenge"],
+      "additional-urls": [
+        "https://www.adialab.ae/structural-break-challenge"
+      ],
       "prize": "$100,000",
       "platform": "CrunchDAO",
       "sponsor": "ADIALAB"
@@ -3765,7 +3767,9 @@
       "registration-deadline": "1 Jul 2025",
       "deadline": "1 Jul 2025",
       "prize": null,
-      "additional-urls": ["https://sites.google.com/view/ai4mathworkshopicml2025/challenge"],
+      "additional-urls": [
+        "https://sites.google.com/view/ai4mathworkshopicml2025/challenge"
+      ],
       "platform": "Codabench",
       "sponsor": null,
       "conference": "ICML",
@@ -3785,7 +3789,9 @@
       "registration-deadline": "1 Jul 2025",
       "deadline": "1 Jul 2025",
       "prize": null,
-      "additional-urls": ["https://sites.google.com/view/ai4mathworkshopicml2025/challenge"],
+      "additional-urls": [
+        "https://sites.google.com/view/ai4mathworkshopicml2025/challenge"
+      ],
       "platform": "Codabench",
       "sponsor": null,
       "conference": "ICML",
@@ -3808,6 +3814,39 @@
       "conference": null,
       "conference_year": null,
       "note": "This competition is open to U.S. residents only"
+    },
+    {
+      "name": "CMI - Detect Behavior with Sensor Data",
+      "url": "https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data?ref=mlcontests",
+      "tags": [
+        "health",
+        "time series analysis",
+        "custom metric"
+      ],
+      "launched": "30 May 2025",
+      "registration-deadline": "26 Aug 2025",
+      "deadline": "2 Sep 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Child Mind Institute",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Meta Kaggle Hackathon",
+      "url": "https://www.kaggle.com/competitions/meta-kaggle-hackathon?ref=mlcontests",
+      "tags": [
+        "tabular",
+        "text"
+      ],
+      "launched": "29 May 2025",
+      "registration-deadline": null,
+      "deadline": "21 Jul 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Kaggle",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

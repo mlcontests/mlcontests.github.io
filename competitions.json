@@ -3816,12 +3816,13 @@
       "note": "This competition is open to U.S. residents only"
     },
     {
-      "name": "CMI - Detect Behavior with Sensor Data",
+      "name": "Detect Behaviours From Wrist-Worn Sensors",
       "url": "https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data?ref=mlcontests",
       "tags": [
-        "health",
-        "time series analysis",
-        "custom metric"
+        "healthcare",
+        "timeseries",
+        "measurable",
+        "classification"
       ],
       "launched": "30 May 2025",
       "registration-deadline": "26 Aug 2025",
@@ -3833,11 +3834,13 @@
       "conference_year": null
     },
     {
-      "name": "Meta Kaggle Hackathon",
+      "name": "Share Insights Based on Meta Kaggle Data",
       "url": "https://www.kaggle.com/competitions/meta-kaggle-hackathon?ref=mlcontests",
       "tags": [
         "tabular",
-        "text"
+        "hackathon",
+        "subjective",
+        "analysis/visualisation"
       ],
       "launched": "29 May 2025",
       "registration-deadline": null,

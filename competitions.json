@@ -3850,6 +3850,26 @@
       "sponsor": "Kaggle",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "DRW - Crypto Market Prediction",
+      "url": "https://www.kaggle.com/competitions/drw-crypto-market-prediction",
+      "tags": [
+        "tabular",
+        "timeseries",
+        "supervised",
+        "finance",
+        "regression"
+      ],
+      "launched": "21 May 2025",
+      "registration-deadline": null,
+      "deadline": "25 Jul 2025",
+      "prize": "$25,000",
+      "platform": "Kaggle",
+      "sponsor": "DRW",
+      "conference": null,
+      "conference_year": null
     }
+    
   ]
 }

@@ -3852,14 +3852,15 @@
       "conference_year": null
     },
     {
-      "name": "DRW - Crypto Market Prediction",
-      "url": "https://www.kaggle.com/competitions/drw-crypto-market-prediction",
+      "name": "Predict Short-term Crypto Price Movements",
+      "url": "https://www.kaggle.com/competitions/drw-crypto-market-prediction?ref=mlcontests",
       "tags": [
         "tabular",
         "timeseries",
         "supervised",
         "finance",
-        "regression"
+        "regression",
+        "measurable"
       ],
       "launched": "21 May 2025",
       "registration-deadline": null,

@@ -3850,6 +3850,27 @@
       "sponsor": "Kaggle",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Predict Short-term Crypto Price Movements",
+      "url": "https://www.kaggle.com/competitions/drw-crypto-market-prediction?ref=mlcontests",
+      "tags": [
+        "tabular",
+        "timeseries",
+        "supervised",
+        "finance",
+        "regression",
+        "measurable"
+      ],
+      "launched": "21 May 2025",
+      "registration-deadline": null,
+      "deadline": "25 Jul 2025",
+      "prize": "$25,000",
+      "platform": "Kaggle",
+      "sponsor": "DRW",
+      "conference": null,
+      "conference_year": null
     }
+    
   ]
 }

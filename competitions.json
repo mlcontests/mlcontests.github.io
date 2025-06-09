@@ -3870,6 +3870,25 @@
       "sponsor": "DRW",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Air Pollution Prediction Challenge",
+      "url": "https://bitgrit.net/competition/25",
+      "tags": [
+        "tabular",
+        "timeseries",
+        "supervised",
+        "regression",
+        "measurable"
+      ],
+      "launched": "6 Jun 2025",
+      "registration-deadline": null,
+      "deadline": "5 Sep 2025",
+      "prize": "$3,000",
+      "platform": "bitgrit",
+      "sponsor": "bitgrit",
+      "conference": null,
+      "conference_year": null
     }
     
   ]

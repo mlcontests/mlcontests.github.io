@@ -788,7 +788,7 @@
       "registration-deadline": "6 Sep 2024",
       "deadline": "6 Sep 2024",
       "prize": "$55,000",
-      "platform": "bitgrit",
+      "platform": "Bitgrit",
       "sponsor": "NASA",
       "conference": null,
       "conference_year": null
@@ -3530,7 +3530,7 @@
       "deadline": "15 Jun 2025",
       "added": "27 Mar 2025",
       "prize": "$3,000",
-      "platform": "bitgrit",
+      "platform": "Bitgrit",
       "sponsor": null,
       "conference": null,
       "conference_year": null
@@ -3885,8 +3885,8 @@
       "registration-deadline": "5 Sep 2025",
       "deadline": "5 Sep 2025",
       "prize": "$3,000",
-      "platform": "bitgrit",
-      "sponsor": "bitgrit",
+      "platform": "Bitgrit",
+      "sponsor": "Bitgrit",
       "conference": null,
       "conference_year": null
     }

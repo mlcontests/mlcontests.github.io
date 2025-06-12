@@ -3873,7 +3873,7 @@
     },
     {
       "name": "Air Pollution Prediction Challenge",
-      "url": "https://bitgrit.net/competition/25",
+      "url": "https://bitgrit.net/competition/25?ref=mlcontests",
       "tags": [
         "tabular",
         "timeseries",
@@ -3891,8 +3891,8 @@
       "conference_year": null
     },
     {
-      "name": "Make Data Count - Finding Data References",
-      "url": "https://www.kaggle.com/competitions/make-data-count-finding-data-references",
+      "name": "Classify References in Academic Papers",
+      "url": "https://www.kaggle.com/competitions/make-data-count-finding-data-references?ref=mlcontests",
       "tags": [
         "nlp",
         "classification",

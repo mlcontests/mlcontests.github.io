@@ -3889,7 +3889,22 @@
       "sponsor": "Bitgrit",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Make Data Count - Finding Data References",
+      "url": "https://www.kaggle.com/competitions/make-data-count-finding-data-references?ref=mlcontests",
+      "tags": [
+        "text mining",
+        "82370_mdc_global_f1"
+      ],
+      "launched": "11 Jun 2025",
+      "registration-deadline": "2 Sep 2025",
+      "deadline": "9 Sep 2025",
+      "prize": "$100,000",
+      "platform": "Kaggle",
+      "sponsor": "Make Data Count",
+      "conference": null,
+      "conference_year": null
     }
-    
   ]
 }

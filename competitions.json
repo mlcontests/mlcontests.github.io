@@ -3907,7 +3907,25 @@
       "sponsor": "Make Data Count",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Predict Fundamental Properties of Polymers",
+      "url": "https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025?ref=mlcontests",
+      "tags": [
+        "chemistry",
+        "science",
+        "measurable",
+        "regression",
+        "supervised"
+      ],
+      "launched": "16 Jun 2025",
+      "registration-deadline": "8 Sep 2025",
+      "deadline": "15 Sep 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "University of Notre Dame",
+      "conference": "NeurIPS",
+      "conference_year": 2025
     }
-    
   ]
 }

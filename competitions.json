@@ -3694,6 +3694,41 @@
       "sponsor": "ITU",
       "conference": null,
       "conference_year": null
+    },
+     {
+      "name": "MPEG-G Microbiome Classification Challenge",
+      "url": "https://zindi.africa/competitions/mpeg-g-microbiome-classification-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "classification",
+        "science"
+      ],
+      "launched": "20 Jun 2025",
+      "registration-deadline": "15 Sep 2025",
+      "deadline": "15 Sep 2025",
+      "prize": "$5,000",
+      "platform": "Zindi",
+      "sponsor": "Philips",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Amini GeoFM Decoding the Field Challenge",
+      "url": "https://zindi.africa/competitions/amini-geofm-decoding-the-field-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "classification",
+        "satellite",
+        "geo"
+      ],
+      "launched": "10 Jun 2025",
+      "registration-deadline": "21 Jul 2025",
+      "deadline": "21 Jul 2025",
+      "prize": "$8,500",
+      "platform": "Zindi",
+      "sponsor": "Amini",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

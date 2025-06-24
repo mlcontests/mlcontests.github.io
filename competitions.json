@@ -1,6 +1,23 @@
 {
   "data": [
     {
+      "name": "LEC Data Challenge 2025",
+      "url": "https://www.lec.at/research-for-climate-targets/lec-data-challenge-2025/?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "regression",
+        "climate"
+      ],
+      "launched": "15 May 2025",
+      "registration-deadline": "13 Aug 2025",
+      "deadline": "13 Aug 2025",
+      "prize": "$8127,63",
+      "platform": "Independent",
+      "sponsor": "INNIO, KS Engineers, WinGD",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Forecast Micro-Hydropower Load Generation",
       "url": "https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge?ref=mlcontests",
       "tags": [

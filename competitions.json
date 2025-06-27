@@ -1,6 +1,23 @@
 {
   "data": [
     {
+      "name": "Cleaning data and the skies",
+      "url": "https://www.datacamp.com/competitions/cleaning-data-skies",
+      "tags": [
+        "data",
+        "multiple",
+        "subjective",
+        "science",
+        "unsupervised"
+      ],
+      "launched": "27 Jun 2025",
+      "registration-deadline": "3 Aug 2025",
+      "deadline": "4 Aug 2025",
+      "prize": "$1,600",
+      "platform": "DataCamp",
+      "sponsor": "DataCamp"
+    },
+    {
       "name": "Predict Properties of Internal Combustion Engines",
       "url": "https://www.lec.at/research-for-climate-targets/lec-data-challenge-2025/?ref=mlcontests",
       "tags": [

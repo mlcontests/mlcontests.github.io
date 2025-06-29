@@ -1,5 +1,26 @@
 {
   "data": [
+        {
+      "name": "NeurIPS - Ariel Data Challenge 2025",
+      "url": "https://www.ariel-datachallenge.space/",
+      "tags": [
+        "supervised",
+        "regression",
+        "astronomy",
+        "science",
+        "measurable",
+        "multimodal",
+        "analysis"
+      ],
+      "launched": "26 June 2025",
+      "registration-deadline": "18 Sept 2025",
+      "deadline": "25 Sept 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Kaggle",
+      "conference": "NeurIPS",
+      "conference_year": 2025
+    },
     {
       "name": "Predict Properties of Internal Combustion Engines",
       "url": "https://www.lec.at/research-for-climate-targets/lec-data-challenge-2025/?ref=mlcontests",

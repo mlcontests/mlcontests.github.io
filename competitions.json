@@ -3474,7 +3474,7 @@
       "sponsor": "Watrix Technology",
       "conference": "IJCB",
       "conference_year": 2025,
-      "additional-urls": [
+      "additional_urls": [
         "https://hid.iapr-tc4.org/"
       ]
     },
@@ -3802,7 +3802,7 @@
       "launched": "14 May 2025",
       "registration-deadline": "20 Sep 2025",
       "deadline": "25 Sep 2025",
-      "additional-urls": [
+      "additional_urls": [
         "https://www.adialab.ae/structural-break-challenge"
       ],
       "prize": "$100,000",
@@ -3842,7 +3842,7 @@
       "registration-deadline": "1 Jul 2025",
       "deadline": "1 Jul 2025",
       "prize": null,
-      "additional-urls": [
+      "additional_urls": [
         "https://sites.google.com/view/ai4mathworkshopicml2025/challenge"
       ],
       "platform": "Codabench",
@@ -3864,7 +3864,7 @@
       "registration-deadline": "1 Jul 2025",
       "deadline": "1 Jul 2025",
       "prize": null,
-      "additional-urls": [
+      "additional_urls": [
         "https://sites.google.com/view/ai4mathworkshopicml2025/challenge"
       ],
       "platform": "Codabench",
@@ -4019,7 +4019,8 @@
       "platform": "Kaggle",
       "sponsor": "University of Notre Dame",
       "conference": "NeurIPS",
-      "conference_year": 2025
+      "conference_year": 2025,
+      "additional_urls": ["https://open-polymer-challenge.github.io/"]
     },
     {
       "name": "MPEG-G: Decoding the Dialogue",

@@ -1,6 +1,25 @@
 {
   "data": [
     {
+      "name": "Predict Properties of Internal Combustion Engines",
+      "url": "https://www.lec.at/research-for-climate-targets/lec-data-challenge-2025/?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "regression",
+        "climate",
+        "science",
+        "measurable"
+      ],
+      "launched": "15 May 2025",
+      "registration-deadline": "13 Aug 2025",
+      "deadline": "13 Aug 2025",
+      "prize": "$8,000",
+      "platform": "Independent",
+      "sponsor": "INNIO, KS Engineers, WinGD",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Forecast Micro-Hydropower Load Generation",
       "url": "https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge?ref=mlcontests",
       "tags": [
@@ -21,7 +40,7 @@
       "conference": null,
       "conference_year": null
     },
-     {
+    {
       "name": "Generate Clinical Reasoning Texts",
       "url": "https://zindi.africa/competitions/kenya-clinical-reasoning-challenge?ref=mlcontests",
       "tags": [
@@ -788,7 +807,7 @@
       "registration-deadline": "6 Sep 2024",
       "deadline": "6 Sep 2024",
       "prize": "$55,000",
-      "platform": "bitgrit",
+      "platform": "Bitgrit",
       "sponsor": "NASA",
       "conference": null,
       "conference_year": null
@@ -3530,7 +3549,7 @@
       "deadline": "15 Jun 2025",
       "added": "27 Mar 2025",
       "prize": "$3,000",
-      "platform": "bitgrit",
+      "platform": "Bitgrit",
       "sponsor": null,
       "conference": null,
       "conference_year": null
@@ -3672,7 +3691,9 @@
       "platform": "Pond",
       "sponsor": "Human Passport, Octant, Ethereum Foundation",
       "additional_urls": [
-        "https://ethereum.foundation/", "https://x.com/HumnPassport", "https://x.com/OctantApp"
+        "https://ethereum.foundation/",
+        "https://x.com/HumnPassport",
+        "https://x.com/OctantApp"
       ],
       "conference": null,
       "conference_year": null
@@ -3684,12 +3705,13 @@
         "supervised",
         "classification",
         "satellite",
-        "geo"
+        "geo",
+        "measurable"
       ],
       "launched": "17 Apr 2025",
-      "registration-deadline": "04 Aug 2025",
-      "deadline": "04 Aug 2025",
-      "prize": "1,000 CHF",
+      "registration-deadline": "4 Aug 2025",
+      "deadline": "4 Aug 2025",
+      "prize": "$1,200",
       "platform": "Zindi",
       "sponsor": "ITU",
       "conference": null,
@@ -3711,6 +3733,159 @@
       "sponsor": "Philips",
       "conference": null,
       "conference_year": null
+     };
+    {
+      "name": "Predict Seismic Wave Velocity",
+      "url": "https://thinkonward.com/app/c/challenges/speed-and-structure?ref=mlc",
+      "tags": [
+        "supervised",
+        "vision",
+        "generative",
+        "science"
+      ],
+      "launched": "14 May 2025",
+      "registration-deadline": "07 Aug 2025",
+      "deadline": "07 Aug 2025",
+      "prize": "$30,000",
+      "platform": "ThinkOnward",
+      "sponsor": null
+    },
+    {
+      "name": "Detect Structural Breaks in Time Series Data",
+      "url": "https://structural-break.crunchdao.com/?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "tabular",
+        "timeseries",
+        "forecasting",
+        "measurable"
+      ],
+      "launched": "14 May 2025",
+      "registration-deadline": "20 Sep 2025",
+      "deadline": "25 Sep 2025",
+      "additional-urls": [
+        "https://www.adialab.ae/structural-break-challenge"
+      ],
+      "prize": "$100,000",
+      "platform": "CrunchDAO",
+      "sponsor": "ADIALAB"
+    },
+    {
+      "name": "Use OpenAI Models to Discover Archaeological Sites",
+      "url": "https://www.kaggle.com/competitions/openai-to-z-challenge?ref=mlcontests",
+      "tags": [
+        "subjective",
+        "geo",
+        "vision",
+        "analysis/visualisation",
+        "satellite",
+        "hackathon"
+      ],
+      "launched": "15 May 2025",
+      "registration-deadline": null,
+      "deadline": "29 Jun 2025",
+      "prize": "$200,000",
+      "platform": "Kaggle",
+      "sponsor": "OpenAI",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Edit Formal Maths Proofs Based on Instructions",
+      "url": "https://www.codabench.org/competitions/8357/?ref=mlcontests",
+      "tags": [
+        "mathematics",
+        "reasoning",
+        "llm",
+        "measurable"
+      ],
+      "launched": "21 May 2025",
+      "registration-deadline": "1 Jul 2025",
+      "deadline": "1 Jul 2025",
+      "prize": null,
+      "additional-urls": [
+        "https://sites.google.com/view/ai4mathworkshopicml2025/challenge"
+      ],
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "ICML",
+      "conference_year": 2025
+    },
+    {
+      "name": "Answer Physics Exam Questions",
+      "url": "https://www.codabench.org/competitions/7925/?ref=mlcontests",
+      "tags": [
+        "physics",
+        "science",
+        "reasoning",
+        "llm",
+        "measurable"
+      ],
+      "launched": "21 May 2025",
+      "registration-deadline": "1 Jul 2025",
+      "deadline": "1 Jul 2025",
+      "prize": null,
+      "additional-urls": [
+        "https://sites.google.com/view/ai4mathworkshopicml2025/challenge"
+      ],
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "ICML",
+      "conference_year": 2025
+    },
+    {
+      "name": "Demonstrate Innovative Uses of AI",
+      "url": "https://hpaistudio.devpost.com/?ref=mlcontests",
+      "tags": [
+        "subjective",
+        "analysis/visualisation",
+        "hackathon"
+      ],
+      "launched": "7 Apr 2025",
+      "registration-deadline": "10 Jun 2025",
+      "deadline": "10 Jun 2025",
+      "prize": "$70,000",
+      "platform": "DEVPOST",
+      "sponsor": "HP, NVIDIA",
+      "conference": null,
+      "conference_year": null,
+      "note": "This competition is open to U.S. residents only"
+    },
+    {
+      "name": "Detect Behaviours From Wrist-Worn Sensors",
+      "url": "https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data?ref=mlcontests",
+      "tags": [
+        "healthcare",
+        "timeseries",
+        "measurable",
+        "classification"
+      ],
+      "launched": "30 May 2025",
+      "registration-deadline": "26 Aug 2025",
+      "deadline": "2 Sep 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Child Mind Institute",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Share Insights Based on Meta Kaggle Data",
+      "url": "https://www.kaggle.com/competitions/meta-kaggle-hackathon?ref=mlcontests",
+      "tags": [
+        "tabular",
+        "hackathon",
+        "subjective",
+        "analysis/visualisation"
+      ],
+      "launched": "29 May 2025",
+      "registration-deadline": null,
+      "deadline": "21 Jul 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Kaggle",
+      "conference": null,
+      "conference_year": null
     },
     {
       "name": "Amini GeoFM Decoding the Field Challenge",
@@ -3729,6 +3904,82 @@
       "sponsor": "Amini",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Predict Short-term Crypto Price Movements",
+      "url": "https://www.kaggle.com/competitions/drw-crypto-market-prediction?ref=mlcontests",
+      "tags": [
+        "tabular",
+        "timeseries",
+        "supervised",
+        "finance",
+        "regression",
+        "measurable"
+      ],
+      "launched": "21 May 2025",
+      "registration-deadline": null,
+      "deadline": "25 Jul 2025",
+      "prize": "$25,000",
+      "platform": "Kaggle",
+      "sponsor": "DRW",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Air Pollution Prediction Challenge",
+      "url": "https://bitgrit.net/competition/25?ref=mlcontests",
+      "tags": [
+        "tabular",
+        "timeseries",
+        "supervised",
+        "regression",
+        "measurable"
+      ],
+      "launched": "6 Jun 2025",
+      "registration-deadline": "5 Sep 2025",
+      "deadline": "5 Sep 2025",
+      "prize": "$3,000",
+      "platform": "Bitgrit",
+      "sponsor": "Bitgrit",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Classify References in Academic Papers",
+      "url": "https://www.kaggle.com/competitions/make-data-count-finding-data-references?ref=mlcontests",
+      "tags": [
+        "nlp",
+        "classification",
+        "analysis",
+        "measurable"
+      ],
+      "launched": "11 Jun 2025",
+      "registration-deadline": "2 Sep 2025",
+      "deadline": "10 Sep 2025",
+      "prize": "$100,000",
+      "platform": "Kaggle",
+      "sponsor": "Make Data Count",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Predict Fundamental Properties of Polymers",
+      "url": "https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025?ref=mlcontests",
+      "tags": [
+        "chemistry",
+        "science",
+        "measurable",
+        "regression",
+        "supervised"
+      ],
+      "launched": "16 Jun 2025",
+      "registration-deadline": "8 Sep 2025",
+      "deadline": "15 Sep 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "University of Notre Dame",
+      "conference": "NeurIPS",
+      "conference_year": 2025
     }
   ]
 }

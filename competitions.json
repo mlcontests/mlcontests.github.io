@@ -3980,6 +3980,23 @@
       "sponsor": "University of Notre Dame",
       "conference": "NeurIPS",
       "conference_year": 2025
+    },
+    {
+      "name": "MPEG-G: Decoding the Dialogue",
+      "url": "https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "prediction",
+        "science"
+      ],
+      "launched": "27 Jun 2025",
+      "registration-deadline": "22 Sep 2025",
+      "deadline": "22 Sep 2025",
+      "prize": "$5,000",
+      "platform": "Zindi",
+      "sponsor": "Philips",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

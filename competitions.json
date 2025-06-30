@@ -4040,6 +4040,47 @@
       "sponsor": "Philips",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Speech Detection From Brain Signals",
+      "url": "https://eval.ai/web/challenges/challenge-page/2504/?ref=mlcontests",
+      "tags": [
+          "audio",
+          "classification",
+          "detection",
+          "timeseries",
+          "measurable",
+          "supervised"
+      ],
+      "launched": "1 Jun 2025",
+      "registration-deadline": "31 Jul 2025",
+      "deadline": "31 Jul 2025",
+      "prize": null,
+      "platform": "EvalAI",
+      "sponsor": "LibriBrain/Various",
+      "conference": "NeurIPS",
+      "conference_year": 2025,
+      "additional_urls": ["https://neural-processing-lab.github.io/2025-libribrain-competition/"]
+    },
+    {
+      "name": "Phoneme Classification From Brain Signals",
+      "url": "https://eval.ai/web/challenges/challenge-page/2504/?ref=mlcontests",
+      "tags": [
+          "audio",
+          "classification",
+          "timeseries",
+          "measurable",
+          "supervised"
+      ],
+      "launched": "1 Aug 2025",
+      "registration-deadline": "30 Sep 2025",
+      "deadline": "30 Sep 2025",
+      "prize": null,
+      "platform": "EvalAI",
+      "sponsor": "LibriBrain/Various",
+      "conference": "NeurIPS",
+      "conference_year": 2025,
+      "additional_urls": ["https://neural-processing-lab.github.io/2025-libribrain-competition/"]
     }
   ]
 }

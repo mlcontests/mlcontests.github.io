@@ -4023,12 +4023,14 @@
       "additional_urls": ["https://open-polymer-challenge.github.io/"]
     },
     {
-      "name": "MPEG-G: Decoding the Dialogue",
+      "name": "Model Host-Microbiome Interactionns in Metagenomic Data",
       "url": "https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
         "prediction",
-        "science"
+        "science",
+        "measurable",
+        "medical"
       ],
       "launched": "27 Jun 2025",
       "registration-deadline": "22 Sep 2025",

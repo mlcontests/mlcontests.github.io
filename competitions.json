@@ -1,14 +1,15 @@
 {
   "data": [
     {
-      "name": "Cleaning data and the skies",
-      "url": "https://www.datacamp.com/competitions/cleaning-data-skies",
+      "name": "Evaluate Ozone Pollution across California",
+      "url": "https://www.datacamp.com/competitions/cleaning-data-skies?ref=mlcontests",
       "tags": [
-        "data",
         "multiple",
         "subjective",
         "science",
-        "unsupervised"
+        "unsupervised",
+        "analysis",
+
       ],
       "launched": "27 Jun 2025",
       "registration-deadline": "3 Aug 2025",

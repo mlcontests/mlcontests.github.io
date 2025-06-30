@@ -3718,12 +3718,13 @@
       "conference_year": null
     },
      {
-      "name": "MPEG-G Microbiome Classification Challenge",
+      "name": "Classify Microbiome Samples",
       "url": "https://zindi.africa/competitions/mpeg-g-microbiome-classification-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
         "classification",
-        "science"
+        "science",
+        "measurable"
       ],
       "launched": "20 Jun 2025",
       "registration-deadline": "15 Sep 2025",
@@ -3888,13 +3889,14 @@
       "conference_year": null
     },
     {
-      "name": "Amini GeoFM Decoding the Field Challenge",
+      "name": "Classify Crop Types Using Geospatial Foundation Models",
       "url": "https://zindi.africa/competitions/amini-geofm-decoding-the-field-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
         "classification",
         "satellite",
-        "geo"
+        "geo",
+        "measurable"
       ],
       "launched": "10 Jun 2025",
       "registration-deadline": "21 Jul 2025",

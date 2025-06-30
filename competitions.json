@@ -4081,6 +4081,24 @@
       "conference": "NeurIPS",
       "conference_year": 2025,
       "additional_urls": ["https://neural-processing-lab.github.io/2025-libribrain-competition/"]
+    },
+    {
+      "name": "Develop Cancer Pathology Foundation Models",
+      "url": "https://deeplearningpathology.org/?ref=mlcontests",
+      "tags": [
+          "medical",
+          "vision",
+          "self-supervised",
+          "measurable"
+      ],
+      "launched": "27 June 2025",
+      "registration-deadline": "15 Oct 2025",
+      "deadline": "15 Oct 2025",
+      "prize": null,
+      "platform": "Independent",
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "conference": "NeurIPS",
+      "conference_year": 2025
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "data": [
-        {
+    {
       "name": "Analyse Exoplanet Data (Ariel Data Data Challenge 2025)",
       "url": "https://www.ariel-datachallenge.space/?ref=mlcontests",
       "tags": [
@@ -20,7 +20,9 @@
       "sponsor": "Kaggle",
       "conference": "NeurIPS",
       "conference_year": 2025,
-      "additional_urls": ["https://www.kaggle.com/competitions/ariel-data-challenge-2025"]
+      "additional_urls": [
+        "https://www.kaggle.com/competitions/ariel-data-challenge-2025"
+      ]
     },
     {
       "name": "Evaluate Ozone Pollution across California",
@@ -3756,7 +3758,7 @@
       "conference": null,
       "conference_year": null
     },
-     {
+    {
       "name": "Classify Microbiome Samples",
       "url": "https://zindi.africa/competitions/mpeg-g-microbiome-classification-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
@@ -3773,7 +3775,7 @@
       "sponsor": "Philips",
       "conference": null,
       "conference_year": null
-     },
+    },
     {
       "name": "Predict Seismic Wave Velocity",
       "url": "https://thinkonward.com/app/c/challenges/speed-and-structure?ref=mlc",
@@ -4021,7 +4023,9 @@
       "sponsor": "University of Notre Dame",
       "conference": "NeurIPS",
       "conference_year": 2025,
-      "additional_urls": ["https://open-polymer-challenge.github.io/"]
+      "additional_urls": [
+        "https://open-polymer-challenge.github.io/"
+      ]
     },
     {
       "name": "Model Host-Microbiome Interactionns in Metagenomic Data",
@@ -4046,12 +4050,12 @@
       "name": "Speech Detection From Brain Signals",
       "url": "https://eval.ai/web/challenges/challenge-page/2504/?ref=mlcontests",
       "tags": [
-          "audio",
-          "classification",
-          "detection",
-          "timeseries",
-          "measurable",
-          "supervised"
+        "audio",
+        "classification",
+        "detection",
+        "timeseries",
+        "measurable",
+        "supervised"
       ],
       "launched": "1 Jun 2025",
       "registration-deadline": "31 Jul 2025",
@@ -4061,17 +4065,19 @@
       "sponsor": "LibriBrain/Various",
       "conference": "NeurIPS",
       "conference_year": 2025,
-      "additional_urls": ["https://neural-processing-lab.github.io/2025-libribrain-competition/"]
+      "additional_urls": [
+        "https://neural-processing-lab.github.io/2025-libribrain-competition/"
+      ]
     },
     {
       "name": "Phoneme Classification From Brain Signals",
       "url": "https://eval.ai/web/challenges/challenge-page/2504/?ref=mlcontests",
       "tags": [
-          "audio",
-          "classification",
-          "timeseries",
-          "measurable",
-          "supervised"
+        "audio",
+        "classification",
+        "timeseries",
+        "measurable",
+        "supervised"
       ],
       "launched": "1 Aug 2025",
       "registration-deadline": "30 Sep 2025",
@@ -4081,16 +4087,18 @@
       "sponsor": "LibriBrain/Various",
       "conference": "NeurIPS",
       "conference_year": 2025,
-      "additional_urls": ["https://neural-processing-lab.github.io/2025-libribrain-competition/"]
+      "additional_urls": [
+        "https://neural-processing-lab.github.io/2025-libribrain-competition/"
+      ]
     },
     {
       "name": "Develop Cancer Pathology Foundation Models",
       "url": "https://deeplearningpathology.org/?ref=mlcontests",
       "tags": [
-          "medical",
-          "vision",
-          "self-supervised",
-          "measurable"
+        "medical",
+        "vision",
+        "self-supervised",
+        "measurable"
       ],
       "launched": "27 June 2025",
       "registration-deadline": "15 Oct 2025",
@@ -4105,11 +4113,11 @@
       "name": "Develop Multilingual Search Technologies",
       "url": "https://tianchi.aliyun.com/competition/entrance/532369",
       "tags": [
-          "supervised",
-          "nlp",
-          "search",
-          "measurable",
-          "business"
+        "supervised",
+        "nlp",
+        "search",
+        "measurable",
+        "business"
       ],
       "launched": "27 June 2025",
       "registration-deadline": "11 Sep 2025",
@@ -4117,6 +4125,24 @@
       "prize": "$10,000",
       "platform": "Tianchi",
       "sponsor": "Alibaba",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Gemma 3n Product Hackathon",
+      "url": "https://www.kaggle.com/competitions/google-gemma-3n-hackathon?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "analysis/visualisation",
+        "subjective",
+        "llm"
+      ],
+      "launched": "26 Jun 2025",
+      "registration-deadline": null,
+      "deadline": "6 Aug 2025",
+      "prize": "$150,000",
+      "platform": "Kaggle",
+      "sponsor": "Google DeepMind",
       "conference": null,
       "conference_year": null
     }

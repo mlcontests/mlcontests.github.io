@@ -4129,11 +4129,13 @@
       "conference_year": null
     },
     {
-      "name": "Google - The Gemma 3n Impact Challenge",
+      "name": "Gemma 3n Product Hackathon",
       "url": "https://www.kaggle.com/competitions/google-gemma-3n-hackathon?ref=mlcontests",
       "tags": [
-        "{\"ref\": \"tabular\", \"name\": \"tabular\", \"description\": \"\", \"fullPath\": \"data type > tabular\", \"competitionCount\": 14013, \"datasetCount\": 12444, \"scriptCount\": 7295, \"totalCount\": 33752}",
-        "{\"ref\": \"text\", \"name\": \"text\", \"description\": \"\", \"fullPath\": \"data type > text\", \"competitionCount\": 145, \"datasetCount\": 8306, \"scriptCount\": 4498, \"totalCount\": 12949}"
+        "hackathon",
+        "analysis/visualisation",
+        "subjective",
+        "llm"
       ],
       "launched": "26 Jun 2025",
       "registration-deadline": null,

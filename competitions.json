@@ -4101,13 +4101,14 @@
       "conference_year": 2025
     },
     {
-      "name": "Develop multilingual search technologies",
+      "name": "Develop Multilingual Search Technologies",
       "url": "https://tianchi.aliyun.com/competition/entrance/532369",
       "tags": [
-          "analysis",
+          "supervised",
           "nlp",
           "search",
-          "measurable"
+          "measurable",
+          "business"
       ],
       "launched": "27 June 2025",
       "registration-deadline": "11 Sep 2025",

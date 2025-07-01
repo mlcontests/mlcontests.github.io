@@ -4099,6 +4099,25 @@
       "sponsor": "Memorial Sloan Kettering Cancer Center",
       "conference": "NeurIPS",
       "conference_year": 2025
+    },
+    {
+      "name": "Develop Multilingual Search Technologies",
+      "url": "https://tianchi.aliyun.com/competition/entrance/532369",
+      "tags": [
+          "supervised",
+          "nlp",
+          "search",
+          "measurable",
+          "business"
+      ],
+      "launched": "27 June 2025",
+      "registration-deadline": "11 Sep 2025",
+      "deadline": "26 Sep 2025",
+      "prize": "$10,000",
+      "platform": "Tianchi",
+      "sponsor": "Alibaba",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

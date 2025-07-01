@@ -19,7 +19,8 @@
       "platform": "Kaggle",
       "sponsor": "Kaggle",
       "conference": "NeurIPS",
-      "conference_year": 2025
+      "conference_year": 2025,
+      "additional_urls": ["https://www.kaggle.com/competitions/ariel-data-challenge-2025"]
     },
     {
       "name": "Evaluate Ozone Pollution across California",

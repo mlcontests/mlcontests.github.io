@@ -4145,6 +4145,23 @@
       "sponsor": "Google DeepMind",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Identify Students' Math Misunderstandings",
+      "url": "https://www.kaggle.com/competitions/map-charting-student-math-misunderstandings?ref=mlcontests",
+      "tags": [
+        "education",
+        "nlp",
+        "classification"
+      ],
+      "launched": "10 Jul 2025",
+      "registration-deadline": "8 Oct 2025",
+      "deadline": "15 Oct 2025",
+      "prize": "$55,000",
+      "platform": "Kaggle",
+      "sponsor": "The Learning Agency Lab",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

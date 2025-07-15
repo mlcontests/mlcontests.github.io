@@ -4224,7 +4224,7 @@
     },
     {
       "name": "Build LLM Agents With Social Intelligence",
-      "url": "https://www.mindgamesarena.com//?ref=mlcontests",
+      "url": "https://www.mindgamesarena.com/?ref=mlcontests",
       "tags": [
         "llm",
         "agents",
@@ -4235,6 +4235,24 @@
       "registration-deadline": null,
       "deadline": "7 Oct 2025",
       "prize": "$10,000",
+      "platform": "Independent",
+      "sponsor": "Various",
+      "conference": "NeurIPS",
+      "conference_year": 2025
+    },
+    {
+      "name": "Automated Visual Navigation",
+      "url": "https://robustforaging.github.io/?ref=mlcontests",
+      "tags": [
+        "3d",
+        "vision",
+        "control",
+        "measurable"
+      ],
+      "launched": "15 Jul 2025",
+      "registration-deadline": null,
+      "deadline": "1 Nov 2025",
+      "prize": null,
       "platform": "Independent",
       "sponsor": "Various",
       "conference": "NeurIPS",

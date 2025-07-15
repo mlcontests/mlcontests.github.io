@@ -4202,6 +4202,25 @@
       "conference": "NeurIPS",
       "conference_year": 2025,
       "additional_urls": ["https://huggingface.co/spaces/e2lmc-competition/leaderboard"]
+    },
+    {
+      "name": "Curate Data for Vision Language Reasoning",
+      "url": "https://dcvlr-neurips.github.io//?ref=mlcontests",
+      "tags": [
+        "data",
+        "llm",
+        "vision",
+        "subjective",
+        "analysis"
+      ],
+      "launched": "1 Jul 2025",
+      "registration-deadline": null,
+      "deadline": "1 Oct 2025",
+      "prize": "$5,500",
+      "platform": "Independent",
+      "sponsor": "Various",
+      "conference": "NeurIPS",
+      "conference_year": 2025
     }
   ]
 }

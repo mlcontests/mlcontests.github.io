@@ -4257,6 +4257,24 @@
       "sponsor": "Various",
       "conference": "NeurIPS",
       "conference_year": 2025
+    },
+    {
+      "name": "Build Competitive Pokémon Agents",
+      "url": "https://pokeagent.github.io/?ref=mlcontests",
+      "tags": [
+        "game",
+        "control",
+        "measurable",
+        "pvp"
+      ],
+      "launched": "11 Jul 2025",
+      "registration-deadline": "12 Oct 2025",
+      "deadline": "31 Oct 2025",
+      "prize": null,
+      "platform": "Independent",
+      "sponsor": null,
+      "conference": "NeurIPS",
+      "conference_year": 2025
     }
   ]
 }

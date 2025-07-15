@@ -4145,6 +4145,24 @@
       "sponsor": "Google DeepMind",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "CURE-Bench",
+      "url": "https://curebench.ai/",
+      "tags": [
+        "healthcare",
+        "science",
+        "reasoning",
+        "llm"
+      ],
+      "launched": "10 Jul 2025",
+      "registration-deadline": null,
+      "deadline": "10 Sep 2025",
+      "prize": "$10,000",
+      "platform": "Kaggle",
+      "sponsor": null,
+      "conference": "NeurIPS",
+      "conference_year": 2025
     }
   ]
 }

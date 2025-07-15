@@ -4205,7 +4205,7 @@
     },
     {
       "name": "Curate Data for Vision Language Reasoning",
-      "url": "https://dcvlr-neurips.github.io//?ref=mlcontests",
+      "url": "https://dcvlr-neurips.github.io/?ref=mlcontests",
       "tags": [
         "data",
         "llm",
@@ -4217,6 +4217,24 @@
       "registration-deadline": null,
       "deadline": "1 Oct 2025",
       "prize": "$5,500",
+      "platform": "Independent",
+      "sponsor": "Various",
+      "conference": "NeurIPS",
+      "conference_year": 2025
+    },
+    {
+      "name": "Build LLM Agents With Social Intelligence",
+      "url": "https://www.mindgamesarena.com//?ref=mlcontests",
+      "tags": [
+        "llm",
+        "agents",
+        "measurable",
+        "pvp"
+      ],
+      "launched": "7 Jul 2025",
+      "registration-deadline": null,
+      "deadline": "7 Oct 2025",
+      "prize": "$10,000",
       "platform": "Independent",
       "sponsor": "Various",
       "conference": "NeurIPS",

@@ -4275,6 +4275,25 @@
       "sponsor": null,
       "conference": "NeurIPS",
       "conference_year": 2025
+    },
+    {
+      "name": "Build Fair Face Detection Models",
+      "url": "https://sites.google.com/view/aifacedetection/home?ref=mlcontests",
+      "tags": [
+        "vision",
+        "classification",
+        "measurable",
+        "fairness"
+      ],
+      "launched": "2 Jul 2025",
+      "registration-deadline": "2 Oct 2025",
+      "deadline": "31 Oct 2025",
+      "prize": "$900",
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "NeurIPS",
+      "conference_year": 2025,
+      "additional_urls": ["https://www.codabench.org/competitions/7166/"]
     }
   ]
 }

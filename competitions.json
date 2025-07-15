@@ -4162,7 +4162,8 @@
       "platform": "Kaggle",
       "sponsor": "Various",
       "conference": "NeurIPS",
-      "conference_year": 2025
+      "conference_year": 2025,
+      "additional_urls": ["https://www.kaggle.com/competitions/cure-bench"]
     },
     {
       "name": "Identify Students' Math Misunderstandings",
@@ -4170,7 +4171,9 @@
       "tags": [
         "education",
         "nlp",
-        "classification"
+        "classification",
+        "measurable",
+        "supervised"
       ],
       "launched": "10 Jul 2025",
       "registration-deadline": "8 Oct 2025",
@@ -4181,6 +4184,24 @@
       "conference": null,
       "conference_year": null
 
+    },
+    {
+      "name": "Improve Benchmarks for Early Training in LLMs",
+      "url": "https://e2lmc.github.io/?ref=mlcontests",
+      "tags": [
+        "llm",
+        "benchmarks",
+        "measurable"
+      ],
+      "launched": "14 Jul 2025",
+      "registration-deadline": "22 Nov 2025",
+      "deadline": "3 Nov 2025",
+      "prize": "$10,000",
+      "platform": "Hugging Face",
+      "sponsor": "Various",
+      "conference": "NeurIPS",
+      "conference_year": 2025,
+      "additional_urls": ["https://huggingface.co/spaces/e2lmc-competition/leaderboard"]
     }
   ]
 }

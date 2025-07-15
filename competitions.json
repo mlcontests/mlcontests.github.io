@@ -4147,13 +4147,12 @@
       "conference_year": null
     },
     {
-      "name": "MAP - Charting Student Math Misunderstandings",
+      "name": "Identify Students' Math Misunderstandings",
       "url": "https://www.kaggle.com/competitions/map-charting-student-math-misunderstandings?ref=mlcontests",
       "tags": [
         "education",
         "nlp",
-        "primary and secondary schools",
-        "map@{k}"
+        "classification"
       ],
       "launched": "10 Jul 2025",
       "registration-deadline": "8 Oct 2025",

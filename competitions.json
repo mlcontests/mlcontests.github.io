@@ -4301,15 +4301,14 @@
       ]
     },
     {
-      "name": "Jigsaw - Agile Community Rules Classification",
+      "name": "Judge Social Media Comments Against Community Rules",
       "url": "https://www.kaggle.com/competitions/jigsaw-agile-community-rules?ref=mlcontests",
       "tags": [
         "classification",
-        "text",
-        "social networks",
-        "text classification",
+        "nlp",
         "english",
-        "custom metric"
+        "measurable",
+        "supervised"
       ],
       "launched": "23 Jul 2025",
       "registration-deadline": "16 Oct 2025",

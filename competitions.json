@@ -4320,12 +4320,15 @@
       "conference_year": null
     },
     {
-      "name": "MITSUI&CO. Commodity Prediction Challenge",
+      "name": "Predict Commodity Price Movements",
       "url": "https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge?ref=mlcontests",
       "tags": [
         "finance",
-        "investing",
-        "custom metric"
+        "regression",
+        "supervised",
+        "timeseries",
+        "forecasting",
+        "measurable"
       ],
       "launched": "24 Jul 2025",
       "registration-deadline": "29 Sep 2025",

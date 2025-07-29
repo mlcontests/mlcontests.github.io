@@ -4340,13 +4340,14 @@
       "conference_year": null
     },
     {
-      "name": "RSNA Intracranial Aneurysm Detection",
+      "name": "Detect Intracranial Aneurysms in Images",
       "url": "https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection?ref=mlcontests",
       "tags": [
         "medicine",
-        "multilabel classification",
-        "image classification",
-        "custom metric"
+        "classification",
+        "vision",
+        "supervised",
+        "measurable"
       ],
       "launched": "28 Jul 2025",
       "registration-deadline": "7 Oct 2025",

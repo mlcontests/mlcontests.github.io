@@ -4338,6 +4338,24 @@
       "sponsor": "MITSUI & CO., LTD.",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "RSNA Intracranial Aneurysm Detection",
+      "url": "https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection?ref=mlcontests",
+      "tags": [
+        "medicine",
+        "multilabel classification",
+        "image classification",
+        "custom metric"
+      ],
+      "launched": "28 Jul 2025",
+      "registration-deadline": "7 Oct 2025",
+      "deadline": "14 Oct 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Radiological Society of North America",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

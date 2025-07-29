@@ -4318,6 +4318,26 @@
       "sponsor": "Jigsaw/Conversation AI",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Predict Commodity Price Movements",
+      "url": "https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge?ref=mlcontests",
+      "tags": [
+        "finance",
+        "regression",
+        "supervised",
+        "timeseries",
+        "forecasting",
+        "measurable"
+      ],
+      "launched": "24 Jul 2025",
+      "registration-deadline": "29 Sep 2025",
+      "deadline": "6 Oct 2025",
+      "prize": "$100,000",
+      "platform": "Kaggle",
+      "sponsor": "MITSUI & CO., LTD.",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

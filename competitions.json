@@ -4357,6 +4357,24 @@
       "sponsor": "Radiological Society of North America",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Solve ARC Problems With Minimal Code",
+      "url": "https://www.kaggle.com/competitions/google-code-golf-2025?ref=mlcontests",
+      "tags": [
+        "nlp",
+        "programming",
+        "generative",
+        "measurable"
+      ],
+      "launched": "31 Jul 2025",
+      "registration-deadline": "23 Oct 2025",
+      "deadline": "30 Oct 2025",
+      "prize": "$100,000",
+      "platform": "Kaggle",
+      "sponsor": "Google DeepMind",
+      "conference": "NeurIPS",
+      "conference_year": 2025
     }
   ]
 }

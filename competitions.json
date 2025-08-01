@@ -4359,11 +4359,13 @@
       "conference_year": null
     },
     {
-      "name": "NeurIPS 2025 - Google Code Golf Championship",
+      "name": "Solve ARC Problems With Minimal Code",
       "url": "https://www.kaggle.com/competitions/google-code-golf-2025?ref=mlcontests",
       "tags": [
-        "optimization",
-        "custom metric"
+        "nlp",
+        "programming",
+        "generative",
+        "measurable"
       ],
       "launched": "31 Jul 2025",
       "registration-deadline": "23 Oct 2025",
@@ -4371,8 +4373,8 @@
       "prize": "$100,000",
       "platform": "Kaggle",
       "sponsor": "Google DeepMind",
-      "conference": null,
-      "conference_year": null
+      "conference": "NeurIPS",
+      "conference_year": 2025
     }
   ]
 }

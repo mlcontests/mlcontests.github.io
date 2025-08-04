@@ -3992,7 +3992,7 @@
       "tags": [
         "supervised",
         "nlp",
-        "audio",
+        "audio"
       ],
       "launched": "22 Jul 2025",
       "registration-deadline": "25 Sep 2025",
@@ -4045,7 +4045,7 @@
       "url": "https://zindi.africa/competitions/ghana-indigenous-intel-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "prediction",
+        "prediction"
       ],
       "launched": "15 Aug 2025",
       "registration-deadline": "13 Oct 2025",
@@ -4061,7 +4061,7 @@
       "url": "https://zindi.africa/competitions/barbados-lands-and-surveys-plot-automation-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "vision",
+        "vision"
       ],
       "launched": "01 Aug 2025",
       "registration-deadline": "15 Oct 2025",
@@ -4200,7 +4200,7 @@
       "url": "https://zindi.africa/competitions/barbados-traffic-analysis-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "vision",
+        "vision"
       ],
       "launched": "13 Sep 2025",
       "registration-deadline": "08 Dec 2025",
@@ -4407,7 +4407,7 @@
       "url": "https://zindi.africa/competitions/barbados-road-historic-handwriting-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "vision",
+        "vision"
       ],
       "launched": "10 Oct 2025",
       "registration-deadline": "05 Jan 2026",

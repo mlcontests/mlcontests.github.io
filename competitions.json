@@ -3949,18 +3949,19 @@
       "conference_year": null
     },
     {
-      "name": "GEOAI Challenge for Cropland Mapping in Dry Environments",
+      "name": "Cropland Mapping in Dry Environments",
       "url": "https://zindi.africa/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
         "classification",
         "satellite",
-        "geo"
+        "geo",
+        "measurable"
       ],
       "launched": "02 Jul 2025",
       "registration-deadline": "29 Sep 2025",
       "deadline": "29 Sep 2025",
-      "prize": "1,000 CHF",
+      "prize": "$1,200",
       "platform": "Zindi",
       "sponsor": "ITU",
       "conference": null,
@@ -3987,17 +3988,21 @@
       "conference_year": null
     },
     {
-      "name": "Your Voice, Your Device, Your Language Challenge",
+      "name": "Build an Efficient Swahili Speech Recognition Model",
       "url": "https://zindi.africa/competitions/your-voice-your-device-your-language-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
         "nlp",
-        "audio"
+        "audio",
+        "measurable",
+        "llm",
+        "efficiency",
+        "generative"
       ],
       "launched": "22 Jul 2025",
       "registration-deadline": "25 Sep 2025",
       "deadline": "25 Sep 2025",
-      "prize": "1,000 CHF",
+      "prize": "$1,200",
       "platform": "Zindi",
       "sponsor": "ITU",
       "conference": null,
@@ -4040,28 +4045,15 @@
       "conference": null,
       "conference_year": null
     },
-    {
-      "name": "Ghana Indigenous Intel Challenge",
-      "url": "https://zindi.africa/competitions/ghana-indigenous-intel-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
-      "tags": [
-        "supervised",
-        "prediction"
-      ],
-      "launched": "15 Aug 2025",
-      "registration-deadline": "13 Oct 2025",
-      "deadline": "13 Oct 2025",
-      "prize": "$2,500",
-      "platform": "Zindi",
-      "sponsor": "Responsible Artificial Intelligence (AI) Lab (RAIL)",
-      "conference": null,
-      "conference_year": null
-    },
      {
-      "name": "Barbados Lands and Surveys Plot Automation Challenge",
+      "name": "Extract Useful Data From Scanned Survey Plans",
       "url": "https://zindi.africa/competitions/barbados-lands-and-surveys-plot-automation-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "vision"
+        "vision",
+        "extraction",
+        "measurable",
+        "generative"
       ],
       "launched": "01 Aug 2025",
       "registration-deadline": "15 Oct 2025",
@@ -4403,11 +4395,15 @@
       "conference_year": null
     },
     {
-      "name": "Barbados ROAD Historic Handwriting Challenge",
+      "name": "Identify Handwritten Words in Historical Records",
       "url": "https://zindi.africa/competitions/barbados-road-historic-handwriting-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "vision"
+        "vision",
+        "vision",
+        "nlp",
+        "ocr",
+        "measurable"
       ],
       "launched": "10 Oct 2025",
       "registration-deadline": "05 Jan 2026",

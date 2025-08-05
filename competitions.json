@@ -4470,6 +4470,23 @@
       "sponsor": "Google DeepMind",
       "conference": "NeurIPS",
       "conference_year": 2025
+    },
+    {
+      "name": "Finding vulnerabilities in OpenAI gpt-oss-20b",
+      "url": "https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming",
+      "tags": [
+        "nlp",
+        "generative",
+        "measurable"
+      ],
+      "launched": "6 Aug 2025",
+      "registration-deadline": "26 Aug 2025",
+      "deadline": "27 Aug 2025",
+      "prize": "$500,000",
+      "platform": "Kaggle",
+      "sponsor": "OpenAI",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

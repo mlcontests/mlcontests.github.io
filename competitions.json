@@ -4502,13 +4502,34 @@
         "geo",
         "satellite"
       ],
-      "launched": "06 Aug 2025",
-      "registration-deadline": "06 Nov 2025",
-      "deadline": "06 Nov 2025",
+      "launched": "6 Aug 2025",
+      "registration-deadline": "6 Nov 2025",
+      "deadline": "6 Nov 2025",
       "prize": "$12,000",
       "platform": "Solafune",
-      "sponsor": null
-
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Rainfall and Severe Weather Prediction",
+      "url": "https://weather4cast.net/neurips2025/?ref=mlcontests",
+      "tags": [
+        "timeseries",
+        "weather",
+        "forecasting",
+        "regression",
+        "supervised",
+        "measurable"
+      ],
+      "launched": "2 Aug 2025",
+      "registration-deadline": "9 Nov 2025",
+      "deadline": "9 Nov 2025",
+      "prize": null,
+      "platform": "Independent",
+      "sponsor": null,
+      "conference": "NeurIPS",
+      "conference_year": 2025
     }
   ]
 }

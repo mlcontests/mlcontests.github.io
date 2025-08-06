@@ -4470,6 +4470,24 @@
       "sponsor": "Google DeepMind",
       "conference": "NeurIPS",
       "conference_year": 2025
+    },
+    {
+      "name": "Tree Canopy Detection",
+      "url": "https://solafune.com/competitions/26ff758c-7422-4cd1-bfe0-daecfc40db70?menu=about&tab=overview&ref=mlcontests",
+      "tags": [
+        "segmentation",
+        "vision",
+        "classification",
+        "supervised",
+        "geo",
+        "satellite"
+      ],
+      "launched": "06 Aug 2025",
+      "registration-deadline": "06 Nov 2025",
+      "deadline": "06 Nov 2025",
+      "prize": "$12,000",
+      "platform": "Solafune",
+      "sponsor": null
     }
   ]
 }

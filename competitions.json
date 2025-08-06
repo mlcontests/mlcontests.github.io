@@ -4472,6 +4472,26 @@
       "conference_year": 2025
     },
     {
+      "name": "Find Vulnerabilities in OpenAI gpt-oss-20b",
+      "url": "https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming?ref=mlcontests",
+      "tags": [
+        "nlp",
+        "generative",
+        "security",
+        "safety",
+        "hackathon",
+        "subjective"
+      ],
+      "launched": "6 Aug 2025",
+      "registration-deadline": "26 Aug 2025",
+      "deadline": "27 Aug 2025",
+      "prize": "$500,000",
+      "platform": "Kaggle",
+      "sponsor": "OpenAI",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Tree Canopy Detection",
       "url": "https://solafune.com/competitions/26ff758c-7422-4cd1-bfe0-daecfc40db70?menu=about&tab=overview&ref=mlcontests",
       "tags": [
@@ -4488,6 +4508,7 @@
       "prize": "$12,000",
       "platform": "Solafune",
       "sponsor": null
+
     }
   ]
 }

@@ -4045,7 +4045,7 @@
       "conference": null,
       "conference_year": null
     },
-     {
+    {
       "name": "Extract Useful Data From Scanned Survey Plans",
       "url": "https://zindi.africa/competitions/barbados-lands-and-surveys-plot-automation-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
@@ -4061,9 +4061,9 @@
       "prize": "$10,000",
       "platform": "Zindi",
       "sponsor": "Lands and Surveys Department, Barbados",
-       "conference": null,
+      "conference": null,
       "conference_year": null
-     },
+    },
     {
       "name": "Predict Fundamental Properties of Polymers",
       "url": "https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025?ref=mlcontests",
@@ -4530,6 +4530,26 @@
       "sponsor": null,
       "conference": "NeurIPS",
       "conference_year": 2025
+    },
+    {
+      "name": "Use BigQuery to Solve Data Problems",
+      "url": "https://www.kaggle.com/competitions/bigquery-ai-hackathon?ref=mlcontests",
+      "tags": [
+        "tabular",
+        "nlp",
+        "generative",
+        "hackathon",
+        "subjective",
+        "analysis/visualisation"
+      ],
+      "launched": "12 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "22 Sep 2025",
+      "prize": "$100,000",
+      "platform": "Kaggle",
+      "sponsor": "Google Cloud",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

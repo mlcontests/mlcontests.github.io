@@ -4532,13 +4532,15 @@
       "conference_year": 2025
     },
     {
-      "name": "BigQuery AI - Building the Future of Data",
+      "name": "Use BigQuery to Solve Data Problems",
       "url": "https://www.kaggle.com/competitions/bigquery-ai-hackathon?ref=mlcontests",
       "tags": [
         "tabular",
-        "text",
-        "bigquery",
-        "multimodal"
+        "nlp",
+        "generative",
+        "hackathon",
+        "subjective",
+        "analysis/visualisation"
       ],
       "launched": "12 Aug 2025",
       "registration-deadline": null,

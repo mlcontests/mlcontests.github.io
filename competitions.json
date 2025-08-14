@@ -4553,11 +4553,13 @@
     },
     {
       "name": "Real Estate Demand Prediction",
-      "url": "https://www.kaggle.com/competitions/china-real-estate-demand-prediction",
+      "url": "https://www.kaggle.com/competitions/china-real-estate-demand-prediction?ref=mlcontests",
       "tags": [
         "tabular",
         "regression",
-        "forecasting"
+        "forecasting",
+        "measurable",
+        "supervised"
       ],
       "launched": "8 Aug 2025",
       "registration-deadline": null,

@@ -4550,6 +4550,25 @@
       "sponsor": "Google Cloud",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Real Estate Demand Prediction",
+      "url": "https://www.kaggle.com/competitions/china-real-estate-demand-prediction?ref=mlcontests",
+      "tags": [
+        "tabular",
+        "regression",
+        "forecasting",
+        "measurable",
+        "supervised"
+      ],
+      "launched": "8 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "22 Oct 2025",
+      "prize": "$10,000",
+      "platform": "Kaggle",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

@@ -4569,6 +4569,25 @@
       "sponsor": null,
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "EEG Foundation Challenge", 
+      "url": "https://www.codabench.org/competitions/9975/",
+      "tags": [
+        "tabular",
+        "regression",
+        "classification",
+        "measurable",
+        "supervised"
+      ],
+      "launched": "1 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "31 Oct 2025",
+      "prize": "$7,500",
+      "platform": "Codabench",
+      "sponsor": "Meta",
+      "conference": "NeurIPS",
+      "conference_year": 2025
     }
   ]
 }

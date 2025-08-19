@@ -4468,6 +4468,7 @@
       "prize": "$100,000",
       "platform": "Kaggle",
       "sponsor": "Google DeepMind",
+      "additional_urls": ["https://sites.google.com/corp/view/neurips-2025-code-golf"],
       "conference": "NeurIPS",
       "conference_year": 2025
     },
@@ -4572,7 +4573,7 @@
     },
     {
       "name": "EEG Data Prediction", 
-      "url": "https://www.codabench.org/competitions/9975/",
+      "url": "https://www.codabench.org/competitions/9975/?ref=mlcontests",
       "tags": [
         "tabular",
         "regression",
@@ -4590,6 +4591,48 @@
       "sponsor": "Meta",
       "conference": "NeurIPS",
       "conference_year": 2025
+    },
+    {
+      "name": "Create Robust Multi-Modal RAG Systems", 
+      "url": "https://agi-lti.github.io/MMU-RAGent/?ref=mlcontests",
+      "tags": [
+        "rag",
+        "llm",
+        "multimodal",
+        "systems",
+        "measurable",
+        "subjective",
+        "generative"
+      ],
+      "launched": "1 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "15 Oct 2025",
+      "prize": "$7,500",
+      "platform": "Independent",
+      "sponsor": "AWS",
+      "conference": "NeurIPS",
+      "conference_year": 2025
+    },
+    {
+      "name": "Humanoid Soccer and Table Tennis in Simulation",
+      "url": "https://eval.ai/web/challenges/challenge-page/2628/overview?ref=mlcontests",
+      "tags": [
+        "science",
+        "reinforcement learning",
+        "robotics",
+        "simulation",
+        "measurable",
+        "control"
+      ],
+      "additional_urls": "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2025?ref=mlcontests",
+      "launched": "1 Aug 2024",
+      "registration-deadline": "31 Oct 2025",
+      "deadline": "31 Oct 2025",
+      "prize": null,
+      "platform": "EvalAI",
+      "sponsor": "Various",
+      "conference": "NeurIPS",
+      "conference-year": 2025
     }
   ]
 }

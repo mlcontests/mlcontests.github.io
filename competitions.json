@@ -4571,15 +4571,17 @@
       "conference_year": null
     },
     {
-      "name": "EEG Foundation Challenge", 
+      "name": "EEG Data Prediction", 
       "url": "https://www.codabench.org/competitions/9975/",
       "tags": [
         "tabular",
         "regression",
         "classification",
+        "medical",
         "measurable",
         "supervised"
       ],
+      "additional_urls": ["https://eeg2025.github.io"],
       "launched": "1 Aug 2025",
       "registration-deadline": null,
       "deadline": "31 Oct 2025",

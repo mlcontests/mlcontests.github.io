@@ -4625,10 +4625,31 @@
         "control"
       ],
       "additional_urls": "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2025?ref=mlcontests",
-      "launched": "1 Aug 2024",
+      "launched": "1 Aug 2025",
       "registration-deadline": "31 Oct 2025",
       "deadline": "31 Oct 2025",
       "prize": null,
+      "platform": "EvalAI",
+      "sponsor": "Various",
+      "conference": "NeurIPS",
+      "conference-year": 2025
+    },
+    {
+      "name": "Use LLMs for Embodied Decision Making",
+      "url": "https://eval.ai/web/challenges/challenge-page/2628/overview?ref=mlcontests",
+      "tags": [
+        "robotics",
+        "llm",
+        "generative",
+        "simulation",
+        "measurable",
+        "control"
+      ],
+      "additional_urls": "https://neurips25-eai.github.io/?ref=mlcontests",
+      "launched": "15 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "30 Nov 2025",
+      "prize": "$2,000",
       "platform": "EvalAI",
       "sponsor": "Various",
       "conference": "NeurIPS",

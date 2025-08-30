@@ -1,6 +1,23 @@
 {
   "data": [
     {
+      "name": "Technology Olympics 2025 – Data Processing",
+      "url": "https://codern.org/international/contest/international-ai-1",
+      "tags": [
+        "supervised",
+        "regression",
+        "science",
+        "analysis",
+        "data"
+      ],
+      "launched": "20 Aug 2025",
+      "registration-deadline": "26 Sep 2025",
+      "deadline": "27 Sep 2025",
+      "prize": "$3,000",
+      "platform": "Codern",
+      "sponsor": "Codern"
+    },
+    {
       "name": "Analyse Exoplanet Data (Ariel Data Data Challenge 2025)",
       "url": "https://www.ariel-datachallenge.space/?ref=mlcontests",
       "tags": [

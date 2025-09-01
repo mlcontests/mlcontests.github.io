@@ -4656,12 +4656,14 @@
       "conference-year": 2025
     },
      {
-      "name": "Ghana’s Indigenous Intel Challenge [BEGINNERS ONLY]",
+      "name": "Forecast Rainfall in Ghana",
       "url": "https://zindi.africa/competitions/ghana-indigenous-intel-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
         "prediction",
-        "measurable"
+        "measurable",
+        "beginners",
+        "forecasting"
       ],
       "launched": "14 Aug 2025",
       "registration-deadline": "13 Oct 2025",

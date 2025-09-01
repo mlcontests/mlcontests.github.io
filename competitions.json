@@ -4655,7 +4655,7 @@
       "conference": "NeurIPS",
       "conference-year": 2025
     },
-     {
+    {
       "name": "Forecast Rainfall in Ghana",
       "url": "https://zindi.africa/competitions/ghana-indigenous-intel-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
@@ -4673,6 +4673,28 @@
       "sponsor": "French Embassy in Ghana",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Detecting Energy Flexibility in Buildings",
+      "url": "https://www.aicrowd.com/challenges/flextrack-challenge-2025?ref=mlcontests",
+      "tags": [
+        "regression",
+        "classification",
+        "simulation",
+        "measurable",
+        "tabular",
+        "timeseries"
+      ],
+      "launched": "19 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "19 Oct 2025",
+      "prize": "$6,500",
+      "platform": "AIcrowd",
+      "sponsor": "University of Wollongong",
+      "conference": "IEEE ETFG",
+      "conference-year": 2025
     }
   ]
 }
+
+

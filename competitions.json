@@ -4656,6 +4656,25 @@
       "conference-year": 2025
     },
     {
+      "name": "Forecast Rainfall in Ghana",
+      "url": "https://zindi.africa/competitions/ghana-indigenous-intel-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "prediction",
+        "measurable",
+        "beginners",
+        "forecasting"
+      ],
+      "launched": "14 Aug 2025",
+      "registration-deadline": "13 Oct 2025",
+      "deadline": "13 Oct 2025",
+      "prize": "$2,500",
+      "platform": "Zindi",
+      "sponsor": "French Embassy in Ghana",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Detecting Energy Flexibility in Buildings",
       "url": "https://www.aicrowd.com/challenges/flextrack-challenge-2025?ref=mlcontests",
       "tags": [

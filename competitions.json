@@ -4654,6 +4654,23 @@
       "sponsor": "Various",
       "conference": "NeurIPS",
       "conference-year": 2025
+    },
+     {
+      "name": "Ghana’s Indigenous Intel Challenge [BEGINNERS ONLY]",
+      "url": "https://zindi.africa/competitions/ghana-indigenous-intel-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "prediction",
+        "measurable"
+      ],
+      "launched": "14 Aug 2025",
+      "registration-deadline": "13 Oct 2025",
+      "deadline": "13 Oct 2025",
+      "prize": "$2,500",
+      "platform": "Zindi",
+      "sponsor": "French Embassy in Ghana",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

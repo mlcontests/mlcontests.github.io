@@ -4654,6 +4654,27 @@
       "sponsor": "Various",
       "conference": "NeurIPS",
       "conference-year": 2025
+    },
+    {
+      "name": "Detecting Energy Flexibility in Buildings",
+      "url": "https://www.aicrowd.com/challenges/flextrack-challenge-2025",
+      "tags": [
+        "regression",
+        "classification",
+        "simulation",
+        "measurable",
+        "tabular"
+      ],
+      "launched": "19 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "19 Oct 2025",
+      "prize": "$10,000",
+      "platform": "AIcrowd",
+      "sponsor": "University of Wollongong",
+      "conference": "IEEE International Conference",
+      "conference-year": 2025
     }
   ]
 }
+
+

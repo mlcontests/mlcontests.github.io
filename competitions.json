@@ -3847,5 +3847,95 @@
       "conference": null,
       "conference_year": null
     },
+    {
+      "name": "Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases",
+      "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "geo",
+        "analysis",
+        "education",
+        "science"
+      ],
+      "launched": "05 Sep 2025",
+      "registration-deadline": "03 Nov 2025",
+      "deadline": "03 Nov 2025",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "Alliance of Bioversity & CIAT, data.org",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Adaptation Atlas Data Storytelling Challenge (Track 3): Soil Health and Food Security",
+      "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "geo",
+        "analysis",
+        "education",
+        "science"
+      ],
+      "launched": "05 Sep 2025",
+      "registration-deadline": "03 Nov 2025",
+      "deadline": "03 Nov 2025",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "Alliance of Bioversity & CIAT, data.org",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases",
+      "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "geo",
+        "analysis",
+        "education",
+        "science"
+      ],
+      "launched": "05 Sep 2025",
+      "registration-deadline": "03 Nov 2025",
+      "deadline": "03 Nov 2025",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "Alliance of Bioversity & CIAT, data.org",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Adaptation Atlas Data Storytelling Challenge (Track 5): Rainfall",
+      "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-5-rainfall?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "geo",
+        "analysis",
+        "education",
+        "science"
+      ],
+      "launched": "05 Sep 2025",
+      "registration-deadline": "03 Nov 2025",
+      "deadline": "03 Nov 2025",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "Alliance of Bioversity & CIAT, data.org",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Adaptation Atlas Data Storytelling Challenge (Track 6): Forest Cover",
+      "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "geo",
+        "analysis",
+        "education",
+        "science"
+      ],
+      "launched": "05 Sep 2025",
+      "registration-deadline": "03 Nov 2025",
+      "deadline": "03 Nov 2025",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "Alliance of Bioversity & CIAT, data.org",
+      "conference": null,
+      "conference_year": null
+    }
   ]
 }

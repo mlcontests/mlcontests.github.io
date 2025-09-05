@@ -3829,5 +3829,23 @@
       "conference": null,
       "conference_year": null
     },
+    {
+      "name": "Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health",
+      "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "geo",
+        "analysis",
+        "education",
+        "science"
+      ],
+      "launched": "05 Sep 2025",
+      "registration-deadline": "03 Nov 2025",
+      "deadline": "03 Nov 2025",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "Alliance of Bioversity & CIAT, data.org",
+      "conference": null,
+      "conference_year": null
+    },
   ]
 }

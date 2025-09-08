@@ -4693,6 +4693,23 @@
       "sponsor": "University of Wollongong",
       "conference": "IEEE ETFG",
       "conference-year": 2025
+    },
+    {
+      "name": "Hebrew Semantic Retrieval National Challenge",
+      "url": "https://www.codabench.org/competitions/9950/?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "ranking",
+        "nlp"
+      ],
+      "launched": "24 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "6 Nov 2025",
+      "prize": "$55,000",
+      "platform": "Codabench",
+      "sponsor": "MAFAT",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

@@ -4831,6 +4831,26 @@
       "sponsor": "MAFAT",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Weak Lensing ML Uncertainty Challenge",
+      "url": "https://www.codabench.org/competitions/8934/?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "physics",
+        "science",
+        "regression",
+        "measurable"
+      ],
+      "additional_urls": ["https://fair-universe.lbl.gov/?ref=mlcontests"],
+      "launched": "24 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "16 Nov 2025",
+      "prize": "$4,000",
+      "platform": "Codabench",
+      "sponsor": "FAIR Universe",
+      "conference": "NeurIPS",
+      "conference_year": 2025
     }
   ]
 }

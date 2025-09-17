@@ -4552,12 +4552,15 @@
       "conference_year": null
     },
     {
-      "name": "Hull Tactical - Market Prediction",
+      "name": "Predict Daily Stock Index Returns",
       "url": "https://www.kaggle.com/competitions/hull-tactical-market-prediction?ref=mlcontests",
       "tags": [
         "finance",
         "tabular",
-        "custom metric"
+        "timeseries",
+        "forecasting"
+        "supervised",
+        "regression"
       ],
       "launched": "16 Sep 2025",
       "registration-deadline": "8 Dec 2025",

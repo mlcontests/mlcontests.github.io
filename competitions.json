@@ -4106,6 +4106,26 @@
       "conference_year": null
     },
     {
+      "name": "Data Storytelling Challenge: Water Security, Agriculture and Health",
+      "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "geo",
+        "analysis",
+        "education",
+        "science",
+        "subjective",
+        "writing"
+      ],
+      "launched": "05 Sep 2025",
+      "registration-deadline": "03 Nov 2025",
+      "deadline": "03 Nov 2025",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "Alliance of Bioversity & CIAT, data.org",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Speech Detection From Brain Signals",
       "url": "https://eval.ai/web/challenges/challenge-page/2504/?ref=mlcontests",
       "tags": [
@@ -4188,6 +4208,26 @@
       "conference_year": null
     },
     {
+      "name": "Data Storytelling Challenge: Crop Pests and Diseases",
+      "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "geo",
+        "analysis",
+        "education",
+        "science",
+        "subjective",
+        "writing"
+      ],
+      "launched": "05 Sep 2025",
+      "registration-deadline": "03 Nov 2025",
+      "deadline": "03 Nov 2025",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "Alliance of Bioversity & CIAT, data.org",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Barbados Traffic Analysis Challenge",
       "url": "https://zindi.africa/competitions/barbados-traffic-analysis-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
@@ -4200,6 +4240,26 @@
       "prize": "$10,000",
       "platform": "Zindi",
       "sponsor": "Lands and Surveys Department, Barbados",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Data Storytelling Challenge: Soil Health and Food Security",
+      "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "geo",
+        "analysis",
+        "education",
+        "science",
+        "subjective",
+        "writing"
+      ],
+      "launched": "05 Sep 2025",
+      "registration-deadline": "03 Nov 2025",
+      "deadline": "03 Nov 2025",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "Alliance of Bioversity & CIAT, data.org",
       "conference": null,
       "conference_year": null
     },
@@ -4218,6 +4278,26 @@
       "prize": "$150,000",
       "platform": "Kaggle",
       "sponsor": "Google DeepMind",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Data Storytelling Challenge: Infectious Diseases",
+      "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "geo",
+        "analysis",
+        "education",
+        "science",
+        "subjective",
+        "writing"
+      ],
+      "launched": "05 Sep 2025",
+      "registration-deadline": "03 Nov 2025",
+      "deadline": "03 Nov 2025",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "Alliance of Bioversity & CIAT, data.org",
       "conference": null,
       "conference_year": null
     },
@@ -4258,6 +4338,26 @@
       "prize": "$55,000",
       "platform": "Kaggle",
       "sponsor": "The Learning Agency Lab",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Data Storytelling Challenge: Rainfall",
+      "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-5-rainfall?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "geo",
+        "analysis",
+        "education",
+        "science",
+        "subjective",
+        "writing"
+      ],
+      "launched": "05 Sep 2025",
+      "registration-deadline": "03 Nov 2025",
+      "deadline": "03 Nov 2025",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "Alliance of Bioversity & CIAT, data.org",
       "conference": null,
       "conference_year": null
     },
@@ -4415,6 +4515,26 @@
       "conference_year": null
     },
     {
+      "name": "Data Storytelling Challenge: Forest Cover",
+      "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "geo",
+        "analysis",
+        "education",
+        "science",
+        "subjective",
+        "writing"
+      ],
+      "launched": "05 Sep 2025",
+      "registration-deadline": "03 Nov 2025",
+      "deadline": "03 Nov 2025",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "Alliance of Bioversity & CIAT, data.org",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Predict Commodity Price Movements",
       "url": "https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge?ref=mlcontests",
       "tags": [
@@ -4468,6 +4588,7 @@
       "prize": "$100,000",
       "platform": "Kaggle",
       "sponsor": "Google DeepMind",
+      "additional_urls": ["https://sites.google.com/corp/view/neurips-2025-code-golf"],
       "conference": "NeurIPS",
       "conference_year": 2025
     },
@@ -4570,6 +4691,188 @@
       "sponsor": "Hull Tactical",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Real Estate Demand Prediction",
+      "url": "https://www.kaggle.com/competitions/china-real-estate-demand-prediction?ref=mlcontests",
+      "tags": [
+        "tabular",
+        "regression",
+        "forecasting",
+        "measurable",
+        "supervised"
+      ],
+      "launched": "8 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "22 Oct 2025",
+      "prize": "$10,000",
+      "platform": "Kaggle",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "EEG Data Prediction", 
+      "url": "https://www.codabench.org/competitions/9975/?ref=mlcontests",
+      "tags": [
+        "tabular",
+        "regression",
+        "classification",
+        "medical",
+        "measurable",
+        "supervised"
+      ],
+      "additional_urls": ["https://eeg2025.github.io"],
+      "launched": "1 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "31 Oct 2025",
+      "prize": "$7,500",
+      "platform": "Codabench",
+      "sponsor": "Meta",
+      "conference": "NeurIPS",
+      "conference_year": 2025
+    },
+    {
+      "name": "Create Robust Multi-Modal RAG Systems", 
+      "url": "https://agi-lti.github.io/MMU-RAGent/?ref=mlcontests",
+      "tags": [
+        "rag",
+        "llm",
+        "multimodal",
+        "systems",
+        "measurable",
+        "subjective",
+        "generative"
+      ],
+      "launched": "1 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "15 Oct 2025",
+      "prize": "$7,500",
+      "platform": "Independent",
+      "sponsor": "AWS",
+      "conference": "NeurIPS",
+      "conference_year": 2025
+    },
+    {
+      "name": "Humanoid Soccer and Table Tennis in Simulation",
+      "url": "https://eval.ai/web/challenges/challenge-page/2628/overview?ref=mlcontests",
+      "tags": [
+        "science",
+        "reinforcement learning",
+        "robotics",
+        "simulation",
+        "measurable",
+        "control"
+      ],
+      "additional_urls": "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2025?ref=mlcontests",
+      "launched": "1 Aug 2025",
+      "registration-deadline": "31 Oct 2025",
+      "deadline": "31 Oct 2025",
+      "prize": null,
+      "platform": "EvalAI",
+      "sponsor": "Various",
+      "conference": "NeurIPS",
+      "conference-year": 2025
+    },
+    {
+      "name": "Use LLMs for Embodied Decision Making",
+      "url": "https://eval.ai/web/challenges/challenge-page/2628/overview?ref=mlcontests",
+      "tags": [
+        "robotics",
+        "llm",
+        "generative",
+        "simulation",
+        "measurable",
+        "control"
+      ],
+      "additional_urls": "https://neurips25-eai.github.io/?ref=mlcontests",
+      "launched": "15 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "30 Nov 2025",
+      "prize": "$2,000",
+      "platform": "EvalAI",
+      "sponsor": "Various",
+      "conference": "NeurIPS",
+      "conference-year": 2025
+    },
+    {
+      "name": "Forecast Rainfall in Ghana",
+      "url": "https://zindi.africa/competitions/ghana-indigenous-intel-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "prediction",
+        "measurable",
+        "beginners",
+        "forecasting"
+      ],
+      "launched": "14 Aug 2025",
+      "registration-deadline": "13 Oct 2025",
+      "deadline": "13 Oct 2025",
+      "prize": "$2,500",
+      "platform": "Zindi",
+      "sponsor": "French Embassy in Ghana",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Detecting Energy Flexibility in Buildings",
+      "url": "https://www.aicrowd.com/challenges/flextrack-challenge-2025?ref=mlcontests",
+      "tags": [
+        "regression",
+        "classification",
+        "simulation",
+        "measurable",
+        "tabular",
+        "timeseries"
+      ],
+      "launched": "19 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "19 Oct 2025",
+      "prize": "$6,500",
+      "platform": "AIcrowd",
+      "sponsor": "University of Wollongong",
+      "conference": "IEEE ETFG",
+      "conference-year": 2025
+    },
+    {
+      "name": "Hebrew Semantic Retrieval National Challenge",
+      "url": "https://www.codabench.org/competitions/9950/?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "ranking",
+        "nlp",
+        "measurable"
+      ],
+      "launched": "24 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "6 Nov 2025",
+      "prize": "$55,000",
+      "platform": "Codabench",
+      "sponsor": "MAFAT",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Weak Lensing ML Uncertainty Challenge",
+      "url": "https://www.codabench.org/competitions/8934/?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "physics",
+        "science",
+        "regression",
+        "measurable"
+      ],
+      "additional_urls": ["https://fair-universe.lbl.gov/?ref=mlcontests"],
+      "launched": "24 Aug 2025",
+      "registration-deadline": null,
+      "deadline": "16 Nov 2025",
+      "prize": "$4,000",
+      "platform": "Codabench",
+      "sponsor": "FAIR Universe",
+      "conference": "NeurIPS",
+      "conference_year": 2025
     }
   ]
 }
+
+

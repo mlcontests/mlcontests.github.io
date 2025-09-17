@@ -4679,7 +4679,7 @@
         "finance",
         "tabular",
         "timeseries",
-        "forecasting"
+        "forecasting",
         "supervised",
         "regression"
       ],

@@ -4673,6 +4673,26 @@
       "conference_year": null
     },
     {
+      "name": "Predict Daily Stock Index Returns",
+      "url": "https://www.kaggle.com/competitions/hull-tactical-market-prediction?ref=mlcontests",
+      "tags": [
+        "finance",
+        "tabular",
+        "timeseries",
+        "forecasting",
+        "supervised",
+        "regression"
+      ],
+      "launched": "16 Sep 2025",
+      "registration-deadline": "8 Dec 2025",
+      "deadline": "15 Dec 2025",
+      "prize": "$100,000",
+      "platform": "Kaggle",
+      "sponsor": "Hull Tactical",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Real Estate Demand Prediction",
       "url": "https://www.kaggle.com/competitions/china-real-estate-demand-prediction?ref=mlcontests",
       "tags": [

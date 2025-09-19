@@ -4588,7 +4588,9 @@
       "prize": "$100,000",
       "platform": "Kaggle",
       "sponsor": "Google DeepMind",
-      "additional_urls": ["https://sites.google.com/corp/view/neurips-2025-code-golf"],
+      "additional_urls": [
+        "https://sites.google.com/corp/view/neurips-2025-code-golf"
+      ],
       "conference": "NeurIPS",
       "conference_year": 2025
     },
@@ -4712,7 +4714,7 @@
       "conference_year": null
     },
     {
-      "name": "EEG Data Prediction", 
+      "name": "EEG Data Prediction",
       "url": "https://www.codabench.org/competitions/9975/?ref=mlcontests",
       "tags": [
         "tabular",
@@ -4722,7 +4724,9 @@
         "measurable",
         "supervised"
       ],
-      "additional_urls": ["https://eeg2025.github.io"],
+      "additional_urls": [
+        "https://eeg2025.github.io"
+      ],
       "launched": "1 Aug 2025",
       "registration-deadline": null,
       "deadline": "31 Oct 2025",
@@ -4733,7 +4737,7 @@
       "conference_year": 2025
     },
     {
-      "name": "Create Robust Multi-Modal RAG Systems", 
+      "name": "Create Robust Multi-Modal RAG Systems",
       "url": "https://agi-lti.github.io/MMU-RAGent/?ref=mlcontests",
       "tags": [
         "rag",
@@ -4862,7 +4866,9 @@
         "regression",
         "measurable"
       ],
-      "additional_urls": ["https://fair-universe.lbl.gov/?ref=mlcontests"],
+      "additional_urls": [
+        "https://fair-universe.lbl.gov/?ref=mlcontests"
+      ],
       "launched": "24 Aug 2025",
       "registration-deadline": null,
       "deadline": "16 Nov 2025",
@@ -4871,8 +4877,26 @@
       "sponsor": "FAIR Universe",
       "conference": "NeurIPS",
       "conference_year": 2025
+    },
+    {
+      "name": "MABe Challenge - Social Action Recognition in Mice",
+      "url": "https://www.kaggle.com/competitions/MABe-mouse-behavior-detection?ref=mlcontests",
+      "tags": [
+        "biology",
+        "time series analysis",
+        "classification",
+        "deep learning",
+        "transfer learning",
+        "custom metric"
+      ],
+      "launched": "18 Sep 2025",
+      "registration-deadline": "8 Dec 2025",
+      "deadline": "15 Dec 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "MABe Challenge",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }
-
-

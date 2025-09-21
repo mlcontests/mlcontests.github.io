@@ -4796,6 +4796,32 @@
       "conference-year": 2025
     },
     {
+      "name": "FinSurvival Challenge",
+      "url": "https://finsurvival.github.io/?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "forecasting",
+        "regression",
+        "tabular",
+        "timeseries",
+        "finance",
+        "measurable",
+        "writing",
+        "analysis"
+      ],
+      "launched": "15 Sep 2025",
+      "deadline": "20 Oct 2025",
+      "prize": "$1,750",
+      "platform": "Codabench",
+      "sponsor": "RPI, Codabench, AvaLabs",
+      "conference": "ICAIF",
+      "conference_year": 2025,
+      "additional_urls": [
+        "https://finsurvival.github.io/",
+        "https://icaif25.org"
+      ]
+    },
+    {
       "name": "Forecast Rainfall in Ghana",
       "url": "https://zindi.africa/competitions/ghana-indigenous-intel-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [

@@ -4796,7 +4796,7 @@
       "conference-year": 2025
     },
     {
-      "name": "FinSurvival Challenge",
+      "name": "FinSurvival: Survival Modeling for Financial Transactions",
       "url": "https://finsurvival.github.io/?ref=mlcontests",
       "tags": [
         "supervised",
@@ -4805,9 +4805,7 @@
         "tabular",
         "timeseries",
         "finance",
-        "measurable",
-        "writing",
-        "analysis"
+        "measurable"
       ],
       "launched": "15 Sep 2025",
       "deadline": "20 Oct 2025",

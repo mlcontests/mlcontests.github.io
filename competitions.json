@@ -4879,15 +4879,16 @@
       "conference_year": 2025
     },
     {
-      "name": "MABe Challenge - Social Action Recognition in Mice",
+      "name": "Recognise Behaviours in Videos of Mice",
       "url": "https://www.kaggle.com/competitions/MABe-mouse-behavior-detection?ref=mlcontests",
       "tags": [
         "biology",
-        "time series analysis",
+        "timeseries",
+        "vision",
+        "video",
         "classification",
-        "deep learning",
-        "transfer learning",
-        "custom metric"
+        "measurable",
+        "supervised"
       ],
       "launched": "18 Sep 2025",
       "registration-deadline": "8 Dec 2025",

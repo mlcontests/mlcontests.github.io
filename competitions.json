@@ -1,6 +1,7 @@
 {
   "data": [
-    { "name": "VimGolf AI challenge",
+    {
+      "name": "VimGolf AI challenge",
       "url": "https://vimgolf.netlify.app",
       "tags": [
         "reinforcement learning",

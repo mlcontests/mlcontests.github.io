@@ -1,5 +1,17 @@
 {
   "data": [
+    { "name": "VimGolf AI challenge",
+      "url": "https://vimgolf.netlify.app",
+      "tags": [
+        "reinforcement learning",
+        "reasoning",
+      ],
+      "prize": "",
+      "launched": "10 Sep 2025",
+      "registration-deadline": "1 Oct 2025",
+      "deadline": "1 Dec 2025",
+      "platform": "Independent",
+      "sponsor": "Uotocom Network Ltd."
     {
       "name": "Analyse Exoplanet Data (Ariel Data Data Challenge 2025)",
       "url": "https://www.ariel-datachallenge.space/?ref=mlcontests",

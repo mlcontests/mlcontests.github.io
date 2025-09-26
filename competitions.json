@@ -4922,6 +4922,43 @@
       "sponsor": "MABe Challenge",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Analyse NFL Player Movement Data",
+      "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics?ref=mlcontests",
+      "tags": [
+        "analysis/visualisation",
+        "sports",
+        "writing",
+        "subjective"
+      ],
+      "launched": "25 Sep 2025",
+      "registration-deadline": null,
+      "deadline": "17 Dec 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "The NFL",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Predict NFL Player Movement",
+      "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-prediction?ref=mlcontests",
+      "tags": [
+        "sports",
+        "regression",
+        "measurable",
+        "supervised",
+        "timeseries"
+      ],
+      "launched": "25 Sep 2025",
+      "registration-deadline": "26 Nov 2025",
+      "deadline": "3 Dec 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "The NFL",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

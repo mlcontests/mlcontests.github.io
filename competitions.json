@@ -4922,6 +4922,39 @@
       "sponsor": "MABe Challenge",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "NFL Big Data Bowl 2026 - Analytics",
+      "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics?ref=mlcontests",
+      "tags": [
+        "football",
+        "sports"
+      ],
+      "launched": "25 Sep 2025",
+      "registration-deadline": null,
+      "deadline": "17 Dec 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "The National Football League",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "NFL Big Data Bowl 2026 - Prediction",
+      "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-prediction?ref=mlcontests",
+      "tags": [
+        "football",
+        "sports",
+        "custom metric"
+      ],
+      "launched": "25 Sep 2025",
+      "registration-deadline": "26 Nov 2025",
+      "deadline": "3 Dec 2025",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "The National Football League",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

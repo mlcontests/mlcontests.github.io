@@ -4959,6 +4959,25 @@
       "sponsor": "The NFL",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Inventory Planning Challenge",
+      "url": "https://www.datasource.ai/en/home/data-science-competitions-for-startups/vn2-inventory-planning-challenge/description",
+      "tags": [
+        "timeseries",
+        "regression",
+        "measurable",
+        "supervised",
+        "tabular"
+      ],
+      "launched": "29 Sep 2025",
+      "registration-deadline": "5 Nov 2025",
+      "deadline": "5 Nov 2025",
+      "prize": "$21,000",
+      "platform": "DataSource.ai",
+      "sponsor": "Supchains",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

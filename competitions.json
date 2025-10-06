@@ -4961,17 +4961,19 @@
       "conference_year": null
     },
     {
-      "name": "Inventory Planning Challenge",
+      "name": "Plan Warehouse Inventory to Minimise Cost",
       "url": "https://www.datasource.ai/en/home/data-science-competitions-for-startups/vn2-inventory-planning-challenge/description",
       "tags": [
+        "optimisation",
+        "control",
         "timeseries",
+        "forecasting",
         "regression",
         "measurable",
-        "supervised",
-        "tabular"
+        "supervised"
       ],
       "launched": "29 Sep 2025",
-      "registration-deadline": "5 Nov 2025",
+      "registration-deadline": "21 Oct 2025",
       "deadline": "5 Nov 2025",
       "prize": "$21,000",
       "platform": "DataSource.ai",

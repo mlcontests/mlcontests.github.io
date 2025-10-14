@@ -25,6 +25,32 @@
       ]
     },
     {
+      "name": "Predict Cardiac Risks (CardI-HACK Data Challenge 2025)",
+      "url": "https://www.trustii.io/post/announcing-the-cardi-hack-data-challenge-advancing-hypertrophic-cardiomyopathy-hcm-progression",
+      "tags": [
+        "supervised",
+        "classification",
+        "healthcare",
+        "cardiology",
+        "genomics",
+        "AI",
+        "polygenic-risk-score",
+        "clinical-data"
+      ],
+      "launched": "4 Nov 2025",
+      "registration-deadline": "30 Dec 2025",
+      "deadline": "30 Dec 2025",
+      "prize": "$14,000",
+      "platform": "Trustii.io",
+      "sponsor": "IHU ICAN, Health Data Hub",
+      "conference": "France 2030 – Grand Défi: Improvement of Medical Diagnoses through AI",
+      "conference_year": 2025,
+      "additional_urls": [
+        "https://app.trustii.io/",
+        "https://www.ihuican.org/"
+      ]
+    },
+    {
       "name": "Evaluate Ozone Pollution across California",
       "url": "https://www.datacamp.com/competitions/cleaning-data-skies?ref=mlcontests",
       "tags": [

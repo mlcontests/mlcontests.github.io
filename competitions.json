@@ -4981,5 +4981,31 @@
       "conference": null,
       "conference_year": null
     }
+    {
+      "name": "PRC Data Challenge 2025 — Predict fuel burnt per flight segment",
+      "url": "https://ansperformance.eu/study/data-challenge/dc2025/",
+      "tags": ["supervised", "regression", "timeseries", "forecasting", "tabular", "measurable", "science", "open"],
+      "deadline": "30 Nov 2025",
+      "prize": "$5,809",
+      "platform": "Other",
+      "sponsor": "EUROCONTROL Performance Review Commission (PRC)",
+      "launched": "1 Oct 2025",
+      "conference": "The 13th OpenSky Symposium",
+      "conference-year": 2025,
+      "additional_urls": [
+        "https://ansperformance.eu/study/data-challenge/",
+        "https://ansperformance.eu/study/data-challenge/dc2025/data.html",
+        "https://ansperformance.eu/study/data-challenge/dc2025/submission.html",
+        "https://ansperformance.eu/study/data-challenge/dc2025/ranking.html",
+        "https://ansperformance.eu/study/data-challenge/dc2025/teams.html",
+        "https://ansperformance.eu/study/data-challenge/dc2025/about.html",
+        "https://opensky-network.org/",
+        "https://symposium.opensky-network.org/",
+        "https://www.eurocontrol.int/",
+        "https://www.eurocontrol.int/air-navigation-services-performance-review"
+        
+      ],
+      "added": "15 Oct 2025"
+    }
   ]
 }

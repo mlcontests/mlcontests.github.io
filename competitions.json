@@ -1,6 +1,27 @@
 {
   "data": [
     {
+      "name": "Falcon: The Collective Pricing Engine",
+      "url": "https://hub.crunchdao.com/competitions/falcon?ref=mlcontests",
+      "tags": [
+        "finance",
+        "timeseries",
+        "ranking",
+        "analysis",
+        "measurable",
+        "open",
+        "deep learning"
+      ],
+      "launched": "15 Oct 2025",
+      "registration-deadline": "31 Jan 2026",
+      "deadline": "31 Jan 2026",
+      "prize": "$30,000",
+      "platform": "CrunchDAO",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Analyse Exoplanet Data (Ariel Data Data Challenge 2025)",
       "url": "https://www.ariel-datachallenge.space/?ref=mlcontests",
       "tags": [

@@ -4980,6 +4980,24 @@
       "sponsor": "Supchains",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "CAFA 6 Protein Function Prediction",
+      "url": "https://www.kaggle.com/competitions/cafa-6-protein-function-prediction?ref=mlcontests",
+      "tags": [
+        "healthcare",
+        "biology",
+        "tabular",
+        "custom metric"
+      ],
+      "launched": "15 Oct 2025",
+      "registration-deadline": "26 Jan 2026",
+      "deadline": "2 Feb 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Critical Assessment of Functional Annotation",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

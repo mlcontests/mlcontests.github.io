@@ -1,6 +1,27 @@
 {
   "data": [
     {
+      "name": "Falcon: Price-Like Timeseries Forecasting Using Third-Party Predictions",
+      "url": "https://hub.crunchdao.com/competitions/falcon?ref=mlcontests",
+      "tags": [
+        "finance",
+        "timeseries",
+        "forecasting",
+        "ranking",
+        "analysis",
+        "measurable",
+        "regression"
+      ],
+      "launched": "15 Oct 2025",
+      "registration-deadline": "31 Jan 2026",
+      "deadline": "31 Jan 2026",
+      "prize": "$30,000",
+      "platform": "CrunchDAO",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Analyse Exoplanet Data (Ariel Data Data Challenge 2025)",
       "url": "https://www.ariel-datachallenge.space/?ref=mlcontests",
       "tags": [
@@ -22,6 +43,29 @@
       "conference_year": 2025,
       "additional_urls": [
         "https://www.kaggle.com/competitions/ariel-data-challenge-2025"
+      ]
+    },
+    {
+      "name": "Predict Cardiac Risks From Genome Data",
+      "url": "https://www.trustii.io/post/announcing-the-cardi-hack-data-challenge-advancing-hypertrophic-cardiomyopathy-hcm-progression?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "classification",
+        "healthcare",
+        "cardiology",
+        "genomics",
+        "measurable"
+      ],
+      "launched": "4 Nov 2025",
+      "registration-deadline": "30 Dec 2025",
+      "deadline": "30 Dec 2025",
+      "prize": "$16,300",
+      "platform": "Trustii.io",
+      "sponsor": "IHU ICAN, Health Data Hub",
+      "conference": "France 2030 – Grand Défi",
+      "conference_year": 2025,
+      "additional_urls": [
+        "https://www.ihuican.org/"
       ]
     },
     {
@@ -5000,6 +5044,38 @@
       "sponsor": "Critical Assessment of Functional Annotation",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Predict Fuel Burnt by Aircraft Per Flight Segment",
+      "url": "https://ansperformance.eu/study/data-challenge/dc2025/",
+      "tags": [
+        "supervised",
+        "regression",
+        "timeseries",
+        "tabular",
+        "measurable",
+        "science",
+        "transportation",
+        "climate"
+      ],
+      "deadline": "30 Nov 2025",
+      "prize": "$5,809",
+      "platform": "Independent",
+      "sponsor": "EUROCONTROL Performance Review Commission (PRC)",
+      "launched": "1 Oct 2025",
+      "additional_urls": [
+        "https://ansperformance.eu/study/data-challenge/",
+        "https://ansperformance.eu/study/data-challenge/dc2025/data.html",
+        "https://ansperformance.eu/study/data-challenge/dc2025/submission.html",
+        "https://ansperformance.eu/study/data-challenge/dc2025/ranking.html",
+        "https://ansperformance.eu/study/data-challenge/dc2025/teams.html",
+        "https://ansperformance.eu/study/data-challenge/dc2025/about.html",
+        "https://opensky-network.org/",
+        "https://symposium.opensky-network.org/",
+        "https://www.eurocontrol.int/",
+        "https://www.eurocontrol.int/air-navigation-services-performance-review"
+      ],
+      "added": "15 Oct 2025"
     }
   ]
 }

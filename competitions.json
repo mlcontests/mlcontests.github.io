@@ -4982,13 +4982,15 @@
       "conference_year": null
     },
     {
-      "name": "CAFA 6 Protein Function Prediction",
+      "name": "CAFA 6: Predict Protein Function",
       "url": "https://www.kaggle.com/competitions/cafa-6-protein-function-prediction?ref=mlcontests",
       "tags": [
         "healthcare",
         "biology",
+        "science",
         "tabular",
-        "custom metric"
+        "classification",
+        "measurable"
       ],
       "launched": "15 Oct 2025",
       "registration-deadline": "26 Jan 2026",

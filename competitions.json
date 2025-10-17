@@ -1,16 +1,16 @@
 {
   "data": [
     {
-      "name": "Falcon: The Collective Pricing Engine",
+      "name": "Falcon: Price-Like Timeseries Forecasting Using Third-Party Predictions",
       "url": "https://hub.crunchdao.com/competitions/falcon?ref=mlcontests",
       "tags": [
         "finance",
         "timeseries",
+        "forecasting",
         "ranking",
         "analysis",
         "measurable",
-        "open",
-        "deep learning"
+        "regression"
       ],
       "launched": "15 Oct 2025",
       "registration-deadline": "31 Jan 2026",

@@ -25,27 +25,25 @@
       ]
     },
     {
-      "name": "Predict Cardiac Risks (CardI-HACK Data Challenge 2025)",
-      "url": "https://www.trustii.io/post/announcing-the-cardi-hack-data-challenge-advancing-hypertrophic-cardiomyopathy-hcm-progression",
+      "name": "Predict Cardiac Risks From Genome Data",
+      "url": "https://www.trustii.io/post/announcing-the-cardi-hack-data-challenge-advancing-hypertrophic-cardiomyopathy-hcm-progression?ref=mlcontests",
       "tags": [
         "supervised",
         "classification",
         "healthcare",
         "cardiology",
         "genomics",
-        "AI",
-        "clinical-data"
+        "measurable"
       ],
       "launched": "4 Nov 2025",
       "registration-deadline": "30 Dec 2025",
       "deadline": "30 Dec 2025",
-      "prize": "$14,000",
+      "prize": "$16,300",
       "platform": "Trustii.io",
       "sponsor": "IHU ICAN, Health Data Hub",
       "conference": "France 2030 – Grand Défi: Improvement of Medical Diagnoses through AI",
       "conference_year": 2025,
       "additional_urls": [
-        "https://app.trustii.io/",
         "https://www.ihuican.org/"
       ]
     },

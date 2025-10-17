@@ -5024,6 +5024,38 @@
       "sponsor": "Supchains",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Predict Fuel Burnt by Aircraft Per Flight Segment",
+      "url": "https://ansperformance.eu/study/data-challenge/dc2025/",
+      "tags": [
+        "supervised",
+        "regression",
+        "timeseries",
+        "tabular",
+        "measurable",
+        "science",
+        "transportation",
+        "climate"
+      ],
+      "deadline": "30 Nov 2025",
+      "prize": "$5,809",
+      "platform": "Independent",
+      "sponsor": "EUROCONTROL Performance Review Commission (PRC)",
+      "launched": "1 Oct 2025",
+      "additional_urls": [
+        "https://ansperformance.eu/study/data-challenge/",
+        "https://ansperformance.eu/study/data-challenge/dc2025/data.html",
+        "https://ansperformance.eu/study/data-challenge/dc2025/submission.html",
+        "https://ansperformance.eu/study/data-challenge/dc2025/ranking.html",
+        "https://ansperformance.eu/study/data-challenge/dc2025/teams.html",
+        "https://ansperformance.eu/study/data-challenge/dc2025/about.html",
+        "https://opensky-network.org/",
+        "https://symposium.opensky-network.org/",
+        "https://www.eurocontrol.int/",
+        "https://www.eurocontrol.int/air-navigation-services-performance-review"
+      ],
+      "added": "15 Oct 2025"
     }
   ]
 }

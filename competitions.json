@@ -5076,6 +5076,24 @@
         "https://www.eurocontrol.int/air-navigation-services-performance-review"
       ],
       "added": "15 Oct 2025"
+    },
+    {
+      "name": "PhysioNet - Digitization of ECG Images",
+      "url": "https://www.kaggle.com/competitions/physionet-ecg-image-digitization?ref=mlcontests",
+      "tags": [
+        "health",
+        "medicine",
+        "time series analysis",
+        "custom metric"
+      ],
+      "launched": "21 Oct 2025",
+      "registration-deadline": "15 Jan 2026",
+      "deadline": "22 Jan 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "PhysioNet",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

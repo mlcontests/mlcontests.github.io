@@ -5076,6 +5076,25 @@
         "https://www.eurocontrol.int/air-navigation-services-performance-review"
       ],
       "added": "15 Oct 2025"
+    },
+    {
+      "name": "Extract Timeseries Data from Images of ECG Timeseries",
+      "url": "https://www.kaggle.com/competitions/physionet-ecg-image-digitization?ref=mlcontests",
+      "tags": [
+        "healthcare",
+        "vision",
+        "timeseries",
+        "measurable",
+        "supervised"
+      ],
+      "launched": "21 Oct 2025",
+      "registration-deadline": "15 Jan 2026",
+      "deadline": "22 Jan 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "PhysioNet",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

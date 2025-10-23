@@ -5078,13 +5078,14 @@
       "added": "15 Oct 2025"
     },
     {
-      "name": "PhysioNet - Digitization of ECG Images",
+      "name": "Extract Timeseries Data from Images of ECG Timeseries",
       "url": "https://www.kaggle.com/competitions/physionet-ecg-image-digitization?ref=mlcontests",
       "tags": [
-        "health",
-        "medicine",
-        "time series analysis",
-        "custom metric"
+        "healthcare",
+        "vision",
+        "timeseries",
+        "measurable",
+        "supervised"
       ],
       "launched": "21 Oct 2025",
       "registration-deadline": "15 Jan 2026",

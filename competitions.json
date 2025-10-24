@@ -5095,6 +5095,27 @@
       "sponsor": "PhysioNet",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Detect Image Forgeries in Biomedical Research",
+      "url": "https://www.kaggle.com/competitions/recodai-luc-scientific-image-forgery-detection?ref=mlcontests",
+      "tags": [
+        "science",
+        "biology",
+        "healthcare",
+        "vision",
+        "classification",
+        "supervised",
+        "measurable"
+      ],
+      "launched": "23 Oct 2025",
+      "registration-deadline": "8 Jan 2026",
+      "deadline": "15 Jan 2026",
+      "prize": "$55,000",
+      "platform": "Kaggle",
+      "sponsor": "Recod.AI",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

@@ -5097,14 +5097,16 @@
       "conference_year": null
     },
     {
-      "name": "Recod.ai/LUC - Scientific Image Forgery Detection",
+      "name": "Detect Image Forgeries in Biomedical Research",
       "url": "https://www.kaggle.com/competitions/recodai-luc-scientific-image-forgery-detection?ref=mlcontests",
       "tags": [
-        "research",
+        "science",
         "biology",
-        "medicine",
-        "image",
-        "custom metric"
+        "healthcare",
+        "vision",
+        "classification",
+        "supervised",
+        "measurable"
       ],
       "launched": "23 Oct 2025",
       "registration-deadline": "8 Jan 2026",

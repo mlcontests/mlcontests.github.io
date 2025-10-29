@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "name": "🐕 Choose my dog breed: Build an AI chatbot that finds your perfect pup",
+      "url": "https://www.datacamp.com/competitions/robot-dog-breeds",
+      "tags": [
+        "nlp",
+        "generative",
+        "multiple",
+        "subjective"
+      ],
+      "launched": "3 Nov 2025",
+      "registration-deadline": "21 Nov 2025",
+      "deadline": "21 Nov 2025",
+      "prize": "$2,000",
+      "platform": "DataCamp",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Falcon: Price-Like Timeseries Forecasting Using Third-Party Predictions",
       "url": "https://hub.crunchdao.com/competitions/falcon?ref=mlcontests",
       "tags": [

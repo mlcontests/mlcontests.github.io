@@ -5118,12 +5118,15 @@
       "conference_year": null
     },
     {
-      "name": "CSIRO - Image2Biomass Prediction",
+      "name": "Predict Biomass from Images",
       "url": "https://www.kaggle.com/competitions/csiro-biomass?ref=mlcontests",
       "tags": [
         "biology",
+        "vision",
         "agriculture",
-        "r2 score"
+        "regression",
+        "measurable",
+        "supervised"
       ],
       "launched": "28 Oct 2025",
       "registration-deadline": "21 Jan 2026",

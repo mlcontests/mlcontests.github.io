@@ -5116,6 +5116,23 @@
       "sponsor": "Recod.AI",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "CSIRO - Image2Biomass Prediction",
+      "url": "https://www.kaggle.com/competitions/csiro-biomass?ref=mlcontests",
+      "tags": [
+        "biology",
+        "agriculture",
+        "r2 score"
+      ],
+      "launched": "28 Oct 2025",
+      "registration-deadline": "21 Jan 2026",
+      "deadline": "28 Jan 2026",
+      "prize": "$75,000",
+      "platform": "Kaggle",
+      "sponsor": "CSIRO",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

@@ -5138,14 +5138,13 @@
       "conference_year": null
     },
     {
-      "name": "Google Tunix Hack - Train a model to show its work",
+      "name": "Post-train Gemma Models to Output Reasoning Traces",
       "url": "https://www.kaggle.com/competitions/google-tunix-hackathon?ref=mlcontests",
       "tags": [
         "reinforcement learning",
-        "tpu",
-        "ml ethics",
-        "text generation",
-        "coding"
+        "llm",
+        "nlp",
+        "subjective""
       ],
       "launched": "11 Nov 2025",
       "registration-deadline": null,

@@ -5136,6 +5136,24 @@
       "sponsor": "CSIRO",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Post-train Gemma Models to Output Reasoning Traces",
+      "url": "https://www.kaggle.com/competitions/google-tunix-hackathon?ref=mlcontests",
+      "tags": [
+        "reinforcement learning",
+        "llm",
+        "nlp",
+        "subjective"
+      ],
+      "launched": "11 Nov 2025",
+      "registration-deadline": null,
+      "deadline": "12 Jan 2026",
+      "prize": "$100,000",
+      "platform": "Kaggle",
+      "sponsor": "Google Cloud",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

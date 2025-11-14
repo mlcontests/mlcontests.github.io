@@ -5154,6 +5154,24 @@
       "sponsor": "Google Cloud",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Vesuvius Challenge - Surface Detection",
+      "url": "https://www.kaggle.com/competitions/vesuvius-challenge-surface-detection?ref=mlcontests",
+      "tags": [
+        "history",
+        "image segmentation",
+        "segmentation",
+        "custom metric"
+      ],
+      "launched": "13 Nov 2025",
+      "registration-deadline": "6 Feb 2026",
+      "deadline": "13 Feb 2026",
+      "prize": "$100,000",
+      "platform": "Kaggle",
+      "sponsor": "Vesuvius Challenge",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

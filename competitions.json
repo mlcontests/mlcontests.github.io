@@ -3804,10 +3804,10 @@
         "supervised",
         "vision",
       ],
-      "launched": "13 Sep 2025",
-      "registration-deadline": "08 Dec 2025",
-      "deadline": "08 Dec 2025",
-      "prize": "$10,000",
+      "launched": "07 Nov 2025",
+      "registration-deadline": "26 Jan 2026",
+      "deadline": "26 Jan 2026",
+      "prize": "$11,000",
       "platform": "Zindi",
       "sponsor": "Lands and Surveys Department, Barbados",
       "conference": null,
@@ -3934,6 +3934,22 @@
       "prize": "$1,500",
       "platform": "Zindi",
       "sponsor": "Alliance of Bioversity & CIAT, data.org",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "agriBORA Commodity Price Forecasting Challenge",
+      "url": "https://zindi.africa/competitions/agribora-commodity-price-forecasting-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "timeseries",
+      ],
+      "launched": "14 Nov 2025",
+      "registration-deadline": "28 Dec 2025",
+      "deadline": "28 Dec 2025",
+      "prize": "€8,250",
+      "platform": "Zindi",
+      "sponsor": "Digital Africa",
       "conference": null,
       "conference_year": null
     }

@@ -5156,13 +5156,15 @@
       "conference_year": null
     },
     {
-      "name": "Vesuvius Challenge - Surface Detection",
+      "name": "Papyrus Scroll 3D Surface Segmentation",
       "url": "https://www.kaggle.com/competitions/vesuvius-challenge-surface-detection?ref=mlcontests",
       "tags": [
         "history",
-        "image segmentation",
+        "vision",
+        "3d",
         "segmentation",
-        "custom metric"
+        "supervised",
+        "measurable"
       ],
       "launched": "13 Nov 2025",
       "registration-deadline": "6 Feb 2026",

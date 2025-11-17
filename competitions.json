@@ -4100,8 +4100,8 @@
         "generative"
       ],
       "launched": "01 Aug 2025",
-      "registration-deadline": "15 Oct 2025",
-      "deadline": "15 Oct 2025",
+      "registration-deadline": "20 Oct 2025",
+      "deadline": "20 Oct 2025",
       "prize": "$10,000",
       "platform": "Zindi",
       "sponsor": "Lands and Surveys Department, Barbados",
@@ -4278,10 +4278,10 @@
         "supervised",
         "vision"
       ],
-      "launched": "13 Sep 2025",
-      "registration-deadline": "08 Dec 2025",
-      "deadline": "08 Dec 2025",
-      "prize": "$10,000",
+      "launched": "07 Nov 2025",
+      "registration-deadline": "26 Jan 2026",
+      "deadline": "26 Jan 2026",
+      "prize": "$11,000",
       "platform": "Zindi",
       "sponsor": "Lands and Surveys Department, Barbados",
       "conference": null,
@@ -4402,6 +4402,24 @@
       "prize": "$1,500",
       "platform": "Zindi",
       "sponsor": "Alliance of Bioversity & CIAT, data.org",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Predict Weekly Maize Prices",
+      "url": "https://zindi.africa/competitions/agribora-commodity-price-forecasting-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "timeseries",
+        "forecasting",
+        "measurable"
+      ],
+      "launched": "14 Nov 2025",
+      "registration-deadline": "28 Dec 2025",
+      "deadline": "28 Dec 2025",
+      "prize": "$9,550",
+      "platform": "Zindi",
+      "sponsor": "Digital Africa, agriBORA",
       "conference": null,
       "conference_year": null
     },
@@ -4887,6 +4905,24 @@
       "conference_year": null
     },
     {
+      "name": "Propose Ways to Measure AI Model Environmental Footprint",
+      "url": "https://zindi.africa/competitions/measuring-what-matters-proposal-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "writing",
+        "climate",
+        "science",
+        "subjective"
+      ],
+      "launched": "24 Oct 2025",
+      "registration-deadline": "21 Nov 2025",
+      "deadline": "21 Nov 2025",
+      "prize": "$1,250",
+      "platform": "Zindi",
+      "sponsor": "ITU",
+      "conference": null,
+      "conference_year": null
+   },
+   {
       "name": "Detecting Energy Flexibility in Buildings",
       "url": "https://www.aicrowd.com/challenges/flextrack-challenge-2025?ref=mlcontests",
       "tags": [

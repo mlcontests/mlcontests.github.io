@@ -5176,17 +5176,18 @@
       "conference_year": null
     },
     {
-      "name": "Measuring What Matters Proposal Challenge by ITU",
+      "name": "Propose Ways to Measure AI Model Environmental Footprint",
       "url": "https://zindi.africa/competitions/measuring-what-matters-proposal-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "writing",
-	"climate",
-	"science"
+		"climate",
+		"science",
+		  "subjective'
       ],
       "launched": "24 Oct 2025",
       "registration-deadline": "21 Nov 2025",
       "deadline": "21 Nov 2025",
-      "prize": "1,000 CHF",
+      "prize": "$1250",
       "platform": "Zindi",
       "sponsor": "ITU",
       "conference": null,

@@ -4410,7 +4410,7 @@
       "url": "https://zindi.africa/competitions/agribora-commodity-price-forecasting-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "timeseries",
+        "timeseries"
       ],
       "launched": "14 Nov 2025",
       "registration-deadline": "28 Dec 2025",

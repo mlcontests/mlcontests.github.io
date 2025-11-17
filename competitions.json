@@ -4406,18 +4406,20 @@
       "conference_year": null
     },
     {
-      "name": "agriBORA Commodity Price Forecasting Challenge",
+      "name": "Predict Weekly Maize Prices",
       "url": "https://zindi.africa/competitions/agribora-commodity-price-forecasting-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "timeseries"
+        "timeseries",
+        "forecasting",
+        "measurable"
       ],
       "launched": "14 Nov 2025",
       "registration-deadline": "28 Dec 2025",
       "deadline": "28 Dec 2025",
-      "prize": "€8,250",
+      "prize": "$9,550",
       "platform": "Zindi",
-      "sponsor": "Digital Africa",
+      "sponsor": "Digital Africa, agriBORA",
       "conference": null,
       "conference_year": null
     },
@@ -4903,17 +4905,18 @@
       "conference_year": null
     },
     {
-      "name": "Measuring What Matters Proposal Challenge by ITU",
+      "name": "Propose Ways to Measure AI Model Environmental Footprint",
       "url": "https://zindi.africa/competitions/measuring-what-matters-proposal-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "writing",
         "climate",
-        "science"
+        "science",
+        "subjective"
       ],
       "launched": "24 Oct 2025",
       "registration-deadline": "21 Nov 2025",
       "deadline": "21 Nov 2025",
-      "prize": "1,000 CHF",
+      "prize": "$1,250",
       "platform": "Zindi",
       "sponsor": "ITU",
       "conference": null,

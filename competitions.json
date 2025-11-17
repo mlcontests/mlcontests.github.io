@@ -3953,5 +3953,22 @@
       "conference": null,
       "conference_year": null
     }
+    {
+      "name": "Measuring What Matters Proposal Challenge by ITU",
+      "url": "https://zindi.africa/competitions/measuring-what-matters-proposal-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "writing",
+	"climate",
+	"science"
+      ],
+      "launched": "24 Oct 2025",
+      "registration-deadline": "21 Nov 2025",
+      "deadline": "21 Nov 2025",
+      "prize": "1,000 CHF",
+      "platform": "Zindi",
+      "sponsor": "ITU",
+      "conference": null,
+      "conference_year": null
+   }
   ]
 }

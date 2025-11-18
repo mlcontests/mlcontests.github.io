@@ -5212,12 +5212,11 @@
       "conference_year": null
     },
     {
-      "name": "Santa 2025 - Christmas Tree Packing Challenge",
+      "name": "Santa 2025 - Optimally Pack Christmas Trees",
       "url": "https://www.kaggle.com/competitions/santa-2025?ref=mlcontests",
       "tags": [
-        "optimization",
-        "holidays and cultural events",
-        "custom metric"
+        "optimisation",
+        "measurable"
       ],
       "launched": "17 Nov 2025",
       "registration-deadline": "23 Jan 2026",

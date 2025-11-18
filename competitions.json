@@ -4921,8 +4921,8 @@
       "sponsor": "ITU",
       "conference": null,
       "conference_year": null
-   },
-   {
+    },
+    {
       "name": "Detecting Energy Flexibility in Buildings",
       "url": "https://www.aicrowd.com/challenges/flextrack-challenge-2025?ref=mlcontests",
       "tags": [
@@ -5208,6 +5208,23 @@
       "prize": "$100,000",
       "platform": "Kaggle",
       "sponsor": "Vesuvius Challenge",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Santa 2025 - Christmas Tree Packing Challenge",
+      "url": "https://www.kaggle.com/competitions/santa-2025?ref=mlcontests",
+      "tags": [
+        "optimization",
+        "holidays and cultural events",
+        "custom metric"
+      ],
+      "launched": "17 Nov 2025",
+      "registration-deadline": "23 Jan 2026",
+      "deadline": "30 Jan 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Kaggle",
       "conference": null,
       "conference_year": null
     }

@@ -5226,6 +5226,23 @@
       "sponsor": "Kaggle",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "AI Mathematical Olympiad - Progress Prize 3",
+      "url": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3?ref=mlcontests",
+      "tags": [
+        "nlp",
+        "mathematics",
+        "custom metric"
+      ],
+      "launched": "20 Nov 2025",
+      "registration-deadline": "8 Apr 2026",
+      "deadline": "15 Apr 2026",
+      "prize": "$2,207,152",
+      "platform": "Kaggle",
+      "sponsor": "AI|MO",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

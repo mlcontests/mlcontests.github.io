@@ -5246,20 +5246,23 @@
       "conference_year": null
    },
    {
-      "name": "The AI Telco Troubleshooting Challenge",
+      "name": "Detect and Explain Telco Network Failures",
       "url": "https://zindi.africa/competitions/the-ai-telco-troubleshooting-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "generative",
-        "deep learning",
-        "analysis"
+        "llm",
+        "analysis",
+        "measurable",
+        "subjective",
+        "writing"
       ],
       "launched": "28 Nov 2025",
-      "registration-deadline": "02 Feb 2026",
-      "deadline": "02 Feb 2026",
-      "prize": "€35,000",
+      "registration-deadline": "2 Feb 2026",
+      "deadline": "2 Feb 2026",
+      "prize": "$40,000",
       "platform": "Zindi",
       "sponsor": "HUAWEI, interdigital, Next G Cloud, XFLOW RESEARCH, RelationalAI, ITU",
-      "conference": "MCW Barcelona",
+      "conference": "MWC Barcelona",
       "conference_year": 2026
    }
   ]

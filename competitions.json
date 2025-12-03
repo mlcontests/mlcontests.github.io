@@ -3986,6 +3986,23 @@
       "sponsor": "HUAWEI, interdigital, Next G Cloud, XFLOW RESEARCH, RelationalAI, ITU",
       "conference": "MCW Barcelona",
       "conference_year": 2026
-   }
+   },
+    {
+      "name": "Farm to Feed Shopping Basket Recommendation Challenge",
+      "url": "https://zindi.africa/competitions/farm-to-feed-shopping-basket-recommendation-challenge/leaderboard?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "forecasting",
+        "ranking"
+      ],
+      "launched": "02 Dec 2025",
+      "registration-deadline": "19 Jan 2026",
+      "deadline": "19 Jan 2026",
+      "prize": "€8,250",
+      "platform": "Zindi",
+      "sponsor": "Digital Africa",
+      "conference": null,
+      "conference_year": null
+    }
   ]
 }

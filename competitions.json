@@ -4009,8 +4009,8 @@
       "url": "https://zindi.africa/competitions/caribbean-voices-hackathon?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "forecasting",
-        "ranking"
+        "nlp",
+        "audio"
       ],
       "launched": "17 Nov 2025",
       "registration-deadline": "07 Dec 2026",
@@ -4018,6 +4018,22 @@
       "prize": "$7,500",
       "platform": "Zindi",
       "sponsor": "UWI AI Innovation Centre, CIBC, Infolytics, Data Axis, CTU",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Urban Heat Island Challenge by Ernst and Young",
+      "url": "https://zindi.africa/competitions/urban-heat-island-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "geo"
+      ],
+      "launched": "17 Nov 2025",
+      "registration-deadline": "07 Dec 2026",
+      "deadline": "07 Dec 2026",
+      "prize": "$1,000",
+      "platform": "Zindi",
+      "sponsor": "EY",
       "conference": null,
       "conference_year": null
     }

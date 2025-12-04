@@ -4003,6 +4003,23 @@
       "sponsor": "Digital Africa",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Caribbean Voices AI Hackathon by UWI AI Innovation Centre",
+      "url": "https://zindi.africa/competitions/caribbean-voices-hackathon?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "forecasting",
+        "ranking"
+      ],
+      "launched": "17 Nov 2025",
+      "registration-deadline": "07 Dec 2026",
+      "deadline": "07 Dec 2026",
+      "prize": "$7,500",
+      "platform": "Zindi",
+      "sponsor": "UWI AI Innovation Centre, CIBC, Infolytics, Data Axis, CTU",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

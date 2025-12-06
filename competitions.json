@@ -5244,8 +5244,8 @@
       "sponsor": "AI|MO",
       "conference": null,
       "conference_year": null
-   },
-   {
+    },
+    {
       "name": "Detect and Explain Telco Network Failures",
       "url": "https://zindi.africa/competitions/the-ai-telco-troubleshooting-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
@@ -5264,6 +5264,25 @@
       "sponsor": "HUAWEI, interdigital, Next G Cloud, XFLOW RESEARCH, RelationalAI, ITU",
       "conference": "MWC Barcelona",
       "conference_year": 2026
-   }
+    },
+    {
+      "name": "Google DeepMind - Vibe Code with Gemini 3 Pro in AI Studio ",
+      "url": "https://www.kaggle.com/competitions/gemini-3?ref=mlcontests",
+      "tags": [
+        "artificial intelligence",
+        "beginner",
+        "intermediate",
+        "advanced",
+        "image generator"
+      ],
+      "launched": "5 Dec 2025",
+      "registration-deadline": "12 Dec 2025",
+      "deadline": "12 Dec 2025",
+      "prize": "$500,000",
+      "platform": "Kaggle",
+      "sponsor": "Google DeepMind",
+      "conference": null,
+      "conference_year": null
+    }
   ]
 }

@@ -5264,6 +5264,22 @@
       "sponsor": "HUAWEI, interdigital, Next G Cloud, XFLOW RESEARCH, RelationalAI, ITU",
       "conference": "MWC Barcelona",
       "conference_year": 2026
+   },
+   {
+      "name": "Heat Signature Zero",
+      "url": "https://thinkonward.com/app/c/challenges/heat-signature-zero?ref=mlc",
+      "tags": [
+        "optimisation",
+        "reinforcement learning",
+        "control",
+        "timeseries"
+      ],
+      "launched": "10 Dec 2025",
+      "registration-deadline": "04 Feb 2026",
+      "deadline": "04 Feb 2026",
+      "prize": "$20,000",
+      "platform": "ThinkOnward",
+      "sponsor": null
    }
   ]
 }

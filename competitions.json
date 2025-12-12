@@ -5266,14 +5266,12 @@
       "conference_year": 2026
     },
     {
-      "name": "Google DeepMind - Vibe Code with Gemini 3 Pro in AI Studio ",
+      "name": "Vibe Code Applications with Gemini 3 Pro",
       "url": "https://www.kaggle.com/competitions/gemini-3?ref=mlcontests",
       "tags": [
-        "artificial intelligence",
-        "beginner",
-        "intermediate",
-        "advanced",
-        "image generator"
+        "hackathon",
+        "nlp",
+        "subjective"
       ],
       "launched": "5 Dec 2025",
       "registration-deadline": "12 Dec 2025",
@@ -5281,6 +5279,61 @@
       "prize": "$500,000",
       "platform": "Kaggle",
       "sponsor": "Google DeepMind",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Shopping Basket Recommendation",
+      "url": "https://zindi.africa/competitions/farm-to-feed-shopping-basket-recommendation-challenge/leaderboard?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "classification",
+		"measurable",
+		"business"
+      ],
+      "launched": "02 Dec 2025",
+      "registration-deadline": "19 Jan 2026",
+      "deadline": "19 Jan 2026",
+      "prize": "$9,700",
+      "platform": "Zindi",
+      "sponsor": "Digital Africa",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Build Speech Recognition Systems for Caribbean Voices",
+      "url": "https://zindi.africa/competitions/caribbean-voices-hackathon?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "nlp",
+        "audio",
+		"measurable"
+      ],
+      "launched": "17 Nov 2025",
+      "registration-deadline": "07 Dec 2026",
+      "deadline": "07 Dec 2026",
+      "prize": "$7,500",
+      "platform": "Zindi",
+      "sponsor": "UWI AI Innovation Centre, CIBC, Infolytics, Data Axis, CTU",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Identify Urban Heat Islands on Satellite Data",
+      "url": "https://zindi.africa/competitions/urban-heat-island-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "geo",
+	    "climate",
+	    "classification",
+	    "measurable"
+      ],
+      "launched": "03 Dec 2025",
+      "registration-deadline": "31 Jan 2026",
+      "deadline": "31 Jan 2026",
+      "prize": "$3,500",
+      "platform": "Zindi",
+      "sponsor": "EY",
       "conference": null,
       "conference_year": null
     }

@@ -3988,29 +3988,31 @@
       "conference_year": 2026
    },
     {
-      "name": "Farm to Feed Shopping Basket Recommendation Challenge",
+      "name": "Shopping Basket Recommendation",
       "url": "https://zindi.africa/competitions/farm-to-feed-shopping-basket-recommendation-challenge/leaderboard?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "forecasting",
-        "ranking"
+        "classification",
+		"measurable",
+		"business"
       ],
       "launched": "02 Dec 2025",
       "registration-deadline": "19 Jan 2026",
       "deadline": "19 Jan 2026",
-      "prize": "€8,250",
+      "prize": "$9,700",
       "platform": "Zindi",
       "sponsor": "Digital Africa",
       "conference": null,
       "conference_year": null
     },
     {
-      "name": "Caribbean Voices AI Hackathon by UWI AI Innovation Centre",
+      "name": "Build Speech Recognition Systems for Caribbean Voices",
       "url": "https://zindi.africa/competitions/caribbean-voices-hackathon?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
         "nlp",
-        "audio"
+        "audio",
+		"measurable"
       ],
       "launched": "17 Nov 2025",
       "registration-deadline": "07 Dec 2026",
@@ -4022,11 +4024,14 @@
       "conference_year": null
     },
     {
-      "name": "EY Urban Heat Island Challenge",
+      "name": "Identify Urban Heat Islands on Satellite Data",
       "url": "https://zindi.africa/competitions/urban-heat-island-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "geo"
+        "geo",
+	    "climate",
+	    "classification",
+	    "measurable"
       ],
       "launched": "03 Dec 2025",
       "registration-deadline": "31 Jan 2026",

@@ -5306,23 +5306,6 @@
       "conference_year": null
     },
     {
-      "name": "Vibe Code Applications with Gemini 3 Pro",
-      "url": "https://www.kaggle.com/competitions/gemini-3?ref=mlcontests",
-      "tags": [
-        "hackathon",
-        "nlp",
-        "subjective"
-      ],
-      "launched": "5 Dec 2025",
-      "registration-deadline": "12 Dec 2025",
-      "deadline": "12 Dec 2025",
-      "prize": "$500,000",
-      "platform": "Kaggle",
-      "sponsor": "Google DeepMind",
-      "conference": null,
-      "conference_year": null
-    },
-    {
       "name": "Shopping Basket Recommendation",
       "url": "https://zindi.africa/competitions/farm-to-feed-shopping-basket-recommendation-challenge/leaderboard?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [

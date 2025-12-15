@@ -5398,6 +5398,24 @@
       "sponsor": "AWS Trainium, AGI House",
       "conference": null,
       "conference-year": null
+    },
+    {
+      "name": "Estimate Consumption from Survey Data",
+      "url": "https://www.drivendata.org/competitions/305/competition-worldbank-poverty/?ref=mlcontests",
+      "tags": [
+        "tabular",
+        "regression",
+        "supervised",
+        "measurable"
+      ],
+      "launched": "6 Dec 2025",
+      "registration-deadline": "4 Feb 2026",
+      "deadline": "4 Feb 2026",
+      "prize": "$10,000",
+      "platform": "DrivenData",
+      "sponsor": "The World Bank",
+      "conference": null,
+      "conference-year": null
     }
   ]
 }

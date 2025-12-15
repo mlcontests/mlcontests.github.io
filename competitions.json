@@ -4043,11 +4043,13 @@
       "conference_year": null
     },
      {
-      "name": "Identify Urban Heat Islands on Satellite Data",
+      "name": "Predict The Financial Wellbeing of Small Businesses",
       "url": "https://zindi.africa/competitions/dataorg-financial-health-prediction-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "prediction"
+        "classification",
+		"finance",
+		"measurable"
       ],
       "launched": "12 Dec 2025",
       "registration-deadline": "01 Mar 2026",

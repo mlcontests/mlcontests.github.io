@@ -4041,6 +4041,22 @@
       "sponsor": "EY",
       "conference": null,
       "conference_year": null
+    },
+     {
+      "name": "Identify Urban Heat Islands on Satellite Data",
+      "url": "https://zindi.africa/competitions/dataorg-financial-health-prediction-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "prediction"
+      ],
+      "launched": "12 Dec 2025",
+      "registration-deadline": "01 Mar 2026",
+      "deadline": "01 Mar 2026",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "data.org",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

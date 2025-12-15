@@ -5376,6 +5376,24 @@
       "sponsor": "EY",
       "conference": null,
       "conference_year": null
+    },
+     {
+      "name": "Predict The Financial Wellbeing of Small Businesses",
+      "url": "https://zindi.africa/competitions/dataorg-financial-health-prediction-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "classification",
+		"finance",
+		"measurable"
+      ],
+      "launched": "12 Dec 2025",
+      "registration-deadline": "01 Mar 2026",
+      "deadline": "01 Mar 2026",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "data.org",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

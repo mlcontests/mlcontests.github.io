@@ -5377,6 +5377,27 @@
       "sponsor": "data.org",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Train LLMs to Play Chess",
+      "url": "https://www.aicrowd.com/challenges/global-chess-challenge-2025?ref=mlcontests",
+      "tags": [
+        "pvp",
+        "llm",
+        "simulation",
+        "generative",
+        "nlp",
+        "control",
+        "measurable"
+      ],
+      "launched": "2 Dec 2025",
+      "registration-deadline": "31 Dec 2025",
+      "deadline": "31 Dec 2025",
+      "prize": "$17,000",
+      "platform": "AIcrowd",
+      "sponsor": "AWS Trainium, AGI House",
+      "conference": null,
+      "conference-year": null
     }
   ]
 }

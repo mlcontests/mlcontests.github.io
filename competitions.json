@@ -5418,13 +5418,15 @@
       "conference-year": null
     },
     {
-      "name": "Deep Past Challenge - Translate Akkadian to English",
+      "name": "Translate Ancient Akkadian Texts to English",
       "url": "https://www.kaggle.com/competitions/deep-past-initiative-machine-translation?ref=mlcontests",
       "tags": [
         "history",
-        "text",
+        "nlp",
         "translation",
-        "custom metric"
+        "generative",
+        "measurable",
+        "supervised"
       ],
       "launched": "16 Dec 2025",
       "registration-deadline": "9 Mar 2026",

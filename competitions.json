@@ -4078,6 +4078,24 @@
       "sponsor": "EY",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "UNIDO AfricaRice Quality Assessment Challenge",
+      "url": "https://zindi.africa/competitions/unido-africarice-quality-assessment-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "computer vision",
+	      "classification",
+	      "measurable"
+      ],
+      "launched": "24 Dec 2025",
+      "registration-deadline": "02 Feb 2026",
+      "deadline": "02 Feb 2026",
+      "prize": "$5,000",
+      "platform": "Zindi",
+      "sponsor": "UNIDO",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

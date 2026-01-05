@@ -5436,6 +5436,25 @@
       "sponsor": "Deep Past Initiative",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Flood Modelling to predict water level",
+      "url": "https://www.kaggle.com/competitions/urban-flood-modelling/overview",
+      "tags": [
+        "regression",
+        "timeseries",
+        "measurable",
+        "supervised"
+      ],
+      "launched": "5 Jan 2026",
+      "registration-deadline": "1 Mar 2026",
+      "deadline": "1 Mar 2026",
+      "prize": "$7,000",
+      "platform": "Kaggle",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
     }
+    
   ]
 }

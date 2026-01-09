@@ -5474,6 +5474,27 @@
       "sponsor": "Stanford University",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Predict Price Movements from Order Book States",
+      "url": "https://wundernn.io/predictorium?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "finance",
+        "timeseries",
+        "regression",
+        "efficiency",
+        "forecasting",
+        "measurable"
+      ],
+      "launched": "31 Dec 2025",
+      "registration-deadline": "1 Mar 2026",
+      "deadline": "1 Mar 2026",
+      "prize": "$13,600",
+      "platform": "Independent",
+      "sponsor": "Wunder Fund",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

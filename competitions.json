@@ -5454,7 +5454,26 @@
       "sponsor": null,
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Predict the 3D Structure of RNA Molecules",
+      "url": "https://www.kaggle.com/competitions/stanford-rna-3d-folding-2?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "biology",
+        "chemistry",
+        "science",
+        "regression",
+        "measurable"
+      ],
+      "launched": "7 Jan 2026",
+      "registration-deadline": "18 Mar 2026",
+      "deadline": "25 Mar 2026",
+      "prize": "$75,000",
+      "platform": "Kaggle",
+      "sponsor": "Stanford University",
+      "conference": null,
+      "conference_year": null
     }
-    
   ]
 }

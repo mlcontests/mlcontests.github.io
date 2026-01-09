@@ -5495,6 +5495,23 @@
       "sponsor": "Wunder Fund",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "AI Agents Hackathon",
+      "url": "https://wundernn.io/predictorium?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "llm",
+        "subjective"
+      ],
+      "launched": "13 Jan 2025",
+      "registration-deadline": "13 Jan 2026",
+      "deadline": "9 Feb 2026",
+      "prize": "$30,000",
+      "platform": "Independent",
+      "sponsor": "Comet, Google DeepMind, Vercel",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

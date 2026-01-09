@@ -5456,15 +5456,15 @@
       "conference_year": null
     },
     {
-      "name": "Stanford RNA 3D Folding Part 2",
+      "name": "Predict the 3D Structure of RNA Molecules",
       "url": "https://www.kaggle.com/competitions/stanford-rna-3d-folding-2?ref=mlcontests",
       "tags": [
-        "video games",
+        "supervised",
         "biology",
         "chemistry",
-        "biotechnology",
+        "science",
         "regression",
-        "custom metric"
+        "measurable"
       ],
       "launched": "7 Jan 2026",
       "registration-deadline": "18 Mar 2026",

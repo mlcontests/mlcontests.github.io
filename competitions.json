@@ -5512,6 +5512,23 @@
       "sponsor": "Comet, Google DeepMind, Vercel",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "The MedGemma Impact Challenge",
+      "url": "https://www.kaggle.com/competitions/med-gemma-impact-challenge?ref=mlcontests",
+      "tags": [
+        "healthcare",
+        "health",
+        "model comparison"
+      ],
+      "launched": "13 Jan 2026",
+      "registration-deadline": null,
+      "deadline": "24 Feb 2026",
+      "prize": "$100,000",
+      "platform": "Kaggle",
+      "sponsor": "Google Research",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

@@ -1,6 +1,52 @@
 {
   "data": [
     {
+      "name": "Obesity ML Competition: Tackling Metabolic Diseases - Part 1",
+      "url": "https://hub.crunchdao.com/competitions/broad-obesity-1?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "regression",
+        "ranking",
+        "segmentation",
+        "science",
+        "medical",
+        "analysis",
+        "measurable",
+        "open",
+        "multiple",
+        "deep learning"
+      ],
+      "launched": "8 Dec 2025",
+      "registration-deadline": "1 May 2026",
+      "deadline": "1 May 2026",
+      "prize": "$12,000",
+      "platform": "CrunchDAO",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Falcon: Price-Like Timeseries Forecasting Using Third-Party Predictions",
+      "url": "https://hub.crunchdao.com/competitions/falcon?ref=mlcontests",
+      "tags": [
+        "finance",
+        "timeseries",
+        "forecasting",
+        "ranking",
+        "analysis",
+        "measurable",
+        "regression"
+      ],
+      "launched": "15 Oct 2025",
+      "registration-deadline": "31 Jan 2026",
+      "deadline": "31 Jan 2026",
+      "prize": "$30,000",
+      "platform": "CrunchDAO",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Falcon: Price-Like Timeseries Forecasting Using Third-Party Predictions",
       "url": "https://hub.crunchdao.com/competitions/falcon?ref=mlcontests",
       "tags": [

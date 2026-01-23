@@ -1,6 +1,25 @@
 {
   "data": [
     {
+      "name": "Detect Structural Breaks in Time Series Data Continuous Edition",
+      "url": "https://hub.crunchdao.com/competitions/structural-break-open-benchmark",
+      "tags": [
+        "supervised",
+        "tabular",
+        "timeseries",
+        "forecasting",
+        "measurable"
+      ],
+      "launched": "18 Dec 2025",
+      "registration-deadline": "31 Dec 2027",
+      "deadline": "31 Dec 2027",
+      "prize": "$6,000/month",
+      "platform": "CrunchDAO",
+      "sponsor": "ADIA Lab",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Obesity ML Competition: Tackling Metabolic Diseases - Part 1",
       "url": "https://hub.crunchdao.com/competitions/broad-obesity-1?ref=mlcontests",
       "tags": [
@@ -21,7 +40,7 @@
       "deadline": "1 May 2026",
       "prize": "$12,000",
       "platform": "CrunchDAO",
-      "sponsor": null,
+      "sponsor": "ADIA Lab",
       "conference": null,
       "conference_year": null
     },
@@ -3900,7 +3919,7 @@
       ],
       "prize": "$100,000",
       "platform": "CrunchDAO",
-      "sponsor": "ADIALAB"
+      "sponsor": "ADIA Lab"
     },
     {
       "name": "Use OpenAI Models to Discover Archaeological Sites",

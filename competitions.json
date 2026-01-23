@@ -1,19 +1,43 @@
 {
   "data": [
     {
-      "name": "Detect Structural Breaks in Time Series Data Continuous Edition",
-      "url": "https://hub.crunchdao.com/competitions/structural-break-open-benchmark",
+      "name": "DataCrunch v2",
+      "url": "https://hub.crunchdao.com/competitions/datacrunch-2?ref=mlcontests",
       "tags": [
         "supervised",
         "tabular",
         "timeseries",
         "forecasting",
-        "measurable"
+        "measurable",
+        "regression",
+        "open",
+        "finance"
+      ],
+      "launched": "5 Jan 2026",
+      "registration-deadline": "31 Dec 2027",
+      "deadline": "31 Dec 2027",
+      "prize": "$52,000/year",
+      "platform": "CrunchDAO",
+      "sponsor": "Crunch Capital",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Detect Structural Breaks in Time Series Data Continuous Edition",
+      "url": "https://hub.crunchdao.com/competitions/structural-break-open-benchmark?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "tabular",
+        "timeseries",
+        "forecasting",
+        "measurable",
+        "open",
+        "finance"
       ],
       "launched": "18 Dec 2025",
       "registration-deadline": "31 Dec 2027",
       "deadline": "31 Dec 2027",
-      "prize": "$6,000/month",
+      "prize": "$6,000/quarter",
       "platform": "CrunchDAO",
       "sponsor": "ADIA Lab",
       "conference": null,

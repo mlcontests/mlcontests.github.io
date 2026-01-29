@@ -5473,6 +5473,24 @@
       "sponsor": "Deep Past Initiative",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "DigiCow Farmer Training Adoption Challenge",
+      "url": "https://zindi.africa/competitions/digicow-farmer-training-adoption-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "classification",
+        "measurable",
+        "business"
+      ],
+      "launched": "28 Jan 2026",
+      "registration-deadline": "28 Feb 2026",
+      "deadline": "28 Feb 2026",
+      "prize": "€8,250",
+      "platform": "Zindi",
+      "sponsor": "Digital Africa",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

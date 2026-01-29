@@ -4688,8 +4688,8 @@
         "satellite"
       ],
       "launched": "6 Aug 2025",
-      "registration-deadline": "17 Jan 2026",
-      "deadline": "17 Jan 2026",
+      "registration-deadline": "24 Jan 2026",
+      "deadline": "24 Jan 2026",
       "prize": "$12,000",
       "platform": "Solafune",
       "sponsor": null,
@@ -5205,7 +5205,7 @@
       "launched": "13 Nov 2025",
       "registration-deadline": "6 Feb 2026",
       "deadline": "13 Feb 2026",
-      "prize": "$100,000",
+      "prize": "$200,000",
       "platform": "Kaggle",
       "sponsor": "Vesuvius Challenge",
       "conference": null,
@@ -5489,6 +5489,99 @@
       "prize": "€8,250",
       "platform": "Zindi",
       "sponsor": "Digital Africa",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Flood Modelling to predict water level",
+      "url": "https://www.kaggle.com/competitions/urban-flood-modelling/overview",
+      "tags": [
+        "regression",
+        "timeseries",
+        "measurable",
+        "supervised"
+      ],
+      "launched": "5 Jan 2026",
+      "registration-deadline": "1 Mar 2026",
+      "deadline": "1 Mar 2026",
+      "prize": "$7,000",
+      "platform": "Kaggle",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Predict the 3D Structure of RNA Molecules",
+      "url": "https://www.kaggle.com/competitions/stanford-rna-3d-folding-2?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "biology",
+        "chemistry",
+        "science",
+        "regression",
+        "measurable"
+      ],
+      "launched": "7 Jan 2026",
+      "registration-deadline": "18 Mar 2026",
+      "deadline": "25 Mar 2026",
+      "prize": "$75,000",
+      "platform": "Kaggle",
+      "sponsor": "Stanford University",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Predict Price Movements from Order Book States",
+      "url": "https://wundernn.io/predictorium?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "finance",
+        "timeseries",
+        "regression",
+        "efficiency",
+        "forecasting",
+        "measurable"
+      ],
+      "launched": "31 Dec 2025",
+      "registration-deadline": "1 Mar 2026",
+      "deadline": "1 Mar 2026",
+      "prize": "$13,600",
+      "platform": "Independent",
+      "sponsor": "Wunder Fund",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "AI Agents Hackathon",
+      "url": "https://www.encodeclub.com/programmes/comet-resolution-v2-hackathon?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "llm",
+        "subjective"
+      ],
+      "launched": "13 Jan 2025",
+      "registration-deadline": "13 Jan 2026",
+      "deadline": "9 Feb 2026",
+      "prize": "$30,000",
+      "platform": "Independent",
+      "sponsor": "Comet, Google DeepMind, Vercel",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Build Applications With The Open-Weights MedGemma Model",
+      "url": "https://www.kaggle.com/competitions/med-gemma-impact-challenge?ref=mlcontests",
+      "tags": [
+        "healthcare",
+        "hackathon",
+        "subjective"
+      ],
+      "launched": "13 Jan 2026",
+      "registration-deadline": null,
+      "deadline": "24 Feb 2026",
+      "prize": "$100,000",
+      "platform": "Kaggle",
+      "sponsor": "Google Research",
       "conference": null,
       "conference_year": null
     }

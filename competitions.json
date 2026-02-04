@@ -5378,6 +5378,43 @@
       "conference": null,
       "conference_year": null
     },
+     {
+      "name": "Forecast Water Quality",
+      "url": "https://zindi.africa/competitions/ey-water-quality-forecasting-challenge/?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "geo",
+	    "climate",
+	    "regression",
+	    "measurable"
+      ],
+      "launched": "20 Jan 2026",
+      "registration-deadline": "13 Mar 2026",
+      "deadline": "13 Mar 2026",
+      "prize": "$10,000",
+      "platform": "Zindi",
+      "sponsor": "EY",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Assess Rice Quality from Images",
+      "url": "https://zindi.africa/competitions/unido-africarice-quality-assessment-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "vision",
+	     "regression",
+	     "measurable"
+      ],
+      "launched": "24 Dec 2025",
+      "registration-deadline": "02 Feb 2026",
+      "deadline": "02 Feb 2026",
+      "prize": "$5,000",
+      "platform": "Zindi",
+      "sponsor": "UNIDO",
+      "conference": null,
+      "conference_year": null
+    },
     {
       "name": "Train LLMs to Play Chess",
       "url": "https://www.aicrowd.com/challenges/global-chess-challenge-2025?ref=mlcontests",
@@ -5434,6 +5471,24 @@
       "prize": "$50,000",
       "platform": "Kaggle",
       "sponsor": "Deep Past Initiative",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Predict Farming Practices",
+      "url": "https://zindi.africa/competitions/digicow-farmer-training-adoption-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "classification",
+        "measurable",
+        "business"
+      ],
+      "launched": "28 Jan 2026",
+      "registration-deadline": "28 Feb 2026",
+      "deadline": "28 Feb 2026",
+      "prize": "$10,000",
+      "platform": "Zindi",
+      "sponsor": "Digital Africa",
       "conference": null,
       "conference_year": null
     },

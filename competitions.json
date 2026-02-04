@@ -5584,6 +5584,44 @@
       "sponsor": "Google Research",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Recognise Words Spoken by Children in Audio Clips",
+      "url": "https://www.drivendata.org/competitions/308/childrens-word-asr/?ref=mlcontests",
+      "tags": [
+        "speech",
+        "measurable",
+        "supervised",
+        "audio",
+        "classification"
+      ],
+      "launched": "3 Feb 2026",
+      "registration-deadline": null,
+      "deadline": "6 Apr 2026",
+      "prize": "$70,000",
+      "platform": "DrivenData",
+      "sponsor": "Gates Foundation",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Recognise Speech Sounds Made by Children in Audio Clips",
+      "url": "https://www.drivendata.org/competitions/309/childrens-phonetic-asr/?ref=mlcontests",
+      "tags": [
+        "speech",
+        "measurable",
+        "supervised",
+        "audio",
+        "classification"
+      ],
+      "launched": "3 Feb 2026",
+      "registration-deadline": null,
+      "deadline": "6 Apr 2026",
+      "prize": "$50,000",
+      "platform": "DrivenData",
+      "sponsor": "Gates Foundation",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

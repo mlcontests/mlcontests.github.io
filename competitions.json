@@ -5585,7 +5585,7 @@
       "conference": null,
       "conference_year": null
     },
-      {
+    {
       "name": "Rhea Soil Nutrient Prediction Challenge",
       "url": "https://zindi.africa/competitions/rhea-soil-nutrient-prediction-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
@@ -5603,7 +5603,26 @@
       "conference_year": null
     },
     {
-      "name": "Unido AfricaRice App Builder Challenge",
+      "name": "Recognise Words Spoken by Children in Audio Clips",
+      "url": "https://www.drivendata.org/competitions/308/childrens-word-asr/?ref=mlcontests",
+      "tags": [
+        "speech",
+        "measurable",
+        "supervised",
+        "audio",
+        "classification"
+      ],
+      "launched": "3 Feb 2026",
+      "registration-deadline": null,
+      "deadline": "6 Apr 2026",
+      "prize": "$70,000",
+      "platform": "DrivenData",
+      "sponsor": "Gates Foundation",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+     "name": "Unido AfricaRice App Builder Challenge",
       "url": "https://zindi.africa/competitions/digicow-farmer-training-adoption-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "product",
@@ -5615,6 +5634,25 @@
       "prize": "$5,000",
       "platform": "Zindi",
       "sponsor": "UNIDO",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Recognise Speech Sounds Made by Children in Audio Clips",
+      "url": "https://www.drivendata.org/competitions/309/childrens-phonetic-asr/?ref=mlcontests",
+      "tags": [
+        "speech",
+        "measurable",
+        "supervised",
+        "audio",
+        "classification"
+      ],
+      "launched": "3 Feb 2026",
+      "registration-deadline": null,
+      "deadline": "6 Apr 2026",
+      "prize": "$50,000",
+      "platform": "DrivenData",
+      "sponsor": "Gates Foundation",
       "conference": null,
       "conference_year": null
     }

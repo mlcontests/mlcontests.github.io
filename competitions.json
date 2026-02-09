@@ -1,6 +1,27 @@
 {
   "data": [
     {
+      "name": "Synth: Synthetic Price Data",
+      "url": "https://hub.crunchdao.com/competitions/falcon?ref=mlcontests",
+      "tags": [
+        "finance",
+        "timeseries",
+        "forecasting",
+        "ranking",
+        "analysis",
+        "measurable",
+        "regression"
+      ],
+      "launched": "19 Jan 2025",
+      "registration-deadline": "31 Dec 2026",
+      "deadline": "31 Dec 2026",
+      "prize": "$30,000",
+      "platform": "CrunchDAO",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "DataCrunch v2",
       "url": "https://hub.crunchdao.com/competitions/datacrunch-2?ref=mlcontests",
       "tags": [

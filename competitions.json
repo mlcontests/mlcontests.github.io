@@ -1,6 +1,95 @@
 {
   "data": [
     {
+      "name": "Synth: Synthetic Price Data",
+      "url": "https://hub.crunchdao.com/competitions/falcon?ref=mlcontests",
+      "tags": [
+        "finance",
+        "timeseries",
+        "forecasting",
+        "ranking",
+        "analysis",
+        "measurable",
+        "regression"
+      ],
+      "launched": "19 Jan 2025",
+      "registration-deadline": "31 Dec 2026",
+      "deadline": "31 Dec 2026",
+      "prize": "$30,000",
+      "platform": "CrunchDAO",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "DataCrunch v2",
+      "url": "https://hub.crunchdao.com/competitions/datacrunch-2?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "tabular",
+        "timeseries",
+        "forecasting",
+        "measurable",
+        "regression",
+        "open",
+        "finance"
+      ],
+      "launched": "5 Jan 2026",
+      "registration-deadline": "31 Dec 2026",
+      "deadline": "31 Dec 2026",
+      "prize": "$52,000",
+      "platform": "CrunchDAO",
+      "sponsor": "Crunch Capital",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Detect Structural Breaks in Time Series Data Continuous Edition",
+      "url": "https://hub.crunchdao.com/competitions/structural-break-open-benchmark?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "tabular",
+        "timeseries",
+        "forecasting",
+        "measurable",
+        "open",
+        "finance"
+      ],
+      "launched": "18 Dec 2025",
+      "registration-deadline": "31 Dec 2026",
+      "deadline": "31 Dec 2026",
+      "prize": "$24,000",
+      "platform": "CrunchDAO",
+      "sponsor": "ADIA Lab",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Obesity ML Competition: Tackling Metabolic Diseases - Part 1",
+      "url": "https://hub.crunchdao.com/competitions/broad-obesity-1?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "regression",
+        "ranking",
+        "segmentation",
+        "science",
+        "medical",
+        "analysis",
+        "measurable",
+        "open",
+        "multiple",
+        "deep learning"
+      ],
+      "launched": "8 Dec 2025",
+      "registration-deadline": "1 May 2026",
+      "deadline": "1 May 2026",
+      "prize": "$12,000",
+      "platform": "CrunchDAO",
+      "sponsor": "Eric and Wendy Schmidt Center",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Falcon: Price-Like Timeseries Forecasting Using Third-Party Predictions",
       "url": "https://hub.crunchdao.com/competitions/falcon?ref=mlcontests",
       "tags": [
@@ -13,8 +102,8 @@
         "regression"
       ],
       "launched": "15 Oct 2025",
-      "registration-deadline": "31 Jan 2026",
-      "deadline": "31 Jan 2026",
+      "registration-deadline": "14 Feb 2026",
+      "deadline": "14 Feb 2026",
       "prize": "$30,000",
       "platform": "CrunchDAO",
       "sponsor": null,
@@ -3854,7 +3943,7 @@
       ],
       "prize": "$100,000",
       "platform": "CrunchDAO",
-      "sponsor": "ADIALAB"
+      "sponsor": "ADIA Lab"
     },
     {
       "name": "Use OpenAI Models to Discover Archaeological Sites",

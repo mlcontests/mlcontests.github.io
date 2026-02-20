@@ -5378,15 +5378,15 @@
       "conference": null,
       "conference_year": null
     },
-     {
+    {
       "name": "Forecast Water Quality",
       "url": "https://zindi.africa/competitions/ey-water-quality-forecasting-challenge/?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
         "geo",
-	    "climate",
-	    "regression",
-	    "measurable"
+        "climate",
+        "regression",
+        "measurable"
       ],
       "launched": "20 Jan 2026",
       "registration-deadline": "13 Mar 2026",
@@ -5403,8 +5403,8 @@
       "tags": [
         "supervised",
         "vision",
-	     "regression",
-	     "measurable"
+        "regression",
+        "measurable"
       ],
       "launched": "24 Dec 2025",
       "registration-deadline": "02 Feb 2026",
@@ -5592,9 +5592,9 @@
         "supervised",
         "prediction",
         "science",
-	    "vision",
-	    "measurable",
-	    "geo"
+        "vision",
+        "measurable",
+        "geo"
       ],
       "launched": "4 Feb 2026",
       "registration-deadline": "6 Mar 2026",
@@ -5625,12 +5625,12 @@
       "conference_year": null
     },
     {
-     "name": "Build Apps for Rice Quality Assessment",
+      "name": "Build Apps for Rice Quality Assessment",
       "url": "https://zindi.africa/competitions/unido-africarice-app-builder-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "product",
         "business",
-		"subjective"
+        "subjective"
       ],
       "launched": "13 Feb 2026",
       "registration-deadline": "1 Mar 2026",
@@ -5657,6 +5657,23 @@
       "prize": "$50,000",
       "platform": "DrivenData",
       "sponsor": "Gates Foundation",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "March Machine Learning Mania 2026",
+      "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2026?ref=mlcontests",
+      "tags": [
+        "basketball",
+        "sports",
+        "mse"
+      ],
+      "launched": "19 Feb 2026",
+      "registration-deadline": null,
+      "deadline": "19 Mar 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Kaggle",
       "conference": null,
       "conference_year": null
     }

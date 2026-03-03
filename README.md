@@ -10,46 +10,26 @@ A sortable list of public machine learning/data science/AI contests, viewable on
 
 Please submit a pull request for any changes. 
 
-Additions or changes to the competitions list can be made by editing https://github.com/mlcontests/mlcontests.github.io/blob/master/competitions.json. Please check the [submission criteria](https://mlcontests.com/submit/) first to ensure your competition qualifies.
+Additions or changes to the competitions list can be made by editing [competitions.json](https://github.com/mlcontests/mlcontests.github.io/blob/master/competitions.json).
+
+Please check the [submission criteria](https://mlcontests.com/submit/) first to ensure your competition qualifies.
 
 ## Schema
-Mandatory fields
-```
-"name": A description of the competition. 
-"url": Link to the competition. Feel free to insert codes so you can track the source. 
-"tags": Any tags relevant to the type of challenge. E.g. ["supervised", "vision", "nlp"]. See list of valid tags below.
-"deadline": final day for submissions. Format is "D MMM YYYY".
-"prize": Monetary prizes only, converted to USD, or leave blank. 
-"platform": which platform is running the competition? E.g. "Kaggle"/"DrivenData"
-"sponsor": Who's providing sponsorship? E.g. "Google"
-```
 
-Optional fields:
-```
-"conference": Any conference affiliation, e.g. "NeurIPS"
-"conference-year": Which year of the conference is this competition affiliated with? E.g. 2022 
-"launched": day the competition starts. Format is "D MMM YYYY".
-"registration-deadline": final day new competitors are able to register. Format is "D MMM YYYY".
-"added": day the competition was added to this repo. 
-"additional_urls": Any additional relevant links - for example, to the competition homepage if the actual competition is run on CodaLab. E.g. ["https://example1.com", "https://example2.com"]
-"additional_prizes": Any additional non-cash prizes.  For example: "RTX 4090" or "$500 travel grant". 
-```
+The schema is in [schema.json](https://github.com/mlcontests/mlcontests.github.io/blob/master/schema.json). 
 
-The required date format in all cases is `D MMM YYYY` - e.g. `5 Jan 2023`. 
+The required date format in all cases is `D MMM YYYY` - e.g. `5 Jan 2023`.
 
-The `prize` field should use USD values with a comma as the thousands separator, e.g. `$50,000` for fifty-thousand dollars. 
-This field should only contain unconditional cash prizes. Other prizes -- compute grants, travel grants, hardware, or swag, should be specified as a string in the `additional_prizes` field. 
+The `prize` field should use USD values with a comma as the thousands separator, e.g. `$50,000` for fifty-thousand dollars.
+This field should only contain unconditional cash prizes. Other prizes -- compute grants, travel grants, hardware, or swag, should be specified as a string in the `additional_prizes` field.
 
-The full schema is specified in `schema.json`. 
-
-## Valid tags
-
-Each competition can have several tags linked to it. 
-
-Valid tags are listed below. Please check this list and tag your competition with all relevant tags. If you feel like any important tags are missing from this list, feel free to make suggestions in a pull request. 
+Each competition can have several tags linked to it, and website users can filter by tag. 
+Some of the valid tags are listed below. See the schema for a full list of tags. 
 
 | Tag  | Description |
 | ------------- | ------------- |
+| `"measurable"`  | Any competition with an objectively measurable goal/benchmark|
+| `"subjective"`  | Any competition with a subjective determination of winners, such as through a judging panel|
 | `"supervised"`  | [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) (labels are given) |
 | `"unsupervised"`  | [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning) (no labels given) |
 | `"reinforcement learning"`  | [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) (actions to maximise reward) |
@@ -77,8 +57,6 @@ Valid tags are listed below. Please check this list and tag your competition wit
 | `"writing"`  | Writing (essays, articles, blog posts) |
 | `"reasoning"`  |[Logical reasoning](https://en.wikipedia.org/wiki/Logical_reasoning) or [abstraction](https://en.wikipedia.org/wiki/Abstraction) based challenges. |
 | `"analysis"`  | Analysis/visualisation (notebooks, presentations, recommendations, interpretation) |
-| `"measurable"`  | Any competition with an objectively measurable goal/benchmark|
-| `"subjective"`  | Any competition with a subjective determination of winners, such as through a judging panel|
 | `"science"`  | Any challenge analysing scientific data (physics/biology/chemistry/...)|
 | `"medical"`  | Any challenge analysing medical data (CT scans/notes/...)|
 | `"sports"`  | Any challenge analysing sports data (horse racing, NFL, NBA, soccer,...)|

@@ -412,7 +412,7 @@
       "tags": [
         "nlp",
         "generative",
-        "video generation",
+        "video",
         "llm",
         "subjective",
         "analysis/visualisation"
@@ -923,7 +923,7 @@
       "url": "https://codalab.lisn.upsaclay.fr/competitions/19660?ref=mlcontests",
       "tags": [
         "control",
-        "HVAC",
+        "engineering",
         "building",
         "energy",
         "measurable"
@@ -3151,7 +3151,7 @@
         "supervised",
         "nlp",
         "sentiment analysis",
-        "machine translation",
+        "translation",
         "research",
         "measurable"
       ],
@@ -3208,8 +3208,7 @@
       "tags": [
         "nlp",
         "classification",
-        "languages",
-        "accuracy score"
+        "languages"
       ],
       "launched": "18 Nov 2024",
       "registration-deadline": "27 Jan 2025",
@@ -3242,7 +3241,6 @@
       "name": "Create Adversarial Essays for LLM Judges",
       "url": "https://www.kaggle.com/competitions/llms-you-cant-please-them-all?ref=mlcontests",
       "tags": [
-        "text generation",
         "generative",
         "nlp",
         "measurable"
@@ -3664,7 +3662,7 @@
       "name": "Reconstruct 3D Scenes From 2D Image Collections",
       "url": "https://www.kaggle.com/competitions/image-matching-challenge-2025?ref=mlcontests",
       "tags": [
-        "computer vision",
+        "vision",
         "supervised",
         "3d",
         "clustering",
@@ -4952,7 +4950,6 @@
         "supervised",
         "prediction",
         "measurable",
-        "beginners",
         "forecasting"
       ],
       "launched": "14 Aug 2025",
@@ -5724,7 +5721,6 @@
       "name": "March ML Mania: Forecast College Basketball Tournaments",
       "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2026?ref=mlcontests",
       "tags": [
-        "basketball",
         "sports",
         "forecasting",
         "measurable"

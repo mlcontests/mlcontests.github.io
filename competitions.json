@@ -62,7 +62,7 @@
       "conference_year": null
     },
     {
-      "name": "Falcon: Price-Like Timeseries Forecasting Using Third-Party Predictions",
+      "name": "Falcon: Price-Like Timeseries Forecasting",
       "url": "https://hub.crunchdao.com/competitions/falcon?ref=mlcontests",
       "tags": [
         "finance",
@@ -224,7 +224,7 @@
       "conference_year": null
     },
     {
-      "name": "Quantify Contributions of Open Source Code to Downstream Projects",
+      "name": "Quantify Contributions of Open Source Code to Other Projects",
       "url": "https://cryptopond.xyz/modelfactory/detail/2564617?ref=mlcontests",
       "tags": [
         "finance",
@@ -331,7 +331,7 @@
       "conference_year": null
     },
     {
-      "name": "CytologIA Data Challenge - Advancing Hematological Diagnostics Through AI",
+      "name": "Advance Hematological Diagnostics Through AI",
       "url": "https://www.trustii.io/post/announcing-the-cytologia-data-challenge-advancing-hematological-diagnostics-through-ai?ref=mlcontests",
       "tags": [
         "supervised",
@@ -594,7 +594,7 @@
       "data-size": null
     },
     {
-      "name": "Higgs Boson Decay: Signal Strength Uncertainty Quantification",
+      "name": "Higgs Boson Decay: Uncertainty Quantification",
       "url": "https://www.codabench.org/competitions/2977/?ref=mlcontests",
       "tags": [
         "physics",
@@ -4208,7 +4208,7 @@
       "conference_year": null
     },
     {
-      "name": "Data Storytelling Challenge: Water Security, Agriculture and Health",
+      "name": "Data Storytelling: Water Security, Agriculture and Health",
       "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "geo",

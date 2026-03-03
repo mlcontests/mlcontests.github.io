@@ -8,7 +8,9 @@
         "properties": {
           "name": {
             "type": "string",
-            "description": "A brief title describing the competition. Use task-oriented titles (e.g. 'Predict Stock Returns') as opposed to titles like 'Company X Stock Return Competition'."
+            "description": "A brief title describing the competition. Use task-oriented titles (e.g. 'Predict Stock Returns') as opposed to titles like 'Company X Stock Return Competition'.",
+            "minLength": 10,
+            "maxLength": 60
           },
           "url": {
             "type": "string",

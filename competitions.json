@@ -700,7 +700,7 @@
         "measurable",
         "control"
       ],
-      "additional_urls": "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024?ref=mlcontests",
+      "additional_urls": ["https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024?ref=mlcontests"],
       "launched": "31 Jul 2024",
       "registration-deadline": "31 Oct 2024",
       "deadline": "31 Oct 2024",
@@ -1219,7 +1219,6 @@
       "additional_urls": [
         "https://huggingface.co/spaces/BVRA/SnakeCLEF2024"
       ],
-      "launched": " 2024",
       "registration-deadline": "24 May 2024",
       "deadline": "24 May 2024",
       "prize": null,
@@ -4284,7 +4283,7 @@
         "self-supervised",
         "measurable"
       ],
-      "launched": "27 June 2025",
+      "launched": "27 Jun 2025",
       "registration-deadline": "15 Oct 2025",
       "deadline": "15 Oct 2025",
       "prize": null,
@@ -4303,7 +4302,7 @@
         "measurable",
         "business"
       ],
-      "launched": "27 June 2025",
+      "launched": "27 Jun 2025",
       "registration-deadline": "11 Sep 2025",
       "deadline": "26 Sep 2025",
       "prize": "$10,000",
@@ -4891,7 +4890,7 @@
         "measurable",
         "control"
       ],
-      "additional_urls": "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2025?ref=mlcontests",
+      "additional_urls": ["https://sites.google.com/view/myosuite/myochallenge/myochallenge-2025?ref=mlcontests"],
       "launched": "1 Aug 2025",
       "registration-deadline": "31 Oct 2025",
       "deadline": "31 Oct 2025",
@@ -4912,7 +4911,7 @@
         "measurable",
         "control"
       ],
-      "additional_urls": "https://neurips25-eai.github.io/?ref=mlcontests",
+      "additional_urls": ["https://neurips25-eai.github.io/?ref=mlcontests"],
       "launched": "15 Aug 2025",
       "registration-deadline": null,
       "deadline": "30 Nov 2025",

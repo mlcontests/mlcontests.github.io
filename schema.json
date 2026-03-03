@@ -66,7 +66,7 @@
               "type": "array",
               "items": {
                 "type": "string"
-              }
+              },
               "description": "Any additional relevant links to competition information hosted elsewhere"
             }
           },

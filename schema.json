@@ -8,10 +8,12 @@
           "type": "object",
           "properties": {
             "name": {
-              "type": "string"
+              "type": "string",
+              "description": "A brief title describing the competition. Use task-oriented titles (e.g. 'Predict Stock Returns') as opposed to titles like 'Company X Stock Return Competition'."
             },
             "url": {
-              "type": "string"
+              "type": "string",
+              "description": "Link to the competition. Feel free to insert codes so you can track the source, or add '?ref=mlcontests'. "
             },
             "tags": {
               "type": "array",
@@ -21,41 +23,51 @@
             },
             "deadline": {
               "type": "string",
-              "pattern": "\\d{1,2} [a-zA-Z]{3} \\d{4}"
+              "pattern": "\\d{1,2} [a-zA-Z]{3} \\d{4}",
+              "description": "Final day for submissions. Format is 'D MMM YYYY'."
             },
             "registration-deadline": {
               "type": "string",
-              "pattern": "\\d{1,2} [a-zA-Z]{3} \\d{4}"
+              "pattern": "\\d{1,2} [a-zA-Z]{3} \\d{4}",
+              "description": "Final day for registration. Format is 'D MMM YYYY'."
             },
             "launched": {
               "type": "string",
-              "pattern": "\\d{1,2} [a-zA-Z]{3} \\d{4}"
+              "pattern": "\\d{1,2} [a-zA-Z]{3} \\d{4}",
+              "description": "First day of the competition. Format is 'D MMM YYYY'."
             },
             "added": {
               "type": "string",
-              "pattern": "\\d{1,2} [a-zA-Z]{3} \\d{4}"
+              "pattern": "\\d{1,2} [a-zA-Z]{3} \\d{4}",
+              "description": "Day on which the competition was added to the ML Contests site. Format is 'D MMM YYYY'."
             },
             "prize": {
               "type": ["string", "null"],
-              "pattern": "^\\$\\d{1,3}(,\\d{3})*$"
+              "pattern": "^\\$\\d{1,3}(,\\d{3})*$",
+              "description": "Total available prize pool. Unconditional cash or liquid cryptocurrencty prizes only, converted to USD. "
             },
             "platform": {
-              "type": "string"
+              "type": "string",
+              "description": "Which platform is hosting the competition? E.g. 'Kaggle'/'DrivenData'/'Codabench'/'Independent'. "
             },
             "sponsor": {
-              "type": ["string", "null"]
+              "type": ["string", "null"],
+              "description": "List any organisations sponsoring the competition."
             },
             "conference": {
-              "type": ["string", "null"]
+              "type": ["string", "null"],
+              "description": "List any conference affiliation. E.g. 'NeurIPS', 'MICCAI'."
             },
             "conference-year": {
-              "type": ["integer", "null"]
+              "type": ["integer", "null"],
+              "description": "If the competition is affiliated with a conference, enter the year of the conference here."
             },
             "additional_urls": {
               "type": "array",
               "items": {
                 "type": "string"
               }
+              "description": "Any additional relevant links to competition information hosted elsewhere"
             }
           },
           "required": [

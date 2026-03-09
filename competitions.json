@@ -1,6 +1,25 @@
 {
   "data": [
     {
+      "name": "Optimise LLM Inference Performance on AMD MI355X GPUs",
+      "url": "https://luma.com/cqq4mojz?ref=mlcontests",
+      "tags": [
+        "hardware",
+        "inference",
+        "computer science",
+        "efficiency",
+        "measurable"
+      ],
+      "launched": "6 Mar 2026",
+      "registration-deadline": "30 Mar 2026",
+      "deadline": "11 May 2026 Apr 2026",
+      "prize": "$1,100,000",
+      "platform": "CrunchDAO",
+      "sponsor": "AMD, GPU Mode",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Identify Genes Driving Metabolic Diseases (Part 2)",
       "url": "https://hub.crunchdao.com/competitions/broad-obesity-2?ref=mlcontests",
       "tags": [

@@ -5679,14 +5679,13 @@
       "conference_year": null
     },
     {
-      "name": "BirdCLEF+ 2026",
+      "name": "BirdCLEF+ 2026:  Identify Animal Species From Audio",
       "url": "https://www.kaggle.com/competitions/birdclef-2026?ref=mlcontests",
       "tags": [
-        "earth and nature",
-        "animals",
-        "multilabel classification",
-        "audio event classification",
-        "custom metric"
+        "biology",
+        "classification",
+        "audio",
+        "measurable"
       ],
       "launched": "11 Mar 2026",
       "registration-deadline": "27 May 2026",

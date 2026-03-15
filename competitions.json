@@ -2,7 +2,7 @@
   "data": [
 
     {
-      "name": "ANNITIA Data Challenge – Predict Progression of Metabolic Liver Disease",
+      "name": "ANNITIA – MASLD Progression Prediction Challenge",
       "url": "https://annitia.trustii.io/",
       "tags": [
         "supervised",
@@ -17,7 +17,7 @@
       "launched": "16 Mar 2026",
       "registration-deadline": "11 May 2026",
       "deadline": "11 May 2026",
-      "prize": "€14,000",
+      "prize": "$16,000",
       "platform": "Trustii.io",
       "sponsor": "IHU ICAN, Health Data Hub, France 2030",
       "conference": null,

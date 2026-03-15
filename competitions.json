@@ -1,5 +1,29 @@
 {
   "data": [
+
+    {
+      "name": "ANNITIA – MASLD Progression Prediction Challenge",
+      "url": "https://annitia.trustii.io/",
+      "tags": [
+        "measurable",
+        "supervised",
+        "regression",
+        "tabular",
+        "medical",
+        "science"
+      ],
+      "launched": "16 Mar 2026",
+      "registration-deadline": "11 May 2026",
+      "deadline": "11 May 2026",
+      "prize": "$16,000",
+      "platform": "Trustii.io",
+      "sponsor": "IHU ICAN, Health Data Hub, France 2030",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": [
+        "https://health-data-hub.fr/page/le-data-challenge-annitia"
+      ]
+    },
     {
       "name": "Optimise LLM Inference Performance on AMD MI355X GPUs",
       "url": "https://luma.com/cqq4mojz?ref=mlcontests",

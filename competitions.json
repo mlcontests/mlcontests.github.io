@@ -1,5 +1,31 @@
 {
   "data": [
+
+    {
+      "name": "ANNITIA Data Challenge – Predict Progression of Metabolic Liver Disease",
+      "url": "https://annitia.trustii.io/",
+      "tags": [
+        "supervised",
+        "medical",
+        "healthcare",
+        "timeseries",
+        "clinical",
+        "science",
+        "machine learning",
+        "measurable"
+      ],
+      "launched": "16 Mar 2026",
+      "registration-deadline": "11 May 2026",
+      "deadline": "11 May 2026",
+      "prize": "€14,000",
+      "platform": "Trustii.io",
+      "sponsor": "IHU ICAN, Health Data Hub, France 2030",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": [
+        "https://health-data-hub.fr/page/le-data-challenge-annitia"
+      ]
+    },
     {
       "name": "Optimise LLM Inference Performance on AMD MI355X GPUs",
       "url": "https://luma.com/cqq4mojz?ref=mlcontests",

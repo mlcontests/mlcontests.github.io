@@ -5,14 +5,12 @@
       "name": "ANNITIA – MASLD Progression Prediction Challenge",
       "url": "https://annitia.trustii.io/",
       "tags": [
+        "measurable",
         "supervised",
+        "regression",
+        "tabular",
         "medical",
-        "healthcare",
-        "timeseries",
-        "clinical",
-        "science",
-        "machine learning",
-        "measurable"
+        "science"
       ],
       "launched": "16 Mar 2026",
       "registration-deadline": "11 May 2026",

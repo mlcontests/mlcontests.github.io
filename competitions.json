@@ -1,6 +1,25 @@
 {
   "data": [
     {
+      "name": "Detect Structural Breaks in Real-Time Time Series Data",
+      "url": "https://hub.crunchdao.com/competitions/structural-break-real-time?ref=mlcontests",
+      "tags": [
+        "climate",
+        "finance",
+        "healthcare",
+        "timeseries",
+        "forecasting"
+      ],
+      "launched": "6 May 2026",
+      "registration-deadline": "31 Dec 2026",
+      "deadline": "17 Sep 2026",
+      "prize": "$100,000",
+      "platform": "CrunchDAO",
+      "sponsor": "ADIA Lab",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Foundation Models for General CT Image Diagnosis",
       "url": "https://www.codabench.org/competitions/12650/?ref=mlcontests",
       "tags": [
@@ -83,8 +102,8 @@
       "prize": "$12,000",
       "platform": "CrunchDAO",
       "sponsor": "Eric and Wendy Schmidt Center",
-      "conference": null,
-      "conference_year": null
+      "conference": "https://events.zoom.us/egj/AviNQoyXkI53omXr5K-Nm-7HEWwUbO72ISftYGti-zP4qZJg7fJm~A11jVpJ_Mxa68cex-0qgYciyiK1UbB6gj-i8wlyc2yYc3AzUtV-DoqsjugKJQ",
+      "conference_year": 2026
     },
     {
       "name": "Predict Cross-sectional Equity Returns",
@@ -108,26 +127,6 @@
       "conference_year": null
     },
     {
-      "name": "Detect Structural Breaks in Time Series Data",
-      "url": "https://hub.crunchdao.com/competitions/structural-break-open-benchmark?ref=mlcontests",
-      "tags": [
-        "supervised",
-        "tabular",
-        "timeseries",
-        "forecasting",
-        "measurable",
-        "finance"
-      ],
-      "launched": "18 Dec 2025",
-      "registration-deadline": "31 Dec 2026",
-      "deadline": "31 Dec 2026",
-      "prize": "$24,000",
-      "platform": "CrunchDAO",
-      "sponsor": "ADIA Lab",
-      "conference": null,
-      "conference_year": null
-    },
-    {
       "name": "Identify Genes Driving Metabolic Diseases (Part 1)",
       "url": "https://hub.crunchdao.com/competitions/broad-obesity-1?ref=mlcontests",
       "tags": [
@@ -144,8 +143,8 @@
       "prize": "$12,000",
       "platform": "CrunchDAO",
       "sponsor": "Eric and Wendy Schmidt Center",
-      "conference": null,
-      "conference_year": null
+      "conference": "https://events.zoom.us/egj/AviNQoyXkI53omXr5K-Nm-7HEWwUbO72ISftYGti-zP4qZJg7fJm~A11jVpJ_Mxa68cex-0qgYciyiK1UbB6gj-i8wlyc2yYc3AzUtV-DoqsjugKJQ",
+      "conference_year": 2026
     },
     {
       "name": "Falcon: Price-Like Timeseries Forecasting",

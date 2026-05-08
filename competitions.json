@@ -6354,6 +6354,22 @@
       "sponsor": "Bitgrit",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "AI Questions Blog Prize",
+      "url": "https://www.dwarkesh.com/p/blog-prize?ref=mlcontests",
+      "tags": [
+        "writing",
+        "subjective"
+      ],
+      "launched": "24 Apr 2026",
+      "registration-deadline": "10 May 2026",
+      "deadline": "10 May 2026",
+      "prize": "$20,000",
+      "platform": "Independent",
+      "sponsor": "Dwarkesh Patel",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

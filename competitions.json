@@ -6370,6 +6370,118 @@
       "sponsor": "Dwarkesh Patel",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Detect Visual Anomalies in Industrial and Retail Images",
+      "url": "https://sites.google.com/view/vand4-cvpr2026/challenge?ref=mlcontests",
+      "tags": [
+        "detection",
+        "images",
+        "vision",
+        "measurable"
+      ],
+      "deadline": "14 May 2026",
+      "registration-deadline": null,
+      "launched": "1 Apr 2026",
+      "prize": "$13,000",
+      "platform": "Codabench",
+      "sponsor": "Amazon, Intel, MVTec, Voxel51",
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.codabench.org/competitions/14156/"
+      ]
+    },
+    {
+      "name": "Build AI Agents for Autonomous Incident Response",
+      "url": "https://findevil.devpost.com/?ref=mlcontests",
+      "tags": [
+        "agents",
+        "security",
+        "hackathon"
+      ],
+      "deadline": "15 Jun 2026",
+      "registration-deadline": null,
+      "launched": "15 Apr 2026",
+      "prize": "$22,000",
+      "platform": "Devpost",
+      "sponsor": "SANS Institute",
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Segment Head and Neck Tumors for Staging and Prognosis",
+      "url": "https://hecktor26.grand-challenge.org/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "segmentation",
+        "images"
+      ],
+      "deadline": "31 May 2026",
+      "registration-deadline": null,
+      "launched": null,
+      "prize": null,
+      "platform": "Grand Challenge",
+      "sponsor": "Amazon Web Services",
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Build Foundation Models for Brain MRI Analysis",
+      "url": "https://fomo26.github.io/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "images",
+        "deep learning"
+      ],
+      "deadline": "21 Aug 2026",
+      "registration-deadline": null,
+      "launched": null,
+      "prize": "$2,000",
+      "platform": "Synapse",
+      "sponsor": null,
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Classify and Segment Intracranial Aneurysms",
+      "url": "https://topaneu-26.grand-challenge.org/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "segmentation",
+        "classification",
+        "images"
+      ],
+      "deadline": "5 Sep 2026",
+      "registration-deadline": null,
+      "launched": null,
+      "prize": null,
+      "platform": "Grand Challenge",
+      "sponsor": null,
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Analyse Mitral Valve Anatomy from Multimodal Imaging",
+      "url": "https://www.codabench.org/competitions/15662/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "segmentation",
+        "images"
+      ],
+      "deadline": "1 Aug 2026",
+      "registration-deadline": null,
+      "launched": null,
+      "prize": null,
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
     }
   ]
 }

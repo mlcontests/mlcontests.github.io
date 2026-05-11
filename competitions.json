@@ -6502,6 +6502,52 @@
       "conference": "INTERSPEECH",
       "conference-year": 2026,
       "additional_urls": []
+    },
+    {
+      "name": "Build Conversational Music Recommender Systems",
+      "url": "https://www.recsyschallenge.com/2026/?ref=mlcontests",
+      "tags": [
+        "recommendation",
+        "llm",
+        "generative"
+      ],
+      "deadline": "30 Jun 2026",
+      "registration-deadline": null,
+      "launched": "10 Apr 2026",
+      "prize": "$2,000",
+      "platform": "Codabench",
+      "sponsor": "Various",
+      "conference": "RecSys",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.codabench.org/competitions/15786/",
+        "https://recsys.acm.org/recsys26/challenge/"
+      ],
+      "added": "11 May 2026"
+    },
+    {
+      "name": "AI for Math Challenges",
+      "url": "https://ai4math2026.github.io/?ref=mlcontests",
+      "tags": [
+        "mathematics",
+        "nlp",
+        "code",
+        "reasoning"
+      ],
+      "deadline": "15 Jun 2026",
+      "registration-deadline": null,
+      "launched": "1 May 2026",
+      "prize": "$8,000",
+      "platform": "Codabench",
+      "sponsor": "Various",
+      "conference": "ICML",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.codabench.org/competitions/16104/",
+        "https://www.codabench.org/competitions/16161/",
+        "https://www.codabench.org/competitions/16010/"
+      ],
+      "added": "11 May 2026"
     }
   ]
 }

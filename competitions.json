@@ -6482,6 +6482,26 @@
       "conference": "MICCAI",
       "conference-year": 2026,
       "additional_urls": []
+    },
+    {
+      "name": "Build Systems for Multilingual Conversational Speech",
+      "url": "https://www.nexdata.ai/competition/mlc-slm?ref=mlcontests",
+      "tags": [
+        "audio",
+        "llm",
+        "multimodal",
+        "generative",
+        "measurable"
+      ],
+      "deadline": "25 Jun 2026",
+      "registration-deadline": "25 Jun 2026",
+      "launched": "10 Apr 2026",
+      "prize": "$20,000",
+      "platform": "Independent",
+      "sponsor": "Huawei Technologies",
+      "conference": "INTERSPEECH",
+      "conference-year": 2026,
+      "additional_urls": []
     }
   ]
 }

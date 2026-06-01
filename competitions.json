@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "name": "Identify Gene Pairs Driving Metabolic Diseases (Part 3)",
+      "url": "https://hub.crunchdao.com/competitions/broad-obesity-3?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "regression",
+        "ranking",
+        "science",
+        "medical",
+        "measurable"
+      ],
+      "launched": "19 May 2026",
+      "registration-deadline": "3 Jul 2026",
+      "deadline": "3 Jul 2026",
+      "prize": "$26,000",
+      "platform": "CrunchDAO",
+      "sponsor": "Eric and Wendy Schmidt Center",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Detect Structural Breaks in Real-Time Time Series Data",
       "url": "https://hub.crunchdao.com/competitions/structural-break-real-time?ref=mlcontests",
       "tags": [

@@ -6568,6 +6568,28 @@
         "https://www.codabench.org/competitions/16010/"
       ],
       "added": "11 May 2026"
+    },
+    {
+      "name": "Detect next-generation identity document fraud",
+      "url": "https://freuid2026.microblink.com/",
+      "tags": [
+        "supervised",
+        "classification",
+        "vision",
+        "business"
+      ],
+      "deadline": "14 Jul 2026",
+      "registration-deadline": null,
+      "launched": "15 May 2026",
+      "prize": "$6,000",
+      "platform": "Kaggle",
+      "sponsor": "Microblink",
+      "conference": "IJCAI-ECAI",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.kaggle.com/competitions/the-freuid-challenge-2026-ijcai-ecai/overview"
+      ],
+      "added": "9 June 2026"
     }
   ]
 }

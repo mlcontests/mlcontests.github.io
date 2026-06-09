@@ -6590,6 +6590,192 @@
         "https://www.kaggle.com/competitions/the-freuid-challenge-2026-ijcai-ecai/overview"
       ],
       "added": "9 Jun 2026"
+    },
+    {
+      "name": "Estimate Neural Network Activations from Weights",
+      "url": "https://www.aicrowd.com/challenges/white-box-estimation-challenge-2026?ref=mlcontests",
+      "tags": [
+        "deep learning",
+        "research",
+        "interpretability",
+        "science"
+      ],
+      "launched": "2 Jun 2026",
+      "registration-deadline": null,
+      "deadline": "19 Sep 2026",
+      "added": "8 Jun 2026",
+      "prize": "$100,000",
+      "platform": "AIcrowd",
+      "sponsor": "ARC",
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": [
+        "https://www.alignmentforum.org/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge"
+      ]
+    },
+    {
+      "name": "Build Open-Source AI Agents on Qwen Cloud",
+      "url": "https://qwencloud-hackathon.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "agents",
+        "llm",
+        "code"
+      ],
+      "launched": "26 May 2026",
+      "registration-deadline": null,
+      "deadline": "9 Jul 2026",
+      "added": "8 Jun 2026",
+      "prize": "$45,000",
+      "platform": "Devpost",
+      "sponsor": "Alibaba Cloud",
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Build Intelligent Agents with Microsoft Azure",
+      "url": "https://info.microsoft.com/Agents-League-Hackathon-Registration.html?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "agents",
+        "llm",
+        "code"
+      ],
+      "launched": "4 Jun 2026",
+      "registration-deadline": "12 Jun 2026",
+      "deadline": "14 Jun 2026",
+      "added": "8 Jun 2026",
+      "prize": "$35,000",
+      "platform": "Independent",
+      "sponsor": "Microsoft",
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": [
+        "https://github.com/microsoft/Agents-League-AISF-Regulations"
+      ]
+    },
+    {
+      "name": "Build AI Agents for Observability and Security",
+      "url": "https://splunk.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "agents",
+        "security",
+        "systems"
+      ],
+      "launched": "18 May 2026",
+      "registration-deadline": null,
+      "deadline": "15 Jun 2026",
+      "added": "8 Jun 2026",
+      "prize": "$20,000",
+      "platform": "Devpost",
+      "sponsor": "Splunk",
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Build AI Data Agents for Data Analysis",
+      "url": "https://dataagent.top/?ref=mlcontests",
+      "tags": [
+        "agents",
+        "llm",
+        "data",
+        "analysis",
+        "reasoning"
+      ],
+      "launched": "15 Mar 2026",
+      "registration-deadline": "23 Apr 2026",
+      "deadline": "30 Jun 2026",
+      "added": "8 Jun 2026",
+      "prize": "$16,000",
+      "platform": "Independent",
+      "sponsor": "Tsinghua University",
+      "conference": "KDD",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Segment Lesions in Whole-Body Scans",
+      "url": "https://autopet-v.grand-challenge.org/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "segmentation",
+        "images",
+        "deep learning"
+      ],
+      "launched": "1 Apr 2026",
+      "registration-deadline": null,
+      "deadline": "1 Sep 2026",
+      "added": "8 Jun 2026",
+      "prize": "$6,600",
+      "platform": "Grand Challenge",
+      "sponsor": null,
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Detect Rare Early-Stage Cancers in Endoscopy",
+      "url": "https://rare26.grand-challenge.org/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "detection",
+        "images",
+        "healthcare"
+      ],
+      "launched": "1 May 2026",
+      "registration-deadline": null,
+      "deadline": "7 Sep 2026",
+      "added": "8 Jun 2026",
+      "prize": "$2,200",
+      "platform": "Grand Challenge",
+      "sponsor": null,
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Segment and Plan Pelvic Fracture Repair",
+      "url": "https://pengwin2026.grand-challenge.org/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "segmentation",
+        "3d",
+        "images"
+      ],
+      "launched": "7 Apr 2026",
+      "registration-deadline": null,
+      "deadline": "19 Aug 2026",
+      "added": "8 Jun 2026",
+      "prize": "$1,700",
+      "platform": "Grand Challenge",
+      "sponsor": null,
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Generate Diagnostic Reports from Pathology Slides",
+      "url": "https://reg2026.grand-challenge.org/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "multimodal",
+        "nlp",
+        "images",
+        "generative"
+      ],
+      "launched": null,
+      "registration-deadline": null,
+      "deadline": "20 Jul 2026",
+      "added": "8 Jun 2026",
+      "prize": "$1,650",
+      "platform": "Grand Challenge",
+      "sponsor": null,
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
     }
   ]
 }

@@ -1,6 +1,45 @@
 {
   "data": [
     {
+      "name": "Identify Gene Pairs Driving Metabolic Diseases (Part 3)",
+      "url": "https://hub.crunchdao.com/competitions/broad-obesity-3?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "regression",
+        "ranking",
+        "science",
+        "medical",
+        "measurable"
+      ],
+      "launched": "19 May 2026",
+      "registration-deadline": "3 Jul 2026",
+      "deadline": "3 Jul 2026",
+      "prize": "$26,000",
+      "platform": "CrunchDAO",
+      "sponsor": "Eric and Wendy Schmidt Center",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Detect Structural Breaks in Real-Time Time Series Data",
+      "url": "https://hub.crunchdao.com/competitions/structural-break-real-time?ref=mlcontests",
+      "tags": [
+        "climate",
+        "finance",
+        "healthcare",
+        "timeseries",
+        "forecasting"
+      ],
+      "launched": "6 May 2026",
+      "registration-deadline": "31 Dec 2026",
+      "deadline": "17 Sep 2026",
+      "prize": "$100,000",
+      "platform": "CrunchDAO",
+      "sponsor": "ADIA Lab",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Foundation Models for General CT Image Diagnosis",
       "url": "https://www.codabench.org/competitions/12650/?ref=mlcontests",
       "tags": [
@@ -83,8 +122,8 @@
       "prize": "$12,000",
       "platform": "CrunchDAO",
       "sponsor": "Eric and Wendy Schmidt Center",
-      "conference": null,
-      "conference_year": null
+      "conference": "https://events.zoom.us/egj/AviNQoyXkI53omXr5K-Nm-7HEWwUbO72ISftYGti-zP4qZJg7fJm~A11jVpJ_Mxa68cex-0qgYciyiK1UbB6gj-i8wlyc2yYc3AzUtV-DoqsjugKJQ",
+      "conference_year": 2026
     },
     {
       "name": "Predict Cross-sectional Equity Returns",
@@ -108,26 +147,6 @@
       "conference_year": null
     },
     {
-      "name": "Detect Structural Breaks in Time Series Data",
-      "url": "https://hub.crunchdao.com/competitions/structural-break-open-benchmark?ref=mlcontests",
-      "tags": [
-        "supervised",
-        "tabular",
-        "timeseries",
-        "forecasting",
-        "measurable",
-        "finance"
-      ],
-      "launched": "18 Dec 2025",
-      "registration-deadline": "31 Dec 2026",
-      "deadline": "31 Dec 2026",
-      "prize": "$24,000",
-      "platform": "CrunchDAO",
-      "sponsor": "ADIA Lab",
-      "conference": null,
-      "conference_year": null
-    },
-    {
       "name": "Identify Genes Driving Metabolic Diseases (Part 1)",
       "url": "https://hub.crunchdao.com/competitions/broad-obesity-1?ref=mlcontests",
       "tags": [
@@ -144,8 +163,8 @@
       "prize": "$12,000",
       "platform": "CrunchDAO",
       "sponsor": "Eric and Wendy Schmidt Center",
-      "conference": null,
-      "conference_year": null
+      "conference": "https://events.zoom.us/egj/AviNQoyXkI53omXr5K-Nm-7HEWwUbO72ISftYGti-zP4qZJg7fJm~A11jVpJ_Mxa68cex-0qgYciyiK1UbB6gj-i8wlyc2yYc3AzUtV-DoqsjugKJQ",
+      "conference_year": 2026
     },
     {
       "name": "Falcon: Price-Like Timeseries Forecasting",
@@ -6371,6 +6390,430 @@
       "sponsor": "OpenAI",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "AI Questions Blog Prize",
+      "url": "https://www.dwarkesh.com/p/blog-prize?ref=mlcontests",
+      "tags": [
+        "writing",
+        "subjective"
+      ],
+      "launched": "24 Apr 2026",
+      "registration-deadline": "10 May 2026",
+      "deadline": "10 May 2026",
+      "prize": "$20,000",
+      "platform": "Independent",
+      "sponsor": "Dwarkesh Patel",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Detect Visual Anomalies in Industrial and Retail Images",
+      "url": "https://sites.google.com/view/vand4-cvpr2026/challenge?ref=mlcontests",
+      "tags": [
+        "detection",
+        "images",
+        "vision",
+        "measurable"
+      ],
+      "deadline": "14 May 2026",
+      "registration-deadline": null,
+      "launched": "1 Apr 2026",
+      "prize": "$13,000",
+      "platform": "Codabench",
+      "sponsor": "Amazon, Intel, MVTec, Voxel51",
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.codabench.org/competitions/14156/"
+      ]
+    },
+    {
+      "name": "Build AI Agents for Autonomous Incident Response",
+      "url": "https://findevil.devpost.com/?ref=mlcontests",
+      "tags": [
+        "agents",
+        "security",
+        "hackathon"
+      ],
+      "deadline": "15 Jun 2026",
+      "registration-deadline": null,
+      "launched": "15 Apr 2026",
+      "prize": "$22,000",
+      "platform": "Devpost",
+      "sponsor": "SANS Institute",
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Segment Head and Neck Tumors for Staging and Prognosis",
+      "url": "https://hecktor26.grand-challenge.org/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "segmentation",
+        "images"
+      ],
+      "deadline": "31 May 2026",
+      "registration-deadline": null,
+      "launched": null,
+      "prize": null,
+      "platform": "Grand Challenge",
+      "sponsor": "Amazon Web Services",
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Build Foundation Models for Brain MRI Analysis",
+      "url": "https://fomo26.github.io/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "images",
+        "deep learning"
+      ],
+      "deadline": "21 Aug 2026",
+      "registration-deadline": null,
+      "launched": null,
+      "prize": "$2,000",
+      "platform": "Synapse",
+      "sponsor": null,
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Classify and Segment Intracranial Aneurysms",
+      "url": "https://topaneu-26.grand-challenge.org/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "segmentation",
+        "classification",
+        "images"
+      ],
+      "deadline": "5 Sep 2026",
+      "registration-deadline": null,
+      "launched": null,
+      "prize": null,
+      "platform": "Grand Challenge",
+      "sponsor": null,
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Analyse Mitral Valve Anatomy from Multimodal Imaging",
+      "url": "https://www.codabench.org/competitions/15662/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "segmentation",
+        "images"
+      ],
+      "deadline": "1 Aug 2026",
+      "registration-deadline": null,
+      "launched": null,
+      "prize": null,
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Build Systems for Multilingual Conversational Speech",
+      "url": "https://www.nexdata.ai/competition/mlc-slm?ref=mlcontests",
+      "tags": [
+        "audio",
+        "llm",
+        "multimodal",
+        "generative",
+        "measurable"
+      ],
+      "deadline": "25 Jun 2026",
+      "registration-deadline": "25 Jun 2026",
+      "launched": "10 Apr 2026",
+      "prize": "$20,000",
+      "platform": "Independent",
+      "sponsor": "Huawei Technologies",
+      "conference": "INTERSPEECH",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Build Conversational Music Recommender Systems",
+      "url": "https://www.recsyschallenge.com/2026/?ref=mlcontests",
+      "tags": [
+        "recommendation",
+        "llm",
+        "generative"
+      ],
+      "deadline": "30 Jun 2026",
+      "registration-deadline": null,
+      "launched": "10 Apr 2026",
+      "prize": "$2,000",
+      "platform": "Codabench",
+      "sponsor": "Various",
+      "conference": "RecSys",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.codabench.org/competitions/15786/",
+        "https://recsys.acm.org/recsys26/challenge/"
+      ],
+      "added": "11 May 2026"
+    },
+    {
+      "name": "AI for Math Challenges",
+      "url": "https://ai4math2026.github.io/?ref=mlcontests",
+      "tags": [
+        "mathematics",
+        "nlp",
+        "code",
+        "reasoning"
+      ],
+      "deadline": "15 Jun 2026",
+      "registration-deadline": null,
+      "launched": "1 May 2026",
+      "prize": "$8,000",
+      "platform": "Codabench",
+      "sponsor": "Various",
+      "conference": "ICML",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.codabench.org/competitions/16104/",
+        "https://www.codabench.org/competitions/16161/",
+        "https://www.codabench.org/competitions/16010/"
+      ],
+      "added": "11 May 2026"
+    },
+    {
+      "name": "Detect next-generation identity document fraud",
+      "url": "https://freuid2026.microblink.com/",
+      "tags": [
+        "supervised",
+        "classification",
+        "vision",
+        "business"
+      ],
+      "deadline": "14 Jul 2026",
+      "registration-deadline": null,
+      "launched": "15 May 2026",
+      "prize": "$6,000",
+      "platform": "Kaggle",
+      "sponsor": "Microblink",
+      "conference": "IJCAI-ECAI",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.kaggle.com/competitions/the-freuid-challenge-2026-ijcai-ecai/overview"
+      ],
+      "added": "9 Jun 2026"
+    },
+    {
+      "name": "Estimate Neural Network Activations from Weights",
+      "url": "https://www.aicrowd.com/challenges/white-box-estimation-challenge-2026?ref=mlcontests",
+      "tags": [
+        "deep learning",
+        "research",
+        "interpretability",
+        "science"
+      ],
+      "launched": "2 Jun 2026",
+      "registration-deadline": null,
+      "deadline": "19 Sep 2026",
+      "added": "8 Jun 2026",
+      "prize": "$100,000",
+      "platform": "AIcrowd",
+      "sponsor": "ARC",
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": [
+        "https://www.alignmentforum.org/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge"
+      ]
+    },
+    {
+      "name": "Build Open-Source AI Agents on Qwen Cloud",
+      "url": "https://qwencloud-hackathon.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "agents",
+        "llm",
+        "code"
+      ],
+      "launched": "26 May 2026",
+      "registration-deadline": null,
+      "deadline": "9 Jul 2026",
+      "added": "8 Jun 2026",
+      "prize": "$45,000",
+      "platform": "Devpost",
+      "sponsor": "Alibaba Cloud",
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Build Intelligent Agents with Microsoft Azure",
+      "url": "https://info.microsoft.com/Agents-League-Hackathon-Registration.html?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "agents",
+        "llm",
+        "code"
+      ],
+      "launched": "4 Jun 2026",
+      "registration-deadline": "12 Jun 2026",
+      "deadline": "14 Jun 2026",
+      "added": "8 Jun 2026",
+      "prize": "$35,000",
+      "platform": "Independent",
+      "sponsor": "Microsoft",
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": [
+        "https://github.com/microsoft/Agents-League-AISF-Regulations"
+      ]
+    },
+    {
+      "name": "Build AI Agents for Observability and Security",
+      "url": "https://splunk.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "agents",
+        "security",
+        "systems"
+      ],
+      "launched": "18 May 2026",
+      "registration-deadline": null,
+      "deadline": "15 Jun 2026",
+      "added": "8 Jun 2026",
+      "prize": "$20,000",
+      "platform": "Devpost",
+      "sponsor": "Splunk",
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Build AI Data Agents for Data Analysis",
+      "url": "https://dataagent.top/?ref=mlcontests",
+      "tags": [
+        "agents",
+        "llm",
+        "data",
+        "analysis",
+        "reasoning"
+      ],
+      "launched": "15 Mar 2026",
+      "registration-deadline": "23 Apr 2026",
+      "deadline": "30 Jun 2026",
+      "added": "8 Jun 2026",
+      "prize": "$16,000",
+      "platform": "Independent",
+      "sponsor": "Tsinghua University",
+      "conference": "KDD",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Segment Lesions in Whole-Body Scans",
+      "url": "https://autopet-v.grand-challenge.org/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "segmentation",
+        "images",
+        "deep learning"
+      ],
+      "launched": "1 Apr 2026",
+      "registration-deadline": null,
+      "deadline": "1 Sep 2026",
+      "added": "8 Jun 2026",
+      "prize": "$6,600",
+      "platform": "Grand Challenge",
+      "sponsor": null,
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Detect Rare Early-Stage Cancers in Endoscopy",
+      "url": "https://rare26.grand-challenge.org/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "detection",
+        "images",
+        "healthcare"
+      ],
+      "launched": "1 May 2026",
+      "registration-deadline": null,
+      "deadline": "7 Sep 2026",
+      "added": "8 Jun 2026",
+      "prize": "$2,200",
+      "platform": "Grand Challenge",
+      "sponsor": null,
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Segment and Plan Pelvic Fracture Repair",
+      "url": "https://pengwin2026.grand-challenge.org/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "segmentation",
+        "3d",
+        "images"
+      ],
+      "launched": "7 Apr 2026",
+      "registration-deadline": null,
+      "deadline": "19 Aug 2026",
+      "added": "8 Jun 2026",
+      "prize": "$1,700",
+      "platform": "Grand Challenge",
+      "sponsor": null,
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Generate Diagnostic Reports from Pathology Slides",
+      "url": "https://reg2026.grand-challenge.org/?ref=mlcontests",
+      "tags": [
+        "medical",
+        "multimodal",
+        "nlp",
+        "images",
+        "generative"
+      ],
+      "launched": null,
+      "registration-deadline": null,
+      "deadline": "20 Jul 2026",
+      "added": "8 Jun 2026",
+      "prize": "$1,650",
+      "platform": "Grand Challenge",
+      "sponsor": null,
+      "conference": "MICCAI",
+      "conference-year": 2026,
+      "additional_urls": []
+    },
+    {
+      "name": "Precipitation Nowcasting From Space",
+      "url": "https://community.solafune.com/competitions/f87811b8-1964-4f4b-84b3-6fddd67ec4b1?menu=about&tab=overview&ref=mlcontests",
+      "tags": [
+        "geo",
+        "satellite",
+        "regression",
+        "timeseries",
+        "supervised",
+        "forecasting",
+        "tabular",
+        "measurable"
+      ],
+      "launched": "12 Jun 2025",
+      "registration-deadline": "28 Jul 2026",
+      "deadline": "28 Jul 2026",
+      "prize": "$12,000",
+      "platform": "Solafune",
+      "sponsor": null,
+      "conference": null,
+      "conference-year": null
     }
   ]
 }

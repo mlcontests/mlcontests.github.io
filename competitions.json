@@ -6798,6 +6798,23 @@
       "sponsor": null,
       "conference": null,
       "conference-year": null
+    },
+    {
+      "name": "Build Real Products with Google Gemini",
+      "url": "https://www.geminixprize.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "subjective",
+        "generative"
+      ],
+      "launched": "19 May 2025",
+      "deadline": "17 Aug 2026",
+      "additional_urls": ["https://xprize.devpost.com/"],
+      "prize": "$2,000,000",
+      "platform": "Devpost",
+      "sponsor": "Google",
+      "conference": null,
+      "conference-year": null
     }
   ]
 }

@@ -6776,6 +6776,28 @@
       "conference": "MICCAI",
       "conference-year": 2026,
       "additional_urls": []
+    },
+    {
+      "name": "Precipitation Nowcasting From Space",
+      "url": "https://community.solafune.com/competitions/f87811b8-1964-4f4b-84b3-6fddd67ec4b1?menu=about&tab=overview&ref=mlcontests",
+      "tags": [
+        "geo",
+        "satellite",
+        "regression",
+        "timeseries",
+        "supervised",
+        "forecasting",
+        "tabular",
+        "measurable"
+      ],
+      "launched": "12 Jun 2025",
+      "registration-deadline": "28 Jul 2026",
+      "deadline": "28 Jul 2026",
+      "prize": "$12,000",
+      "platform": "Solafune",
+      "sponsor": null,
+      "conference": null,
+      "conference-year": null
     }
   ]
 }

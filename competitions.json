@@ -6355,6 +6355,22 @@
       "sponsor": "Bitgrit",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "AI Agent Security - Multi-Step Tool Attacks",
+      "url": "https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks?ref=mlcontests",
+      "tags": [
+        "cyber security",
+        "custom metric"
+      ],
+      "launched": "11 Jun 2026",
+      "registration-deadline": "25 Aug 2026",
+      "deadline": "1 Sep 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "OpenAI",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

@@ -6376,11 +6376,12 @@
       "conference_year": null
     },
     {
-      "name": "AI Agent Security - Multi-Step Tool Attacks",
+      "name": "Find Multi-step AI Agent Attack Paths",
       "url": "https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks?ref=mlcontests",
       "tags": [
-        "cyber security",
-        "custom metric"
+        "security",
+        "llm",
+        "measurable"
       ],
       "launched": "11 Jun 2026",
       "registration-deadline": "25 Aug 2026",

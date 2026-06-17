@@ -6376,6 +6376,23 @@
       "conference_year": null
     },
     {
+      "name": "Find Multi-step AI Agent Attack Paths",
+      "url": "https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks?ref=mlcontests",
+      "tags": [
+        "security",
+        "llm",
+        "measurable"
+      ],
+      "launched": "11 Jun 2026",
+      "registration-deadline": "25 Aug 2026",
+      "deadline": "1 Sep 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "OpenAI",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "AI Questions Blog Prize",
       "url": "https://www.dwarkesh.com/p/blog-prize?ref=mlcontests",
       "tags": [

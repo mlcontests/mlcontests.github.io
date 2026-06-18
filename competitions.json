@@ -6836,21 +6836,26 @@
       "conference-year": null
     },
     {
-      "name": "The Pokémon Company - PTCG AI Battle Challenge Strategy",
+      "name": "Develop and Explain Pokemon Card Battle Agents",
       "url": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy?ref=mlcontests",
       "tags": [
-        "games",
-        "artificial intelligence",
-        "reinforcement learning"
+        "pvp",
+        "game",
+        "reinforcement learning",
+        "subjective",
+        "hackathon",
+        "writing"
       ],
       "launched": "16 Jun 2026",
       "registration-deadline": "6 Sep 2026",
       "deadline": "13 Sep 2026",
       "prize": "$240,000",
       "platform": "Kaggle",
-      "sponsor": "The Pokémon Company - PTCGABC Team",
+      "sponsor": "The Pokémon Company",
       "conference": null,
-      "conference_year": null
+      "conference_year": null,
+      "additional_urls": [
+        "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle"
     }
   ]
 }

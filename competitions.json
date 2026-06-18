@@ -5474,6 +5474,23 @@
       "conference_year": null
     },
     {
+      "name": "Agentic Pay Zone Identification in Well Logs",
+      "url": "https://thinkonward.com/app/c/challenges/no-second-guessing?ref=mlc",
+      "tags": [
+        "unsupervised",
+        "reasoning",
+        "generative"
+      ],
+      "launched": "17 Jun 2026",
+      "registration-deadline": "30 Jun 2026",
+      "deadline": "01 Jul 2026",
+      "prize": "$15,000",
+      "platform": "ThinkOnward",
+      "sponsor": null,
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Shopping Basket Recommendation",
       "url": "https://zindi.africa/competitions/farm-to-feed-shopping-basket-recommendation-challenge/leaderboard?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [

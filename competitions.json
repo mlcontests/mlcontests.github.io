@@ -1,8 +1,8 @@
 {
   "data": [
     {
-      "name": "Project Omnibus - BCA Machine Learning Competition",
-      "url": "https://competition.bcamlc.com",
+      "name": "Project Omnibus: Optimise School Bus Routes",
+      "url": "https://competition.bcamlc.com?ref=mlcontests",
       "tags": [
         "reinforcement learning",
         "optimisation",

@@ -6891,6 +6891,30 @@
       "additional_urls": [
         "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle"
       ]
+    },
+    {
+      "name": "Benchmark LLMs on Industrial Automation Reasoning",
+      "url": "https://www.kaggle.com/competitions/industrial-automation-challenge-track-1?ref=mlcontests",
+      "tags": [
+        "llm",
+        "reasoning",
+        "benchmarks",
+        "nlp",
+        "measurable",
+        "classification"
+      ],
+      "launched": "1 Jun 2026",
+      "deadline": "1 Aug 2026",
+      "added": "28 Jun 2026",
+      "prize": "$500",
+      "platform": "Kaggle",
+      "sponsor": "Organizer",
+      "conference": "IJCAI",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://sites.google.com/view/ai-industrial-challenge-ijcai/home",
+        "https://2026.ijcai.org/competitions/"
+      ]
     }
   ]
 }

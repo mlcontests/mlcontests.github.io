@@ -6894,7 +6894,7 @@
     },
     {
       "name": "Benchmark LLMs on Industrial Automation Reasoning",
-      "url": "https://www.kaggle.com/competitions/industrial-automation-challenge-track-1?ref=mlcontests",
+      "url": "https://sites.google.com/view/ai-industrial-challenge-ijcai/home?ref=mlcontests",
       "tags": [
         "llm",
         "reasoning",
@@ -6912,8 +6912,8 @@
       "conference": "IJCAI",
       "conference-year": 2026,
       "additional_urls": [
-        "https://sites.google.com/view/ai-industrial-challenge-ijcai/home",
-        "https://2026.ijcai.org/competitions/"
+        "https://2026.ijcai.org/competitions/",
+        "https://www.kaggle.com/competitions/industrial-automation-challenge-track-1?ref=mlcontests"
       ]
     }
   ]

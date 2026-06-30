@@ -6917,15 +6917,16 @@
       ]
     },
     {
-      "name": "Biohub - Cell Tracking During Development",
+      "name": "Track Developing Cells in 3D Microscopy Data",
       "url": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development?ref=mlcontests",
       "tags": [
         "biology",
-        "computer vision",
+        "science",
+        "vision",
         "image",
         "video",
-        "object detection",
-        "custom metric"
+        "detection",
+        "measurable"
       ],
       "launched": "29 Jun 2026",
       "registration-deadline": "22 Sep 2026",

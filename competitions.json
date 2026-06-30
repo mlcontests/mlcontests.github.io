@@ -6915,6 +6915,26 @@
         "https://2026.ijcai.org/competitions/",
         "https://www.kaggle.com/competitions/industrial-automation-challenge-track-1?ref=mlcontests"
       ]
+    },
+    {
+      "name": "Biohub - Cell Tracking During Development",
+      "url": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development?ref=mlcontests",
+      "tags": [
+        "biology",
+        "computer vision",
+        "image",
+        "video",
+        "object detection",
+        "custom metric"
+      ],
+      "launched": "29 Jun 2026",
+      "registration-deadline": "22 Sep 2026",
+      "deadline": "29 Sep 2026",
+      "prize": "$60,000",
+      "platform": "Kaggle",
+      "sponsor": "Biohub",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "data": [
     {
-      "name": "Project Omnibus: Optimise School Bus Routes",
-      "url": "https://competition.bcamlc.com?ref=mlcontests",
+      "name": "Project Omnibus - BCA Machine Learning Competition",
+      "url": "https://www.codabench.org/competitions/16945/",
       "tags": [
         "reinforcement learning",
         "optimisation",
@@ -13,8 +13,8 @@
         "search"
       ],
       "deadline": "1 Aug 2026",
-      "prize": "$1,000",
-      "platform": "Independent",
+      "prize": "$1,200",
+      "platform": "Codabench",
       "sponsor": "Jane Street, AoPS, Nord Sec, Interview Buddy"
     },
     {

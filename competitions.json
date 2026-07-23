@@ -16,7 +16,9 @@
       "prize": "$1,200",
       "platform": "Codabench",
       "sponsor": "Jane Street, AoPS, Nord Sec, Interview Buddy",
-      "additional_urls": ["https://www.codabench.org/competitions/16945/"]
+      "additional_urls": [
+        "https://www.codabench.org/competitions/16945/"
+      ]
     },
     {
       "name": "Identify Gene Pairs Driving Metabolic Diseases (Part 3)",
@@ -7048,6 +7050,166 @@
       "sponsor": "Adaption Labs",
       "conference": null,
       "conference-year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "DaT Parkinson's Challenge",
+      "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "vision",
+        "classification",
+        "medical",
+        "measurable",
+        "deep learning"
+      ],
+      "launched": "23 Jul 2026",
+      "registration-deadline": "16 Sep 2026",
+      "deadline": "16 Sep 2026",
+      "prize": "27,000",
+      "platform": "DrivenData",
+      "sponsor": "French Society of Nuclear Medicine (SFMN), Health Data Hub, France 2030",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": [
+        "https://www.health-data-hub.fr/bibliotheque-ouverte-algorithmes-sante"
+      ]
+    },
+    {
+      "name": "Code Carnage",
+      "url": "https://code-carnage.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "generative",
+        "subjective",
+        "open"
+      ],
+      "launched": "23 Jul 2026",
+      "registration-deadline": "18 Aug 2026",
+      "deadline": "18 Aug 2026",
+      "prize": "10,000",
+      "platform": "Devpost",
+      "sponsor": "HackFinity",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Build with DataHub: The Agent Hackathon",
+      "url": "https://datahub.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "agents",
+        "llm",
+        "code",
+        "generative"
+      ],
+      "launched": "6 Jul 2026",
+      "registration-deadline": "10 Aug 2026",
+      "deadline": "10 Aug 2026",
+      "prize": "20,500",
+      "platform": "Devpost",
+      "sponsor": "DataHub",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Africa Deep Tech Challenge 2026: Laptop LLM Challenge",
+      "url": "https://adtc-2026.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "llm",
+        "edge",
+        "generative",
+        "on-device"
+      ],
+      "launched": "16 Jun 2026",
+      "registration-deadline": "24 Aug 2026",
+      "deadline": "24 Aug 2026",
+      "prize": "16,500",
+      "platform": "Devpost",
+      "sponsor": "Africa Deep Tech Foundation, Future Africa, MIT Kuo Sharper Center",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Arm Create: AI Optimization Challenge",
+      "url": "https://arm-ai-optimization-challenge.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "optimization",
+        "edge",
+        "hardware",
+        "generative"
+      ],
+      "launched": "10 Jun 2026",
+      "registration-deadline": "14 Aug 2026",
+      "deadline": "14 Aug 2026",
+      "prize": "8,000",
+      "platform": "Devpost",
+      "sponsor": "Arm",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Backblaze Generative Media Hackathon: Build with Genblaze on B2",
+      "url": "https://backblaze-generative-media.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "generative",
+        "vision",
+        "multimodal"
+      ],
+      "launched": "22 Jun 2026",
+      "registration-deadline": "3 Aug 2026",
+      "deadline": "3 Aug 2026",
+      "prize": "10,000",
+      "platform": "Devpost",
+      "sponsor": "Backblaze, GMI Cloud",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "YouCam API Skin AI & Apparel VTO Hackathon",
+      "url": "https://youcam-api.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "vision",
+        "generative",
+        "llm"
+      ],
+      "launched": "1 Jul 2026",
+      "registration-deadline": "17 Aug 2026",
+      "deadline": "17 Aug 2026",
+      "prize": "6,000",
+      "platform": "Devpost",
+      "sponsor": "Perfect Corp.",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "CockroachDB x AWS: Build with Agentic Memory",
+      "url": "https://cockroachdb-ai.devpost.com/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "agents",
+        "llm",
+        "code",
+        "database"
+      ],
+      "launched": "30 Jun 2026",
+      "registration-deadline": "18 Aug 2026",
+      "deadline": "18 Aug 2026",
+      "prize": "8,750",
+      "platform": "Devpost",
+      "sponsor": "Cockroach Labs, AWS",
+      "conference": null,
+      "conference_year": null,
       "additional_urls": []
     }
   ]

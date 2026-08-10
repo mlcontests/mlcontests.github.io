@@ -7454,6 +7454,26 @@
       "conference": null,
       "conference_year": null,
       "additional_urls": []
+    },
+    {
+      "name": "Build Useful End-to-End Differentiable Systems",
+      "url": "https://pasteurlabs.ai/tesseract-hackathon-2026/?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "subjective",
+        "control",
+        "optimisation",
+        "science"
+      ],
+      "launched": "03 Aug 2026",
+      "registration-deadline": "31 Aug 2026",
+      "deadline": "31 Aug 2026",
+      "prize": "$20,000",
+      "platform": "Independent",
+      "sponsor": "Pasteur Labs",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": []
     }
   ]
 }

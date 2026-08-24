@@ -7474,6 +7474,32 @@
       "conference": null,
       "conference_year": null,
       "additional_urls": []
+    },
+    {
+      "name": "Design LLM Agents to Build Virtual Spacecraft",
+      "url": "https://www.kaggle.com/competitions/build-arena-human-ai-colleberation-engineering-challenge?ref=mlcontests",
+      "tags": [
+        "agents",
+        "llm",
+        "engineering",
+        "simulation",
+        "game",
+        "hackathon",
+        "measurable"
+      ],
+      "launched": "8 Jul 2026",
+      "registration-deadline": "12 Sep 2026",
+      "deadline": "12 Sep 2026",
+      "prize": "$3,000",
+      "platform": "Kaggle",
+      "sponsor": "Uniforce AI, Westlake University",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": [
+        "https://build-arena.github.io/ConstructionChallenge/",
+        "https://github.com/build-arena/BuildArena-2.0",
+        "https://openreview.net/forum?id=QAQKmIp3SZ"
+      ]
     }
   ]
 }

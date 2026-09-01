@@ -1,6 +1,35 @@
 {
   "data": [
     {
+      "name": "Predict Aircraft Taxi-Out Time at European Airports",
+      "url": "https://ansperformance.eu/study/data-challenge/dc2026/",
+      "tags": [
+        "supervised",
+        "regression",
+        "tabular",
+        "timeseries",
+        "measurable",
+        "science",
+        "transportation"
+      ],
+      "deadline": "11 Oct 2026",
+      "prize": "$5,800",
+      "platform": "Independent",
+      "sponsor": "EUROCONTROL Performance Review Commission (PRC)",
+      "launched": "1 Sep 2026",
+      "additional_urls": [
+        "https://ansperformance.eu/study/data-challenge/",
+        "https://ansperformance.eu/study/data-challenge/dc2026/eligibility.html",
+        "https://ansperformance.eu/study/data-challenge/dc2026/rationale.html",
+        "https://ansperformance.eu/study/data-challenge/dc2026/data.html",
+        "https://ansperformance.eu/study/data-challenge/dc2026/ranking.html",
+        "https://ansperformance.eu/study/data-challenge/dc2026/teams.html",
+        "https://opensky-network.org/",
+        "https://www.eurocontrol.int/air-navigation-services-performance-review"
+      ],
+      "added": "1 Sep 2026"
+    },
+    {
       "name": "Project Omnibus: Optimise School Bus Routes",
       "url": "https://competition.bcamlc.com?ref=mlcontests",
       "tags": [

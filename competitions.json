@@ -7529,6 +7529,29 @@
         "https://github.com/build-arena/BuildArena-2.0",
         "https://openreview.net/forum?id=QAQKmIp3SZ"
       ]
+    },
+    {
+      "name": "Transcribe Code-Switched Speech in Underserved Languages",
+      "url": "https://competitions.mozilladatacollective.com/competitions/group/lost-in-transcription/?ref=mlcontests",
+      "tags": [
+        "speech",
+        "audio",
+        "nlp",
+        "multi-lingual",
+        "supervised",
+        "measurable",
+        "multiple"
+      ],
+      "launched": "4 Aug 2026",
+      "deadline": "2 Oct 2026",
+      "prize": "$20,000",
+      "platform": "DrivenData",
+      "sponsor": "Mozilla Data Collective",
+      "additional_urls": [
+        "https://competitions.mozilladatacollective.com/competitions/2/lost-in-transcription-sp-en/",
+        "https://competitions.mozilladatacollective.com/competitions/3/lost-in-transcription-sp-nh/",
+        "https://competitions.mozilladatacollective.com/competitions/1/lost-in-transcription-in-jv/"
+      ]
     }
   ]
 }

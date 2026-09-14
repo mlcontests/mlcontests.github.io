@@ -7552,6 +7552,30 @@
         "https://competitions.mozilladatacollective.com/competitions/3/lost-in-transcription-sp-nh/",
         "https://competitions.mozilladatacollective.com/competitions/1/lost-in-transcription-in-jv/"
       ]
+    },
+    {
+      "name": "Predict Price Movements from Limit Order Book Data",
+      "url": "https://wundernn.io/connectome?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "finance",
+        "timeseries",
+        "regression",
+        "forecasting",
+        "efficiency",
+        "measurable"
+      ],
+      "launched": "11 Sep 2026",
+      "registration-deadline": null,
+      "deadline": "15 Nov 2026",
+      "prize": "$13,600",
+      "platform": "Independent",
+      "sponsor": "Wunder Fund",
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": [
+        "https://wundernn.io/connectome/docs/quick_start"
+      ]
     }
   ]
 }

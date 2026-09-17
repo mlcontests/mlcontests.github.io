@@ -7577,12 +7577,14 @@
       ]
     },
     {
-      "name": "Enveda CASMI 2026 - Molecule ID From Mass Spectra",
+      "name": "Predict 2D Chemical Structures From Mass Spectra",
       "url": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra?ref=mlcontests",
       "tags": [
         "biology",
         "chemistry",
-        "custom metric"
+        "supervised",
+        "ranking"
+        "measurable"
       ],
       "launched": "14 Sep 2026",
       "registration-deadline": "7 Dec 2026",

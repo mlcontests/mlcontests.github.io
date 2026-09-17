@@ -1,6 +1,29 @@
 {
   "data": [
     {
+      "name": "Optimise LLM Operators & Inference Across AI Chips",
+      "url": "https://flagos.io/race-detail-season2?id=8q4m2x7p&lang=en&ref=mlcontests",
+      "tags": [
+        "measurable",
+        "performance",
+        "inference",
+        "llm",
+        "hardware",
+        "code",
+        "deep learning"
+      ],
+      "deadline": "15 Nov 2026",
+      "launched": "19 Jul 2026",
+      "prize": "$14,925",
+      "platform": "Independent",
+      "sponsor": "FlagOS Community, IEEE",
+      "additional_urls": [
+        "https://flagos.io/race-detail-season2?id=782kzq4m&lang=en",
+        "https://flagos.io/race-detail-season2?id=539vlt2p&lang=en"
+      ],
+      "added": "15 Sep 2026"
+    },
+    {
       "name": "Predict Aircraft Taxi-Out Time at European Airports",
       "url": "https://ansperformance.eu/study/data-challenge/dc2026/",
       "tags": [

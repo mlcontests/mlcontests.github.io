@@ -7617,6 +7617,39 @@
       "sponsor": "Enveda",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Google - The Gemma 4 Developer Agent Paper Track",
+      "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent-paper?ref=mlcontests",
+      "tags": [
+        "artificial intelligence",
+        "coding"
+      ],
+      "launched": "23 Sep 2026",
+      "registration-deadline": "12 Nov 2026",
+      "deadline": "12 Nov 2026",
+      "prize": "$35,000",
+      "platform": "Kaggle",
+      "sponsor": "Google DeepMind",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Google - The Gemma 4 Developer Agent Competition",
+      "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent?ref=mlcontests",
+      "tags": [
+        "artificial intelligence",
+        "coding",
+        "custom metric"
+      ],
+      "launched": "23 Sep 2026",
+      "registration-deadline": "25 Nov 2026",
+      "deadline": "2 Dec 2026",
+      "prize": "$65,000",
+      "platform": "Kaggle",
+      "sponsor": "Google DeepMind",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

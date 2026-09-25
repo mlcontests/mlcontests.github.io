@@ -7619,11 +7619,14 @@
       "conference_year": null
     },
     {
-      "name": "Google - The Gemma 4 Developer Agent Paper Track",
+      "name": "Write a Research Paper on Coding Agents",
       "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent-paper?ref=mlcontests",
       "tags": [
-        "artificial intelligence",
-        "coding"
+        "agents",
+        "subjective",
+        "llm",
+        "writing",
+        "code"
       ],
       "launched": "23 Sep 2026",
       "registration-deadline": "12 Nov 2026",
@@ -7635,12 +7638,14 @@
       "conference_year": null
     },
     {
-      "name": "Google - The Gemma 4 Developer Agent Competition",
+      "name": "Build Coding Agents with Gemma 4",
       "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent?ref=mlcontests",
       "tags": [
-        "artificial intelligence",
-        "coding",
-        "custom metric"
+        "agents",
+        "measurable",
+        "llm",
+        "fine-tuning",
+        "code"
       ],
       "launched": "23 Sep 2026",
       "registration-deadline": "25 Nov 2026",

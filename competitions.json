@@ -7655,6 +7655,25 @@
       "sponsor": "Google DeepMind",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "EEG/EMG Foundation Challenge",
+      "url": "https://neural-interfaces26.github.io",
+      "tags": [
+        "deep learning",
+        "measurable",
+        "vision",
+        "fine-tuning",
+        "code"
+      ],
+      "launched": "21 Sep 2026",
+      "registration-deadline": "24 Oct 2026",
+      "deadline": "21 Nov 2026",
+      "prize": "$20,000",
+      "platform": "Codabench",
+      "sponsor": "Meta",
+      "conference": "Neurips",
+      "conference_year": 2026
     }
   ]
 }

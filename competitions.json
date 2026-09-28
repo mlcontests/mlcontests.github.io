@@ -7190,7 +7190,7 @@
     },
     {
       "name": "Weak Lensing Uncertainty under Distribution Shift",
-      "url": "https://fair-universe.lbl.gov/?ref=mlcontests",
+      "url": "https://www.codabench.org/competitions/10902/?ref=mlcontests",
       "tags": [
         "astronomy",
         "science",
@@ -7207,7 +7207,7 @@
       "conference": "NeurIPS",
       "conference-year": 2026,
       "additional_urls": [
-        "https://www.codabench.org/competitions/10902/"
+        "https://fair-universe.lbl.gov/?ref=mlcontests"
       ]
     },
     {

@@ -7657,22 +7657,28 @@
       "conference_year": null
     },
     {
-      "name": "EEG/EMG Foundation Challenge",
+      "name": "Decode Brains Signals in Task-Specific Settings",
       "url": "https://neural-interfaces26.github.io",
+      "additional_urls": [
+        "https://www.codabench.org/competitions/17974/",
+        "https://www.codabench.org/competitions/17982/",
+        "https://www.codabench.org/competitions/17983/",
+        "https://www.codabench.org/competitions/17984/"
       "tags": [
-        "deep learning",
         "measurable",
         "vision",
-        "fine-tuning",
-        "code"
+        "biology",
+        "medical",
+        "science",
+        "timeseries"
       ],
       "launched": "21 Sep 2026",
       "registration-deadline": "24 Oct 2026",
       "deadline": "21 Nov 2026",
       "prize": "$20,000",
       "platform": "Codabench",
-      "sponsor": "Meta",
-      "conference": "Neurips",
+      "sponsor": "Various",
+      "conference": "NeurIPS Brain & Body Workshop",
       "conference_year": 2026
     }
   ]

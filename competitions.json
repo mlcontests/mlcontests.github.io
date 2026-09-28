@@ -7681,6 +7681,75 @@
       "sponsor": "Various",
       "conference": "NeurIPS Brain & Body Workshop",
       "conference_year": 2026
+    },
+    {
+      "name": "Predict Whether AI Systems Answer Benchmark Items Correctly",
+      "url": "https://aimslab.stanford.edu/competition?ref=mlcontests",
+      "tags": [
+        "llm",
+        "benchmarks",
+        "prediction",
+        "research",
+        "measurable"
+      ],
+      "launched": null,
+      "registration-deadline": null,
+      "deadline": "30 Oct 2026",
+      "added": "28 Sep 2026",
+      "prize": null,
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.codabench.org/competitions/17828/"
+      ]
+    },
+    {
+      "name": "Sim2Real Bimanual Robot Manipulation",
+      "url": "https://robosyn-bench.net/?ref=mlcontests",
+      "tags": [
+        "robotics",
+        "simulation",
+        "vision",
+        "multimodal",
+        "control"
+      ],
+      "launched": "13 Jul 2026",
+      "registration-deadline": null,
+      "deadline": "11 Oct 2026",
+      "added": "28 Sep 2026",
+      "prize": null,
+      "platform": "Independent",
+      "sponsor": "DexForce, Tencent Cloud, AgileX, Computational Freedom",
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://github.com/EDEM-AI/RoboSynChallenge"
+      ]
+    },
+    {
+      "name": "Verifiable AI Agents for Quantitative Finance",
+      "url": "https://www.agenthon.net/?ref=mlcontests",
+      "tags": [
+        "finance",
+        "agents",
+        "llm",
+        "code",
+        "forecasting",
+        "simulation",
+        "multiple"
+      ],
+      "launched": "17 Aug 2026",
+      "registration-deadline": null,
+      "deadline": "12 Oct 2026",
+      "added": "28 Sep 2026",
+      "prize": "$12,000",
+      "platform": "Codabench",
+      "sponsor": "NVIDIA, Bloomberg, AllianceBernstein",
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional_urls": []
     }
   ]
 }

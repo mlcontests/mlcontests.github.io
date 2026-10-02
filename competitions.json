@@ -7757,16 +7757,14 @@
       ]
     },
     {
-      "name": "RoboWorld 2026 — Track 1: WorldNav",
+      "name": "Language-Conditioned Visual Navigation",
       "url": "https://www.codabench.org/competitions/18185/",
       "tags": [
-        "agents",
         "robotics",
         "vision",
         "nlp",
         "multimodal",
-        "3d",
-        "ranking"
+        "3d"
       ],
       "launched": "28 Sep 2026",
       "added": "02 Oct 2026",
@@ -7775,7 +7773,7 @@
       "prize": "$2,800",
       "platform": "Codabench",
       "sponsor": null,
-      "conference": "NeurIPS",
+      "conference": "NeurIPS RoboPAD Workshop",
       "conference-year": 2026,
       "additional_urls": [
         "https://f1y1113.github.io/worldnav-challenge/",

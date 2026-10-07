@@ -7780,6 +7780,65 @@
         "https://roboworld2026.github.io/",
         "https://github.com/F1y1113/worldnav-challenge"
       ]
+    },
+    {
+      "name": "[AI4REALNET] L2RPN 2026 Challenge - Retraining",
+      "url": "https://www.codabench.org/competitions/17866/",
+      "tags": [
+        "agents",
+        "graph",
+        "timeseries",
+        "reinforcement learning",
+        "climate"
+      ],
+      "launched": "24 Aug 2026",
+      "added": "07 Oct 2026",
+      "registration-deadline": "09 Oct 2026",
+      "deadline": "09 Oct 2026",
+      "prize": "6,000€",
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Speech Accessibility Project Challenge 2",
+      "url": "https://xiuwenz2.github.io/SAPC2-website/",
+      "tags": [
+        "speech"
+      ],
+      "launched": "26 Feb 2026",
+      "added": "07 Oct 2026",
+      "registration-deadline": "24 Oct 2026",
+      "deadline": "24 Oct 2026",
+      "prize": "$10,000",
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": [
+          "https://www.codabench.org/competitions/14177/",
+          "https://www.codabench.org/competitions/14176/"
+      ]
+    },
+    {
+      "name": "Fusion Equilibrium Challenge (NeurIPS 2026)",
+      "url": "https://www.codabench.org/competitions/17739/",
+      "tags": [
+        "timeseries",
+        "climate"
+      ],
+      "launched": "27 Jul 2026",
+      "added": "07 Oct 2026",
+      "registration-deadline": "18 Oct 2026",
+      "deadline": "18 Oct 2026",
+      "prize": null,
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional_urls": []
     }
   ]
 }

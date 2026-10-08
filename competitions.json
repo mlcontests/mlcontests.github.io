@@ -7298,7 +7298,7 @@
       ],
       "launched": "3 Dec 2025",
       "registration-deadline": null,
-      "deadline": "31 Aug 2026",
+      "deadline": "24 Oct 2026",
       "added": "29 Jul 2026",
       "prize": "$10,000",
       "platform": "Codabench",
@@ -7782,45 +7782,27 @@
       ]
     },
     {
-      "name": "[AI4REALNET] L2RPN 2026 Challenge - Retraining",
+      "name": "L2RPN 2026: Optimal Power Network Management",
       "url": "https://www.codabench.org/competitions/17866/",
       "tags": [
         "agents",
         "graph",
         "timeseries",
         "reinforcement learning",
-        "climate"
+        "climate",
+        "measurable",
+        "supervised"
       ],
       "launched": "24 Aug 2026",
-      "added": "07 Oct 2026",
-      "registration-deadline": "09 Oct 2026",
-      "deadline": "09 Oct 2026",
-      "prize": "$6,711",
+      "added": "7 Oct 2026",
+      "registration-deadline": "9 Oct 2026",
+      "deadline": "9 Oct 2026",
+      "prize": "$6,700",
       "platform": "Codabench",
       "sponsor": null,
       "conference": null,
       "conference-year": null,
       "additional_urls": []
-    },
-    {
-      "name": "Speech Accessibility Project Challenge 2",
-      "url": "https://xiuwenz2.github.io/SAPC2-website/",
-      "tags": [
-        "speech"
-      ],
-      "launched": "26 Feb 2026",
-      "added": "07 Oct 2026",
-      "registration-deadline": "24 Oct 2026",
-      "deadline": "24 Oct 2026",
-      "prize": "$10,000",
-      "platform": "Codabench",
-      "sponsor": null,
-      "conference": null,
-      "conference-year": null,
-      "additional_urls": [
-          "https://www.codabench.org/competitions/14177/",
-          "https://www.codabench.org/competitions/14176/"
-      ]
     }
   ]
 }

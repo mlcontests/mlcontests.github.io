@@ -7657,6 +7657,23 @@
       "conference_year": null
     },
     {
+      "name": "NFL Big Data Bowl 2027",
+      "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027?ref=mlcontests",
+      "tags": [
+        "sports",
+        "analysis",
+        "subjective"
+      ],
+      "launched": "6 Oct 2026",
+      "registration-deadline": "6 Jan 2027",
+      "deadline": "6 Jan 2027",
+      "prize": "$100,000",
+      "platform": "Kaggle",
+      "sponsor": "The National Football League",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Decode Brains Signals in Task-Specific Settings",
       "url": "https://neural-interfaces26.github.io",
       "additional_urls": [

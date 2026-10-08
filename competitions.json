@@ -7821,24 +7821,6 @@
           "https://www.codabench.org/competitions/14177/",
           "https://www.codabench.org/competitions/14176/"
       ]
-    },
-    {
-      "name": "Fusion Equilibrium Challenge (NeurIPS 2026)",
-      "url": "https://www.codabench.org/competitions/17739/",
-      "tags": [
-        "timeseries",
-        "climate"
-      ],
-      "launched": "27 Jul 2026",
-      "added": "07 Oct 2026",
-      "registration-deadline": "18 Oct 2026",
-      "deadline": "18 Oct 2026",
-      "prize": null,
-      "platform": "Codabench",
-      "sponsor": null,
-      "conference": "NeurIPS",
-      "conference-year": 2026,
-      "additional_urls": []
     }
   ]
 }

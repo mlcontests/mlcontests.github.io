@@ -7190,7 +7190,7 @@
     },
     {
       "name": "Weak Lensing Uncertainty under Distribution Shift",
-      "url": "https://fair-universe.lbl.gov/?ref=mlcontests",
+      "url": "https://www.codabench.org/competitions/10902/?ref=mlcontests",
       "tags": [
         "astronomy",
         "science",
@@ -7207,7 +7207,7 @@
       "conference": "NeurIPS",
       "conference-year": 2026,
       "additional_urls": [
-        "https://www.codabench.org/competitions/10902/"
+        "https://fair-universe.lbl.gov/?ref=mlcontests"
       ]
     },
     {
@@ -7298,7 +7298,7 @@
       ],
       "launched": "3 Dec 2025",
       "registration-deadline": null,
-      "deadline": "31 Aug 2026",
+      "deadline": "24 Oct 2026",
       "added": "29 Jul 2026",
       "prize": "$10,000",
       "platform": "Codabench",
@@ -7673,6 +7673,175 @@
       "sponsor": "The National Football League",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Decode Brains Signals in Task-Specific Settings",
+      "url": "https://neural-interfaces26.github.io",
+      "additional_urls": [
+        "https://www.codabench.org/competitions/17974/",
+        "https://www.codabench.org/competitions/17982/",
+        "https://www.codabench.org/competitions/17983/",
+        "https://www.codabench.org/competitions/17984/"
+      ],
+      "tags": [
+        "measurable",
+        "vision",
+        "biology",
+        "medical",
+        "science",
+        "timeseries"
+      ],
+      "launched": "21 Sep 2026",
+      "registration-deadline": "24 Oct 2026",
+      "deadline": "21 Nov 2026",
+      "prize": "$20,000",
+      "platform": "Codabench",
+      "sponsor": "Various",
+      "conference": "NeurIPS Brain & Body Workshop",
+      "conference_year": 2026
+    },
+    {
+      "name": "Predict Whether AI Systems Answer Benchmark Items Correctly",
+      "url": "https://aimslab.stanford.edu/competition?ref=mlcontests",
+      "tags": [
+        "llm",
+        "benchmarks",
+        "prediction",
+        "research",
+        "measurable"
+      ],
+      "launched": null,
+      "registration-deadline": null,
+      "deadline": "30 Oct 2026",
+      "added": "28 Sep 2026",
+      "prize": null,
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.codabench.org/competitions/17828/"
+      ]
+    },
+    {
+      "name": "Sim2Real Bimanual Robot Manipulation",
+      "url": "https://robosyn-bench.net/?ref=mlcontests",
+      "tags": [
+        "robotics",
+        "simulation",
+        "vision",
+        "multimodal",
+        "control"
+      ],
+      "launched": "13 Jul 2026",
+      "registration-deadline": null,
+      "deadline": "11 Oct 2026",
+      "added": "28 Sep 2026",
+      "prize": null,
+      "platform": "Independent",
+      "sponsor": "DexForce, Tencent Cloud, AgileX, Computational Freedom",
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://github.com/EDEM-AI/RoboSynChallenge"
+      ]
+    },
+    {
+      "name": "Verifiable AI Agents for Quantitative Finance",
+      "url": "https://www.agenthon.net/?ref=mlcontests",
+      "tags": [
+        "finance",
+        "agents",
+        "llm",
+        "code",
+        "forecasting",
+        "simulation",
+        "multiple"
+      ],
+      "launched": "17 Aug 2026",
+      "registration-deadline": null,
+      "deadline": "12 Oct 2026",
+      "added": "28 Sep 2026",
+      "prize": "$12,000",
+      "platform": "Codabench",
+      "sponsor": "NVIDIA, Bloomberg, AllianceBernstein",
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.codabench.org/competitions/17765/",
+        "https://www.codabench.org/competitions/17766/",
+        "https://www.codabench.org/competitions/17767/",
+        "https://www.codabench.org/competitions/17768/"
+      ]
+    },
+    {
+      "name": "Language-Conditioned Visual Navigation",
+      "url": "https://www.codabench.org/competitions/18185/",
+      "tags": [
+        "robotics",
+        "vision",
+        "nlp",
+        "multimodal",
+        "3d"
+      ],
+      "launched": "28 Sep 2026",
+      "added": "02 Oct 2026",
+      "registration-deadline": "31 Oct 2026",
+      "deadline": "20 Nov 2026",
+      "prize": "$2,800",
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "NeurIPS RoboPAD Workshop",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://f1y1113.github.io/worldnav-challenge/",
+        "https://roboworld2026.github.io/",
+        "https://github.com/F1y1113/worldnav-challenge"
+      ]
+    },
+    {
+      "name": "Detect root misconceptions in K–12 math solutions",
+      "url": "https://www.kaggle.com/competitions/misconception-detection-in-k-12-student-math-workings/overview", 
+      "tags": [
+        "supervised",
+        "vision",
+        "nlp",
+        "education",
+        "tabular",
+        "classification"
+      ],
+      "launched": "07 Oct 2026",
+      "added": "07 Oct 2026",
+      "registration-deadline": "17 Nov 2026",
+      "deadline": "17 Nov 2026",
+      "prize": "$6,000",
+      "platform": "Kaggle",
+      "sponsor": "Co-Learn",
+      "conference": null,
+      "conference-year": null
+    },
+    {
+      "name": "L2RPN 2026: Optimal Power Network Management",
+      "url": "https://www.codabench.org/competitions/17866/",
+      "tags": [
+        "agents",
+        "graph",
+        "timeseries",
+        "reinforcement learning",
+        "climate",
+        "measurable",
+        "supervised"
+      ],
+      "launched": "24 Aug 2026",
+      "added": "7 Oct 2026",
+      "registration-deadline": "9 Oct 2026",
+      "deadline": "9 Oct 2026",
+      "prize": "$6,700",
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": []
     }
   ]
 }

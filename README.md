@@ -1,11 +1,8 @@
-<p align="center">
-  <a href="https://mlcontests.com">
-    <img src="https://raw.githubusercontent.com/mlcontests/mlcontests.github.io/master/android-chrome-512x512.png" alt="ML Contests logo" width="150" height="150">
-  </a>
-</p>
 <h1 align="center">ML Contests</h1>
 
 A community-maintained list of public machine learning/data science/AI contests, viewable on [mlcontests.com](https://mlcontests.com). 
+
+<a href="https://mlcontests.com"><img width="1176" height="913" alt="image" src="https://github.com/user-attachments/assets/7ba40594-427c-4de5-b568-e5ff271a2cf9" /></a>
 
 Contributions for new competitions or updates to existing competitions are welcome; submit a PR which edits [competitions.json](https://github.com/mlcontests/mlcontests.github.io/blob/master/competitions.json).
 

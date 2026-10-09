@@ -1,28 +1,49 @@
 <p align="center">
-  <a href="https://https://github.com/mlcontests/mlcontests.github.io">
-    <img src="https://raw.githubusercontent.com/mlcontests/mlcontests.github.io/master/android-chrome-512x512.png" alt="Bootstrap logo" width="150" height="150">
+  <a href="https://mlcontests.com">
+    <img src="https://raw.githubusercontent.com/mlcontests/mlcontests.github.io/master/android-chrome-512x512.png" alt="ML Contests logo" width="150" height="150">
   </a>
 </p>
 <h1 align="center">ML Contests</h1>
 
+A community-maintained list of public machine learning/data science/AI contests, viewable on [mlcontests.com](https://mlcontests.com). 
 
-A sortable list of public machine learning/data science/AI contests, viewable on [mlcontests.com](https://mlcontests.com). 
-
-Please submit a pull request for any changes. 
-
-Additions or changes to the competitions list can be made by editing [competitions.json](https://github.com/mlcontests/mlcontests.github.io/blob/master/competitions.json).
+Contributions for new competitions or updates to existing competitions are welcome; submit a PR which edits [competitions.json](https://github.com/mlcontests/mlcontests.github.io/blob/master/competitions.json).
 
 Please check the [submission criteria](https://mlcontests.com/submit/) first to ensure your competition qualifies.
 
-## Schema
+Competitions listed here are also considered for inclusion in the annual [State of Machine Learning Competitions](https://mlcontests.com/state-of-machine-learning-competitions/) report. 
 
-The schema is in [schema.json](https://github.com/mlcontests/mlcontests.github.io/blob/master/schema.json). 
+## Entry format
 
-The required date format in all cases is `D MMM YYYY` - e.g. `5 Jan 2023`.
+The schema is in [schema.json](https://github.com/mlcontests/mlcontests.github.io/blob/master/schema.json). A typical entry looks like this:
+```json
+{
+  "name": "Design Physics Experiments for Gravitational Waves",
+  "url": "https://www.learn2design2026.com/?ref=mlcontests",
+  "tags": [
+    "physics",
+    "design",
+    "science",
+    "optimisation"
+  ],
+  "launched": "15 Jul 2026",
+  "registration-deadline": null,
+  "deadline": "15 Oct 2026",
+  "added": "29 Jul 2026",
+  "prize": "$27,000",
+  "platform": "Independent",
+  "sponsor": "SPRIN-D",
+  "conference": "NeurIPS",
+  "conference-year": 2026,
+  "additional-urls": []
+}
+```
 
-The `prize` field should use USD values with a comma as the thousands separator, e.g. `$50,000` for fifty-thousand dollars. Prize amounts in other currencies should be converted to USD, with a maximum of two significant figures of precision. 
-
-This field should only contain unconditional cash prizes. Other prizes -- compute grants, travel grants, hardware, or swag -- should be specified as a string in the `additional_prizes` field.
+Some guidelines:
+- Use clear task-oriented titles (e.g. 'Predict Stock Returns') as opposed to titles like 'Company X Stock Return Competition'.
+- The date format in all cases is `D MMM YYYY` - e.g. `5 Jan 2023`.
+- The `prize` field should use USD values with a comma as the thousands separator, e.g. `$50,000` for fifty-thousand dollars. Prize amounts in other currencies should be converted to USD, with a maximum of two significant figures of precision (e.g. €10,000 -> $11,000). 
+- The prize field should only contain unconditional cash prizes. Other prizes – compute grants, travel grants, hardware, or swag – should be specified as a string in the `additional_prizes` field.
 
 Each competition can have several tags linked to it, and website users can filter by tag. 
 Some of the valid tags are listed below. See the schema for a full list of tags. 

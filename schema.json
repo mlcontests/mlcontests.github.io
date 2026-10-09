@@ -195,7 +195,7 @@
             "description": "Optional field for describing non-cash prizes (e.g. scholarships, GPUs, branded swag, ...)."
           },
           "data-size": {
-            "type": "number",
+            "type": ["number", "null"],
             "description": "Amount of training data provided for the competition, in gigabytes. (optional)"
           },
           "note": {

@@ -5,11 +5,13 @@
 </p>
 <h1 align="center">ML Contests</h1>
 
-A sortable list of public machine learning/data science/AI contests, viewable on [mlcontests.com](https://mlcontests.com). 
+A community-maintained list of public machine learning/data science/AI contests, viewable on [mlcontests.com](https://mlcontests.com). 
 
-Contributions for new competitions or updates to existing competitions are welcome; submit a PR with changes to [competitions.json](https://github.com/mlcontests/mlcontests.github.io/blob/master/competitions.json).
+Contributions for new competitions or updates to existing competitions are welcome; submit a PR which edits [competitions.json](https://github.com/mlcontests/mlcontests.github.io/blob/master/competitions.json).
 
 Please check the [submission criteria](https://mlcontests.com/submit/) first to ensure your competition qualifies.
+
+Competitions listed here are also considered for inclusion in the annual [State of Machine Learning Competitions](https://mlcontests.com/state-of-machine-learning-competitions/) report. 
 
 ## Entry format
 

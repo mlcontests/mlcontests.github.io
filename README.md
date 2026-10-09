@@ -20,8 +20,9 @@ The schema is in [schema.json](https://github.com/mlcontests/mlcontests.github.i
 
 The required date format in all cases is `D MMM YYYY` - e.g. `5 Jan 2023`.
 
-The `prize` field should use USD values with a comma as the thousands separator, e.g. `$50,000` for fifty-thousand dollars.
-This field should only contain unconditional cash prizes. Other prizes -- compute grants, travel grants, hardware, or swag, should be specified as a string in the `additional_prizes` field.
+The `prize` field should use USD values with a comma as the thousands separator, e.g. `$50,000` for fifty-thousand dollars. Prize amounts in other currencies should be converted to USD, with a maximum of two significant figures of precision. 
+
+This field should only contain unconditional cash prizes. Other prizes -- compute grants, travel grants, hardware, or swag -- should be specified as a string in the `additional_prizes` field.
 
 Each competition can have several tags linked to it, and website users can filter by tag. 
 Some of the valid tags are listed below. See the schema for a full list of tags. 

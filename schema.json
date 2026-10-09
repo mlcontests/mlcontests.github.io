@@ -183,14 +183,27 @@
             "type": ["integer", "null"],
             "description": "If the competition is affiliated with a conference, enter the year of the conference here."
           },
-          "additional_urls": {
+          "additional-urls": {
             "type": "array",
             "items": {
               "type": "string"
             },
             "description": "Any additional relevant links to competition information hosted elsewhere"
+          },
+          "additional-prizes": {
+            "type": "string",
+            "description": "Optional field for describing non-cash prizes (e.g. scholarships, GPUs, branded swag, ...)."
+          },
+          "data-size": {
+            "type": "number",
+            "description": "Amount of training data provided for the competition, in gigabytes. (optional)"
+          },
+          "note": {
+            "type": "string",
+            "description": "Optional field for providing additional info about the competition – e.g. eligibility criteria, context about its relation to previous competitions, ..."
           }
         },
+        "additionalProperties": false,
         "required": [
           "name",
           "url",

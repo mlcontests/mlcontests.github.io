@@ -17,7 +17,7 @@
       "prize": "$14,925",
       "platform": "Independent",
       "sponsor": "FlagOS Community, IEEE",
-      "additional_urls": [
+      "additional-urls": [
         "https://flagos.io/race-detail-season2?id=782kzq4m&lang=en",
         "https://flagos.io/race-detail-season2?id=539vlt2p&lang=en"
       ],
@@ -40,7 +40,7 @@
       "platform": "Independent",
       "sponsor": "EUROCONTROL Performance Review Commission (PRC)",
       "launched": "1 Sep 2026",
-      "additional_urls": [
+      "additional-urls": [
         "https://ansperformance.eu/study/data-challenge/",
         "https://ansperformance.eu/study/data-challenge/dc2026/eligibility.html",
         "https://ansperformance.eu/study/data-challenge/dc2026/rationale.html",
@@ -68,7 +68,7 @@
       "prize": "$1,200",
       "platform": "Codabench",
       "sponsor": "Jane Street, AoPS, Nord Sec, Interview Buddy",
-      "additional_urls": [
+      "additional-urls": [
         "https://www.codabench.org/competitions/16945/"
       ]
     },
@@ -90,7 +90,7 @@
       "platform": "CrunchDAO",
       "sponsor": "Eric and Wendy Schmidt Center",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Detect Structural Breaks in Real-Time Time Series Data",
@@ -109,7 +109,7 @@
       "platform": "CrunchDAO",
       "sponsor": "ADIA Lab",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Foundation Models for General CT Image Diagnosis",
@@ -126,12 +126,12 @@
       "deadline": "15 May 2026",
       "added": "15 Apr 2026",
       "prize": null,
-      "additional_prizes": "Amazon gift cards (300/200/100 CAD) for top 3 if >20 docker submissions; oral presentation invitation for top 3; poster presentation invitation for top 10; souvenirs for top 4-10; certificates for top 10",
+      "additional-prizes": "Amazon gift cards (300/200/100 CAD) for top 3 if >20 docker submissions; oral presentation invitation for top 3; poster presentation invitation for top 10; souvenirs for top 4-10; certificates for top 10",
       "platform": "Codabench",
       "sponsor": null,
       "conference": "CVPR",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://fmv-cvpr26workshop.github.io/"
       ]
     },
@@ -153,8 +153,8 @@
       "platform": "Trustii",
       "sponsor": "IHU ICAN, Health Data Hub, France 2030",
       "conference": null,
-      "conference_year": null,
-      "additional_urls": [
+      "conference-year": null,
+      "additional-urls": [
         "https://health-data-hub.fr/page/le-data-challenge-annitia"
       ]
     },
@@ -175,7 +175,7 @@
       "platform": "Independent",
       "sponsor": "AMD, GPU Mode",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify Genes Driving Metabolic Diseases (Part 2)",
@@ -195,7 +195,7 @@
       "platform": "CrunchDAO",
       "sponsor": "Eric and Wendy Schmidt Center",
       "conference": "https://events.zoom.us/egj/AviNQoyXkI53omXr5K-Nm-7HEWwUbO72ISftYGti-zP4qZJg7fJm~A11jVpJ_Mxa68cex-0qgYciyiK1UbB6gj-i8wlyc2yYc3AzUtV-DoqsjugKJQ",
-      "conference_year": 2026
+      "conference-year": 2026
     },
     {
       "name": "Predict Cross-sectional Equity Returns",
@@ -216,7 +216,7 @@
       "platform": "CrunchDAO",
       "sponsor": "Crunch Capital",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify Genes Driving Metabolic Diseases (Part 1)",
@@ -236,7 +236,7 @@
       "platform": "CrunchDAO",
       "sponsor": "Eric and Wendy Schmidt Center",
       "conference": "https://events.zoom.us/egj/AviNQoyXkI53omXr5K-Nm-7HEWwUbO72ISftYGti-zP4qZJg7fJm~A11jVpJ_Mxa68cex-0qgYciyiK1UbB6gj-i8wlyc2yYc3AzUtV-DoqsjugKJQ",
-      "conference_year": 2026
+      "conference-year": 2026
     },
     {
       "name": "Falcon: Price-Like Timeseries Forecasting",
@@ -257,7 +257,7 @@
       "platform": "CrunchDAO",
       "sponsor": null,
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Analyse Exoplanet Data (Ariel Data Data Challenge 2025)",
@@ -278,8 +278,8 @@
       "platform": "Kaggle",
       "sponsor": "Kaggle",
       "conference": "NeurIPS",
-      "conference_year": 2025,
-      "additional_urls": [
+      "conference-year": 2025,
+      "additional-urls": [
         "https://www.kaggle.com/competitions/ariel-data-challenge-2025"
       ]
     },
@@ -301,8 +301,8 @@
       "platform": "Trustii.io",
       "sponsor": "IHU ICAN, Health Data Hub",
       "conference": "France 2030 – Grand Défi",
-      "conference_year": 2025,
-      "additional_urls": [
+      "conference-year": 2025,
+      "additional-urls": [
         "https://www.ihuican.org/"
       ]
     },
@@ -340,7 +340,7 @@
       "platform": "Independent",
       "sponsor": "INNIO, KS Engineers, WinGD",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Forecast Micro-Hydropower Load Generation",
@@ -361,7 +361,7 @@
       "platform": "Zindi",
       "sponsor": "IBM",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Generate Clinical Reasoning Texts",
@@ -380,7 +380,7 @@
       "platform": "Zindi",
       "sponsor": "PATH",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Soil Nutrient Availability",
@@ -398,7 +398,7 @@
       "platform": "Zindi",
       "sponsor": "Amini",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Quantify Contributions of Open Source Code to Other Projects",
@@ -420,11 +420,11 @@
       "prize": "$50,000",
       "platform": "Pond",
       "sponsor": "Vitalik Buterin, DeepFunding, OSObserver, others",
-      "additional_urls": [
+      "additional-urls": [
         "https://www.deepfunding.org/"
       ],
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Autoimmune Disease: Identifying Genes",
@@ -451,7 +451,7 @@
       "platform": "CrunchDAO",
       "sponsor": "Eric and Wendy Schmidt Center",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Autoimmune Disease: Predict Unseen Genes",
@@ -478,7 +478,7 @@
       "platform": "CrunchDAO",
       "sponsor": "Eric and Wendy Schmidt Center",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Autoimmune Disease: Predict Gene Expression From Images",
@@ -505,7 +505,7 @@
       "platform": "CrunchDAO",
       "sponsor": "Eric and Wendy Schmidt Center",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Advance Hematological Diagnostics Through AI",
@@ -522,7 +522,7 @@
       "prize": "$25,000",
       "platform": "Trustii",
       "sponsor": "Various",
-      "additional_urls": [
+      "additional-urls": [
         "https://app.trustii.io",
         "https://www.health-data-hub.fr/actualites/pre-inscriptions-au-data-challenge-cytologia"
       ],
@@ -546,7 +546,7 @@
       "platform": "Kaggle",
       "sponsor": null,
       "conference": "NeurIPS",
-      "conference_year": 2024
+      "conference-year": 2024
     },
     {
       "name": "AI Math Olympiad Progress Prize 2",
@@ -564,7 +564,7 @@
       "platform": "Kaggle",
       "sponsor": "XTX Markets",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "NFL Big Data Bowl 2025",
@@ -581,7 +581,7 @@
       "platform": "Kaggle",
       "sponsor": "The NFL",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Gemini Long Context",
@@ -601,7 +601,7 @@
       "platform": "Kaggle",
       "sponsor": "Google",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Real-Time Market Data Forecasting",
@@ -623,7 +623,7 @@
       "platform": "Kaggle",
       "sponsor": "Jane Street",
       "conference": null,
-      "conference_year": null,
+      "conference-year": null,
       "data-size": 12.3
     },
     {
@@ -642,7 +642,7 @@
       "platform": "Kaggle",
       "sponsor": "Google",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Build a Secure and Local RAG System",
@@ -658,12 +658,12 @@
       "prize": "$5,000",
       "platform": "Trustii",
       "sponsor": "Understand Tech",
-      "additional_urls": [
+      "additional-urls": [
         "https://app.trustii.io",
         "https://app.understand.tech"
       ],
       "conference": null,
-      "conference_year": null,
+      "conference-year": null,
       "data-size": null
     },
     {
@@ -706,7 +706,7 @@
       "platform": "Kaggle",
       "sponsor": "Learning Agency Lab, Gates Foundation, Schmidt Futures, CZI",
       "conference": null,
-      "conference_year": null,
+      "conference-year": null,
       "data-size": 0.00091134
     },
     {
@@ -726,7 +726,7 @@
       "platform": "Kaggle",
       "sponsor": "Child Mind Institute, HCS, Dell, NVIDIA",
       "conference": null,
-      "conference_year": null,
+      "conference-year": null,
       "data-size": 6.73
     },
     {
@@ -738,7 +738,7 @@
         "nlp",
         "measurable"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://www.cooperativeai.com/contests/concordia-2024"
       ],
       "launched": "17 Sep 2024",
@@ -759,7 +759,7 @@
         "security",
         "measurable"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "31 Jul 2024",
       "registration-deadline": "5 Nov 2024",
       "deadline": "5 Nov 2024",
@@ -780,7 +780,7 @@
         "supervised",
         "measurable"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "31 Aug 2024",
       "registration-deadline": "2 Nov 2024",
       "deadline": "2 Nov 2024",
@@ -801,7 +801,7 @@
         "supervised",
         "measurable"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "11 Sep 2024",
       "registration-deadline": "21 Nov 2024",
       "deadline": "21 Nov 2024",
@@ -821,7 +821,7 @@
         "medical",
         "subjective"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "11 Sep 2024",
       "registration-deadline": "21 Nov 2024",
       "deadline": "21 Nov 2024",
@@ -848,7 +848,7 @@
       "platform": "Kaggle",
       "sponsor": "Maastricht University",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "LLM Privacy Challenge",
@@ -877,7 +877,7 @@
         "measurable",
         "control"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024?ref=mlcontests"
       ],
       "launched": "31 Jul 2024",
@@ -935,7 +935,7 @@
       "launched": "1 Aug 2024",
       "registration-deadline": "24 Oct 2024",
       "deadline": "31 Oct 2024",
-      "additional_urls": [
+      "additional-urls": [
         "https://www.kaggle.com/competitions/ariel-data-challenge-2024?ref=mlcontests"
       ],
       "prize": "$50,000",
@@ -1086,7 +1086,7 @@
         "regression"
       ],
       "launched": "9 Jul 2024",
-      "additional_urls": [
+      "additional-urls": [
         "https://adrenalin.energy"
       ],
       "registration-deadline": "15 Sep 2024",
@@ -1095,7 +1095,7 @@
       "platform": "CodaLab",
       "sponsor": "EUDP, ReMoni",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Smart Building HVAC Control",
@@ -1108,7 +1108,7 @@
         "measurable"
       ],
       "launched": "9 Jul 2024",
-      "additional_urls": [
+      "additional-urls": [
         "https://adrenalin.energy"
       ],
       "registration-deadline": "15 Sep 2024",
@@ -1117,7 +1117,7 @@
       "platform": "CodaLab",
       "sponsor": "AES Innovation, synavision, Kiona",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Diagnose COVID-19 From Breath Samples",
@@ -1135,7 +1135,7 @@
       "platform": "Bitgrit",
       "sponsor": "NASA",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify Skin Cancers in 3D Photographs",
@@ -1154,7 +1154,7 @@
       "platform": "Kaggle",
       "sponsor": "ISIC",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Forecast Grocery Order Volume",
@@ -1183,7 +1183,7 @@
         "supervised",
         "measurable"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://arcprize.org/?ref=mlcontests"
       ],
       "launched": "11 Jun 2024",
@@ -1205,7 +1205,7 @@
         "generative",
         "multimodal"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "1 Jun 2024",
       "deadline": "14 Aug 2024",
       "prize": "$6,800",
@@ -1228,7 +1228,7 @@
       "platform": "Independent",
       "sponsor": "Google",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Lung Transplant Rejection Detection",
@@ -1245,7 +1245,7 @@
       "prize": "$25,000",
       "platform": "Trustii",
       "sponsor": "Various",
-      "additional_urls": [
+      "additional-urls": [
         "https://app.trustii.io",
         "https://www.health-data-hub.fr/actualites/lancement-data-challenge-digilut"
       ],
@@ -1268,7 +1268,7 @@
       "platform": "Independent",
       "sponsor": "Center for AI Safety",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Generate Patent Search Queries",
@@ -1287,7 +1287,7 @@
       "platform": "Kaggle",
       "sponsor": "US PTO",
       "conference": null,
-      "conference_year": null,
+      "conference-year": null,
       "data-size": 136.6
     },
     {
@@ -1306,7 +1306,7 @@
       "platform": "Kaggle",
       "sponsor": "LMSYS ORG",
       "conference": null,
-      "conference_year": null,
+      "conference-year": null,
       "data-size": 0.18419
     },
     {
@@ -1326,7 +1326,7 @@
       "platform": "Kaggle",
       "sponsor": "LEAP",
       "conference": null,
-      "conference_year": null,
+      "conference-year": null,
       "data-size": 192.3
     },
     {
@@ -1345,7 +1345,7 @@
       "platform": "Kaggle",
       "sponsor": "Leash Bio",
       "conference": "NeurIPS",
-      "conference_year": 2024,
+      "conference-year": 2024,
       "data-size": 58.01
     },
     {
@@ -1364,7 +1364,7 @@
       "platform": "Kaggle",
       "sponsor": "The Learning Agency Lab",
       "conference": null,
-      "conference_year": null,
+      "conference-year": null,
       "data-size": 0.0362
     },
     {
@@ -1383,7 +1383,7 @@
       "platform": "Kaggle",
       "sponsor": "Cornell Lab of Ornithology",
       "conference": "LifeCLEF",
-      "conference_year": 2024,
+      "conference-year": 2024,
       "data-size": 23.43
     },
     {
@@ -1395,7 +1395,7 @@
         "supervised",
         "regression"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://huggingface.co/spaces/BVRA/SnakeCLEF2024"
       ],
       "registration-deadline": "24 May 2024",
@@ -1415,7 +1415,7 @@
         "measurable",
         "multiple"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://optimize.esa.int/challenges"
       ],
       "launched": "1 Apr 2024",
@@ -1436,7 +1436,7 @@
         "supervised",
         "regression"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://huggingface.co/spaces/BVRA/SnakeCLEF2024"
       ],
       "launched": "29 Feb 2024",
@@ -1458,7 +1458,7 @@
         "supervised",
         "regression"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://huggingface.co/spaces/BVRA/PlantCLEF2024?ref=mlcontests"
       ],
       "launched": "21 Mar 2024",
@@ -1480,7 +1480,7 @@
         "supervised",
         "regression"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://www.kaggle.com/competitions/planttraits2024?ref=mlcontests"
       ],
       "launched": "2 Feb 2024",
@@ -1502,7 +1502,7 @@
         "supervised",
         "classification"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://www.kaggle.com/competitions/ibiohash-2024-fgvc11/overview?ref=mlcontests"
       ],
       "launched": "8 Mar 2024",
@@ -1524,7 +1524,7 @@
         "supervised",
         "regression"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://www.kaggle.com/competitions/HyperLeaf2024/overview?ref=mlcontests"
       ],
       "launched": "8 Mar 2024",
@@ -1546,7 +1546,7 @@
         "supervised",
         "classification"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://www.kaggle.com/competitions/geolifeclef-2024/?ref=mlcontests"
       ],
       "launched": "29 Feb 2024",
@@ -1568,7 +1568,7 @@
         "supervised",
         "classification"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://huggingface.co/spaces/BVRA/FungiCLEF2024?ref=mlcontests"
       ],
       "launched": "13 Mar 2024",
@@ -1590,7 +1590,7 @@
         "supervised",
         "classification"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://www.kaggle.com/competitions/bugnist2024fgvc?ref=mlcontests"
       ],
       "launched": "2 Mar 2024",
@@ -1612,7 +1612,7 @@
         "supervised",
         "driving"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://huggingface.co/spaces/AGC2024/mapless-driving-2024?ref=mlcontests"
       ],
       "launched": "25 Mar 2024",
@@ -1635,7 +1635,7 @@
         "supervised",
         "driving"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://huggingface.co/spaces/AGC2024/driving-with-language-2024?ref=mlcontests"
       ],
       "launched": "25 Mar 2024",
@@ -1657,7 +1657,7 @@
         "supervised",
         "driving"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://eval.ai/web/challenges/challenge-page/2098/overview"
       ],
       "launched": "25 Mar 2024",
@@ -1679,7 +1679,7 @@
         "supervised",
         "driving"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://huggingface.co/spaces/AGC2024/visual-grounding-2024?ref=mlcontests"
       ],
       "launched": "25 Mar 2024",
@@ -1701,7 +1701,7 @@
         "supervised",
         "driving"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://huggingface.co/spaces/AGC2024-S/occupancy-and-flow-2024?ref=mlcontests"
       ],
       "launched": "25 Mar 2024",
@@ -1723,7 +1723,7 @@
         "supervised",
         "driving"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://huggingface.co/spaces/AGC2024-P/predictive-world-model-2024?ref=mlcontests"
       ],
       "launched": "25 Mar 2024",
@@ -1746,7 +1746,7 @@
         "driving",
         "reinforcement learning"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://huggingface.co/spaces/AGC2024-P/e2e-driving-2024"
       ],
       "launched": "25 Mar 2024",
@@ -1767,7 +1767,7 @@
         "measurable",
         "supervised"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "14 Mar 2024",
       "registration-deadline": "28 May 2024",
       "deadline": "28 May 2024",
@@ -1793,7 +1793,7 @@
       "platform": "Independent",
       "sponsor": "MM01",
       "conference": null,
-      "conference_year": null,
+      "conference-year": null,
       "data-size": null
     },
     {
@@ -1812,7 +1812,7 @@
       "platform": "Kaggle",
       "sponsor": "CTU Prague",
       "conference": null,
-      "conference_year": null,
+      "conference-year": null,
       "data-size": 4.04
     },
     {
@@ -1898,7 +1898,7 @@
         "satellite",
         "regression"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "15 Mar 2024",
       "registration-deadline": "16 Jun 2024",
       "deadline": "16 Jun 2024",
@@ -1919,7 +1919,7 @@
         "satellite",
         "regression"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "15 Mar 2024",
       "registration-deadline": "23 Jun 2024",
       "deadline": "23 Jun 2024",
@@ -1941,7 +1941,7 @@
         "classification",
         "tabular"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "15 Mar 2024",
       "registration-deadline": "31 May 2024",
       "deadline": "31 May 2024",
@@ -1963,7 +1963,7 @@
         "classification",
         "measurable"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "31 Jan 2024",
       "registration-deadline": "20 Mar 2024",
       "deadline": "11 Apr 2024",
@@ -1982,7 +1982,7 @@
         "vision",
         "nlp"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "27 Feb 2024",
       "registration-deadline": "31 Dec 2024",
       "deadline": "31 Dec 2024",
@@ -2002,7 +2002,7 @@
         "mathematics",
         "classification"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://aimo.xtxmarkets.com/updates"
       ],
       "launched": "1 Apr 2024",
@@ -2023,7 +2023,7 @@
         "measurable",
         "supervised"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://building3d.ucalgary.ca/"
       ],
       "launched": "15 Feb 2024",
@@ -2046,7 +2046,7 @@
         "measurable",
         "supervised"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": null,
       "registration-deadline": "14 Mar 2024",
       "deadline": "14 May 2024",
@@ -2066,7 +2066,7 @@
         "measurable",
         "supervised"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": null,
       "registration-deadline": "14 Mar 2024",
       "deadline": "14 May 2024",
@@ -2086,7 +2086,7 @@
         "measurable",
         "annotation"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": null,
       "registration-deadline": "5 Mar 2024",
       "deadline": "5 Mar 2024",
@@ -2107,7 +2107,7 @@
         "llm",
         "analysis"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "21 Feb 2024",
       "registration-deadline": "14 Apr 2024",
       "deadline": "14 Apr 2024",
@@ -2128,7 +2128,7 @@
         "measurable",
         "llm"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "27 Feb 2024",
       "registration-deadline": "9 Apr 2024",
       "deadline": "16 Apr 2024",
@@ -2149,11 +2149,10 @@
         "measurable",
         "open"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "27 Feb 2024",
       "registration-deadline": "21 Mar 2024",
       "deadline": "21 Mar 2024",
-      "end-date": "10 Apr 2024",
       "prize": "$50,000",
       "platform": "Kaggle",
       "sponsor": "Kaggle",
@@ -2171,7 +2170,7 @@
         "measurable",
         "education"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "17 Jan 2024",
       "registration-deadline": "16 Apr 2024",
       "deadline": "23 Apr 2024",
@@ -2191,7 +2190,7 @@
         "finance",
         "measurable"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "5 Feb 2024",
       "registration-deadline": "29 Apr 2024",
       "deadline": "6 May 2024",
@@ -2212,7 +2211,7 @@
         "nlp",
         "llm"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://tianchi.aliyun.com/competition/entrance/532170"
       ],
       "launched": "4 Jan 2024",
@@ -2236,7 +2235,7 @@
         "medical",
         "timeseries"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "8 Jan 2024",
       "registration-deadline": "1 Apr 2024",
       "deadline": "8 Apr 2024",
@@ -2256,7 +2255,7 @@
         "subjective",
         "multiple"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "15 Jan 2024",
       "deadline": "28 Jun 2024",
       "prize": "$9,000",
@@ -2275,7 +2274,7 @@
         "nlp",
         "supervised"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "10 Jan 2024",
       "deadline": "19 Mar 2024",
       "prize": "$4,200",
@@ -2299,7 +2298,7 @@
       "prize": "$15,000",
       "platform": "MIT",
       "sponsor": "HRT, Jane Street, Spark, Others",
-      "additional_urls": [],
+      "additional-urls": [],
       "conference": null,
       "conference-year": null
     },
@@ -2316,7 +2315,7 @@
       "prize": "$50,000",
       "platform": "Kaggle",
       "sponsor": "Kaggle",
-      "additional_urls": [],
+      "additional-urls": [],
       "conference": null,
       "conference-year": null
     },
@@ -2350,7 +2349,7 @@
       "sponsor": "CISPA, European Lighthouse on Secure and Safe AI",
       "conference": "IEEE SaTML",
       "conference-year": 2024,
-      "additional_urls": [
+      "additional-urls": [
         "https://ctf.spylab.ai/static/rules.pdf",
         "https://satml.org/participate-competitions/"
       ]
@@ -2370,7 +2369,7 @@
       "sponsor": "CISPA, European Lighthouse on Secure and Safe AI",
       "conference": "IEEE SaTML",
       "conference-year": 2024,
-      "additional_urls": [
+      "additional-urls": [
         "https://ctf.spylab.ai/static/rules.pdf",
         "https://satml.org/participate-competitions/"
       ]
@@ -2482,7 +2481,7 @@
         "subjective",
         "analysis"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "13 Oct 2023",
       "registration-deadline": "8 Jan 2024",
       "deadline": "8 Jan 2024",
@@ -2503,7 +2502,7 @@
         "vision",
         "interpretability"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "22 Sep 2023",
       "registration-deadline": "22 Mar 2024",
       "deadline": "22 Mar 2024",
@@ -2523,7 +2522,7 @@
         "supervised",
         "nlp"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "2 Oct 2023",
       "registration-deadline": "2 Jan 2024",
       "deadline": "9 Jan 2024",
@@ -2542,7 +2541,7 @@
         "geo",
         "measurable"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "12 Sep 2023",
       "registration-deadline": "16 May 2024",
       "deadline": "23 May 2024",
@@ -2562,7 +2561,7 @@
         "medical",
         "science"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "1 Sep 2023",
       "registration-deadline": "17 Jan 2024",
       "deadline": "31 Jan 2024",
@@ -2579,7 +2578,7 @@
         "security",
         "subjective"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "13 Dec 2023",
       "registration-deadline": "30 Apr 2023",
       "deadline": "30 Apr 2024",
@@ -2603,7 +2602,7 @@
       "prize": "$1,500",
       "platform": "Trustii",
       "sponsor": "Trustii",
-      "additional_urls": [
+      "additional-urls": [
         "https://app.trustii.io",
         "https://www.data.gouv.fr/en/datasets/resultats-des-controles-officiels-sanitaires-dispositif-dinformation-alimconfiance/?reuses_page=1#community-reuses"
       ],
@@ -2664,7 +2663,7 @@
         "geo",
         "3d"
       ],
-      "additional_urls": [],
+      "additional-urls": [],
       "launched": "22 Nov 2023",
       "registration-deadline": "8 Jan 2024",
       "deadline": "8 Jan 2024",
@@ -2941,7 +2940,7 @@
       "prize": "$8,300",
       "platform": "Algotester",
       "sponsor": "HUAWEI",
-      "additional_urls": [
+      "additional-urls": [
         "https://algotester.com/en/Contest/Display/110635",
         "https://algotester.com/en/ContestProblem/DisplayWithFile/135254"
       ]
@@ -3011,7 +3010,7 @@
       "platform": "Kaggle",
       "sponsor": "Kaggle",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Classify Lumbar Spine Degenerative Conditions from MRIs",
@@ -3030,7 +3029,7 @@
       "platform": "Kaggle",
       "sponsor": "RSNA",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Denoise 3D Seismic Volumes",
@@ -3198,7 +3197,7 @@
       "platform": "Zindi",
       "sponsor": "Google DeepMind",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify Diseases on Crops",
@@ -3220,7 +3219,7 @@
       "platform": "Zindi",
       "sponsor": "FAIR Forward, Deutsche GIZ",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Health Status of Crops",
@@ -3240,7 +3239,7 @@
       "platform": "Zindi",
       "sponsor": "Deutsche GIZ",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Customer Loan Defaults",
@@ -3260,7 +3259,7 @@
       "platform": "Zindi",
       "sponsor": null,
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Detect Cyclone Damage in Satellite Data",
@@ -3282,7 +3281,7 @@
       "platform": "Zindi",
       "sponsor": "AWS",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Waterborne Disease Outbreaks",
@@ -3304,7 +3303,7 @@
       "platform": "Zindi",
       "sponsor": "AWS",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identifying Deforestation Drivers",
@@ -3360,7 +3359,7 @@
       "platform": "Kaggle",
       "sponsor": "CZ Imaging Institute",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Re-order Text to Minimise Perplexity",
@@ -3379,7 +3378,7 @@
       "platform": "Kaggle",
       "sponsor": null,
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Human Preferences on Multi-lingual Chatbots",
@@ -3396,7 +3395,7 @@
       "platform": "Kaggle",
       "sponsor": "Chatbot Arena",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Create Efficient Chess Bots",
@@ -3414,7 +3413,7 @@
       "platform": "Kaggle",
       "sponsor": "Fédération Internationale des Echecs (FIDE)",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Create Adversarial Essays for LLM Judges",
@@ -3431,7 +3430,7 @@
       "platform": "Kaggle",
       "sponsor": null,
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Geological Image Segmentation",
@@ -3451,7 +3450,7 @@
       "platform": "ThinkOnward",
       "sponsor": null,
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict HCT Transplant Survival Rates",
@@ -3469,7 +3468,7 @@
       "platform": "Kaggle",
       "sponsor": "CIBMTR",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Build a Model That Solves Real GitHub Issues",
@@ -3488,7 +3487,7 @@
       "platform": "Kaggle",
       "sponsor": "Andy Konwinski",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Cassava Root Volume Estimation Challenge",
@@ -3506,7 +3505,7 @@
       "platform": "Zindi",
       "sponsor": "CGIAR",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify Diseases on Cocoa Leaves",
@@ -3524,7 +3523,7 @@
       "platform": "Zindi",
       "sponsor": "Amini",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify Solar Panels in Overhead Images",
@@ -3543,7 +3542,7 @@
       "platform": "Zindi",
       "sponsor": "Lacuna Fund, MAIDI",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Power Outages",
@@ -3590,7 +3589,7 @@
       "platform": "Kaggle",
       "sponsor": "Kaggle",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Generate Temporally Aligned Audio and Video",
@@ -3671,7 +3670,7 @@
       "platform": "Kaggle",
       "sponsor": "Kaggle",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Program Robots to Navigate Autonomously",
@@ -3688,7 +3687,7 @@
       "platform": "In-person",
       "sponsor": "Clearpath Robotics",
       "conference": "ICRA",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Fly Drones in Simulation and Real Life",
@@ -3705,7 +3704,7 @@
       "platform": "In-person",
       "sponsor": "MathWorks",
       "conference": "ICRA",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Robot Arm Sim2Real Competition",
@@ -3722,7 +3721,7 @@
       "platform": "In-person",
       "sponsor": "Discover Robotics",
       "conference": "ICRA",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Predict RNA Sequence Structure",
@@ -3739,7 +3738,7 @@
       "platform": "Kaggle",
       "sponsor": "Stanford University",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify People From Silhouettes in Videos",
@@ -3757,8 +3756,8 @@
       "platform": "CodaLab",
       "sponsor": "Watrix Technology",
       "conference": "IJCB",
-      "conference_year": 2025,
-      "additional_urls": [
+      "conference-year": 2025,
+      "additional-urls": [
         "https://hid.iapr-tc4.org/"
       ]
     },
@@ -3780,7 +3779,7 @@
       "platform": "Kaggle",
       "sponsor": "Brigham Young University",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "BirdCLEF+ 2025: Identify Animal Species From Audio",
@@ -3799,7 +3798,7 @@
       "platform": "Kaggle",
       "sponsor": "Cornell Lab of Ornithology",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Detect Vacant Land in Satellite Images",
@@ -3835,7 +3834,7 @@
       "platform": "Kaggle",
       "sponsor": "ARC Prize Foundation",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Reconstruct 3D Scenes From 2D Image Collections",
@@ -3855,7 +3854,7 @@
       "platform": "Kaggle",
       "sponsor": "Czech Technical University in Prague",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict U.S. Engineering Salaries",
@@ -3874,7 +3873,7 @@
       "platform": "Bitgrit",
       "sponsor": null,
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Future Positions of 2 Road-Based Agents",
@@ -3975,7 +3974,7 @@
       "platform": "Kaggle",
       "sponsor": "Yale University",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Classify Crops in Côte d’Ivoire Satellite Imagery",
@@ -3993,7 +3992,7 @@
       "platform": "Zindi",
       "sponsor": "Digital Africa",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Detect Fake Crypto Wallets",
@@ -4012,13 +4011,13 @@
       "prize": "$20,000",
       "platform": "Pond",
       "sponsor": "Human Passport, Octant, Ethereum Foundation",
-      "additional_urls": [
+      "additional-urls": [
         "https://ethereum.foundation/",
         "https://x.com/HumnPassport",
         "https://x.com/OctantApp"
       ],
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Classification for Landslide Detection",
@@ -4037,7 +4036,7 @@
       "platform": "Zindi",
       "sponsor": "ITU",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Classify Microbiome Samples",
@@ -4055,7 +4054,7 @@
       "platform": "Zindi",
       "sponsor": "Philips",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Seismic Wave Velocity",
@@ -4086,7 +4085,7 @@
       "launched": "14 May 2025",
       "registration-deadline": "20 Sep 2025",
       "deadline": "25 Sep 2025",
-      "additional_urls": [
+      "additional-urls": [
         "https://www.adialab.ae/structural-break-challenge"
       ],
       "prize": "$100,000",
@@ -4111,7 +4110,7 @@
       "platform": "Kaggle",
       "sponsor": "OpenAI",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Edit Formal Maths Proofs Based on Instructions",
@@ -4126,13 +4125,13 @@
       "registration-deadline": "1 Jul 2025",
       "deadline": "1 Jul 2025",
       "prize": null,
-      "additional_urls": [
+      "additional-urls": [
         "https://sites.google.com/view/ai4mathworkshopicml2025/challenge"
       ],
       "platform": "Codabench",
       "sponsor": null,
       "conference": "ICML",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Answer Physics Exam Questions",
@@ -4148,13 +4147,13 @@
       "registration-deadline": "1 Jul 2025",
       "deadline": "1 Jul 2025",
       "prize": null,
-      "additional_urls": [
+      "additional-urls": [
         "https://sites.google.com/view/ai4mathworkshopicml2025/challenge"
       ],
       "platform": "Codabench",
       "sponsor": null,
       "conference": "ICML",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Demonstrate Innovative Uses of AI",
@@ -4171,7 +4170,7 @@
       "platform": "DEVPOST",
       "sponsor": "HP, NVIDIA",
       "conference": null,
-      "conference_year": null,
+      "conference-year": null,
       "note": "This competition is open to U.S. residents only"
     },
     {
@@ -4190,7 +4189,7 @@
       "platform": "Kaggle",
       "sponsor": "Child Mind Institute",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Share Insights Based on Meta Kaggle Data",
@@ -4208,7 +4207,7 @@
       "platform": "Kaggle",
       "sponsor": "Kaggle",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Classify Crop Types Using Geospatial Foundation Models",
@@ -4227,7 +4226,7 @@
       "platform": "Zindi",
       "sponsor": "Amini",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Cropland Mapping in Dry Environments",
@@ -4246,7 +4245,7 @@
       "platform": "Zindi",
       "sponsor": "ITU",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Short-term Crypto Price Movements",
@@ -4266,7 +4265,7 @@
       "platform": "Kaggle",
       "sponsor": "DRW",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Build an Efficient Swahili Speech Recognition Model",
@@ -4287,7 +4286,7 @@
       "platform": "Zindi",
       "sponsor": "ITU",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Air Pollution Prediction Challenge",
@@ -4306,7 +4305,7 @@
       "platform": "Bitgrit",
       "sponsor": "Bitgrit",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Classify References in Academic Papers",
@@ -4324,7 +4323,7 @@
       "platform": "Kaggle",
       "sponsor": "Make Data Count",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Extract Useful Data From Scanned Survey Plans",
@@ -4343,7 +4342,7 @@
       "platform": "Zindi",
       "sponsor": "Lands and Surveys Department, Barbados",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Fundamental Properties of Polymers",
@@ -4362,8 +4361,8 @@
       "platform": "Kaggle",
       "sponsor": "University of Notre Dame",
       "conference": "NeurIPS",
-      "conference_year": 2025,
-      "additional_urls": [
+      "conference-year": 2025,
+      "additional-urls": [
         "https://open-polymer-challenge.github.io/"
       ]
     },
@@ -4384,7 +4383,7 @@
       "platform": "Zindi",
       "sponsor": "Philips",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Data Storytelling: Water Security, Agriculture and Health",
@@ -4404,7 +4403,7 @@
       "platform": "Zindi",
       "sponsor": "Alliance of Bioversity & CIAT, data.org",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Speech Detection From Brain Signals",
@@ -4424,8 +4423,8 @@
       "platform": "EvalAI",
       "sponsor": "LibriBrain/Various",
       "conference": "NeurIPS",
-      "conference_year": 2025,
-      "additional_urls": [
+      "conference-year": 2025,
+      "additional-urls": [
         "https://neural-processing-lab.github.io/2025-libribrain-competition/"
       ]
     },
@@ -4446,8 +4445,8 @@
       "platform": "EvalAI",
       "sponsor": "LibriBrain/Various",
       "conference": "NeurIPS",
-      "conference_year": 2025,
-      "additional_urls": [
+      "conference-year": 2025,
+      "additional-urls": [
         "https://neural-processing-lab.github.io/2025-libribrain-competition/"
       ]
     },
@@ -4467,7 +4466,7 @@
       "platform": "Independent",
       "sponsor": "Memorial Sloan Kettering Cancer Center",
       "conference": "NeurIPS",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Develop Multilingual Search Technologies",
@@ -4486,7 +4485,7 @@
       "platform": "Tianchi",
       "sponsor": "Alibaba",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Data Storytelling Challenge: Crop Pests and Diseases",
@@ -4506,7 +4505,7 @@
       "platform": "Zindi",
       "sponsor": "Alliance of Bioversity & CIAT, data.org",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Barbados Traffic Analysis Challenge",
@@ -4522,7 +4521,7 @@
       "platform": "Zindi",
       "sponsor": "Lands and Surveys Department, Barbados",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Data Storytelling Challenge: Soil Health and Food Security",
@@ -4542,7 +4541,7 @@
       "platform": "Zindi",
       "sponsor": "Alliance of Bioversity & CIAT, data.org",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Gemma 3n Product Hackathon",
@@ -4560,7 +4559,7 @@
       "platform": "Kaggle",
       "sponsor": "Google DeepMind",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Data Storytelling Challenge: Infectious Diseases",
@@ -4580,7 +4579,7 @@
       "platform": "Zindi",
       "sponsor": "Alliance of Bioversity & CIAT, data.org",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Automate Therapeutic Decision-Making",
@@ -4598,8 +4597,8 @@
       "platform": "Kaggle",
       "sponsor": "Various",
       "conference": "NeurIPS",
-      "conference_year": 2025,
-      "additional_urls": [
+      "conference-year": 2025,
+      "additional-urls": [
         "https://www.kaggle.com/competitions/cure-bench"
       ]
     },
@@ -4620,7 +4619,7 @@
       "platform": "Kaggle",
       "sponsor": "The Learning Agency Lab",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Data Storytelling Challenge: Rainfall",
@@ -4640,7 +4639,7 @@
       "platform": "Zindi",
       "sponsor": "Alliance of Bioversity & CIAT, data.org",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Weekly Maize Prices",
@@ -4658,7 +4657,7 @@
       "platform": "Zindi",
       "sponsor": "Digital Africa, agriBORA",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Improve Benchmarks for Early Training in LLMs",
@@ -4675,8 +4674,8 @@
       "platform": "Hugging Face",
       "sponsor": "Various",
       "conference": "NeurIPS",
-      "conference_year": 2025,
-      "additional_urls": [
+      "conference-year": 2025,
+      "additional-urls": [
         "https://huggingface.co/spaces/e2lmc-competition/leaderboard"
       ]
     },
@@ -4697,7 +4696,7 @@
       "platform": "Independent",
       "sponsor": "Various",
       "conference": "NeurIPS",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Build LLM Agents With Social Intelligence",
@@ -4715,7 +4714,7 @@
       "platform": "Independent",
       "sponsor": "Various",
       "conference": "NeurIPS",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Automated Visual Navigation",
@@ -4733,7 +4732,7 @@
       "platform": "Independent",
       "sponsor": "Various",
       "conference": "NeurIPS",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Build Competitive Pokémon Agents",
@@ -4751,7 +4750,7 @@
       "platform": "Independent",
       "sponsor": null,
       "conference": "NeurIPS",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Build Fair Face Detection Models",
@@ -4769,8 +4768,8 @@
       "platform": "Codabench",
       "sponsor": null,
       "conference": "NeurIPS",
-      "conference_year": 2025,
-      "additional_urls": [
+      "conference-year": 2025,
+      "additional-urls": [
         "https://www.codabench.org/competitions/7166/"
       ]
     },
@@ -4791,7 +4790,7 @@
       "platform": "Kaggle",
       "sponsor": "Jigsaw/Conversation AI",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify Handwritten Words in Historical Records",
@@ -4811,7 +4810,7 @@
       "platform": "Zindi",
       "sponsor": "ROAD",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Data Storytelling Challenge: Forest Cover",
@@ -4831,7 +4830,7 @@
       "platform": "Zindi",
       "sponsor": "Alliance of Bioversity & CIAT, data.org",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Commodity Price Movements",
@@ -4851,7 +4850,7 @@
       "platform": "Kaggle",
       "sponsor": "MITSUI & CO., LTD.",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Detect Intracranial Aneurysms in Images",
@@ -4870,7 +4869,7 @@
       "platform": "Kaggle",
       "sponsor": "Radiological Society of North America",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Solve ARC Problems With Minimal Code",
@@ -4887,11 +4886,11 @@
       "prize": "$100,000",
       "platform": "Kaggle",
       "sponsor": "Google DeepMind",
-      "additional_urls": [
+      "additional-urls": [
         "https://sites.google.com/corp/view/neurips-2025-code-golf"
       ],
       "conference": "NeurIPS",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Find Vulnerabilities in OpenAI gpt-oss-20b",
@@ -4911,7 +4910,7 @@
       "platform": "Kaggle",
       "sponsor": "OpenAI",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Tree Canopy Detection",
@@ -4931,7 +4930,7 @@
       "platform": "Solafune",
       "sponsor": null,
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Rainfall and Severe Weather Prediction",
@@ -4951,7 +4950,7 @@
       "platform": "Independent",
       "sponsor": null,
       "conference": "NeurIPS",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Use BigQuery to Solve Data Problems",
@@ -4971,7 +4970,7 @@
       "platform": "Kaggle",
       "sponsor": "Google Cloud",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Daily Stock Index Returns",
@@ -4991,7 +4990,7 @@
       "platform": "Kaggle",
       "sponsor": "Hull Tactical",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Real Estate Demand Prediction",
@@ -5010,7 +5009,7 @@
       "platform": "Kaggle",
       "sponsor": null,
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "EEG Data Prediction",
@@ -5023,7 +5022,7 @@
         "measurable",
         "supervised"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://eeg2025.github.io"
       ],
       "launched": "1 Aug 2025",
@@ -5033,7 +5032,7 @@
       "platform": "Codabench",
       "sponsor": "Meta",
       "conference": "NeurIPS",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Create Robust Multi-Modal RAG Systems",
@@ -5054,7 +5053,7 @@
       "platform": "Independent",
       "sponsor": "AWS",
       "conference": "NeurIPS",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Humanoid Soccer and Table Tennis in Simulation",
@@ -5067,7 +5066,7 @@
         "measurable",
         "control"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2025?ref=mlcontests"
       ],
       "launched": "1 Aug 2025",
@@ -5090,7 +5089,7 @@
         "measurable",
         "control"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://neurips25-eai.github.io/?ref=mlcontests"
       ],
       "launched": "15 Aug 2025",
@@ -5120,8 +5119,8 @@
       "platform": "Codabench",
       "sponsor": "RPI, Codabench, AvaLabs",
       "conference": "ICAIF",
-      "conference_year": 2025,
-      "additional_urls": [
+      "conference-year": 2025,
+      "additional-urls": [
         "https://finsurvival.github.io/",
         "https://icaif25.org"
       ]
@@ -5142,7 +5141,7 @@
       "platform": "Zindi",
       "sponsor": "French Embassy in Ghana",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Propose Ways to Measure AI Model Environmental Footprint",
@@ -5160,7 +5159,7 @@
       "platform": "Zindi",
       "sponsor": "ITU",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Detecting Energy Flexibility in Buildings",
@@ -5198,7 +5197,7 @@
       "platform": "Codabench",
       "sponsor": "MAFAT",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Weak Lensing ML Uncertainty Challenge",
@@ -5210,7 +5209,7 @@
         "regression",
         "measurable"
       ],
-      "additional_urls": [
+      "additional-urls": [
         "https://fair-universe.lbl.gov/?ref=mlcontests"
       ],
       "launched": "24 Aug 2025",
@@ -5220,7 +5219,7 @@
       "platform": "Codabench",
       "sponsor": "FAIR Universe",
       "conference": "NeurIPS",
-      "conference_year": 2025
+      "conference-year": 2025
     },
     {
       "name": "Recognise Behaviours in Videos of Mice",
@@ -5241,7 +5240,7 @@
       "platform": "Kaggle",
       "sponsor": "MABe Challenge",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Analyse NFL Player Movement Data",
@@ -5259,7 +5258,7 @@
       "platform": "Kaggle",
       "sponsor": "The NFL",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict NFL Player Movement",
@@ -5278,7 +5277,7 @@
       "platform": "Kaggle",
       "sponsor": "The NFL",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Plan Warehouse Inventory to Minimise Cost",
@@ -5299,7 +5298,7 @@
       "platform": "DataSource.ai",
       "sponsor": "Supchains",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "CAFA 6: Predict Protein Function",
@@ -5319,7 +5318,7 @@
       "platform": "Kaggle",
       "sponsor": "Critical Assessment of Functional Annotation",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Fuel Burnt by Aircraft Per Flight Segment",
@@ -5339,7 +5338,7 @@
       "platform": "Independent",
       "sponsor": "EUROCONTROL Performance Review Commission (PRC)",
       "launched": "1 Oct 2025",
-      "additional_urls": [
+      "additional-urls": [
         "https://ansperformance.eu/study/data-challenge/",
         "https://ansperformance.eu/study/data-challenge/dc2025/data.html",
         "https://ansperformance.eu/study/data-challenge/dc2025/submission.html",
@@ -5370,7 +5369,7 @@
       "platform": "Kaggle",
       "sponsor": "PhysioNet",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Detect Image Forgeries in Biomedical Research",
@@ -5391,7 +5390,7 @@
       "platform": "Kaggle",
       "sponsor": "Recod.AI",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Biomass from Images",
@@ -5411,7 +5410,7 @@
       "platform": "Kaggle",
       "sponsor": "CSIRO",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Post-train Gemma Models to Output Reasoning Traces",
@@ -5429,7 +5428,7 @@
       "platform": "Kaggle",
       "sponsor": "Google Cloud",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Papyrus Scroll 3D Surface Segmentation",
@@ -5449,7 +5448,7 @@
       "platform": "Kaggle",
       "sponsor": "Vesuvius Challenge",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Santa 2025 - Optimally Pack Christmas Trees",
@@ -5465,7 +5464,7 @@
       "platform": "Kaggle",
       "sponsor": "Kaggle",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "AI Math Olympiad Progress Prize 3",
@@ -5483,7 +5482,7 @@
       "platform": "Kaggle",
       "sponsor": "AI|MO",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Detect and Explain Telco Network Failures",
@@ -5503,7 +5502,7 @@
       "platform": "Zindi",
       "sponsor": "Various",
       "conference": "MWC Barcelona",
-      "conference_year": 2026
+      "conference-year": 2026
     },
     {
       "name": "Predict Construction Costs",
@@ -5523,7 +5522,7 @@
       "platform": "Solafune",
       "sponsor": null,
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Infer Heat Sources from Thermal Patterns",
@@ -5543,7 +5542,7 @@
       "platform": "ThinkOnward",
       "sponsor": null,
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Agentic Pay Zone Identification in Well Logs",
@@ -5560,7 +5559,7 @@
       "platform": "ThinkOnward",
       "sponsor": null,
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Shopping Basket Recommendation",
@@ -5578,7 +5577,7 @@
       "platform": "Zindi",
       "sponsor": "Digital Africa",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Build Speech Recognition Systems for Caribbean Voices",
@@ -5596,7 +5595,7 @@
       "platform": "Zindi",
       "sponsor": "UWI AI Innovation Centre, CIBC, Infolytics, Data Axis, CTU",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify Urban Heat Islands on Satellite Data",
@@ -5615,7 +5614,7 @@
       "platform": "Zindi",
       "sponsor": "EY",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict The Financial Wellbeing of Small Businesses",
@@ -5633,7 +5632,7 @@
       "platform": "Zindi",
       "sponsor": "data.org",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Forecast Water Quality",
@@ -5652,7 +5651,7 @@
       "platform": "Zindi",
       "sponsor": "EY",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Assess Rice Quality from Images",
@@ -5670,7 +5669,7 @@
       "platform": "Zindi",
       "sponsor": "UNIDO",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Train LLMs to Play Chess",
@@ -5729,7 +5728,7 @@
       "platform": "Kaggle",
       "sponsor": "Deep Past Initiative",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Farming Practices",
@@ -5747,7 +5746,7 @@
       "platform": "Zindi",
       "sponsor": "Digital Africa",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Flood Modelling to predict water level",
@@ -5765,7 +5764,7 @@
       "platform": "Kaggle",
       "sponsor": null,
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict the 3D Structure of RNA Molecules",
@@ -5785,7 +5784,7 @@
       "platform": "Kaggle",
       "sponsor": "Stanford University",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Price Movements from Order Book States",
@@ -5806,7 +5805,7 @@
       "platform": "Independent",
       "sponsor": "Wunder Fund",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "AI Agents Hackathon",
@@ -5823,7 +5822,7 @@
       "platform": "Independent",
       "sponsor": "Comet, Google DeepMind, Vercel",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Build Applications With The Open-Weights MedGemma Model",
@@ -5840,7 +5839,7 @@
       "platform": "Kaggle",
       "sponsor": "Google Research",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Soil Nutrients From Geospatial Data",
@@ -5860,7 +5859,7 @@
       "platform": "Zindi",
       "sponsor": "Digital Africa",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Recognise Words Spoken by Children in Audio Clips",
@@ -5879,7 +5878,7 @@
       "platform": "DrivenData",
       "sponsor": "Gates Foundation",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Build Apps for Rice Quality Assessment",
@@ -5896,7 +5895,7 @@
       "platform": "Zindi",
       "sponsor": "UNIDO",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Recognise Speech Sounds Made by Children in Audio Clips",
@@ -5915,7 +5914,7 @@
       "platform": "DrivenData",
       "sponsor": "Gates Foundation",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Frog Species from Climate Variables",
@@ -5934,7 +5933,7 @@
       "platform": "Zindi",
       "sponsor": "EY",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "March ML Mania: Forecast College Basketball Tournaments",
@@ -5951,7 +5950,7 @@
       "platform": "Kaggle",
       "sponsor": "Kaggle",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify LLM Failure Modes in African Contexts",
@@ -5968,7 +5967,7 @@
       "platform": "Zindi",
       "sponsor": "CASSAVA, AMINI, meetkai, Qhala, LELAPA AI, MTN",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "BirdCLEF+ 2026:  Identify Animal Species From Audio",
@@ -5986,7 +5985,7 @@
       "platform": "Kaggle",
       "sponsor": "Cornell Lab of Ornithology",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Classify Climate-sensitive Deaths",
@@ -6005,7 +6004,7 @@
       "platform": "Zindi",
       "sponsor": "AI4EAC",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Household Financial Stress",
@@ -6023,7 +6022,7 @@
       "platform": "Zindi",
       "sponsor": "AI4EAC",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Recommend Occupations Based on Skills",
@@ -6041,7 +6040,7 @@
       "platform": "Zindi",
       "sponsor": "AI4EAC",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify Safety-Critical Driving Scenarios",
@@ -6062,7 +6061,7 @@
       "sponsor": "Argo AI",
       "conference": "CVPR",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://eval.ai/web/challenges/challenge-page/2484/overview"
       ]
     },
@@ -6082,7 +6081,7 @@
       "sponsor": null,
       "conference": "CVPR",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://huggingface.co/spaces/BuildingWorld/BuildingWorldChallenge"
       ]
     },
@@ -6102,7 +6101,7 @@
       "sponsor": "Spiideo",
       "conference": "CVPR",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://www.soccer-net.org/challenges/2026"
       ]
     },
@@ -6124,7 +6123,7 @@
       "sponsor": "Game On Technologies",
       "conference": "CVPR",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://www.soccer-net.org/challenges/2026"
       ]
     },
@@ -6145,7 +6144,7 @@
       "sponsor": "KNQ Technology",
       "conference": "CVPR",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://www.soccer-net.org/challenges/2026"
       ]
     },
@@ -6167,7 +6166,7 @@
       "sponsor": "Footovision",
       "conference": "CVPR",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://www.soccer-net.org/challenges/2026"
       ]
     },
@@ -6187,7 +6186,7 @@
       "sponsor": "EVS Broadcast Equipment",
       "conference": "CVPR",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://www.soccer-net.org/challenges/2026?ref=mlcontests"
       ]
     },
@@ -6209,7 +6208,7 @@
       "platform": "Kaggle",
       "sponsor": "NVIDIA",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify Bean Plants in Images",
@@ -6227,7 +6226,7 @@
       "platform": "Zindi",
       "sponsor": "AI4EAC",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Design Benchmarks to Test Cognitive Abilities",
@@ -6244,7 +6243,7 @@
       "platform": "Kaggle",
       "sponsor": "Google DeepMind",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Solar Radiation at Weather Stations",
@@ -6263,7 +6262,7 @@
       "platform": "Zindi",
       "sponsor": "Google DeepMind",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "ARC Prize 2026 - ARC-AGI-2",
@@ -6281,7 +6280,7 @@
       "platform": "Kaggle",
       "sponsor": "ARC Prize",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Bank Transaction Volume from Behavioural Signals",
@@ -6300,7 +6299,7 @@
       "platform": "Zindi",
       "sponsor": "Nedbank",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "ARC Prize 2026 - ARC-AGI-3",
@@ -6318,7 +6317,7 @@
       "platform": "Kaggle",
       "sponsor": "ARC Prize",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Build AI Agents for Telecom Network Troubleshooting",
@@ -6335,7 +6334,7 @@
       "platform": "Zindi",
       "sponsor": "HUAWEI",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Multilingual Health QA in Low-Resource African Languages",
@@ -6354,7 +6353,7 @@
       "platform": "Zindi",
       "sponsor": "ITU, Hash",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "ARC Prize 2026 - Paper Track",
@@ -6371,7 +6370,7 @@
       "platform": "Kaggle",
       "sponsor": "ARC Prize",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Use Gemma 4 Models to Solve Real-World Problems",
@@ -6388,7 +6387,7 @@
       "platform": "Kaggle",
       "sponsor": "Google DeepMind",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Build Tiny Neural Nets to Solve Visual Reasoning Tasks",
@@ -6407,7 +6406,7 @@
       "platform": "Kaggle",
       "sponsor": "The Neurosynthetic Research Institute",
       "conference": "IJCAI-ECAI",
-      "conference_year": 2026
+      "conference-year": 2026
     },
     {
       "name": "Create Bots to Play a Space-Based 2D Strategy Game",
@@ -6425,7 +6424,7 @@
       "platform": "Kaggle",
       "sponsor": "Kaggle",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Geology in Horizontal Subsurface Segments",
@@ -6444,7 +6443,7 @@
       "platform": "Kaggle",
       "sponsor": "ROGII",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify Harmful LLM Outputs",
@@ -6462,7 +6461,7 @@
       "platform": "Bitgrit",
       "sponsor": "Bitgrit",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Automatic Speech Recognition for African Languages",
@@ -6479,7 +6478,7 @@
       "platform": "Zindi",
       "sponsor": "Google Research",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Find Multi-step AI Agent Attack Paths",
@@ -6496,7 +6495,7 @@
       "platform": "Kaggle",
       "sponsor": "OpenAI",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify Aquaculture Ponds in Satellite Imagery",
@@ -6514,7 +6513,7 @@
       "platform": "Zindi",
       "sponsor": "ITU",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "AI Questions Blog Prize",
@@ -6530,7 +6529,7 @@
       "platform": "Independent",
       "sponsor": "Dwarkesh Patel",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Build Models to Transcribe Handwritten Historical Records",
@@ -6548,7 +6547,7 @@
       "platform": "Zindi",
       "sponsor": "Reclaiming Our Atlantic Destinity (R.O.A.D.)",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Detect Visual Anomalies in Industrial and Retail Images",
@@ -6567,7 +6566,7 @@
       "sponsor": "Amazon, Intel, MVTec, Voxel51",
       "conference": "CVPR",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://www.codabench.org/competitions/14156/"
       ]
     },
@@ -6587,7 +6586,7 @@
       "sponsor": "SANS Institute",
       "conference": null,
       "conference-year": null,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Segment Head and Neck Tumors for Staging and Prognosis",
@@ -6605,7 +6604,7 @@
       "sponsor": "Amazon Web Services",
       "conference": "MICCAI",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Build Foundation Models for Brain MRI Analysis",
@@ -6623,7 +6622,7 @@
       "sponsor": null,
       "conference": "MICCAI",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Classify and Segment Intracranial Aneurysms",
@@ -6642,7 +6641,7 @@
       "sponsor": null,
       "conference": "MICCAI",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Analyse Mitral Valve Anatomy from Multimodal Imaging",
@@ -6660,7 +6659,7 @@
       "sponsor": null,
       "conference": "MICCAI",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Build Systems for Multilingual Conversational Speech",
@@ -6680,7 +6679,7 @@
       "sponsor": "Huawei Technologies",
       "conference": "INTERSPEECH",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Build Conversational Music Recommender Systems",
@@ -6698,7 +6697,7 @@
       "sponsor": "Various",
       "conference": "RecSys",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://www.codabench.org/competitions/15786/",
         "https://recsys.acm.org/recsys26/challenge/"
       ],
@@ -6721,7 +6720,7 @@
       "sponsor": "Various",
       "conference": "ICML",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://www.codabench.org/competitions/16104/",
         "https://www.codabench.org/competitions/16161/",
         "https://www.codabench.org/competitions/16010/"
@@ -6745,7 +6744,7 @@
       "sponsor": "Microblink",
       "conference": "IJCAI-ECAI",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://www.kaggle.com/competitions/the-freuid-challenge-2026-ijcai-ecai/overview"
       ],
       "added": "9 Jun 2026"
@@ -6768,7 +6767,7 @@
       "sponsor": "ARC",
       "conference": null,
       "conference-year": null,
-      "additional_urls": [
+      "additional-urls": [
         "https://www.alignmentforum.org/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge"
       ]
     },
@@ -6790,7 +6789,7 @@
       "sponsor": "Alibaba Cloud",
       "conference": null,
       "conference-year": null,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Build Intelligent Agents with Microsoft Azure",
@@ -6810,7 +6809,7 @@
       "sponsor": "Microsoft",
       "conference": null,
       "conference-year": null,
-      "additional_urls": [
+      "additional-urls": [
         "https://github.com/microsoft/Agents-League-AISF-Regulations"
       ]
     },
@@ -6832,7 +6831,7 @@
       "sponsor": "Splunk",
       "conference": null,
       "conference-year": null,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Build AI Data Agents for Data Analysis",
@@ -6853,7 +6852,7 @@
       "sponsor": "Tsinghua University",
       "conference": "KDD",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Segment Lesions in Whole-Body Scans",
@@ -6873,7 +6872,7 @@
       "sponsor": null,
       "conference": "MICCAI",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Detect Rare Early-Stage Cancers in Endoscopy",
@@ -6893,7 +6892,7 @@
       "sponsor": null,
       "conference": "MICCAI",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Segment and Plan Pelvic Fracture Repair",
@@ -6913,7 +6912,7 @@
       "sponsor": null,
       "conference": "MICCAI",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Generate Diagnostic Reports from Pathology Slides",
@@ -6934,7 +6933,7 @@
       "sponsor": null,
       "conference": "MICCAI",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Precipitation Nowcasting From Space",
@@ -6968,7 +6967,7 @@
       ],
       "launched": "19 May 2025",
       "deadline": "17 Aug 2026",
-      "additional_urls": [
+      "additional-urls": [
         "https://xprize.devpost.com/"
       ],
       "prize": "$2,000,000",
@@ -6995,8 +6994,8 @@
       "platform": "Kaggle",
       "sponsor": "The Pokémon Company",
       "conference": null,
-      "conference_year": null,
-      "additional_urls": [
+      "conference-year": null,
+      "additional-urls": [
         "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle"
       ]
     },
@@ -7019,7 +7018,7 @@
       "sponsor": "Organizer",
       "conference": "IJCAI",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://2026.ijcai.org/competitions/",
         "https://www.kaggle.com/competitions/industrial-automation-challenge-track-1?ref=mlcontests"
       ]
@@ -7043,7 +7042,7 @@
       "platform": "Kaggle",
       "sponsor": "Biohub",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Identify Reef Fish Species with Computer Vision Models",
@@ -7061,7 +7060,7 @@
       "platform": "Zindi",
       "sponsor": "Fairytale, bluebot, GovTech, INFOLYTICS",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Predict Student Learning Outcomes from Tutoring Transcripts",
@@ -7082,7 +7081,7 @@
       "sponsor": "National Tutoring Observatory",
       "conference": null,
       "conference-year": null,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Fine-Tune Domain-Specific LLMs",
@@ -7102,7 +7101,7 @@
       "sponsor": "Adaption Labs",
       "conference": null,
       "conference-year": null,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Build Smart, Reliable Email Agents",
@@ -7125,7 +7124,7 @@
       "sponsor": "WithAI",
       "conference": null,
       "conference-year": null,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Design Physics Experiments for Gravitational Waves",
@@ -7145,7 +7144,7 @@
       "sponsor": "SPRIN-D",
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Infer Fusion Reactor Magnetic Geometry",
@@ -7163,7 +7162,7 @@
       "sponsor": "Sophelio, General Atomics, UKAEA, UT Austin",
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "RealPDE: Scientific ML for Real-World Physical Systems",
@@ -7183,7 +7182,7 @@
       "sponsor": "Uniforce AI",
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://www.codabench.org/competitions/17363/",
         "https://www.codabench.org/competitions/17385/"
       ]
@@ -7206,7 +7205,7 @@
       "sponsor": "US Department of Energy",
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://fair-universe.lbl.gov/?ref=mlcontests"
       ]
     },
@@ -7227,7 +7226,7 @@
       "platform": "Kaggle",
       "sponsor": "Kaggle",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Detect Knee Abnormalities in Multimodal Imaging Data",
@@ -7245,7 +7244,7 @@
       "platform": "Kaggle",
       "sponsor": "Radiological Society of North America",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Generate Synthetic Humanitarian Survey Responses",
@@ -7265,7 +7264,7 @@
       "sponsor": null,
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Generative AI for Antimicrobial Peptide Design",
@@ -7285,7 +7284,7 @@
       "sponsor": null,
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Automated Speech Recognition Under Diverse Speech Patterns",
@@ -7305,7 +7304,7 @@
       "sponsor": "AI Accessibility Coalition",
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Generative Modeling of Mouse Embryo Development",
@@ -7325,7 +7324,7 @@
       "sponsor": "Laude Institute",
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Interpretability for AI Mathematical Olympiad Reasoning",
@@ -7345,7 +7344,7 @@
       "sponsor": "Fields Model Initiative",
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://www.codabench.org/competitions/16180/"
       ]
     },
@@ -7367,7 +7366,7 @@
       "sponsor": "Stanford HAI, UST",
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Robust Optical Flow Correspondence Matching",
@@ -7386,7 +7385,7 @@
       "sponsor": null,
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Classify DaT Scans for Parkinson's Detection",
@@ -7405,8 +7404,8 @@
       "platform": "DrivenData",
       "sponsor": "SFMN, Health Data Hub, France 2030",
       "conference": null,
-      "conference_year": null,
-      "additional_urls": [
+      "conference-year": null,
+      "additional-urls": [
         "https://www.health-data-hub.fr/bibliotheque-ouverte-algorithmes-sante"
       ]
     },
@@ -7427,8 +7426,8 @@
       "platform": "Devpost",
       "sponsor": "DataHub",
       "conference": null,
-      "conference_year": null,
-      "additional_urls": []
+      "conference-year": null,
+      "additional-urls": []
     },
     {
       "name": "Build On-Device LLMs for Laptop Hardware",
@@ -7446,8 +7445,8 @@
       "platform": "Devpost",
       "sponsor": "Various",
       "conference": null,
-      "conference_year": null,
-      "additional_urls": []
+      "conference-year": null,
+      "additional-urls": []
     },
     {
       "name": "Showcase AI Systems Optimised for Arm Platforms",
@@ -7465,8 +7464,8 @@
       "platform": "Devpost",
       "sponsor": "Arm",
       "conference": null,
-      "conference_year": null,
-      "additional_urls": []
+      "conference-year": null,
+      "additional-urls": []
     },
     {
       "name": "Backblaze Generative Media Hackathon",
@@ -7484,8 +7483,8 @@
       "platform": "Devpost",
       "sponsor": "Backblaze, GMI Cloud",
       "conference": null,
-      "conference_year": null,
-      "additional_urls": []
+      "conference-year": null,
+      "additional-urls": []
     },
     {
       "name": "Build Agents With CockroachDB Memory",
@@ -7503,8 +7502,8 @@
       "platform": "Devpost",
       "sponsor": "Cockroach Labs, AWS",
       "conference": null,
-      "conference_year": null,
-      "additional_urls": []
+      "conference-year": null,
+      "additional-urls": []
     },
     {
       "name": "Build Useful End-to-End Differentiable Systems",
@@ -7523,8 +7522,8 @@
       "platform": "Independent",
       "sponsor": "Pasteur Labs",
       "conference": null,
-      "conference_year": null,
-      "additional_urls": []
+      "conference-year": null,
+      "additional-urls": []
     },
     {
       "name": "Design LLM Agents to Build Virtual Spacecraft",
@@ -7545,8 +7544,8 @@
       "platform": "Kaggle",
       "sponsor": "Uniforce AI, Westlake University",
       "conference": null,
-      "conference_year": null,
-      "additional_urls": [
+      "conference-year": null,
+      "additional-urls": [
         "https://build-arena.github.io/ConstructionChallenge/",
         "https://github.com/build-arena/BuildArena-2.0",
         "https://openreview.net/forum?id=QAQKmIp3SZ"
@@ -7569,7 +7568,7 @@
       "prize": "$20,000",
       "platform": "DrivenData",
       "sponsor": "Mozilla Data Collective",
-      "additional_urls": [
+      "additional-urls": [
         "https://competitions.mozilladatacollective.com/competitions/2/lost-in-transcription-sp-en/",
         "https://competitions.mozilladatacollective.com/competitions/3/lost-in-transcription-sp-nh/",
         "https://competitions.mozilladatacollective.com/competitions/1/lost-in-transcription-in-jv/"
@@ -7595,7 +7594,7 @@
       "sponsor": "Wunder Fund",
       "conference": null,
       "conference-year": null,
-      "additional_urls": [
+      "additional-urls": [
         "https://wundernn.io/connectome/docs/quick_start"
       ]
     },
@@ -7616,7 +7615,7 @@
       "platform": "Kaggle",
       "sponsor": "Enveda",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Write a Research Paper on Coding Agents",
@@ -7635,7 +7634,7 @@
       "platform": "Kaggle",
       "sponsor": "Google DeepMind",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Build Coding Agents with Gemma 4",
@@ -7654,7 +7653,7 @@
       "platform": "Kaggle",
       "sponsor": "Google DeepMind",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "NFL Big Data Bowl 2027",
@@ -7671,12 +7670,12 @@
       "platform": "Kaggle",
       "sponsor": "The National Football League",
       "conference": null,
-      "conference_year": null
+      "conference-year": null
     },
     {
       "name": "Decode Brains Signals in Task-Specific Settings",
       "url": "https://neural-interfaces26.github.io",
-      "additional_urls": [
+      "additional-urls": [
         "https://www.codabench.org/competitions/17974/",
         "https://www.codabench.org/competitions/17982/",
         "https://www.codabench.org/competitions/17983/",
@@ -7697,7 +7696,7 @@
       "platform": "Codabench",
       "sponsor": "Various",
       "conference": "NeurIPS Brain & Body Workshop",
-      "conference_year": 2026
+      "conference-year": 2026
     },
     {
       "name": "Predict Whether AI Systems Answer Benchmark Items Correctly",
@@ -7718,7 +7717,7 @@
       "sponsor": null,
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://www.codabench.org/competitions/17828/"
       ]
     },
@@ -7741,7 +7740,7 @@
       "sponsor": "DexForce, Tencent Cloud, AgileX, Computational Freedom",
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://github.com/EDEM-AI/RoboSynChallenge"
       ]
     },
@@ -7766,7 +7765,7 @@
       "sponsor": "NVIDIA, Bloomberg, AllianceBernstein",
       "conference": "NeurIPS",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://www.codabench.org/competitions/17765/",
         "https://www.codabench.org/competitions/17766/",
         "https://www.codabench.org/competitions/17767/",
@@ -7792,7 +7791,7 @@
       "sponsor": null,
       "conference": "NeurIPS RoboPAD Workshop",
       "conference-year": 2026,
-      "additional_urls": [
+      "additional-urls": [
         "https://f1y1113.github.io/worldnav-challenge/",
         "https://roboworld2026.github.io/",
         "https://github.com/F1y1113/worldnav-challenge"
@@ -7840,7 +7839,7 @@
       "sponsor": null,
       "conference": null,
       "conference-year": null,
-      "additional_urls": []
+      "additional-urls": []
     }
   ]
 }

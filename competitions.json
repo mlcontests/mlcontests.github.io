@@ -1,6 +1,29 @@
 {
   "data": [
     {
+      "name": "Optimize a Trading Agent on Live Market Data",
+      "url": "https://www.builderr.ai/trading-v0?ref=mlcontests",
+      "tags": [
+        "agents",
+        "finance",
+        "timeseries",
+        "forecasting",
+        "measurable",
+        "simulation"
+      ],
+      "launched": null,
+      "registration-deadline": "15 Oct 2026",
+      "deadline": "15 Oct 2026",
+      "added": "13 Oct 2026",
+      "prize": "$1,000",
+      "platform": "Independent",
+      "sponsor": "Builderr",
+      "conference": null,
+      "conference-year": null,
+      "additional-urls": [],
+      "note": "Build a Python trading agent for a $100,000 simulated account; it is evaluated on live market data. The top three share $1,000 if they beat the previous round’s winning agent. Submissions close 15 Oct 2026; the round ends 31 Oct. No real-money trading or brokerage connection is required."
+    },
+    {
       "name": "Optimise LLM Operators & Inference Across AI Chips",
       "url": "https://flagos.io/race-detail-season2?id=8q4m2x7p&lang=en&ref=mlcontests",
       "tags": [

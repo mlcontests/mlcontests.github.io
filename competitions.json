@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "name": "Research Norwegian Companies with an AI Agent",
+      "url": "https://builderr.ai/challenges/signalpost",
+      "tags": ["agents", "research", "extraction", "open", "measurable"],
+      "deadline": "21 Oct 2026",
+      "added": "13 Oct 2026",
+      "prize": "$2,500",
+      "platform": "Builderr",
+      "sponsor": "Builderr"
+    },
+    {
       "name": "Optimise LLM Operators & Inference Across AI Chips",
       "url": "https://flagos.io/race-detail-season2?id=8q4m2x7p&lang=en&ref=mlcontests",
       "tags": [

@@ -7840,6 +7840,53 @@
       "conference": null,
       "conference-year": null,
       "additional-urls": []
+    },
+    {
+      "name": "Domain-Specific Question Answering with LLMs",
+      "url": "https://www.codabench.org/competitions/17954/",
+      "tags": [
+        "llm",
+        "graph",
+        "rag",
+        "ranking"
+      ],
+      "launched": "27 Sep 2026",
+      "added": "14 Oct 2026",
+      "registration-deadline": "01 Nov 2026",
+      "deadline": "30 Nov 2026",
+      "prize": "$20,000",
+      "platform": "Codabench",
+      "sponsor": null,
+      "conference": "IEEE CIS",
+      "conference-year": null,
+      "additional-urls": [
+        "https://cis.taskforce.ieee.org/gpais/tc-domain-qa-llms/",
+        "https://github.com/jucls/IEEE-CIS-DSQA-Starter-Kit"
+      ]
+    },
+    {
+      "name": "COMFORT Localization Benchmark",
+      "url": "https://www.codabench.org/competitions/17505/",
+      "tags": [
+        "robotics",
+        "security",
+        "ranking",
+        "multimodal"
+      ],
+      "launched": "13 Jul 2026",
+      "added": "14 Oct 2026",
+      "registration-deadline": "30 Oct 2026",
+      "deadline": "30 Oct 2026",
+      "prize": "$1,000",
+      "platform": "Codabench",
+      "sponsor": "Leica Geosystems",
+      "conference": "IROS",
+      "conference-year": 2026,
+      "additional-urls": [
+        "https://grand-tour.leggedrobotics.com/tasks/localization",
+        "https://github.com/leggedrobotics/grand_tour_dataset",
+        "https://jonasfrey96.github.io/data_in_field_robotics/"
+      ]
     }
   ]
 }

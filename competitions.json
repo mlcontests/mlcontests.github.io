@@ -7872,7 +7872,7 @@
       "sponsor": null,
       "conference": null,
       "conference-year": null,
-      "additional_urls": []
+      "additional-urls": []
     },
     {
       "name": "Identify Which LLM Generated Text Samples",
@@ -7890,7 +7890,7 @@
       "platform": "Kaggle",
       "sponsor": "Kaggle",
       "conference": null,
-      "conference_year": null,
+      "conference-year": null,
       "additional-urls": []
     }
   ]

@@ -7832,7 +7832,7 @@
     },
     {
       "name": "Detect root misconceptions in K–12 math solutions",
-      "url": "https://www.kaggle.com/competitions/misconception-detection-in-k-12-student-math-workings/overview", 
+      "url": "https://www.kaggle.com/competitions/misconception-detection-in-k-12-student-math-workings/overview",
       "tags": [
         "supervised",
         "vision",
@@ -7870,6 +7870,25 @@
       "prize": "$6,700",
       "platform": "Codabench",
       "sponsor": null,
+      "conference": null,
+      "conference-year": null,
+      "additional-urls": []
+    },
+    {
+      "name": "Identify Which LLM Generated Text Samples",
+      "url": "https://www.kaggle.com/competitions/name-that-llm?ref=mlcontests",
+      "tags": [
+        "classification",
+        "measurable",
+        "llm",
+        "nlp" 
+      ],
+      "launched": "14 Oct 2026",
+      "registration-deadline": "7 Jan 2027",
+      "deadline": "13 Jan 2027",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Kaggle",
       "conference": null,
       "conference-year": null,
       "additional-urls": []

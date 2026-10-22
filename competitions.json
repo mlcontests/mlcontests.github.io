@@ -26,7 +26,13 @@
     {
       "name": "Research Norwegian Companies with an AI Agent",
       "url": "https://builderr.ai/challenges/signalpost",
-      "tags": ["agents", "research", "extraction", "open", "measurable"],
+      "tags": [
+        "agents",
+        "research",
+        "extraction",
+        "open",
+        "measurable"
+      ],
       "deadline": "21 Oct 2026",
       "added": "13 Oct 2026",
       "prize": "$2,500",
@@ -7881,7 +7887,7 @@
         "classification",
         "measurable",
         "llm",
-        "nlp" 
+        "nlp"
       ],
       "launched": "14 Oct 2026",
       "registration-deadline": "7 Jan 2027",
@@ -7892,6 +7898,24 @@
       "conference": null,
       "conference-year": null,
       "additional-urls": []
+    },
+    {
+      "name": "Squares in Squares",
+      "url": "https://www.kaggle.com/competitions/squares-in-squares?ref=mlcontests",
+      "tags": [
+        "optimization",
+        "mathematics",
+        "math",
+        "custom metric"
+      ],
+      "launched": "21 Oct 2026",
+      "registration-deadline": "11 Jul 2027",
+      "deadline": "18 Jul 2027",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Kaggle",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }

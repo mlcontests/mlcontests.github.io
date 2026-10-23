@@ -7900,13 +7900,12 @@
       "additional-urls": []
     },
     {
-      "name": "Squares in Squares",
+      "name": "Optimal Square Packing",
       "url": "https://www.kaggle.com/competitions/squares-in-squares?ref=mlcontests",
       "tags": [
-        "optimization",
+        "optimisation",
         "mathematics",
-        "math",
-        "custom metric"
+        "measurable"
       ],
       "launched": "21 Oct 2026",
       "registration-deadline": "11 Jul 2027",

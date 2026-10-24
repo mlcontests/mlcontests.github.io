@@ -7915,6 +7915,23 @@
       "sponsor": "Kaggle",
       "conference": null,
       "conference-year": null
+    },
+    {
+      "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
+      "url": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation?ref=mlcontests",
+      "tags": [
+        "computer science",
+        "physics",
+        "custom metric"
+      ],
+      "launched": "22 Oct 2026",
+      "registration-deadline": "13 Jan 2027",
+      "deadline": "20 Jan 2027",
+      "prize": "$150,000",
+      "platform": "Kaggle",
+      "sponsor": "Google Quantum AI",
+      "conference": null,
+      "conference-year": null
     }
   ]
 }

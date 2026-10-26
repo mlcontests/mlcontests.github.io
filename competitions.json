@@ -7917,12 +7917,16 @@
       "conference-year": null
     },
     {
-      "name": "Google Quantum AI - Verifiable Quantum Circuit Compilation",
+      "name": "Optimise Quantum Circuits",
       "url": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation?ref=mlcontests",
       "tags": [
         "computer science",
+        "agents",
+        "code",
+        "optimisation",
         "physics",
-        "custom metric"
+        "science",
+        "measurable"
       ],
       "launched": "22 Oct 2026",
       "registration-deadline": "13 Jan 2027",

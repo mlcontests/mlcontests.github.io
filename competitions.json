@@ -7936,6 +7936,79 @@
       "sponsor": "Google Quantum AI",
       "conference": null,
       "conference-year": null
+    },
+    {
+      "name": "RoboWorld 2026 — Track 3: SafeDrive-VLA",
+      "url": "https://www.codabench.org/competitions/18333/",
+      "tags": [
+        "robotics",
+        "driving",
+        "safety",
+        "vision",
+        "multimodal",
+        "ranking"
+      ],
+      "launched": "15 Oct 2026",
+      "added": "06 Nov 2026",
+      "registration-deadline": "30 Nov 2026",
+      "deadline": "30 Nov 2026",
+      "prize": null,
+      "platform": "Codabench",
+      "sponsor": "ASGuard-UCI, RoboPAD",
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional-urls": [
+        "https://roboworld2026.github.io/",
+        "https://robotpad2026.github.io/",
+        "https://github.com/ASGuard-UCI/safedrive-vla"
+      ]
+    },
+    {
+      "name": "RoboWorld 2026 — Track 2: HA-VLN",
+      "url": "https://www.codabench.org/competitions/18135/",
+      "tags": [
+        "robotics",
+        "vision",
+        "multimodal",
+        "nlp",
+        "3d"
+      ],
+      "launched": "15 Oct 2026",
+      "added": "06 Nov 2026",
+      "registration-deadline": "30 Nov 2026",
+      "deadline": "30 Nov 2026",
+      "prize": null,
+      "platform": "Codabench",
+      "sponsor": "RoboPAD Workshop",
+      "conference": "NeurIPS",
+      "conference-year": 2026,
+      "additional-urls": [
+        "https://roboworld2026.github.io/",
+        "https://robotpad2026.github.io/",
+        "https://arxiv.org/abs/2503.14229"
+      ]
+    },
+    {
+      "name": "Domain-Specific Question Answering with LLMs",
+      "url": "https://www.codabench.org/competitions/17954/",
+      "tags": [
+        "llm",
+        "rag",
+        "nlp"
+      ],
+      "launched": "28 Sep 2026",
+      "added": "06 Nov 2026",
+      "registration-deadline": "15 Nov 2026",
+      "deadline": "05 Dec 2026",
+      "prize": "$20,000",
+      "platform": "Codabench",
+      "sponsor": "IEEE CIS",
+      "conference": null,
+      "conference-year": null,
+      "additional-urls": [
+        "https://cis.taskforce.ieee.org/gpais/tc-domain-qa-llms",
+        "https://github.com/jucls/IEEE-CIS-DSQA-Starter-Kit"
+      ]
     }
   ]
 }

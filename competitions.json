@@ -8010,6 +8010,28 @@
         "https://cis.taskforce.ieee.org/gpais/tc-domain-qa-llms",
         "https://github.com/jucls/IEEE-CIS-DSQA-Starter-Kit"
       ]
+    },
+    {
+      "name": "Predict Cognitive Outcomes from Digital Clock Drawings",
+      "url": "https://www.synapse.org/Synapse:syn68634259/wiki/633407",
+      "tags": [
+        "medical",
+        "science",
+        "timeseries",
+        "supervised",
+        "measurable"
+      ],
+      "launched": "6 Nov 2026",
+      "registration-deadline": null,
+      "deadline": "17 Feb 2027",
+      "added": "6 Nov 2026",
+      "prize": null,
+      "additional-prizes": "Co-authorship on the challenge overview publication; opportunity to present results at ISMB",
+      "platform": "Synapse",
+      "sponsor": "Sage Bionetworks",
+      "conference": "ISMB",
+      "conference-year": 2027,
+      "additional-urls": []
     }
   ]
 }

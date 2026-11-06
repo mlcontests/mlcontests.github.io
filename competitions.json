@@ -7938,7 +7938,7 @@
       "conference-year": null
     },
     {
-      "name": "RoboWorld 2026 — Track 3: SafeDrive-VLA",
+      "name": "SafeDrive-VLA: Towards Safety in Autonomous Driving",
       "url": "https://www.codabench.org/competitions/18333/",
       "tags": [
         "robotics",
@@ -7954,8 +7954,8 @@
       "deadline": "30 Nov 2026",
       "prize": null,
       "platform": "Codabench",
-      "sponsor": "ASGuard-UCI, RoboPAD",
-      "conference": "NeurIPS",
+      "sponsor": null,
+      "conference": "NeurIPS RoboPAD Workshop",
       "conference-year": 2026,
       "additional-urls": [
         "https://roboworld2026.github.io/",
@@ -7964,7 +7964,7 @@
       ]
     },
     {
-      "name": "RoboWorld 2026 — Track 2: HA-VLN",
+      "name": "Human-Aware Vision-and-Language Navigation",
       "url": "https://www.codabench.org/competitions/18135/",
       "tags": [
         "robotics",
@@ -7979,8 +7979,8 @@
       "deadline": "30 Nov 2026",
       "prize": null,
       "platform": "Codabench",
-      "sponsor": "RoboPAD Workshop",
-      "conference": "NeurIPS",
+      "sponsor": null,
+      "conference": "NeurIPS RoboPAD Workshop",
       "conference-year": 2026,
       "additional-urls": [
         "https://roboworld2026.github.io/",
@@ -7994,7 +7994,8 @@
       "tags": [
         "llm",
         "rag",
-        "nlp"
+        "nlp",
+        "subjective"
       ],
       "launched": "28 Sep 2026",
       "added": "06 Nov 2026",

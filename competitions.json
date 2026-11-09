@@ -8012,6 +8012,29 @@
       ]
     },
     {
+      "name": "PhyRC 2027: Robot-Assisted Dressing in Simulation",
+      "url": "https://www.codabench.org/competitions/18366/",
+      "tags": [
+        "robotics",
+        "simulation",
+        "vision",
+        "3d",
+        "control"
+      ],
+      "launched": "15 Oct 2026",
+      "added": "09 Nov 2026",
+      "registration-deadline": "15 Oct 2026",
+      "deadline": "15 Dec 2026",
+      "prize": null,
+      "platform": "Codabench",
+      "sponsor": "Hello Robot",
+      "conference": "ICRA",
+      "conference-year": 2027,
+      "additional-urls": [
+        "https://emprise.cs.cornell.edu/phyrc/challenge-2027"
+      ]
+    },
+    {
       "name": "Predict Cognitive Outcomes from Digital Clock Drawings",
       "url": "https://www.synapse.org/Synapse:syn68634259/wiki/633407",
       "tags": [

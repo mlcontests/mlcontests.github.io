@@ -8057,13 +8057,16 @@
       "additional-urls": []
     },
     {
-      "name": "Google - Agent Harness on Physical-Engineering's Last Exam",
+      "name": "Build Autonomous Agent Harnesses for Physical Engineering",
       "url": "https://www.kaggle.com/competitions/physical-engineerings-last-exam?ref=mlcontests",
       "tags": [
         "engineering",
         "nlp",
-        "model comparison",
-        "agentic"
+        "llm",
+        "agents",
+        "subjective",
+        "measurable",
+        "writing"
       ],
       "launched": "9 Nov 2026",
       "registration-deadline": null,

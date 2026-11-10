@@ -8055,6 +8055,24 @@
       "conference": "ISMB",
       "conference-year": 2027,
       "additional-urls": []
+    },
+    {
+      "name": "Google - Agent Harness on Physical-Engineering's Last Exam",
+      "url": "https://www.kaggle.com/competitions/physical-engineerings-last-exam?ref=mlcontests",
+      "tags": [
+        "engineering",
+        "nlp",
+        "model comparison",
+        "agentic"
+      ],
+      "launched": "9 Nov 2026",
+      "registration-deadline": null,
+      "deadline": "5 Jan 2027",
+      "prize": "$400,000",
+      "platform": "Kaggle",
+      "sponsor": "Google",
+      "conference": null,
+      "conference-year": null
     }
   ]
 }

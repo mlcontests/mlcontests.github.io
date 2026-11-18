@@ -8076,6 +8076,24 @@
       "sponsor": "Google",
       "conference": null,
       "conference-year": null
+    },
+    {
+      "name": "Santa 2026 - The Elf Calculator",
+      "url": "https://www.kaggle.com/competitions/santa-2026?ref=mlcontests",
+      "tags": [
+        "optimization",
+        "holidays and cultural events",
+        "competition metric",
+        "custom metric"
+      ],
+      "launched": "18 Nov 2026",
+      "registration-deadline": "21 Jan 2027",
+      "deadline": "28 Jan 2027",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Kaggle",
+      "conference": null,
+      "conference-year": null
     }
   ]
 }

@@ -8078,6 +8078,25 @@
       "conference-year": null
     },
     {
+      "name": "Santa 2026: Write Short Programs To Solve Arithmetic Puzzles",
+      "url": "https://www.kaggle.com/competitions/santa-2026?ref=mlcontests",
+      "tags": [
+        "optimisation",
+        "efficiency",
+        "programming",
+        "code",
+        "custom metric"
+      ],
+      "launched": "18 Nov 2026",
+      "registration-deadline": "21 Jan 2027",
+      "deadline": "28 Jan 2027",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Kaggle",
+      "conference": null,
+      "conference-year": null
+    },
+    {
       "name": "Predict Memecoin Pumps from On-Chain Launch Data",
       "url": "https://www.kaggle.com/competitions/memecoins-pump-or-dump?ref=mlcontests",
       "tags": [

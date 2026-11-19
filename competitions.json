@@ -8076,6 +8076,34 @@
       "sponsor": "Google",
       "conference": null,
       "conference-year": null
+    },
+    {
+      "name": "Predict Memecoin Pumps from On-Chain Launch Data",
+      "url": "https://www.kaggle.com/competitions/memecoins-pump-or-dump?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "crypto",
+        "finance",
+        "tabular",
+        "timeseries",
+        "forecasting",
+        "custom metric",
+        "measurable"
+      ],
+      "launched": "27 Sep 2026",
+      "registration-deadline": "30 Nov 2026",
+      "deadline": "30 Nov 2026",
+      "added": "17 Nov 2026",
+      "prize": "$5,000",
+      "platform": "Kaggle",
+      "sponsor": "Dmitry Dryomov",
+      "conference": null,
+      "conference-year": null,
+      "additional-urls": [
+        "https://t.me/BlockchainExploratorsChat"
+      ],
+      "data-size": 22,
+      "note": "Solana pump.fun launches: decide 60 seconds after a token migrates whether to buy and at what take-profit level, using the full on-chain trade tape. Metric is simulated PnL. Solutions are frozen on 1 Dec 2026; the final ranking is the sum of PnL over 14 unseen days (1-14 Dec 2026), with every notebook re-run daily by the organisers. Prize fund split across ten places, plus discretionary community awards for published notebooks."
     }
   ]
 }

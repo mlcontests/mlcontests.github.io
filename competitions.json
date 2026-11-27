@@ -8140,6 +8140,27 @@
       "sponsor": "GARC (Generalist Agent Research Collective)",
       "conference": null,
       "conference-year": null
+    },
+    {
+      "name": "Red-Team AI Agents Into Breaking Their Rules",
+      "url": "https://compete.parsewave.ai/starlight-arena/?ref=mlcontests",
+      "tags": [
+        "security",
+        "safety",
+        "llm",
+        "agents",
+        "measurable",
+        "multiple"
+      ],
+      "launched": "24 Nov 2026",
+      "registration-deadline": null,
+      "deadline": "13 Dec 2026",
+      "added": "28 Nov 2026",
+      "prize": "$50,000",
+      "platform": "Independent",
+      "sponsor": "Parsewave",
+      "conference": null,
+      "conference-year": null
     }
   ]
 }
